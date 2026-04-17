@@ -204,6 +204,16 @@
       "enabled": true,
       "delay": "default",
       "note": ""
+    },
+    {
+      "id": "local-backup",
+      "name": "Local Backup",
+      "desc": "Automatically creates a local backup of the vault.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
     }
   ],
   "HIDES": [],
