@@ -284,55 +284,6 @@
       "icon": "lucide-mic",
       "visible": true,
       "order": 10
-    },
-    {
-      "id": "better-plugins-manager:插件管理器",
-      "name": "插件管理器",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 11
-    },
-    {
-      "id": "agent-client:Open agent client",
-      "name": "Open agent client",
-      "icon": "bot-message-square",
-      "visible": true,
-      "order": 12
-    },
-    {
-      "id": "obsidian-git:Open Git source control",
-      "name": "obsidian-git:Open Git source control",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 13
-    },
-    {
-      "id": "mermaid-tools:Open Mermaid Toolbar",
-      "name": "mermaid-tools:Open Mermaid Toolbar",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 14
-    },
-    {
-      "id": "claudian:Open Claudian",
-      "name": "Open Claudian",
-      "icon": "bot",
-      "visible": true,
-      "order": 15
-    },
-    {
-      "id": "obsidian-excalidraw-plugin:New drawing",
-      "name": "obsidian-excalidraw-plugin:New drawing",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 16
-    },
-    {
-      "id": "i18n:common.i18n",
-      "name": "i18n:common.i18n",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 17
     }
   ],
   "AUTO_TAKEOVER": true,
