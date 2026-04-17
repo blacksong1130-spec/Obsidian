@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "sources": {
+    "xZTQ_yNZzNFGRtykRSjIaOAz-TVgT455": {
+      "id": "xZTQ_yNZzNFGRtykRSjIaOAz-TVgT455",
+      "plugin": "advanced-canvas",
+      "title": "Advanced Canvas",
+      "type": "plugin",
+      "origin": "local",
+      "isActive": true,
+      "checksum": "59a5fc162875ed4f4bd2e631dbf13901a7fdc92a19b03e0b1ac02caf0b9334a2",
+      "updatedAt": 1775992559243,
+      "createdAt": 1775992539268
+    },
+    "lS9xC41dvzxyoe2bwIORYs0dmCH3CnNB": {
+      "id": "lS9xC41dvzxyoe2bwIORYs0dmCH3CnNB",
+      "plugin": "agent-client",
+      "title": "Agent Client",
+      "type": "plugin",
+      "origin": "local",
+      "isActive": true,
+      "checksum": "d8787c11d9a2a7ff800a09f881fce26cadcb3d3484b6ee04680650b3e79bf174",
+      "updatedAt": 1775992570171,
+      "createdAt": 1775992570168
+    },
+    "7BOknf5Iery4uCBfq16_43S9u3u16GZ-": {
+      "id": "7BOknf5Iery4uCBfq16_43S9u3u16GZ-",
+      "plugin": "obsidian42-brat",
+      "title": "BRAT",
+      "type": "plugin",
+      "origin": "local",
+      "isActive": true,
+      "checksum": "21a9617dba8e6a88eb2dfcca8c87a6561a062a025562fd7b41e26d626af89d8d",
+      "updatedAt": 1775992813233,
+      "createdAt": 1775992813230
+    }
+  }
+}

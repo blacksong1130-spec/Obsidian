@@ -1,0 +1,48 @@
+> [!quote] 2025-11-25
+
+---
+slug: MjA3MTQyMTY5
+created_at: "2025-11-25 18:07:04"
+updated_at: "2025-11-25 18:07:06"
+tags: ["任务/紧急/complex"]
+source: "web"
+---
+
+#任务/紧急/complex
+
+complex system里面应该先画出具体的系统图，比如要帮助女性安全，具体有哪些的方面，然后每个方面现在具体有哪些措施，这些措施是否奏效，以及没有奏效的原因是什么？然后再次找到这里没有奏效的点进行redesign，或者是没有点亮和忽略的点，这个就是gap，和设计的地方。而且所有的设计最好都是润物细无声的。寻找对方回家的动线，把你的设计无缝的融入对方的日常动线里面【助推】
+
+> [!quote] 2025-11-25
+
+---
+slug: MjA3MTYwMDUw
+created_at: "2025-11-25 20:16:09"
+updated_at: "2025-11-25 20:16:11"
+tags: ["任务/紧急/complex"]
+source: "web"
+---
+
+#任务/紧急/complex
+
+keywords：
+
+shallow leverage point
+
+deep leverage point
+
+> [!quote] 2025-11-25
+
+---
+slug: MjA3MTQ0MDU1
+created_at: "2025-11-25 18:21:49"
+updated_at: "2025-11-25 18:21:52"
+tags: ["任务/紧急/complex"]
+source: "web"
+---
+
+#任务/紧急/complex
+
+找到之前所有的上课的课件上传到notebook里面，进行架构的建立
+
+
+[[complex]]

@@ -1,0 +1,3 @@
+obsidian-canvas-creator
+excalidraw-diagram
+mermaid-visualizer

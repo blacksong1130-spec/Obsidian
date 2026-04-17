@@ -1,0 +1,340 @@
+{
+  "PERSISTENCE": true,
+  "FILTER_SEARCH": "",
+  "FILTER_TAG": "",
+  "FILTER_GROUP": "",
+  "FILTER_DELAY": "",
+  "LANGUAGE": "zh-cn",
+  "LANGUAGE_INITIALIZED": true,
+  "MIGRATION_VERSION": "0.4.3",
+  "DEBUG": true,
+  "CENTER": false,
+  "ITEM_STYLE": "alwaysExpand",
+  "GROUP_STYLE": "a",
+  "TAG_STYLE": "b",
+  "DELAY": true,
+  "FADE_OUT_DISABLED_PLUGINS": true,
+  "COMMAND_ITEM": true,
+  "COMMAND_GROUP": true,
+  "STARTUP_CHECK_UPDATES": true,
+  "REPO_MAP": {
+    "advanced-canvas": "Developer-Mike/obsidian-advanced-canvas"
+  },
+  "BPM_INSTALLED": [],
+  "HIDE_BPM_TAG": false,
+  "EXPORT_DIR": "",
+  "GITHUB_TOKEN": "",
+  "SELF_CHECK_IGNORED": false,
+  "GROUPS": [
+    {
+      "id": "core",
+      "name": "🟢 核心 · 立即加载"
+    },
+    {
+      "id": "delayed",
+      "name": "🟡 延迟加载 · 10s"
+    }
+  ],
+  "TAGS": [
+    {
+      "id": "bpm-install",
+      "name": "bpm install",
+      "color": "#409EFF"
+    },
+    {
+      "id": "bpm-ignore",
+      "name": "BPM 忽略",
+      "color": "#6c757d"
+    }
+  ],
+  "DELAYS": [
+    {
+      "id": "default",
+      "name": "默认延迟",
+      "time": 10
+    }
+  ],
+  "Plugins": [
+    {
+      "id": "better-plugins-manager",
+      "name": "Better Plugins Manager",
+      "desc": "插件管理器",
+      "group": "core",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "claudian",
+      "name": "Claudian",
+      "desc": "Claude Code AI 协作者",
+      "group": "core",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "agent-client",
+      "name": "Agent Client",
+      "desc": "AI Agent 对话客户端",
+      "group": "core",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "flomo-bridge",
+      "name": "Flomo Bridge",
+      "desc": "Flomo → Obsidian 同步",
+      "group": "core",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "dataview",
+      "name": "Dataview",
+      "desc": "MOC 与模板查询",
+      "group": "core",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-git",
+      "name": "Git",
+      "desc": "版本控制",
+      "group": "core",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-linter",
+      "name": "Linter",
+      "desc": "笔记自动格式化",
+      "group": "core",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "mermaid-tools",
+      "name": "Mermaid Tools",
+      "desc": "Mermaid 图表工具栏",
+      "group": "core",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "easy-typing-obsidian",
+      "name": "Easy Typing",
+      "desc": "中文输入增强",
+      "group": "core",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "better-export-pdf",
+      "name": "Better Export PDF",
+      "desc": "PDF 导出",
+      "group": "core",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "advanced-canvas",
+      "name": "Advanced Canvas",
+      "desc": "Canvas 增强",
+      "group": "delayed",
+      "tags": [],
+      "enabled": true,
+      "delay": "default",
+      "note": ""
+    },
+    {
+      "id": "obsidian-excalidraw-plugin",
+      "name": "Excalidraw",
+      "desc": "手绘图",
+      "group": "delayed",
+      "tags": [],
+      "enabled": true,
+      "delay": "default",
+      "note": ""
+    },
+    {
+      "id": "obsidian-hover-editor",
+      "name": "Hover Editor",
+      "desc": "悬浮编辑器",
+      "group": "delayed",
+      "tags": [],
+      "enabled": true,
+      "delay": "default",
+      "note": ""
+    },
+    {
+      "id": "obsidian-outliner",
+      "name": "Outliner",
+      "desc": "列表大纲编辑",
+      "group": "delayed",
+      "tags": [],
+      "enabled": true,
+      "delay": "default",
+      "note": ""
+    },
+    {
+      "id": "i18n",
+      "name": "I18N",
+      "desc": "插件界面汉化",
+      "group": "delayed",
+      "tags": [],
+      "enabled": true,
+      "delay": "default",
+      "note": ""
+    }
+  ],
+  "HIDES": [],
+  "RIBBON_SETTINGS": [
+    {
+      "id": "switcher:打开快速切换",
+      "name": "打开快速切换",
+      "icon": "lucide-file-search",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "graph:查看关系图谱",
+      "name": "查看关系图谱",
+      "icon": "lucide-git-fork",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "canvas:新建白板",
+      "name": "新建白板",
+      "icon": "lucide-layout-dashboard",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "daily-notes:打开/创建今天的日记",
+      "name": "打开/创建今天的日记",
+      "icon": "lucide-calendar",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "templates:插入模板",
+      "name": "插入模板",
+      "icon": "lucide-files",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "command-palette:打开命令面板",
+      "name": "打开命令面板",
+      "icon": "lucide-terminal",
+      "visible": true,
+      "order": 5
+    },
+    {
+      "id": "bases:新建数据库",
+      "name": "新建数据库",
+      "icon": "lucide-layout-list",
+      "visible": true,
+      "order": 6
+    },
+    {
+      "id": "random-note:开始漫游笔记",
+      "name": "开始漫游笔记",
+      "icon": "dice",
+      "visible": true,
+      "order": 7
+    },
+    {
+      "id": "zk-prefixer:创建时间戳笔记",
+      "name": "创建时间戳笔记",
+      "icon": "sheets-in-box",
+      "visible": true,
+      "order": 8
+    },
+    {
+      "id": "markdown-importer:打开 Markdown 格式转换器",
+      "name": "打开 Markdown 格式转换器",
+      "icon": "lucide-binary",
+      "visible": true,
+      "order": 9
+    },
+    {
+      "id": "audio-recorder:开始/结束录音",
+      "name": "开始/结束录音",
+      "icon": "lucide-mic",
+      "visible": true,
+      "order": 10
+    },
+    {
+      "id": "better-plugins-manager:插件管理器",
+      "name": "插件管理器",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 11
+    },
+    {
+      "id": "agent-client:Open agent client",
+      "name": "Open agent client",
+      "icon": "bot-message-square",
+      "visible": true,
+      "order": 12
+    },
+    {
+      "id": "obsidian-git:Open Git source control",
+      "name": "obsidian-git:Open Git source control",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 13
+    },
+    {
+      "id": "mermaid-tools:Open Mermaid Toolbar",
+      "name": "mermaid-tools:Open Mermaid Toolbar",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 14
+    },
+    {
+      "id": "claudian:Open Claudian",
+      "name": "Open Claudian",
+      "icon": "bot",
+      "visible": true,
+      "order": 15
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:New drawing",
+      "name": "obsidian-excalidraw-plugin:New drawing",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 16
+    },
+    {
+      "id": "i18n:common.i18n",
+      "name": "i18n:common.i18n",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 17
+    }
+  ],
+  "AUTO_TAKEOVER": true,
+  "USE_NATIVE_RIBBON_CONFIG": true
+}

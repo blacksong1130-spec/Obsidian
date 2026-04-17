@@ -1,0 +1,11 @@
+---
+slug: MTQzNTM4NTQx
+created_at: "2024-10-25 20:49:42"
+updated_at: "2024-10-25 20:49:43"
+tags: ["思考/风"]
+source: "android"
+---
+
+#思考/风
+
+生活就像天气预报一样，无法预测，它就是风，世界各地到处吹啊——weather man

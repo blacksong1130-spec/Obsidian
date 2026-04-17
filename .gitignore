@@ -1,0 +1,28 @@
+# 忽略 Obsidian 本地工作空间设置和缓存
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/graph.json
+.trash/
+
+# 忽略 iCloud 冲突副本（格式: filename (1).ext 或 filename 2.ext）
+*.icloud
+**/* (conflicted copy*
+**/* (iCloud*
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 忽略临时文件
+*.tmp
+*.bak
+~$*
+
+# 忽略大文件附件（如果想节省空间，可以取消注释下面这行）
+# Attachments/
+
+# 忽略 Claude/Gemini AI 的临时会话，但不忽略 skills
+.claude/sessions/
+.claudian/sessions/
+.gemini/tmp/

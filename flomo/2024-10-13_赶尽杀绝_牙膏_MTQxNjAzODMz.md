@@ -1,0 +1,11 @@
+---
+slug: MTQxNjAzODMz
+created_at: "2024-10-13 21:29:51"
+updated_at: "2024-10-13 21:29:52"
+tags: ["思考/人心/赶尽杀绝"]
+source: "android"
+---
+
+#思考/人心/赶尽杀绝
+
+牙膏

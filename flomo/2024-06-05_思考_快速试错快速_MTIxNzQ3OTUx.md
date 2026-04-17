@@ -1,0 +1,13 @@
+---
+slug: MTIxNzQ3OTUx
+created_at: "2024-06-05 08:56:00"
+updated_at: "2024-06-05 08:56:01"
+tags: ["思考"]
+source: "android"
+---
+
+#思考
+
+快速试错
+
+快速迭代

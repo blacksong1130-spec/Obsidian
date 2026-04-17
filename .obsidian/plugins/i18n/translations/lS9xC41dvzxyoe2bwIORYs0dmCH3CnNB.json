@@ -1,0 +1,2718 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "agent-client",
+        "version": "1.0.0",
+        "title": "Agent Client",
+        "description": "Agent Client Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "0.10.0",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Cmd/Ctrl+Enter to send, Enter for newline",
+                    "target": "Cmd/Ctrl+Enter to send, Enter for newline"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "enter",
+                    "target": "enter"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Enter to send, Shift+Enter for newline",
+                    "target": "Enter to send, Shift+Enter for newline"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Editor area (split)",
+                    "target": "Editor area (split)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Editor area (tabs)",
+                    "target": "Editor area (tabs)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Right pane (split)",
+                    "target": "Right pane (split)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Right pane (tabs)",
+                    "target": "Right pane (tabs)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Embed as Base64 (not recommended)",
+                    "target": "Embed as Base64 (not recommended)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "custom",
+                    "target": "custom"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Save to custom folder",
+                    "target": "Save to custom folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "obsidian",
+                    "target": "obsidian"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Use Obsidian's attachment setting",
+                    "target": "Use Obsidian's attachment setting"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "button",
+                    "target": "button"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "input",
+                    "target": "input"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported",
+                    "target": "forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Session restore error:",
+                    "target": "Session restore error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Session fork error:",
+                    "target": "Session fork error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Session delete error:",
+                    "target": "Session delete error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Title update error:",
+                    "target": "Title update error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Export error:",
+                    "target": "Export error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Restart error:",
+                    "target": "Restart error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to set config option:",
+                    "target": "Failed to set config option:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to convert image:",
+                    "target": "Failed to convert image:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to check for updates:",
+                    "target": "Failed to check for updates:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to check agent update:",
+                    "target": "Failed to check agent update:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[VaultService] Selection listener error",
+                    "target": "[VaultService] Selection listener error"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to parse JSON message:",
+                    "target": "Failed to parse JSON message:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Unexpected error during message processing:",
+                    "target": "Unexpected error during message processing:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error handling request",
+                    "target": "Error handling request"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error handling notification",
+                    "target": "Error handling notification"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Invalid message",
+                    "target": "Invalid message"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Got response to unknown request",
+                    "target": "Got response to unknown request"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "ACP write error:",
+                    "target": "ACP write error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] Initialization Error:",
+                    "target": "[AcpClient] Initialization Error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] New Session Error:",
+                    "target": "[AcpClient] New Session Error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] Authentication Error:",
+                    "target": "[AcpClient] Authentication Error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] Prompt Error:",
+                    "target": "[AcpClient] Prompt Error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] Failed to set session mode:",
+                    "target": "[AcpClient] Failed to set session mode:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] Failed to set session model:",
+                    "target": "[AcpClient] Failed to set session model:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] Failed to set config option:",
+                    "target": "[AcpClient] Failed to set config option:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] List Sessions Error:",
+                    "target": "[AcpClient] List Sessions Error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] Load Session Error:",
+                    "target": "[AcpClient] Load Session Error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] Resume Session Error:",
+                    "target": "[AcpClient] Resume Session Error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[AcpClient] Fork Session Error:",
+                    "target": "[AcpClient] Fork Session Error:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Cancelling current operation...",
+                    "target": "Cancelling current operation..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[ChatPanel] Restarting agent process...",
+                    "target": "[ChatPanel] Restarting agent process..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[detectMention] Invalid cursor position:",
+                    "target": "[detectMention] Invalid cursor position:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[detectMention] Mention context:",
+                    "target": "[detectMention] Mention context:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[Debug] Starting connection setup via useSession...",
+                    "target": "[Debug] Starting connection setup via useSession..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[ChatPanel] Applying configured model via configOptions:",
+                    "target": "[ChatPanel] Applying configured model via configOptions:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[ChatPanel] Applying configured model:",
+                    "target": "[ChatPanel] Applying configured model:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[ChatPanel] Cleanup: auto-export and close session",
+                    "target": "[ChatPanel] Cleanup: auto-export and close session"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[ChatView] onClose() called",
+                    "target": "[ChatView] onClose() called"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[ChatViewRegistry] Clearing all views",
+                    "target": "[ChatViewRegistry] Clearing all views"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[PermissionManager] Permission request received:",
+                    "target": "[PermissionManager] Permission request received:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[PermissionManager] Auto-allowing permission request:",
+                    "target": "[PermissionManager] Auto-allowing permission request:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpHandler] sessionUpdate:",
+                    "target": "[AcpHandler] sessionUpdate:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpHandler] createTerminal called with params:",
+                    "target": "[AcpHandler] createTerminal called with params:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Starting initialization with config:",
+                    "target": "[AcpClient] Starting initialization with config:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Cleaning up existing connection",
+                    "target": "[AcpClient] Cleaning up existing connection"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Command:",
+                    "target": "[AcpClient] Command:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Args:",
+                    "target": "[AcpClient] Args:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Node.js directory added to PATH:",
+                    "target": "[AcpClient] Node.js directory added to PATH:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Starting agent process in directory:",
+                    "target": "[AcpClient] Starting agent process in directory:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Prepared spawn command:",
+                    "target": "[AcpClient] Prepared spawn command:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "signal:",
+                    "target": "signal:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Using working directory:",
+                    "target": "[AcpClient] Using working directory:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Starting ACP initialization...",
+                    "target": "[AcpClient] Starting ACP initialization..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Creating new session...",
+                    "target": "[AcpClient] Creating new session..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] ✅ authenticate ok:",
+                    "target": "[AcpClient] ✅ authenticate ok:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Agent returned end_turn with no session updates (may be expected for some commands)",
+                    "target": "[AcpClient] Agent returned end_turn with no session updates (may be expected for some commands)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Sending session/cancel notification...",
+                    "target": "[AcpClient] Sending session/cancel notification..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Cancellation request sent successfully",
+                    "target": "[AcpClient] Cancellation request sent successfully"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Disconnecting...",
+                    "target": "[AcpClient] Disconnecting..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Disconnected",
+                    "target": "[AcpClient] Disconnected"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Config option set. Updated options:",
+                    "target": "[AcpClient] Config option set. Updated options:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Responding to permission request:",
+                    "target": "[AcpClient] Responding to permission request:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "with option:",
+                    "target": "with option:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[AcpClient] Listing sessions...",
+                    "target": "[AcpClient] Listing sessions..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add custom agent",
+                    "target": "Add custom agent"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Detecting…",
+                    "target": "Detecting…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Not found",
+                    "target": "Not found"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Error",
+                    "target": "Error"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Path to Node.js. Usually leave blank. Only needed if node is in a non-standard location (enter absolute path, e.g. /usr/local/bin/node).",
+                    "target": "Path to Node.js. Usually leave blank. Only needed if node is in a non-standard location (enter absolute path, e.g. /usr/local/bin/node)."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose the keyboard shortcut to send messages. Note: If using Cmd/Ctrl+Enter, you may need to remove any hotkeys assigned to Cmd/Ctrl+Enter (Settings → Hotkeys).",
+                    "target": "Choose the keyboard shortcut to send messages. Note: If using Cmd/Ctrl+Enter, you may need to remove any hotkeys assigned to Cmd/Ctrl+Enter (Settings → Hotkeys)."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Include the current note in your messages automatically. The agent will have access to its content without typing @notename.",
+                    "target": "Include the current note in your messages automatically. The agent will have access to its content without typing @notename."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Maximum characters per mentioned note. Notes longer than this will be truncated.",
+                    "target": "Maximum characters per mentioned note. Notes longer than this will be truncated."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Maximum characters for text selection in auto-mention. Selections longer than this will be truncated.",
+                    "target": "Maximum characters for text selection in auto-mention. Selections longer than this will be truncated."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Where to open new chat views",
+                    "target": "Where to open new chat views"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Display emoji icons in tool calls, thoughts, plans, and terminal blocks.",
+                    "target": "Display emoji icons in tool calls, thoughts, plans, and terminal blocks."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Automatically collapse diffs that exceed the line threshold.",
+                    "target": "Automatically collapse diffs that exceed the line threshold."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Diffs with more lines than this will be collapsed by default.",
+                    "target": "Diffs with more lines than this will be collapsed by default."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Enable the floating chat button and draggable chat windows.",
+                    "target": "Enable the floating chat button and draggable chat windows."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "URL or path to an image for the floating button. Leave empty for default icon.",
+                    "target": "URL or path to an image for the floating button. Leave empty for default icon."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Automatically allow all permission requests from agents. ⚠️ Use with caution - this gives agents full access to your system.",
+                    "target": "Automatically allow all permission requests from agents. ⚠️ Use with caution - this gives agents full access to your system."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Show OS notifications when the agent completes a response or requests permission. Notifications are suppressed while Obsidian is focused.",
+                    "target": "Show OS notifications when the agent completes a response or requests permission. Notifications are suppressed while Obsidian is focused."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Run agents inside Windows Subsystem for Linux. Recommended for agents like Codex that don't work well in native Windows environments.",
+                    "target": "Run agents inside Windows Subsystem for Linux. Recommended for agents like Codex that don't work well in native Windows environments."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Specify WSL distribution name (leave empty for default). Example: Ubuntu, Debian",
+                    "target": "Specify WSL distribution name (leave empty for default). Example: Ubuntu, Debian"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Folder where chat exports will be saved",
+                    "target": "Folder where chat exports will be saved"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Template for exported filenames. Use {date} for date and {time} for time",
+                    "target": "Template for exported filenames. Use {date} for date and {time} for time"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Tag to add to exported notes. Supports nested tags (e.g., projects/agent-client). Leave empty to disable.",
+                    "target": "Tag to add to exported notes. Supports nested tags (e.g., projects/agent-client). Leave empty to disable."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Include images in exported markdown files",
+                    "target": "Include images in exported markdown files"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Where to save exported images",
+                    "target": "Where to save exported images"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Folder path for exported images (relative to vault root)",
+                    "target": "Folder path for exported images (relative to vault root)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Automatically export the current chat when starting a new chat",
+                    "target": "Automatically export the current chat when starting a new chat"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Automatically export the current chat when closing the chat view",
+                    "target": "Automatically export the current chat when closing the chat view"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Automatically open the exported note after exporting",
+                    "target": "Automatically open the exported note after exporting"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Enable debug logging to console. Useful for development and troubleshooting.",
+                    "target": "Enable debug logging to console. Useful for development and troubleshooting."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose which agent is used when opening a new chat view.",
+                    "target": "Choose which agent is used when opening a new chat view."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Gemini API key. Required if not logging in with a Google account. (Stored as plain text)",
+                    "target": "Gemini API key. Required if not logging in with a Google account. (Stored as plain text)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Command name or path to the Gemini CLI. Use just \"gemini\" to let the login shell resolve it, or enter an absolute path for a specific version.",
+                    "target": "Command name or path to the Gemini CLI. Use just \"gemini\" to let the login shell resolve it, or enter an absolute path for a specific version."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Enter one argument per line. Leave empty to run without arguments.(Currently, the Gemini CLI requires the \"--experimental-acp\" option.)",
+                    "target": "Enter one argument per line. Leave empty to run without arguments.(Currently, the Gemini CLI requires the \"--experimental-acp\" option.)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Enter KEY=VALUE pairs, one per line. Required to authenticate with Vertex AI. GEMINI_API_KEY is derived from the field above.(Stored as plain text)",
+                    "target": "Enter KEY=VALUE pairs, one per line. Required to authenticate with Vertex AI. GEMINI_API_KEY is derived from the field above.(Stored as plain text)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Anthropic API key. Required if not logging in with an Anthropic account. (Stored as plain text)",
+                    "target": "Anthropic API key. Required if not logging in with an Anthropic account. (Stored as plain text)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Command name or path to claude-agent-acp. Use just \"claude-agent-acp\" to let the login shell resolve it, or enter an absolute path.",
+                    "target": "Command name or path to claude-agent-acp. Use just \"claude-agent-acp\" to let the login shell resolve it, or enter an absolute path."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Enter one argument per line. Leave empty to run without arguments.",
+                    "target": "Enter one argument per line. Leave empty to run without arguments."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Enter KEY=VALUE pairs, one per line. ANTHROPIC_API_KEY is derived from the field above.",
+                    "target": "Enter KEY=VALUE pairs, one per line. ANTHROPIC_API_KEY is derived from the field above."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "OpenAI API key. Required if not logging in with an OpenAI account. (Stored as plain text)",
+                    "target": "OpenAI API key. Required if not logging in with an OpenAI account. (Stored as plain text)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Command name or path to codex-acp. Use just \"codex-acp\" to let the login shell resolve it, or enter an absolute path.",
+                    "target": "Command name or path to codex-acp. Use just \"codex-acp\" to let the login shell resolve it, or enter an absolute path."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Enter KEY=VALUE pairs, one per line. OPENAI_API_KEY is derived from the field above.",
+                    "target": "Enter KEY=VALUE pairs, one per line. OPENAI_API_KEY is derived from the field above."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Unique identifier used to reference this agent.",
+                    "target": "Unique identifier used to reference this agent."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Shown in menus and headers.",
+                    "target": "Shown in menus and headers."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Command name or path to the custom agent. Use just the command name to let the login shell resolve it, or enter an absolute path.",
+                    "target": "Command name or path to the custom agent. Use just the command name to let the login shell resolve it, or enter an absolute path."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Enter KEY=VALUE pairs, one per line. (Stored as plain text)",
+                    "target": "Enter KEY=VALUE pairs, one per line. (Stored as plain text)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Node.js path",
+                    "target": "Node.js path"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Send message shortcut",
+                    "target": "Send message shortcut"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Mentions",
+                    "target": "Mentions"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto-mention active note",
+                    "target": "Auto-mention active note"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Max note length",
+                    "target": "Max note length"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Max selection length",
+                    "target": "Max selection length"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Display",
+                    "target": "Display"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Chat view location",
+                    "target": "Chat view location"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Chat font size",
+                    "target": "Chat font size"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show emojis",
+                    "target": "Show emojis"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto-collapse long diffs",
+                    "target": "Auto-collapse long diffs"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Collapse threshold",
+                    "target": "Collapse threshold"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Floating chat",
+                    "target": "Floating chat"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Enable floating chat",
+                    "target": "Enable floating chat"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Floating button image",
+                    "target": "Floating button image"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Permissions",
+                    "target": "Permissions"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto-allow permissions",
+                    "target": "Auto-allow permissions"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Notifications",
+                    "target": "Notifications"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "System notifications",
+                    "target": "System notifications"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Windows Subsystem for Linux",
+                    "target": "Windows Subsystem for Linux"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Enable WSL mode",
+                    "target": "Enable WSL mode"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "WSL distribution",
+                    "target": "WSL distribution"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Built-in agents",
+                    "target": "Built-in agents"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Custom agents",
+                    "target": "Custom agents"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Export",
+                    "target": "Export"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Export folder",
+                    "target": "Export folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Filename",
+                    "target": "Filename"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Frontmatter tag",
+                    "target": "Frontmatter tag"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Include images",
+                    "target": "Include images"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Image location",
+                    "target": "Image location"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Custom image folder",
+                    "target": "Custom image folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto-export on new chat",
+                    "target": "Auto-export on new chat"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto-export on close chat",
+                    "target": "Auto-export on close chat"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Open note after export",
+                    "target": "Open note after export"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Developer",
+                    "target": "Developer"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Debug mode",
+                    "target": "Debug mode"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Default agent",
+                    "target": "Default agent"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "API key",
+                    "target": "API key"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Path",
+                    "target": "Path"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Arguments",
+                    "target": "Arguments"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Environment variables",
+                    "target": "Environment variables"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Agent ID",
+                    "target": "Agent ID"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Display name",
+                    "target": "Display name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Leave blank (login shell auto-resolves)",
+                    "target": "Leave blank (login shell auto-resolves)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Leave empty for default",
+                    "target": "Leave empty for default"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Agent Client",
+                    "target": "Agent Client"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Enter your Gemini API key",
+                    "target": "Enter your Gemini API key"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "gemini",
+                    "target": "gemini"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Enter your Anthropic API key",
+                    "target": "Enter your Anthropic API key"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Enter your OpenAI API key",
+                    "target": "Enter your OpenAI API key"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Custom agent",
+                    "target": "Custom agent"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Command name or path",
+                    "target": "Command name or path"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "--flag\n--another=value",
+                    "target": "--flag\n--another=value"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Switch agent",
+                    "target": "Switch agent"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open new view",
+                    "target": "Open new view"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Restart agent",
+                    "target": "Restart agent"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "New chat in directory...",
+                    "target": "New chat in directory..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Plugin settings",
+                    "target": "Plugin settings"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "New chat",
+                    "target": "New chat"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Session history",
+                    "target": "Session history"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Export chat to Markdown",
+                    "target": "Export chat to Markdown"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open new floating chat",
+                    "target": "Open new floating chat"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Delete this agent",
+                    "target": "Delete this agent"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Failed to cancel session:",
+                    "target": "Failed to cancel session:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Failed to disconnect:",
+                    "target": "Failed to disconnect:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Failed to cancel operation:",
+                    "target": "Failed to cancel operation:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Cannot set config option: no active session",
+                    "target": "Cannot set config option: no active session"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Cannot handle permission response: missing onApprovePermission callback",
+                    "target": "Cannot handle permission response: missing onApprovePermission callback"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[VaultService] CodeMirror 6 API not available. Selection change tracking will not work. This may be due to an Obsidian version change.",
+                    "target": "[VaultService] CodeMirror 6 API not available. Selection change tracking will not work. This may be due to an Obsidian version change."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[AcpClient] Agent returned end_turn with no session updates — detected error in stderr",
+                    "target": "[AcpClient] Agent returned end_turn with no session updates — detected error in stderr"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[AcpClient] Failed to send cancellation:",
+                    "target": "[AcpClient] Failed to send cancellation:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[AgentClient] Failed to create new leaf",
+                    "target": "[AgentClient] Failed to create new leaf"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Session restored",
+                    "target": "[Agent Client] Session restored"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Failed to restore session",
+                    "target": "[Agent Client] Failed to restore session"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Session forked",
+                    "target": "[Agent Client] Session forked"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Failed to fork session",
+                    "target": "[Agent Client] Failed to fork session"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Session deleted",
+                    "target": "[Agent Client] Session deleted"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Failed to delete session",
+                    "target": "[Agent Client] Failed to delete session"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Title updated",
+                    "target": "[Agent Client] Title updated"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Failed to update title",
+                    "target": "[Agent Client] Failed to update title"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Failed to export chat",
+                    "target": "[Agent Client] Failed to export chat"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Already a new session",
+                    "target": "[Agent Client] Already a new session"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] No messages to export",
+                    "target": "[Agent Client] No messages to export"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Agent restarted",
+                    "target": "[Agent Client] Agent restarted"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Failed to restart agent",
+                    "target": "[Agent Client] Failed to restart agent"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Failed to attach image",
+                    "target": "[Agent Client] Failed to attach image"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Could not determine file path",
+                    "target": "[Agent Client] Could not determine file path"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] This agent does not support image paste. Try drag & drop instead.",
+                    "target": "[Agent Client] This agent does not support image paste. Try drag & drop instead."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] No active permission request",
+                    "target": "[Agent Client] No active permission request"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] No chat views open",
+                    "target": "[Agent Client] No chat views open"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] No prompt to broadcast",
+                    "target": "[Agent Client] No prompt to broadcast"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] No other chat views to broadcast to",
+                    "target": "[Agent Client] No other chat views to broadcast to"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] No views ready to send",
+                    "target": "[Agent Client] No views ready to send"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "[Agent Client] Cancel broadcast to all views",
+                    "target": "[Agent Client] Cancel broadcast to all views"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Copy message",
+                    "target": "Copy message"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Close",
+                    "target": "Close"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "agent-client-confirm-delete-confirm mod-warning",
+                    "target": "agent-client-confirm-delete-confirm mod-warning"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Edit session title",
+                    "target": "Edit session title"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Restore session",
+                    "target": "Restore session"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Fork session (create new branch)",
+                    "target": "Fork session (create new branch)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Delete session",
+                    "target": "Delete session"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "New chat",
+                    "target": "New chat"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Session history",
+                    "target": "Session history"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Export chat to Markdown",
+                    "target": "Export chat to Markdown"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "More",
+                    "target": "More"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "מחרוזת",
+                    "target": "מחרוזת"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "מספר",
+                    "target": "מספר"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "ערך בוליאני",
+                    "target": "ערך בוליאני"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "BigInt",
+                    "target": "BigInt"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "תאריך",
+                    "target": "תאריך"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "מערך",
+                    "target": "מערך"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "אובייקט",
+                    "target": "אובייקט"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "ערך ריק (null)",
+                    "target": "ערך ריק (null)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "ערך לא מוגדר (undefined)",
+                    "target": "ערך לא מוגדר (undefined)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "סימבול (Symbol)",
+                    "target": "סימבול (Symbol)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "פונקציה",
+                    "target": "פונקציה"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "מפה (Map)",
+                    "target": "מפה (Map)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "קבוצה (Set)",
+                    "target": "קבוצה (Set)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "קובץ",
+                    "target": "קובץ"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Promise",
+                    "target": "Promise"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "NaN",
+                    "target": "NaN"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "ערך לא ידוע",
+                    "target": "ערך לא ידוע"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "ערך",
+                    "target": "ערך"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "קלט",
+                    "target": "קלט"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "כתובת אימייל",
+                    "target": "כתובת אימייל"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "כתובת רשת",
+                    "target": "כתובת רשת"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "אימוג'י",
+                    "target": "אימוג'י"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "nanoid",
+                    "target": "nanoid"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "cuid",
+                    "target": "cuid"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "XID",
+                    "target": "XID"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "תאריך וזמן ISO",
+                    "target": "תאריך וזמן ISO"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "תאריך ISO",
+                    "target": "תאריך ISO"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "זמן ISO",
+                    "target": "זמן ISO"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "משך זמן ISO",
+                    "target": "משך זמן ISO"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "כתובת IPv4",
+                    "target": "כתובת IPv4"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "כתובת IPv6",
+                    "target": "כתובת IPv6"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "טווח IPv4",
+                    "target": "טווח IPv4"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "טווח IPv6",
+                    "target": "טווח IPv6"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "מחרוזת בבסיס 64",
+                    "target": "מחרוזת בבסיס 64"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "מחרוזת בבסיס 64 לכתובות רשת",
+                    "target": "מחרוזת בבסיס 64 לכתובות רשת"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "מחרוזת JSON",
+                    "target": "מחרוזת JSON"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "מספר E.164",
+                    "target": "מספר E.164"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "JWT",
+                    "target": "JWT"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No active session. Please wait for connection.",
+                    "target": "No active session. Please wait for connection."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Failed to send message",
+                    "target": "Failed to send message"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Invalid value: Expected int32 to be >= -2147483648",
+                    "target": "Invalid value: Expected int32 to be >= -2147483648"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Invalid value: Expected int32 to be <= 2147483647",
+                    "target": "Invalid value: Expected int32 to be <= 2147483647"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Invalid value: Expected uint32 to be <= 4294967295",
+                    "target": "Invalid value: Expected uint32 to be <= 4294967295"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Parse error",
+                    "target": "Parse error"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "lightbulb",
+                    "target": "lightbulb"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open chat view",
+                    "target": "Open chat view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Focus next chat view",
+                    "target": "Focus next chat view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Focus previous chat view",
+                    "target": "Focus previous chat view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open new chat view",
+                    "target": "Open new chat view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open floating chat view",
+                    "target": "Open floating chat view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open new floating chat view",
+                    "target": "Open new floating chat view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Minimize floating chat view",
+                    "target": "Minimize floating chat view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Close floating chat view",
+                    "target": "Close floating chat view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Approve active permission",
+                    "target": "Approve active permission"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Reject active permission",
+                    "target": "Reject active permission"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Toggle auto-mention",
+                    "target": "Toggle auto-mention"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "New chat",
+                    "target": "New chat"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Cancel current message",
+                    "target": "Cancel current message"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Export chat",
+                    "target": "Export chat"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Broadcast prompt",
+                    "target": "Broadcast prompt"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Broadcast send",
+                    "target": "Broadcast send"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Broadcast cancel",
+                    "target": "Broadcast cancel"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Enter session ID...",
+                    "target": "Enter session ID..."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Enter working directory...",
+                    "target": "Enter working directory..."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Delete session?",
+                    "target": "Delete session?"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "This only removes the session from this plugin. The session data will remain on the agent side.",
+                    "target": "This only removes the session from this plugin. The session data will remain on the agent side."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Cancel",
+                    "target": "Cancel"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Delete",
+                    "target": "Delete"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Edit session title",
+                    "target": "Edit session title"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Save",
+                    "target": "Save"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Session history",
+                    "target": "Session history"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "New chat in directory",
+                    "target": "New chat in directory"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Start a new chat session with the agent working in the specified directory.",
+                    "target": "Start a new chat session with the agent working in the specified directory."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Start",
+                    "target": "Start"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Need help? Check out the ",
+                    "target": "Need help? Check out the "
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "documentation",
+                    "target": "documentation"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No custom agents configured yet.",
+                    "target": "No custom agents configured yet."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Select working directory",
+                    "target": "Select working directory"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Agent Not Found",
+                    "target": "Agent Not Found"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Session Creation Failed",
+                    "target": "Session Creation Failed"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Command Not Found",
+                    "target": "Command Not Found"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Agent Startup Error",
+                    "target": "Agent Startup Error"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Cannot Send Message",
+                    "target": "Cannot Send Message"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Send Message Failed",
+                    "target": "Send Message Failed"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Permission Error",
+                    "target": "Permission Error"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Package Migration Required",
+                    "target": "Package Migration Required"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Agent Update Available",
+                    "target": "Agent Update Available"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Remove attachment",
+                    "target": "Remove attachment"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Close session",
+                    "target": "Close session"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Agent Client for Obsidian",
+                    "target": "Agent Client for Obsidian"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "More",
+                    "target": "More"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "Minimize",
+                    "target": "Minimize"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "Close",
+                    "target": "Close"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "text",
+                    "target": "text"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "log(`[ChatPanel] Restoring session: ${x}`)",
+                    "target": "log(`[ChatPanel] Restoring session: ${x}`)"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Session restored\")",
+                    "target": "Notice(\"[Agent Client] Session restored\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Failed to restore session\")",
+                    "target": "Notice(\"[Agent Client] Failed to restore session\")"
+                },
+                {
+                    "source": "error(\"Session restore error:\",g)}},[s,t.clearMessages,n.restoreSession,a]),m=(0,Un.useCallback)(async(x,S)=>{try{s.log(`[ChatPanel] Forking session: ${x}`),t.clearMessages(),await n.forkSession(x,S),a==null||a(S),new Vi.Notice(\"[Agent Client] Session forked\")",
+                    "target": "error(\"Session restore error:\",g)}},[s,t.clearMessages,n.restoreSession,a]),m=(0,Un.useCallback)(async(x,S)=>{try{s.log(`[ChatPanel] Forking session: ${x}`),t.clearMessages(),await n.forkSession(x,S),a==null||a(S),new Vi.Notice(\"[Agent Client] Session forked\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Failed to fork session\")",
+                    "target": "Notice(\"[Agent Client] Failed to fork session\")"
+                },
+                {
+                    "source": "error(\"Session fork error:\",g)}},[s,t.clearMessages,n.forkSession,a]),l=(0,Un.useCallback)(async x=>{try{s.log(`[ChatPanel] Deleting session: ${x}`),await n.deleteSession(x),new Vi.Notice(\"[Agent Client] Session deleted\")",
+                    "target": "error(\"Session fork error:\",g)}},[s,t.clearMessages,n.forkSession,a]),l=(0,Un.useCallback)(async x=>{try{s.log(`[ChatPanel] Deleting session: ${x}`),await n.deleteSession(x),new Vi.Notice(\"[Agent Client] Session deleted\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Failed to delete session\")",
+                    "target": "Notice(\"[Agent Client] Failed to delete session\")"
+                },
+                {
+                    "source": "error(\"Session delete error:\",S)}},[n.deleteSession,s]),f=(0,Un.useCallback)(async(x,S,g)=>{try{await n.updateSessionTitle(x,S,g),new Vi.Notice(\"[Agent Client] Title updated\")",
+                    "target": "error(\"Session delete error:\",S)}},[n.deleteSession,s]),f=(0,Un.useCallback)(async(x,S,g)=>{try{await n.updateSessionTitle(x,S,g),new Vi.Notice(\"[Agent Client] Title updated\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Failed to update title\")",
+                    "target": "Notice(\"[Agent Client] Failed to update title\")"
+                },
+                {
+                    "source": "log(`Chat exported to: ${l}`)",
+                    "target": "log(`Chat exported to: ${l}`)"
+                },
+                {
+                    "source": "error(`Failed to save image as attachment: ${r}`)",
+                    "target": "error(`Failed to save image as attachment: ${r}`)"
+                },
+                {
+                    "source": "log(`Image already exists, skipping: ${l}`)",
+                    "target": "log(`Image already exists, skipping: ${l}`)"
+                },
+                {
+                    "source": "log(`Image already exists, skipping: ${p}`)",
+                    "target": "log(`Image already exists, skipping: ${p}`)"
+                },
+                {
+                    "source": "log(`Image saved as attachment: ${l}`)",
+                    "target": "log(`Image saved as attachment: ${l}`)"
+                },
+                {
+                    "source": "Notice(`[Agent Client] Chat exported to ${k}`)",
+                    "target": "Notice(`[Agent Client] Chat exported to ${k}`)"
+                },
+                {
+                    "source": "log(`Chat auto-exported before ${N}`)",
+                    "target": "log(`Chat auto-exported before ${N}`)"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Failed to export chat\")",
+                    "target": "Notice(\"[Agent Client] Failed to export chat\")"
+                },
+                {
+                    "source": "log(`[ChatPanel] Session saved locally: ${i.sessionId}`)",
+                    "target": "log(`[ChatPanel] Session saved locally: ${i.sessionId}`)"
+                },
+                {
+                    "source": "log(\"Cancelling current operation...\")",
+                    "target": "log(\"Cancelling current operation...\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Already a new session\")",
+                    "target": "Notice(\"[Agent Client] Already a new session\")"
+                },
+                {
+                    "source": "log(`[Debug] Creating new session${V?` with agent: ${P}`:\"\"}...`)",
+                    "target": "log(`[Debug] Creating new session${V?` with agent: ${P}`:\"\"}...`)"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] No messages to export\")",
+                    "target": "Notice(\"[Agent Client] No messages to export\")"
+                },
+                {
+                    "source": "Notice(`[Agent Client] Chat exported to ${O}`)",
+                    "target": "Notice(`[Agent Client] Chat exported to ${O}`)"
+                },
+                {
+                    "source": "error(\"Export error:\",P)}},[o,i,e,c]),b=(0,Tt.useCallback)(async P=>{P!==i.agentId&&await S(P)},[i.agentId,S]),v=(0,Tt.useCallback)(async()=>{c.log(\"[ChatPanel] Restarting agent process...\")",
+                    "target": "error(\"Export error:\",P)}},[o,i,e,c]),b=(0,Tt.useCallback)(async P=>{P!==i.agentId&&await S(P)},[i.agentId,S]),v=(0,Tt.useCallback)(async()=>{c.log(\"[ChatPanel] Restarting agent process...\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Agent restarted\")",
+                    "target": "Notice(\"[Agent Client] Agent restarted\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Failed to restart agent\")",
+                    "target": "Notice(\"[Agent Client] Failed to restart agent\")"
+                },
+                {
+                    "source": "log(\"[detectMention] Invalid cursor position:\",t),null;let r=e.slice(0,t),i=r.lastIndexOf(\"@\")",
+                    "target": "log(\"[detectMention] Invalid cursor position:\",t),null;let r=e.slice(0,t),i=r.lastIndexOf(\"@\")"
+                },
+                {
+                    "source": "error(`Failed to read note ${e.path}:`,o),null}}async function zI(e,t,n,r){try{let s=(await n.readNote(e)).split(`\n`)",
+                    "target": "error(`Failed to read note ${e.path}:`,o),null}}async function zI(e,t,n,r){try{let s=(await n.readNote(e)).split(`\n`)"
+                },
+                {
+                    "source": "log(`[TerminalBlock] Component rendered for terminal ${t}, terminalClient: ${!!n}`)",
+                    "target": "log(`[TerminalBlock] Component rendered for terminal ${t}, terminalClient: ${!!n}`)"
+                },
+                {
+                    "source": "log(`[TerminalBlock] useEffect triggered for ${t}, terminalClient: ${!!n}`)",
+                    "target": "log(`[TerminalBlock] useEffect triggered for ${t}, terminalClient: ${!!n}`)"
+                },
+                {
+                    "source": "Notice(`[Agent Client] Maximum ${Ay} attachments allowed`)",
+                    "target": "Notice(`[Agent Client] Maximum ${Ay} attachments allowed`)"
+                },
+                {
+                    "source": "Notice(`[Agent Client] Image too large (max ${Ik}MB)`)",
+                    "target": "Notice(`[Agent Client] Image too large (max ${Ik}MB)`)"
+                },
+                {
+                    "source": "error(\"Failed to convert image:\",pe),new mi.Notice(\"[Agent Client] Failed to attach image\")",
+                    "target": "error(\"Failed to convert image:\",pe),new mi.Notice(\"[Agent Client] Failed to attach image\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Could not determine file path\")",
+                    "target": "Notice(\"[Agent Client] Could not determine file path\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] This agent does not support image paste. Try drag & drop instead.\")",
+                    "target": "Notice(\"[Agent Client] This agent does not support image paste. Try drag & drop instead.\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] No active permission request\")",
+                    "target": "Notice(\"[Agent Client] No active permission request\")"
+                },
+                {
+                    "source": "log(`[VaultService] Rebuilt index with ${this.files.length} files`)",
+                    "target": "log(`[VaultService] Rebuilt index with ${this.files.length} files`)"
+                },
+                {
+                    "source": "log(\"[ChatView] onClose() called\")",
+                    "target": "log(\"[ChatView] onClose() called\")"
+                },
+                {
+                    "source": "log(`[ChatViewRegistry] Registering view: ${t.viewId} (${t.viewType})`)",
+                    "target": "log(`[ChatViewRegistry] Registering view: ${t.viewId} (${t.viewType})`)"
+                },
+                {
+                    "source": "log(`[ChatViewRegistry] Unregistering view: ${t}`)",
+                    "target": "log(`[ChatViewRegistry] Unregistering view: ${t}`)"
+                },
+                {
+                    "source": "log(\"[ChatViewRegistry] Clearing all views\")",
+                    "target": "log(\"[ChatViewRegistry] Clearing all views\")"
+                },
+                {
+                    "source": "log(`[ChatViewRegistry] Focus changed to: ${t}`)",
+                    "target": "log(`[ChatViewRegistry] Focus changed to: ${t}`)"
+                },
+                {
+                    "source": "error(`[SessionStorage] Failed to load session messages: ${i}`)",
+                    "target": "error(`[SessionStorage] Failed to load session messages: ${i}`)"
+                },
+                {
+                    "source": "setName(\"Node.js path\")",
+                    "target": "setName(\"Node.js path\")"
+                },
+                {
+                    "source": "setDesc(\"Path to Node.js. Usually leave blank. Only needed if node is in a non-standard location (enter absolute path, e.g. /usr/local/bin/node).\")",
+                    "target": "setDesc(\"Path to Node.js. Usually leave blank. Only needed if node is in a non-standard location (enter absolute path, e.g. /usr/local/bin/node).\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Leave blank (login shell auto-resolves)\")",
+                    "target": "setPlaceholder(\"Leave blank (login shell auto-resolves)\")"
+                },
+                {
+                    "source": "setName(\"Send message shortcut\")",
+                    "target": "setName(\"Send message shortcut\")"
+                },
+                {
+                    "source": "setName(\"Auto-mention active note\")",
+                    "target": "setName(\"Auto-mention active note\")"
+                },
+                {
+                    "source": "setDesc(\"Include the current note in your messages automatically. The agent will have access to its content without typing @notename.\")",
+                    "target": "setDesc(\"Include the current note in your messages automatically. The agent will have access to its content without typing @notename.\")"
+                },
+                {
+                    "source": "setName(\"Max note length\")",
+                    "target": "setName(\"Max note length\")"
+                },
+                {
+                    "source": "setDesc(\"Maximum characters per mentioned note. Notes longer than this will be truncated.\")",
+                    "target": "setDesc(\"Maximum characters per mentioned note. Notes longer than this will be truncated.\")"
+                },
+                {
+                    "source": "setName(\"Max selection length\")",
+                    "target": "setName(\"Max selection length\")"
+                },
+                {
+                    "source": "setDesc(\"Maximum characters for text selection in auto-mention. Selections longer than this will be truncated.\")",
+                    "target": "setDesc(\"Maximum characters for text selection in auto-mention. Selections longer than this will be truncated.\")"
+                },
+                {
+                    "source": "setName(\"Chat view location\")",
+                    "target": "setName(\"Chat view location\")"
+                },
+                {
+                    "source": "setDesc(\"Where to open new chat views\")",
+                    "target": "setDesc(\"Where to open new chat views\")"
+                },
+                {
+                    "source": "setName(\"Chat font size\")",
+                    "target": "setName(\"Chat font size\")"
+                },
+                {
+                    "source": "setDesc(`Adjust the font size of the chat message area (${10}-${30}px).`)",
+                    "target": "setDesc(`Adjust the font size of the chat message area (${10}-${30}px).`)"
+                },
+                {
+                    "source": "setName(\"Show emojis\")",
+                    "target": "setName(\"Show emojis\")"
+                },
+                {
+                    "source": "setDesc(\"Display emoji icons in tool calls, thoughts, plans, and terminal blocks.\")",
+                    "target": "setDesc(\"Display emoji icons in tool calls, thoughts, plans, and terminal blocks.\")"
+                },
+                {
+                    "source": "setName(\"Auto-collapse long diffs\")",
+                    "target": "setName(\"Auto-collapse long diffs\")"
+                },
+                {
+                    "source": "setDesc(\"Automatically collapse diffs that exceed the line threshold.\")",
+                    "target": "setDesc(\"Automatically collapse diffs that exceed the line threshold.\")"
+                },
+                {
+                    "source": "setName(\"Collapse threshold\")",
+                    "target": "setName(\"Collapse threshold\")"
+                },
+                {
+                    "source": "setDesc(\"Diffs with more lines than this will be collapsed by default.\")",
+                    "target": "setDesc(\"Diffs with more lines than this will be collapsed by default.\")"
+                },
+                {
+                    "source": "setName(\"Floating chat\")",
+                    "target": "setName(\"Floating chat\")"
+                },
+                {
+                    "source": "setName(\"Enable floating chat\")",
+                    "target": "setName(\"Enable floating chat\")"
+                },
+                {
+                    "source": "setDesc(\"Enable the floating chat button and draggable chat windows.\")",
+                    "target": "setDesc(\"Enable the floating chat button and draggable chat windows.\")"
+                },
+                {
+                    "source": "setName(\"Floating button image\")",
+                    "target": "setName(\"Floating button image\")"
+                },
+                {
+                    "source": "setDesc(\"URL or path to an image for the floating button. Leave empty for default icon.\")",
+                    "target": "setDesc(\"URL or path to an image for the floating button. Leave empty for default icon.\")"
+                },
+                {
+                    "source": "setName(\"Auto-allow permissions\")",
+                    "target": "setName(\"Auto-allow permissions\")"
+                },
+                {
+                    "source": "setName(\"System notifications\")",
+                    "target": "setName(\"System notifications\")"
+                },
+                {
+                    "source": "setDesc(\"Show OS notifications when the agent completes a response or requests permission. Notifications are suppressed while Obsidian is focused.\")",
+                    "target": "setDesc(\"Show OS notifications when the agent completes a response or requests permission. Notifications are suppressed while Obsidian is focused.\")"
+                },
+                {
+                    "source": "setName(\"Windows Subsystem for Linux\")",
+                    "target": "setName(\"Windows Subsystem for Linux\")"
+                },
+                {
+                    "source": "setName(\"Enable WSL mode\")",
+                    "target": "setName(\"Enable WSL mode\")"
+                },
+                {
+                    "source": "setDesc(\"Run agents inside Windows Subsystem for Linux. Recommended for agents like Codex that don't work well in native Windows environments.\")",
+                    "target": "setDesc(\"Run agents inside Windows Subsystem for Linux. Recommended for agents like Codex that don't work well in native Windows environments.\")"
+                },
+                {
+                    "source": "setName(\"WSL distribution\")",
+                    "target": "setName(\"WSL distribution\")"
+                },
+                {
+                    "source": "setDesc(\"Specify WSL distribution name (leave empty for default). Example: Ubuntu, Debian\")",
+                    "target": "setDesc(\"Specify WSL distribution name (leave empty for default). Example: Ubuntu, Debian\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Leave empty for default\")",
+                    "target": "setPlaceholder(\"Leave empty for default\")"
+                },
+                {
+                    "source": "setName(\"Built-in agents\")",
+                    "target": "setName(\"Built-in agents\")"
+                },
+                {
+                    "source": "setName(\"Custom agents\")",
+                    "target": "setName(\"Custom agents\")"
+                },
+                {
+                    "source": "setName(\"Export folder\")",
+                    "target": "setName(\"Export folder\")"
+                },
+                {
+                    "source": "setDesc(\"Folder where chat exports will be saved\")",
+                    "target": "setDesc(\"Folder where chat exports will be saved\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Agent Client\")",
+                    "target": "setPlaceholder(\"Agent Client\")"
+                },
+                {
+                    "source": "setDesc(\"Template for exported filenames. Use {date} for date and {time} for time\")",
+                    "target": "setDesc(\"Template for exported filenames. Use {date} for date and {time} for time\")"
+                },
+                {
+                    "source": "setName(\"Frontmatter tag\")",
+                    "target": "setName(\"Frontmatter tag\")"
+                },
+                {
+                    "source": "setDesc(\"Tag to add to exported notes. Supports nested tags (e.g., projects/agent-client). Leave empty to disable.\")",
+                    "target": "setDesc(\"Tag to add to exported notes. Supports nested tags (e.g., projects/agent-client). Leave empty to disable.\")"
+                },
+                {
+                    "source": "setName(\"Include images\")",
+                    "target": "setName(\"Include images\")"
+                },
+                {
+                    "source": "setDesc(\"Include images in exported markdown files\")",
+                    "target": "setDesc(\"Include images in exported markdown files\")"
+                },
+                {
+                    "source": "setName(\"Image location\")",
+                    "target": "setName(\"Image location\")"
+                },
+                {
+                    "source": "setDesc(\"Where to save exported images\")",
+                    "target": "setDesc(\"Where to save exported images\")"
+                },
+                {
+                    "source": "setName(\"Custom image folder\")",
+                    "target": "setName(\"Custom image folder\")"
+                },
+                {
+                    "source": "setDesc(\"Folder path for exported images (relative to vault root)\")",
+                    "target": "setDesc(\"Folder path for exported images (relative to vault root)\")"
+                },
+                {
+                    "source": "setName(\"Auto-export on new chat\")",
+                    "target": "setName(\"Auto-export on new chat\")"
+                },
+                {
+                    "source": "setDesc(\"Automatically export the current chat when starting a new chat\")",
+                    "target": "setDesc(\"Automatically export the current chat when starting a new chat\")"
+                },
+                {
+                    "source": "setName(\"Auto-export on close chat\")",
+                    "target": "setName(\"Auto-export on close chat\")"
+                },
+                {
+                    "source": "setDesc(\"Automatically export the current chat when closing the chat view\")",
+                    "target": "setDesc(\"Automatically export the current chat when closing the chat view\")"
+                },
+                {
+                    "source": "setName(\"Open note after export\")",
+                    "target": "setName(\"Open note after export\")"
+                },
+                {
+                    "source": "setDesc(\"Automatically open the exported note after exporting\")",
+                    "target": "setDesc(\"Automatically open the exported note after exporting\")"
+                },
+                {
+                    "source": "setName(\"Debug mode\")",
+                    "target": "setName(\"Debug mode\")"
+                },
+                {
+                    "source": "setDesc(\"Enable debug logging to console. Useful for development and troubleshooting.\")",
+                    "target": "setDesc(\"Enable debug logging to console. Useful for development and troubleshooting.\")"
+                },
+                {
+                    "source": "setName(\"Default agent\")",
+                    "target": "setName(\"Default agent\")"
+                },
+                {
+                    "source": "setDesc(\"Choose which agent is used when opening a new chat view.\")",
+                    "target": "setDesc(\"Choose which agent is used when opening a new chat view.\")"
+                },
+                {
+                    "source": "setName(\"API key\")",
+                    "target": "setName(\"API key\")"
+                },
+                {
+                    "source": "setDesc(\"Gemini API key. Required if not logging in with a Google account. (Stored as plain text)\")",
+                    "target": "setDesc(\"Gemini API key. Required if not logging in with a Google account. (Stored as plain text)\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Enter your Gemini API key\")",
+                    "target": "setPlaceholder(\"Enter your Gemini API key\")"
+                },
+                {
+                    "source": "setDesc('Command name or path to the Gemini CLI. Use just \"gemini\" to let the login shell resolve it, or enter an absolute path for a specific version.')",
+                    "target": "setDesc('Command name or path to the Gemini CLI. Use just \"gemini\" to let the login shell resolve it, or enter an absolute path for a specific version.')"
+                },
+                {
+                    "source": "setDesc('Enter one argument per line. Leave empty to run without arguments.(Currently, the Gemini CLI requires the \"--experimental-acp\" option.)')",
+                    "target": "setDesc('Enter one argument per line. Leave empty to run without arguments.(Currently, the Gemini CLI requires the \"--experimental-acp\" option.)')"
+                },
+                {
+                    "source": "setName(\"Environment variables\")",
+                    "target": "setName(\"Environment variables\")"
+                },
+                {
+                    "source": "setDesc(\"Enter KEY=VALUE pairs, one per line. Required to authenticate with Vertex AI. GEMINI_API_KEY is derived from the field above.(Stored as plain text)\")",
+                    "target": "setDesc(\"Enter KEY=VALUE pairs, one per line. Required to authenticate with Vertex AI. GEMINI_API_KEY is derived from the field above.(Stored as plain text)\")"
+                },
+                {
+                    "source": "setDesc(\"Anthropic API key. Required if not logging in with an Anthropic account. (Stored as plain text)\")",
+                    "target": "setDesc(\"Anthropic API key. Required if not logging in with an Anthropic account. (Stored as plain text)\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Enter your Anthropic API key\")",
+                    "target": "setPlaceholder(\"Enter your Anthropic API key\")"
+                },
+                {
+                    "source": "setDesc('Command name or path to claude-agent-acp. Use just \"claude-agent-acp\" to let the login shell resolve it, or enter an absolute path.')",
+                    "target": "setDesc('Command name or path to claude-agent-acp. Use just \"claude-agent-acp\" to let the login shell resolve it, or enter an absolute path.')"
+                },
+                {
+                    "source": "setDesc(\"Enter one argument per line. Leave empty to run without arguments.\")",
+                    "target": "setDesc(\"Enter one argument per line. Leave empty to run without arguments.\")"
+                },
+                {
+                    "source": "setDesc(\"Enter KEY=VALUE pairs, one per line. ANTHROPIC_API_KEY is derived from the field above.\")",
+                    "target": "setDesc(\"Enter KEY=VALUE pairs, one per line. ANTHROPIC_API_KEY is derived from the field above.\")"
+                },
+                {
+                    "source": "setDesc(\"OpenAI API key. Required if not logging in with an OpenAI account. (Stored as plain text)\")",
+                    "target": "setDesc(\"OpenAI API key. Required if not logging in with an OpenAI account. (Stored as plain text)\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Enter your OpenAI API key\")",
+                    "target": "setPlaceholder(\"Enter your OpenAI API key\")"
+                },
+                {
+                    "source": "setDesc('Command name or path to codex-acp. Use just \"codex-acp\" to let the login shell resolve it, or enter an absolute path.')",
+                    "target": "setDesc('Command name or path to codex-acp. Use just \"codex-acp\" to let the login shell resolve it, or enter an absolute path.')"
+                },
+                {
+                    "source": "setDesc(\"Enter KEY=VALUE pairs, one per line. OPENAI_API_KEY is derived from the field above.\")",
+                    "target": "setDesc(\"Enter KEY=VALUE pairs, one per line. OPENAI_API_KEY is derived from the field above.\")"
+                },
+                {
+                    "source": "setButtonText(\"Add custom agent\")",
+                    "target": "setButtonText(\"Add custom agent\")"
+                },
+                {
+                    "source": "setName(\"Agent ID\")",
+                    "target": "setName(\"Agent ID\")"
+                },
+                {
+                    "source": "setDesc(\"Unique identifier used to reference this agent.\")",
+                    "target": "setDesc(\"Unique identifier used to reference this agent.\")"
+                },
+                {
+                    "source": "setTooltip(\"Delete this agent\")",
+                    "target": "setTooltip(\"Delete this agent\")"
+                },
+                {
+                    "source": "setName(\"Display name\")",
+                    "target": "setName(\"Display name\")"
+                },
+                {
+                    "source": "setDesc(\"Shown in menus and headers.\")",
+                    "target": "setDesc(\"Shown in menus and headers.\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Custom agent\")",
+                    "target": "setPlaceholder(\"Custom agent\")"
+                },
+                {
+                    "source": "setDesc(\"Command name or path to the custom agent. Use just the command name to let the login shell resolve it, or enter an absolute path.\")",
+                    "target": "setDesc(\"Command name or path to the custom agent. Use just the command name to let the login shell resolve it, or enter an absolute path.\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Command name or path\")",
+                    "target": "setPlaceholder(\"Command name or path\")"
+                },
+                {
+                    "source": "setPlaceholder(`--flag\n--another=value`)",
+                    "target": "setPlaceholder(`--flag\n--another=value`)"
+                },
+                {
+                    "source": "setDesc(\"Enter KEY=VALUE pairs, one per line. (Stored as plain text)\")",
+                    "target": "setDesc(\"Enter KEY=VALUE pairs, one per line. (Stored as plain text)\")"
+                },
+                {
+                    "source": "setButtonText(\"Not found\")",
+                    "target": "setButtonText(\"Not found\")"
+                },
+                {
+                    "source": "log(`[Terminal ${n}] stdout:`,y),this.appendOutput(l,y)}),(p=m.stderr)==null||p.on(\"data\",h=>{let y=h.toString();this.logger.log(`[Terminal ${n}] stderr:`,y),this.appendOutput(l,y)}),m.on(\"exit\",(h,y)=>{this.logger.log(`[Terminal ${n}] Process exited with code: ${h}, signal: ${y}`)",
+                    "target": "log(`[Terminal ${n}] stdout:`,y),this.appendOutput(l,y)}),(p=m.stderr)==null||p.on(\"data\",h=>{let y=h.toString();this.logger.log(`[Terminal ${n}] stderr:`,y),this.appendOutput(l,y)}),m.on(\"exit\",(h,y)=>{this.logger.log(`[Terminal ${n}] Process exited with code: ${h}, signal: ${y}`)"
+                },
+                {
+                    "source": "log(`[Terminal ${t}] Releasing terminal`)",
+                    "target": "log(`[Terminal ${t}] Releasing terminal`)"
+                },
+                {
+                    "source": "log(`[Terminal ${t}] Cleaning up terminal after grace period`)",
+                    "target": "log(`[Terminal ${t}] Cleaning up terminal after grace period`)"
+                },
+                {
+                    "source": "log(`Killing ${this.terminals.size} running terminals...`)",
+                    "target": "log(`Killing ${this.terminals.size} running terminals...`)"
+                },
+                {
+                    "source": "log(`Killing terminal ${n}`)",
+                    "target": "log(`Killing terminal ${n}`)"
+                },
+                {
+                    "source": "log(\"[PermissionManager] Permission request received:\",t),this.autoAllow){let f=t.options.find(p=>p.kind===\"allow_once\"||p.kind===\"allow_always\"||!p.kind&&p.name.toLowerCase().includes(\"allow\")",
+                    "target": "log(\"[PermissionManager] Permission request received:\",t),this.autoAllow){let f=t.options.find(p=>p.kind===\"allow_once\"||p.kind===\"allow_always\"||!p.kind&&p.name.toLowerCase().includes(\"allow\")"
+                },
+                {
+                    "source": "log(`[PermissionManager] Cancelling ${this.pendingRequests.size} pending permission requests`)",
+                    "target": "log(`[PermissionManager] Cancelling ${this.pendingRequests.size} pending permission requests`)"
+                },
+                {
+                    "source": "log(`[AcpClient] Active agent: ${t.displayName} (${t.id})`)",
+                    "target": "log(`[AcpClient] Active agent: ${t.displayName} (${t.id})`)"
+                },
+                {
+                    "source": "log(\"[AcpClient] Command:\",n),this.logger.log(\"[AcpClient] Args:\",r.length>0?r.join(\" \")",
+                    "target": "log(\"[AcpClient] Command:\",n),this.logger.log(\"[AcpClient] Args:\",r.length>0?r.join(\" \")"
+                },
+                {
+                    "source": "error(`[AcpClient] Command not found: ${n}`)",
+                    "target": "error(`[AcpClient] Command not found: ${n}`)"
+                },
+                {
+                    "source": "log(\"[AcpClient] Using working directory:\",t.workingDirectory);let x=KO(h,y);this.connection=new mp(()=>this.handler,x);try{this.logger.log(\"[AcpClient] Starting ACP initialization...\")",
+                    "target": "log(\"[AcpClient] Using working directory:\",t.workingDirectory);let x=KO(h,y);this.connection=new mp(()=>this.handler,x);try{this.logger.log(\"[AcpClient] Starting ACP initialization...\")"
+                },
+                {
+                    "source": "error(\"[AcpClient] Initialization Error:\",v),this.isInitializedFlag=!1,this.currentAgentId=null,v}}async newSession(t){let n=this.requireConnection();try{this.logger.log(\"[AcpClient] Creating new session...\")",
+                    "target": "error(\"[AcpClient] Initialization Error:\",v),this.isInitializedFlag=!1,this.currentAgentId=null,v}}async newSession(t){let n=this.requireConnection();try{this.logger.log(\"[AcpClient] Creating new session...\")"
+                },
+                {
+                    "source": "log(`[AcpClient] Created session: ${r.sessionId}`)",
+                    "target": "log(`[AcpClient] Created session: ${r.sessionId}`)"
+                },
+                {
+                    "source": "log(\"[AcpClient] Agent returned end_turn with no session updates (may be expected for some commands)\")",
+                    "target": "log(\"[AcpClient] Agent returned end_turn with no session updates (may be expected for some commands)\")"
+                },
+                {
+                    "source": "error(\"[AcpClient] Prompt Error:\",i),i}}async cancel(t){try{let n=this.requireConnection();this.logger.log(\"[AcpClient] Sending session/cancel notification...\")",
+                    "target": "error(\"[AcpClient] Prompt Error:\",i),i}}async cancel(t){try{let n=this.requireConnection();this.logger.log(\"[AcpClient] Sending session/cancel notification...\")"
+                },
+                {
+                    "source": "log(\"[AcpClient] Cancellation request sent successfully\")",
+                    "target": "log(\"[AcpClient] Cancellation request sent successfully\")"
+                },
+                {
+                    "source": "log(`[AcpClient] Killing process tree (PID: ${t})`)",
+                    "target": "log(`[AcpClient] Killing process tree (PID: ${t})`)"
+                },
+                {
+                    "source": "log(\"[AcpClient] Disconnecting...\")",
+                    "target": "log(\"[AcpClient] Disconnecting...\")"
+                },
+                {
+                    "source": "log(\"[AcpClient] Disconnected\")",
+                    "target": "log(\"[AcpClient] Disconnected\")"
+                },
+                {
+                    "source": "log(`[AcpClient] Setting session mode to: ${n} for session: ${t}`)",
+                    "target": "log(`[AcpClient] Setting session mode to: ${n} for session: ${t}`)"
+                },
+                {
+                    "source": "log(`[AcpClient] Session mode set to: ${n}`)",
+                    "target": "log(`[AcpClient] Session mode set to: ${n}`)"
+                },
+                {
+                    "source": "log(\"[AcpClient] Listing sessions...\")",
+                    "target": "log(\"[AcpClient] Listing sessions...\")"
+                },
+                {
+                    "source": "log(`[AcpClient] Found ${a.sessions.length} sessions`)",
+                    "target": "log(`[AcpClient] Found ${a.sessions.length} sessions`)"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] No chat views open\")",
+                    "target": "Notice(\"[Agent Client] No chat views open\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] No prompt to broadcast\")",
+                    "target": "Notice(\"[Agent Client] No prompt to broadcast\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] No other chat views to broadcast to\")",
+                    "target": "Notice(\"[Agent Client] No other chat views to broadcast to\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] No views ready to send\")",
+                    "target": "Notice(\"[Agent Client] No views ready to send\")"
+                },
+                {
+                    "source": "Notice(\"[Agent Client] Cancel broadcast to all views\")",
+                    "target": "Notice(\"[Agent Client] Cancel broadcast to all views\")"
+                },
+                {
+                    "source": "Notice(`[Agent Client] Update available: v${c}`)",
+                    "target": "Notice(`[Agent Client] Update available: v${c}`)"
+                },
+                {
+                    "source": "Notice(`[Agent Client] Update available: v${i}`)",
+                    "target": "Notice(`[Agent Client] Update available: v${i}`)"
+                },
+                {
+                    "source": "text:\"Delete session?\"",
+                    "target": "text:\"Delete session?\""
+                },
+                {
+                    "source": "text:`Are you sure you want to delete \"${this.sessionTitle}\"?`",
+                    "target": "text:`Are you sure you want to delete \"${this.sessionTitle}\"?`"
+                },
+                {
+                    "source": "text:\"This only removes the session from this plugin. The session data will remain on the agent side.\"",
+                    "target": "text:\"This only removes the session from this plugin. The session data will remain on the agent side.\""
+                },
+                {
+                    "source": "text:\"Edit session title\"",
+                    "target": "text:\"Edit session title\""
+                },
+                {
+                    "source": "text:\"Session history\"",
+                    "target": "text:\"Session history\""
+                },
+                {
+                    "source": "text:\"New chat in directory\"",
+                    "target": "text:\"New chat in directory\""
+                },
+                {
+                    "source": "text:\"Start a new chat session with the agent working in the specified directory.\"",
+                    "target": "text:\"Start a new chat session with the agent working in the specified directory.\""
+                },
+                {
+                    "source": "text:`The user has selected lines ${s}-${c} in ${a}. If relevant, use the Read tool to examine the specific lines.`",
+                    "target": "text:`The user has selected lines ${s}-${c} in ${a}. If relevant, use the Read tool to examine the specific lines.`"
+                },
+                {
+                    "source": "text:`The user has selected lines ${s}-${c} in the above note. This is what they are currently focusing on.`",
+                    "target": "text:`The user has selected lines ${s}-${c} in the above note. This is what they are currently focusing on.`"
+                },
+                {
+                    "source": "text:`The user has opened the note ${a} in Obsidian. This may or may not be related to the current conversation. If it seems relevant, consider using the Read tool to examine its content.`",
+                    "target": "text:`The user has opened the note ${a} in Obsidian. This may or may not be related to the current conversation. If it seems relevant, consider using the Read tool to examine its content.`"
+                },
+                {
+                    "source": "selection=\"lines ${s}-${c}\"",
+                    "target": "selection=\"lines ${s}-${c}\""
+                },
+                {
+                    "source": "text:\"Need help? Check out the \"",
+                    "target": "text:\"Need help? Check out the \""
+                },
+                {
+                    "source": "text:\"No custom agents configured yet.\"",
+                    "target": "text:\"No custom agents configured yet.\""
+                },
+                {
+                    "source": "name:\"Open chat view\"",
+                    "target": "name:\"Open chat view\""
+                },
+                {
+                    "source": "name:\"Focus next chat view\"",
+                    "target": "name:\"Focus next chat view\""
+                },
+                {
+                    "source": "name:\"Focus previous chat view\"",
+                    "target": "name:\"Focus previous chat view\""
+                },
+                {
+                    "source": "name:\"Open new chat view\"",
+                    "target": "name:\"Open new chat view\""
+                },
+                {
+                    "source": "name:\"Open floating chat view\"",
+                    "target": "name:\"Open floating chat view\""
+                },
+                {
+                    "source": "name:\"Open new floating chat view\"",
+                    "target": "name:\"Open new floating chat view\""
+                },
+                {
+                    "source": "name:\"Minimize floating chat view\"",
+                    "target": "name:\"Minimize floating chat view\""
+                },
+                {
+                    "source": "name:\"Close floating chat view\"",
+                    "target": "name:\"Close floating chat view\""
+                },
+                {
+                    "source": "name:`Switch agent to ${r.displayName}`",
+                    "target": "name:`Switch agent to ${r.displayName}`"
+                },
+                {
+                    "source": "name:\"Approve active permission\"",
+                    "target": "name:\"Approve active permission\""
+                },
+                {
+                    "source": "name:\"Reject active permission\"",
+                    "target": "name:\"Reject active permission\""
+                },
+                {
+                    "source": "name:\"Toggle auto-mention\"",
+                    "target": "name:\"Toggle auto-mention\""
+                },
+                {
+                    "source": "name:\"New chat\"",
+                    "target": "name:\"New chat\""
+                },
+                {
+                    "source": "name:\"Cancel current message\"",
+                    "target": "name:\"Cancel current message\""
+                },
+                {
+                    "source": "name:\"Export chat\"",
+                    "target": "name:\"Export chat\""
+                },
+                {
+                    "source": "name:\"Broadcast prompt\"",
+                    "target": "name:\"Broadcast prompt\""
+                },
+                {
+                    "source": "name:\"Broadcast send\"",
+                    "target": "name:\"Broadcast send\""
+                },
+                {
+                    "source": "name:\"Broadcast cancel\"",
+                    "target": "name:\"Broadcast cancel\""
+                }
+            ]
+        }
+    }
+}

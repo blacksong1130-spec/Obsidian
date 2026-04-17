@@ -1,0 +1,13 @@
+---
+slug: MjMwNTE0MTEw
+created_at: "2026-04-09 05:21:57"
+updated_at: "2026-04-09 05:21:59"
+tags: ["obsdian/翻译"]
+source: "web"
+---
+
+#obsdian/翻译
+
+别搞插件了
+
+直接打开飞书就行了

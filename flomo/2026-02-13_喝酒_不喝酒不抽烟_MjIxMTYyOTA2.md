@@ -1,0 +1,11 @@
+---
+slug: MjIxMTYyOTA2
+created_at: "2026-02-13 19:58:49"
+updated_at: "2026-02-14 02:43:56"
+tags: ["择偶标准/喝酒"]
+source: "ios"
+---
+
+#择偶标准/喝酒
+
+不喝酒，不抽烟

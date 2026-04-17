@@ -1,0 +1,31 @@
+graph TB
+    %% Layout Configuration
+    direction TB
+
+    %% Node Definitions - Shortened text and increased font size for readability
+    n1["1. THE FEEDBACK GAP<br/>(Input: Nutrition is invisible)"]
+    n2["2. BEHAVIOURAL CONSEQUENCE<br/>(System 1 present bias)"]
+    n3["3. CURRENT TOOLS FAIL<br/>(MyFitnessPal 3% retention)"]
+    n4["4. ETHICAL CONSTRAINT<br/>(ED risk, Food Freedom)"]
+    n5["5. THE DESIGN OPPORTUNITY<br/>(Embodiment & Compassion)"]
+    n6["6. METHODOLOGY<br/>(Investigative + Generative)"]
+    n7["7. OUTPUT<br/>(Framework + Artefacts)"]
+
+    %% Connections
+    n1 ==> n2
+    n2 ==> n3
+    n3 ==> n4
+    n4 ==> n5
+    n5 ==> n6
+    n6 ==> n7
+
+    %% Styling - Added padding and larger font sizes
+    classDef academic fill:#fcfcfc,stroke:#333,stroke-width:1.5px,color:#1a1a1a,font-size:16px,padding:15px;
+    classDef highlight fill:#f0f4f8,stroke:#2c5282,stroke-width:2px,color:#2c5282,font-weight:bold,font-size:16px,padding:15px;
+    
+    class n1,n2,n3,n4,n5,n6 academic;
+    class n7 highlight;
+
+    style n1 fill:#edf2f7,stroke:#4a5568
+    style n4 fill:#fff5f5,stroke:#c53030
+    style n7 fill:#f0fff4,stroke:#2f855a

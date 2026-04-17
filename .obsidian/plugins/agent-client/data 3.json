@@ -1,0 +1,137 @@
+{
+  "claude": {
+    "id": "claude-code-acp",
+    "displayName": "Claude Code",
+    "apiKey": "",
+    "command": "claude-agent-acp",
+    "args": [],
+    "env": []
+  },
+  "codex": {
+    "id": "codex-acp",
+    "displayName": "Codex",
+    "apiKey": "",
+    "command": "codex-acp",
+    "args": [],
+    "env": []
+  },
+  "gemini": {
+    "id": "gemini-cli",
+    "displayName": "Gemini CLI",
+    "apiKey": "",
+    "command": "C:\\Users\\shywl\\AppData\\Roaming\\npm\\gemini",
+    "args": [
+      "--experimental-acp"
+    ],
+    "env": []
+  },
+  "customAgents": [],
+  "defaultAgentId": "gemini-cli",
+  "autoAllowPermissions": true,
+  "autoMentionActiveNote": true,
+  "enableSystemNotifications": true,
+  "debugMode": false,
+  "nodePath": "",
+  "exportSettings": {
+    "defaultFolder": "Agent Client",
+    "filenameTemplate": "agent_client_{date}_{time}",
+    "autoExportOnNewChat": false,
+    "autoExportOnCloseChat": false,
+    "openFileAfterExport": true,
+    "includeImages": true,
+    "imageLocation": "obsidian",
+    "imageCustomFolder": "Agent Client",
+    "frontmatterTag": "agent-client"
+  },
+  "windowsWslMode": false,
+  "sendMessageShortcut": "enter",
+  "chatViewLocation": "right-tab",
+  "displaySettings": {
+    "autoCollapseDiffs": false,
+    "diffCollapseThreshold": 10,
+    "maxNoteLength": 10000,
+    "maxSelectionLength": 10000,
+    "showEmojis": true,
+    "fontSize": null
+  },
+  "savedSessions": [
+    {
+      "sessionId": "a77113c5-aaab-447b-b1a3-908220d5d7b2",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "根据知识大师工作流归类我的文件",
+      "createdAt": "2026-04-17T08:57:18.217Z",
+      "updatedAt": "2026-04-17T08:57:18.217Z"
+    },
+    {
+      "sessionId": "656d1c91-51d3-4c81-8e45-be70a8135d20",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "你根据世界上顶级的那种知识大师，帮我进行一个整理。\n\n我想了解他们是如何进行管理的：\n1. 知识文件...",
+      "createdAt": "2026-04-14T21:10:35.735Z",
+      "updatedAt": "2026-04-14T21:10:35.735Z"
+    },
+    {
+      "sessionId": "acd946aa-2870-4cd6-a98f-e4a2820aaeb6",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "找到我这里面关于护肤的一个文件。里面有很多 Boots 的商品，请帮我找到最近正在打折的商品，并进行...",
+      "createdAt": "2026-04-14T19:45:13.349Z",
+      "updatedAt": "2026-04-14T19:45:13.349Z"
+    },
+    {
+      "sessionId": "f183ffa1-bb3a-4942-b180-f8de56692581",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "然后，请你从一个专业 report 撰写人的角度去审视我的报告，找出其中不合理、值得修改的地方并全部...",
+      "createdAt": "2026-04-12T14:46:49.730Z",
+      "updatedAt": "2026-04-12T14:46:49.730Z"
+    },
+    {
+      "sessionId": "ac7fdb36-a0d0-4fb1-8c3f-607525bd03f6",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "我现在的文件夹有点乱，请帮我处理一下：\n\n1. 归档：把该归档的文件全部归档。\n2. 统合：将相关的...",
+      "createdAt": "2026-04-12T10:48:11.929Z",
+      "updatedAt": "2026-04-12T10:48:11.929Z"
+    },
+    {
+      "sessionId": "1ab1a91e-ef5f-44c0-bf72-aa7b40607bd7",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "/skill 有那些",
+      "createdAt": "2026-04-11T13:16:38.246Z",
+      "updatedAt": "2026-04-11T13:16:38.246Z"
+    },
+    {
+      "sessionId": "b730636c-888c-4603-bb2d-41de92135a7a",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "给我去github上面下载华夏老祖宗，女娲，张雪峰skill",
+      "createdAt": "2026-04-11T13:13:50.711Z",
+      "updatedAt": "2026-04-11T13:13:50.711Z"
+    },
+    {
+      "sessionId": "41675808-ef06-47f3-b496-500452d8cafb",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "halo",
+      "createdAt": "2026-04-10T13:40:16.736Z",
+      "updatedAt": "2026-04-10T13:40:16.736Z"
+    }
+  ],
+  "lastUsedModels": {
+    "gemini-cli": "gemini-3.1-pro-preview"
+  },
+  "lastUsedModes": {
+    "gemini-cli": "yolo"
+  },
+  "enableFloatingChat": false,
+  "floatingButtonImage": "",
+  "floatingWindowSize": {
+    "width": 400,
+    "height": 500
+  },
+  "floatingWindowPosition": null,
+  "floatingButtonPosition": null
+}

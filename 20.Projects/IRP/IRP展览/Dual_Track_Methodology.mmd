@@ -1,0 +1,21 @@
+graph TB
+    subgraph T1["🔍 Track 1: Investigative Research (Present)"]
+        direction TB
+        A1["Literature Review"] --> A2["App Audit (8 tools)"]
+        A2 --> A3["Semi-Structured Interviews"]
+        A3 --> A4["Autoethnographic Diary (4 weeks)"]
+    end
+
+    subgraph T2["✏️ Track 2: Generative Design Research (Future)"]
+        direction TB
+        B1["Scenario Building (2035)"] --> B2["Speculative Prototyping"]
+        B2 --> B3["Participatory Critique"]
+    end
+
+    A4 -.->|Cross-Pollination| B1
+    B3 -.->|Refinement| A3
+
+    classDef track1 fill:#edf2f7,stroke:#2c5282;
+    classDef track2 fill:#fff5f5,stroke:#c53030;
+    class T1 track1;
+    class T2 track2;

@@ -1,0 +1,11 @@
+---
+slug: MTM1OTAxNjYw
+created_at: "2024-09-06 09:05:48"
+updated_at: "2024-09-06 09:05:48"
+tags: ["思考/容貌焦虑"]
+source: "android"
+---
+
+#思考/容貌焦虑
+
+你们老旧地没有那份力气
