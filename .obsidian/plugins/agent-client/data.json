@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "6cda7bd8-9418-4c09-b3dc-a5e2b72ef988",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "呀。我们记录没有了，之前为了解决备份冲突",
+      "createdAt": "2026-04-17T16:43:37.496Z",
+      "updatedAt": "2026-04-17T16:43:37.496Z"
+    },
+    {
       "sessionId": "b5331f15-34ea-4d28-9816-121f9241c357",
       "agentId": "gemini-cli",
       "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",

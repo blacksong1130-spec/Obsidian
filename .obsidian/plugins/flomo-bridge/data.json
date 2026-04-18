@@ -1,0 +1,13 @@
+{
+  "token": "18652112|R1IqkbGYLq4acKTZg5uMisFgVvrpiDjArvofN4KT",
+  "targetDir": "flomo",
+  "downloadAttachments": true,
+  "syncInterval": 300,
+  "debugMode": false,
+  "cursor": {
+    "latest_updated_at": 0,
+    "latest_slug": ""
+  },
+  "tokenValidated": true,
+  "tokenValidatedAt": 1776444938804
+}
