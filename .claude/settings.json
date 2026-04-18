@@ -1,11 +1,12 @@
 {
   "permissions": {
-    "defaultMode": "bypassPermissions",
     "allow": [
       "Write(D:\\\\iCloudDrive\\\\.obsidian\\\\IRP Management\\\\.claude\\\\commands\\\\clean-workspace.md)",
       "Write(D:\\\\iCloudDrive\\\\.obsidian\\\\IRP Management\\\\.claude\\\\settings.json)",
-      "Edit(D:\\\\iCloudDrive\\\\.obsidian\\\\IRP Management\\\\.claude\\\\settings.json)"
-    ]
+      "Edit(D:\\\\iCloudDrive\\\\.obsidian\\\\IRP Management\\\\.claude\\\\settings.json)",
+      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\settings.json)"
+    ],
+    "defaultMode": "bypassPermissions"
   },
   "hooks": {
     "PreToolUse": [
