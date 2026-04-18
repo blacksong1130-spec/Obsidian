@@ -1,0 +1,13 @@
+---
+slug: MTMyMDQ1Mzk4
+created_at: "2024-08-12 18:47:04"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/工具/notion/技巧"]
+source: "android"
+---
+
+#任务/空闲/工具/notion/技巧
+
+notion导出html后，打印是可以调整页面大小的
+
+[[技巧]]

@@ -56,12 +56,44 @@
   },
   "savedSessions": [
     {
-      "sessionId": "6cda7bd8-9418-4c09-b3dc-a5e2b72ef988",
+      "sessionId": "9fd9ead1-3bce-4e26-a4f6-1a57b74d50e0",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\IRP Management",
-      "title": "呀。我们记录没有了，之前为了解决备份冲突",
-      "createdAt": "2026-04-17T16:43:37.496Z",
-      "updatedAt": "2026-04-17T16:43:37.496Z"
+      "title": "你帮我检查一下，现在 Git 有没有在备份？\n\n我前面因为 Git 和 iCloud 产生冲突，所以...",
+      "createdAt": "2026-04-18T09:20:12.374Z",
+      "updatedAt": "2026-04-18T09:20:12.374Z"
+    },
+    {
+      "sessionId": "55e1ecac-9940-474c-a073-26ab5ceaeb3d",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "D:\\iCloudDrive\\.obsidian，你能把这里面的和这个D:\\Obsidian同步一下...",
+      "createdAt": "2026-04-18T08:55:59.471Z",
+      "updatedAt": "2026-04-18T08:55:59.471Z"
+    },
+    {
+      "sessionId": "95952da6-1e19-4cb7-b216-a37930a7f22c",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "你重新清理一下，有很多完全一样的任务，因为之前的flomo冲突，并且删除我打勾的任务，包括源文件继续...",
+      "createdAt": "2026-04-18T08:40:06.066Z",
+      "updatedAt": "2026-04-18T08:40:06.066Z"
+    },
+    {
+      "sessionId": "a89b16b5-4f80-47f6-8ed6-95324b8393ab",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "halo",
+      "createdAt": "2026-04-18T08:37:29.215Z",
+      "updatedAt": "2026-04-18T08:37:29.215Z"
+    },
+    {
+      "sessionId": "c14f02eb-900b-4a3f-9330-a0c24007c1a8",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "根据知识大师工作流整理我的文件，现在很乱，命名也不规范，然后最后统计最近一个月的任务给我，形成日报给...",
+      "createdAt": "2026-04-18T08:00:19.354Z",
+      "updatedAt": "2026-04-18T08:00:19.354Z"
     },
     {
       "sessionId": "b5331f15-34ea-4d28-9816-121f9241c357",
@@ -129,7 +161,7 @@
     }
   ],
   "lastUsedModels": {
-    "gemini-cli": "gemini-3.1-pro-preview"
+    "gemini-cli": "auto-gemini-3"
   },
   "lastUsedModes": {
     "gemini-cli": "yolo"

@@ -1,0 +1,27 @@
+---
+slug: MTcyNTM3ODU2
+created_at: "2025-04-22 11:28:04"
+updated_at: "2025-04-22 11:28:05"
+tags: []
+source: "android"
+---
+
+==
+
+客官您好！
+
+订单2539052942468439989给您上菜啦：
+
+【椅子】百度网盘：https://pan.baidu.com/s/1ZG3BFGCQV-Z4RKnPnwQUkA?pwd=8888
+
+提取码：8888
+
+解压密码（无需打开网址，直接输入到密码框即可）：
+
+www.yuanjingziyuan.com
+
+满意再来光临哈！
+
+==
+
+[[客官您好订单]]

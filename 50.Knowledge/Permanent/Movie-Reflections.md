@@ -29,3 +29,366 @@ source: "ios"
 @猩猩GTS: 大白鲨史前巨鳄狂蟒之灾侏罗纪公园，动物灾难片当时这些都是新鲜题材。当年太火了。太震惊了。导致现在很少拍这些题材。以前拍太多了。好的烂的一大堆
 
 ---
+
+
+> [!quote] 2024-06-13
+---
+slug: MTIzMDU0Mzg0
+created_at: "2024-06-13 19:39:33"
+updated_at: "2024-06-13 19:39:34"
+tags: ["思考/电影"]
+source: "android"
+---
+
+#思考/电影
+
+根据片尾字幕
+
+推测成本
+
+司机组x5——剧组规模
+
+---
+
+> [!quote] 2024-07-09
+---
+slug: MTI2ODM0MTcz
+created_at: "2024-07-09 01:29:17"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+欢迎来到我身边
+
+---
+
+> [!quote] 2024-07-25
+---
+slug: MTI5Mjk3ODU5
+created_at: "2024-07-25 15:07:54"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+摇太阳番外
+
+凌敏的旅途
+
+---
+
+> [!quote] 2024-07-25
+---
+slug: MTI5Mjk4MTM1
+created_at: "2024-07-25 15:09:43"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+正常人
+
+---
+
+> [!quote] 2024-07-28
+---
+slug: MTI5NzU1MTA5
+created_at: "2024-07-28 19:46:16"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+中文名是鳄鱼波鞋走天涯
+
+---
+
+> [!quote] 2024-08-11
+---
+slug: MTMxODMwNjM0
+created_at: "2024-08-11 12:27:10"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+负负得正
+
+---
+
+> [!quote] 2024-08-24
+---
+slug: MTMzOTEzMzI1
+created_at: "2024-08-24 17:01:26"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+被我弄丢的你
+
+---
+
+> [!quote] 2024-08-26
+---
+slug: MTM0MjA3OTA4
+created_at: "2024-08-26 15:27:50"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+今天开始看克拉克森的农场——冰
+
+---
+
+> [!quote] 2024-08-31
+---
+slug: MTM0OTM0NDg2
+created_at: "2024-08-31 00:24:32"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+边水往事
+
+《她比烟花寂寞》——血缘之间的相对自由，绝对的占有
+
+---
+
+> [!quote] 2024-09-16
+---
+slug: MTM3NDE1MzQ1
+created_at: "2024-09-16 10:56:26"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+子弹列车
+
+浪客剑心——漫改剧天花板
+
+穿越火线
+
+---
+
+> [!quote] 2024-12-03
+---
+slug: MTQ5NzAxNjUw
+created_at: "2024-12-03 13:08:48"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+真相捕捉
+
+---
+
+> [!quote] 2025-01-06
+---
+slug: MTU1MjQ0NDk3
+created_at: "2025-01-06 02:09:39"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+**附件:**
+![17361005777482CA6932EB34DC6FF](flomo/attachments/2025/01/06/17361005777482CA6932EB34DC6FF.jpg)
+
+---
+
+> [!quote] 2025-01-09
+---
+slug: MTU1Nzc1NjI4
+created_at: "2025-01-09 04:05:59"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+我是证人
+
+---
+
+> [!quote] 2025-01-09
+---
+slug: MTU1ODc0NDk2
+created_at: "2025-01-09 17:10:51"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+波西米亚狂想曲
+
+---
+
+> [!quote] 2025-01-09
+---
+slug: MTU1ODg0Mjk0
+created_at: "2025-01-09 18:15:01"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+漫长的季节
+
+---
+
+> [!quote] 2025-01-09
+---
+slug: MTU1OTA2MDY3
+created_at: "2025-01-09 21:07:56"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+秒速五厘米
+
+---
+
+> [!quote] 2025-01-09
+---
+slug: MTU1Nzc1NjU2
+created_at: "2025-01-09 04:07:07"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+终极一班
+
+---
+
+> [!quote] 2025-01-10
+---
+slug: MTU1OTM2MTk2
+created_at: "2025-01-10 00:21:37"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+大奉打更人
+
+---
+
+> [!quote] 2025-04-20
+---
+slug: MTcyMjg1MzMw
+created_at: "2025-04-20 22:16:23"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/电影"]
+source: "android"
+---
+
+#任务/空闲/电影
+
+蓦然回首
+
+---
+
+> [!quote] 2025-05-04
+---
+slug: MTc0Mzc1MDYx
+created_at: "2025-05-04 09:01:34"
+updated_at: "2025-07-12 14:19:25"
+tags: ["资源(Resource)/安利/电影"]
+source: "android"
+---
+
+#资源(Resource)/安利/电影
+
+教父
+
+---
+
+> [!quote] 2025-05-04
+---
+slug: MTc0MzczMjcy
+created_at: "2025-05-04 08:42:39"
+updated_at: "2025-07-12 18:22:40"
+tags: ["资源(Resource)/安利/电影"]
+source: "android"
+---
+
+#资源(Resource)/安利/电影
+
+美国往事
+
+完整版229分钟
+
+---
+
+> [!quote] 2026-04-12
+---
+slug: MjMxMTgxMzI4
+created_at: "2026-04-12 23:55:28"
+updated_at: "2026-04-12 23:55:29"
+tags: ["资源(Resource)/安利/电影"]
+source: "ios"
+---
+
+#资源(Resource)/安利/电影
+
+共同警备区
+
+---
+
+> [!quote] 2026-04-12
+---
+slug: MjMxMTgwMTY4
+created_at: "2026-04-12 23:48:24"
+updated_at: "2026-04-12 23:48:25"
+tags: ["资源(Resource)/安利/电影"]
+source: "ios"
+---
+
+#资源(Resource)/安利/电影
+
+@浮生梦: 谁看过六公主在2000年播的全片无删减无打码的极度深寒。。那年我15，不怕丢人，是我一生的阴影[泣不成声]，距今为止，我最害怕的一部电影，和日式韩式恐怖不同的那种刻骨的恐怖[泣不成声]
+
+@猩猩GTS: 大白鲨史前巨鳄狂蟒之灾侏罗纪公园，动物灾难片当时这些都是新鲜题材。当年太火了。太震惊了。导致现在很少拍这些题材。以前拍太多了。好的烂的一大堆
+
+---

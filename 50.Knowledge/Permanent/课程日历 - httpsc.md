@@ -1,0 +1,13 @@
+---
+slug: MjAwMTMwNjEz
+created_at: "2025-10-14 04:18:12"
+updated_at: "2025-10-14 04:53:42"
+tags: ["上课链接/课程日历"]
+source: "web"
+---
+
+#上课链接/课程日历
+
+https://calendar.rca.ac.uk/cal?vt=month&dt=2025-09-01&et=student&fid0=10066513
+
+[[课程日历]]

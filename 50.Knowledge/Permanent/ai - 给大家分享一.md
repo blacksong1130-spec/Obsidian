@@ -1,0 +1,13 @@
+---
+slug: MTQ1NjU0ODY5
+created_at: "2024-11-08 00:28:41"
+updated_at: "2025-09-08 17:05:09"
+tags: ["任务/空闲/ai"]
+source: "android"
+---
+
+#任务/空闲/ai
+
+给大家分享一个记录文献筛选流程的方法：PRISMA flow diagram: https://www.prisma-statement.org/prisma-2020-flow-diagram 最近用这个方法整理了一些文献，导师挺认可的，第二天邮件分享给组里的同学们了。我也想把这个好方法分享给pyq有需要的朋友们，综述阶段可以一边理文献一边记录自己的过程[愉快]
+
+[[ai]]
