@@ -33,15 +33,15 @@
   "debugMode": false,
   "nodePath": "",
   "exportSettings": {
-    "defaultFolder": "Agent Client",
-    "filenameTemplate": "agent_client_{date}_{time}",
-    "autoExportOnNewChat": false,
-    "autoExportOnCloseChat": false,
-    "openFileAfterExport": true,
+    "defaultFolder": "00.Inbox/Conversations",
+    "filenameTemplate": "{date}_Claude_{time}",
+    "autoExportOnNewChat": true,
+    "autoExportOnCloseChat": true,
+    "openFileAfterExport": false,
     "includeImages": true,
     "imageLocation": "obsidian",
-    "imageCustomFolder": "Agent Client",
-    "frontmatterTag": "agent-client"
+    "imageCustomFolder": "00.Inbox/Conversations/attachments",
+    "frontmatterTag": "claude-chat"
   },
   "windowsWslMode": false,
   "sendMessageShortcut": "enter",
