@@ -254,6 +254,16 @@
       "enabled": true,
       "delay": "",
       "note": ""
+    },
+    {
+      "id": "obsidian-douban-plugin",
+      "name": "Douban",
+      "desc": "This is a plugin that can import movies/books/musics/notes/games info data from Douban for Obsidian .",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
     }
   ],
   "HIDES": [],
@@ -378,36 +388,36 @@
       "order": 16
     },
     {
-      "id": "obsidian-excalidraw-plugin:New drawing",
-      "name": "obsidian-excalidraw-plugin:New drawing",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 17
-    },
-    {
-      "id": "i18n:common.i18n",
-      "name": "i18n:common.i18n",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 18
-    },
-    {
       "id": "obsidian42-brat:BRAT",
       "name": "obsidian42-brat:BRAT",
       "icon": "help-circle",
       "visible": true,
-      "order": 19
+      "order": 17
     },
     {
       "id": "obsidian-gantt-calendar:甘特日历",
       "name": "obsidian-gantt-calendar:甘特日历",
       "icon": "help-circle",
       "visible": true,
-      "order": 20
+      "order": 18
     },
     {
       "id": "templater-obsidian:Templater",
       "name": "templater-obsidian:Templater",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 19
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:New drawing",
+      "name": "obsidian-excalidraw-plugin:New drawing",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 20
+    },
+    {
+      "id": "i18n:common.i18n",
+      "name": "i18n:common.i18n",
       "icon": "help-circle",
       "visible": true,
       "order": 21
