@@ -244,6 +244,16 @@
       "enabled": true,
       "delay": "",
       "note": ""
+    },
+    {
+      "id": "templater-obsidian",
+      "name": "Templater",
+      "desc": "Create and use templates",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
     }
   ],
   "HIDES": [],
@@ -380,6 +390,27 @@
       "icon": "help-circle",
       "visible": true,
       "order": 18
+    },
+    {
+      "id": "obsidian42-brat:BRAT",
+      "name": "obsidian42-brat:BRAT",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 19
+    },
+    {
+      "id": "obsidian-gantt-calendar:甘特日历",
+      "name": "obsidian-gantt-calendar:甘特日历",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 20
+    },
+    {
+      "id": "templater-obsidian:Templater",
+      "name": "templater-obsidian:Templater",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 21
     }
   ],
   "AUTO_TAKEOVER": true,

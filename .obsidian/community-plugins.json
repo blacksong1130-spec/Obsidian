@@ -1,7 +1,3 @@
 [
-  "better-plugins-manager",
-  "obsidian-local-rest-api",
-  "obsidian42-brat",
-  "obsidian-gantt-calendar",
-  "templater-obsidian"
+  "better-plugins-manager"
 ]

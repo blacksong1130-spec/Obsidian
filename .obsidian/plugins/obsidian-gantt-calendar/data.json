@@ -14,7 +14,7 @@
   "dateFilterField": "dueDate",
   "enableDailyNote": true,
   "dayViewLayout": "horizontal",
-  "dailyNotePath": "DailyNotes",
+  "dailyNotePath": "Daily Notes",
   "dailyNoteNameFormat": "yyyy-MM-dd",
   "monthViewTaskLimit": 3,
   "yearShowTaskCount": true,
@@ -140,23 +140,26 @@
   "taskViewSortField": "dueDate",
   "taskViewSortOrder": "asc",
   "taskViewSelectedStatuses": [
-    "todo"
+    "todo",
+    "done"
   ],
   "taskViewSelectedTags": [],
   "taskViewTagOperator": "OR",
   "taskViewTimeFieldFilter": "dueDate",
-  "taskViewDateRangeMode": "week",
+  "taskViewDateRangeMode": "all",
   "dayViewSortField": "dueDate",
   "dayViewSortOrder": "asc",
   "dayViewSelectedStatuses": [
-    "todo"
+    "todo",
+    "done"
   ],
   "dayViewSelectedTags": [],
   "dayViewTagOperator": "OR",
   "weekViewSortField": "priority",
   "weekViewSortOrder": "desc",
   "weekViewSelectedStatuses": [
-    "todo"
+    "todo",
+    "done"
   ],
   "weekViewSelectedTags": [],
   "weekViewTagOperator": "OR",
@@ -164,7 +167,8 @@
   "weekViewShowTags": true,
   "weekViewShowPriority": true,
   "monthViewSelectedStatuses": [
-    "todo"
+    "todo",
+    "done"
   ],
   "monthViewSelectedTags": [],
   "monthViewTagOperator": "OR",

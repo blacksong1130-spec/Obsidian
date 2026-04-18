@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "b441d811-c371-4bdf-94fa-1f240fb020e8",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "我下载了一个博主分享的一套看板模板，但是我现在不知道怎么使用。\n\n我已经把安装包下载下来了，请问如何...",
+      "createdAt": "2026-04-18T15:21:22.267Z",
+      "updatedAt": "2026-04-18T15:21:22.267Z"
+    },
+    {
       "sessionId": "9fd9ead1-3bce-4e26-a4f6-1a57b74d50e0",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\IRP Management",
