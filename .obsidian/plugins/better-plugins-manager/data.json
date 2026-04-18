@@ -214,6 +214,36 @@
       "enabled": true,
       "delay": "",
       "note": ""
+    },
+    {
+      "id": "obsidian-gantt-calendar",
+      "name": "Gantt Calendar",
+      "desc": "Gantt-style calendar with day/week/month/year views and a task board that reads Tasks/Dataview items, supports global filters and date filters for quick scheduling.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-local-rest-api",
+      "name": "Local REST API",
+      "desc": "Get, change or otherwise interact with your notes in Obsidian via a REST API.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian42-brat",
+      "name": "BRAT",
+      "desc": "Easily install a beta version of a plugin for testing.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
     }
   ],
   "HIDES": [],

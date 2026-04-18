@@ -12,7 +12,8 @@
       "Bash(claude plugin:*)",
       "Bash(ls /c/Users/shywl/.claude/plugins/marketplaces/claude-plugins-official/plugins/scholar*/)",
       "Read(//c/Users/shywl/.agents/skills//**)",
-      "Bash(for skill in find-skills huashu-nuwa munger-perspective naval-perspective zhangxuefeng-perspective; do\n  echo \"=== $skill ===\"\n  head -20 /c/Users/shywl/.agents/skills/$skill/SKILL.md 2>/dev/null || cat /c/Users/shywl/.agents/skills/$skill/*.md 2>/dev/null | head -20\n  echo \"\"\ndone)"
+      "Bash(for skill in find-skills huashu-nuwa munger-perspective naval-perspective zhangxuefeng-perspective; do\n  echo \"=== $skill ===\"\n  head -20 /c/Users/shywl/.agents/skills/$skill/SKILL.md 2>/dev/null || cat /c/Users/shywl/.agents/skills/$skill/*.md 2>/dev/null | head -20\n  echo \"\"\ndone)",
+      "Edit(C:\\\\Users\\\\shywl\\\\.claude\\\\settings.json)"
     ],
     "defaultMode": "bypassPermissions"
   },
