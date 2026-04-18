@@ -4,7 +4,15 @@
       "Write(D:\\\\iCloudDrive\\\\.obsidian\\\\IRP Management\\\\.claude\\\\commands\\\\clean-workspace.md)",
       "Write(D:\\\\iCloudDrive\\\\.obsidian\\\\IRP Management\\\\.claude\\\\settings.json)",
       "Edit(D:\\\\iCloudDrive\\\\.obsidian\\\\IRP Management\\\\.claude\\\\settings.json)",
-      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\settings.json)"
+      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\settings.json)",
+      "Bash(cp /c/Users/shywl/.claude/plugins/marketplaces/karpathy-skills/skills/karpathy-guidelines/SKILL.md /c/Users/shywl/.claude/skills/karpathy-guidelines.md && echo \"Skill copied successfully\")",
+      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\CLAUDE.md)",
+      "Bash(grep \"\\\\.md$\")",
+      "Bash(ls -lt \"D:\\\\Obsidian\\\\IRP Management/\"*.md)",
+      "Bash(claude plugin:*)",
+      "Bash(ls /c/Users/shywl/.claude/plugins/marketplaces/claude-plugins-official/plugins/scholar*/)",
+      "Read(//c/Users/shywl/.agents/skills//**)",
+      "Bash(for skill in find-skills huashu-nuwa munger-perspective naval-perspective zhangxuefeng-perspective; do\n  echo \"=== $skill ===\"\n  head -20 /c/Users/shywl/.agents/skills/$skill/SKILL.md 2>/dev/null || cat /c/Users/shywl/.agents/skills/$skill/*.md 2>/dev/null | head -20\n  echo \"\"\ndone)"
     ],
     "defaultMode": "bypassPermissions"
   },
