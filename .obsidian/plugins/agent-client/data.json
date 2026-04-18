@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "1e2d8c40-af99-4f57-9ddc-744f5915bd3b",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "我之前下载了一个模板，已经用其他 AI 帮我复制了很多关键的东西过来。D:\\Obsidian影音库示...",
+      "createdAt": "2026-04-18T15:54:43.084Z",
+      "updatedAt": "2026-04-18T15:54:43.084Z"
+    },
+    {
       "sessionId": "b441d811-c371-4bdf-94fa-1f240fb020e8",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\IRP Management",
