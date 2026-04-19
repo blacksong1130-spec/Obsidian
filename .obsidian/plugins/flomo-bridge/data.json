@@ -5,29 +5,29 @@
   "syncInterval": 0,
   "debugMode": false,
   "cursor": {
-    "latest_updated_at": 1776543118,
-    "latest_slug": "MjMyMjMwMTYy"
+    "latest_updated_at": 1776622492,
+    "latest_slug": "MjMyMzcwNDcx"
   },
   "lastSyncStats": {
-    "created": 3,
+    "created": 15,
     "updated": 1,
     "skipped": 0,
     "failed": 0,
-    "total": 4,
+    "total": 16,
     "newContent": {
-      "created": 3,
+      "created": 15,
       "updated": 1,
       "skipped": 0,
       "failed": 0,
-      "total": 4
+      "total": 16
     },
     "bufferZone": {
       "created": 0,
       "updated": 0,
       "total": 0
     },
-    "timestamp": 1776525635350,
-    "duration": 2
+    "timestamp": 1776603884781,
+    "duration": 7
   },
   "tokenValidated": true,
   "tokenValidatedAt": 1776503724563
