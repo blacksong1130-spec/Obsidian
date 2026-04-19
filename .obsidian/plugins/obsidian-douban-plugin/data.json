@@ -32,7 +32,7 @@
   "arrayElementEnd": "",
   "arrayEnd": "",
   "personNameMode": "CH",
-  "dataFilePath": "02-电影阅读/",
+  "dataFilePath": "02-电影阅读/movie/book/teleplay/game",
   "dataFileNamePath": "/{{type}}/{{title}}",
   "statusBar": true,
   "debugMode": false,
