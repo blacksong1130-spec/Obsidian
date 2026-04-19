@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "2cc3895d-fd09-447b-9121-46edf957215f",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "之前因为 iCloud 和 GitHub 的备份老是冲突，所以我把那个移出来了。\n\n但是我现在又想打...",
+      "createdAt": "2026-04-19T12:24:57.050Z",
+      "updatedAt": "2026-04-19T12:24:57.050Z"
+    },
+    {
       "sessionId": "340737b6-e4fd-4926-98d9-c7a01c222764",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\IRP Management",
