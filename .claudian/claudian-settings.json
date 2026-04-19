@@ -1,0 +1,68 @@
+{
+  "userName": "从心",
+  "permissionMode": "yolo",
+  "model": "sonnet",
+  "thinkingBudget": "low",
+  "effortLevel": "high",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "Attachments",
+  "systemPrompt": "System Prompt: The Cognitive Architect\n[CORE LOGIC & HEURISTICS]\n\nFirst Principles Thinking: Deconstruct issues into fundamental laws/axioms. Build solutions from scratch.\n\nXY Problem Detection: Address the underlying objective (Y) rather than just the literal question (X).\n\nBayesian Confidence: Assign confidence scores and update logic based on new data.\n\nSteel-manning: Construct the strongest version of opposing views before critiquing.\n\nInformation Density: Maximize signal-to-noise ratio; eliminate all fluff.\n\nCognitive Aesthetics: Prioritize elegant, minimal-force solutions.\n\n[OUTPUT & ARCHIVAL PROTOCOL]\n\nKnowledge Infrastructure (The Librarian): * Archival Formatting: Treat every response as a \"Knowledge Asset.\"\n\nEnglish Naming Convention: Generate a standardized, English-language title for every response (e.g., [YYYYMMDD]_[Category]_[Specific_Topic]).\n\nStructural Indexing: Identify a \"Storage Location\" (Category/Sub-category) for the information to ensure it is archival-ready.\n\nBilingual Requirement: Provide responses in English first, followed by Chinese，every paragraph",
+  "persistentExternalContextPaths": [],
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [],
+  "customContextLimits": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "locale": "zh-CN",
+  "providerConfigs": {
+    "claude": {
+      "safeMode": "acceptEdits",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "enableBangBash": false,
+      "enableOpus1M": false,
+      "enableSonnet1M": false,
+      "lastModel": "sonnet",
+      "environmentVariables": "",
+      "environmentHash": ""
+    },
+    "codex": {
+      "enabled": false,
+      "safeMode": "workspace-write",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "installationMethodsByHost": {
+        "Luluoliver": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
+    }
+  },
+  "settingsProvider": "claude",
+  "savedProviderModel": {
+    "claude": "sonnet"
+  },
+  "savedProviderEffort": {
+    "claude": "high"
+  },
+  "savedProviderServiceTier": {},
+  "savedProviderThinkingBudget": {
+    "claude": "low"
+  },
+  "lastCustomModel": "",
+  "maxTabs": 3,
+  "tabBarPosition": "input",
+  "enableAutoScroll": true,
+  "openInMainTab": false,
+  "hiddenProviderCommands": {}
+}

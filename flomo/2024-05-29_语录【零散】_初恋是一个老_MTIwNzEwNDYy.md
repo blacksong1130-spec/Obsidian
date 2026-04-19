@@ -1,0 +1,11 @@
+---
+slug: MTIwNzEwNDYy
+created_at: "2024-05-29 12:40:53"
+updated_at: "2025-07-12 14:19:28"
+tags: ["语录【零散】"]
+source: "android"
+---
+
+#语录【零散】
+
+初恋是一个老顽固，顽固到只爱他一个人

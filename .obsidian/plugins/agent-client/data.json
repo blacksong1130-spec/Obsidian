@@ -1,0 +1,209 @@
+{
+  "claude": {
+    "id": "claude-code-acp",
+    "displayName": "Claude Code",
+    "apiKey": "",
+    "command": "claude-agent-acp",
+    "args": [],
+    "env": []
+  },
+  "codex": {
+    "id": "codex-acp",
+    "displayName": "Codex",
+    "apiKey": "",
+    "command": "codex-acp",
+    "args": [],
+    "env": []
+  },
+  "gemini": {
+    "id": "gemini-cli",
+    "displayName": "Gemini CLI",
+    "apiKey": "",
+    "command": "C:\\Users\\shywl\\AppData\\Roaming\\npm\\gemini",
+    "args": [
+      "--experimental-acp"
+    ],
+    "env": []
+  },
+  "customAgents": [],
+  "defaultAgentId": "gemini-cli",
+  "autoAllowPermissions": true,
+  "autoMentionActiveNote": true,
+  "enableSystemNotifications": true,
+  "debugMode": false,
+  "nodePath": "",
+  "exportSettings": {
+    "defaultFolder": "00.Inbox/Conversations",
+    "filenameTemplate": "{date}_Claude_{time}",
+    "autoExportOnNewChat": true,
+    "autoExportOnCloseChat": true,
+    "openFileAfterExport": false,
+    "includeImages": true,
+    "imageLocation": "obsidian",
+    "imageCustomFolder": "00.Inbox/Conversations/attachments",
+    "frontmatterTag": "claude-chat"
+  },
+  "windowsWslMode": false,
+  "sendMessageShortcut": "enter",
+  "chatViewLocation": "right-tab",
+  "displaySettings": {
+    "autoCollapseDiffs": false,
+    "diffCollapseThreshold": 10,
+    "maxNoteLength": 10000,
+    "maxSelectionLength": 10000,
+    "showEmojis": true,
+    "fontSize": null
+  },
+  "savedSessions": [
+    {
+      "sessionId": "2cc3895d-fd09-447b-9121-46edf957215f",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "之前因为 iCloud 和 GitHub 的备份老是冲突，所以我把那个移出来了。\n\n但是我现在又想打...",
+      "createdAt": "2026-04-19T12:24:57.050Z",
+      "updatedAt": "2026-04-19T12:24:57.050Z"
+    },
+    {
+      "sessionId": "340737b6-e4fd-4926-98d9-c7a01c222764",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "为什么我的 iCloud 里面找不到我的 Obsidian 呢？\n\n就是在手机端上找不到，它说我的 ...",
+      "createdAt": "2026-04-19T01:40:03.745Z",
+      "updatedAt": "2026-04-19T01:40:03.745Z"
+    },
+    {
+      "sessionId": "1e2d8c40-af99-4f57-9ddc-744f5915bd3b",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "我之前下载了一个模板，已经用其他 AI 帮我复制了很多关键的东西过来。D:\\Obsidian影音库示...",
+      "createdAt": "2026-04-18T15:54:43.084Z",
+      "updatedAt": "2026-04-18T15:54:43.084Z"
+    },
+    {
+      "sessionId": "b441d811-c371-4bdf-94fa-1f240fb020e8",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "我下载了一个博主分享的一套看板模板，但是我现在不知道怎么使用。\n\n我已经把安装包下载下来了，请问如何...",
+      "createdAt": "2026-04-18T15:21:22.267Z",
+      "updatedAt": "2026-04-18T15:21:22.267Z"
+    },
+    {
+      "sessionId": "9fd9ead1-3bce-4e26-a4f6-1a57b74d50e0",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "你帮我检查一下，现在 Git 有没有在备份？\n\n我前面因为 Git 和 iCloud 产生冲突，所以...",
+      "createdAt": "2026-04-18T09:20:12.374Z",
+      "updatedAt": "2026-04-18T09:20:12.374Z"
+    },
+    {
+      "sessionId": "55e1ecac-9940-474c-a073-26ab5ceaeb3d",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "D:\\iCloudDrive\\.obsidian，你能把这里面的和这个D:\\Obsidian同步一下...",
+      "createdAt": "2026-04-18T08:55:59.471Z",
+      "updatedAt": "2026-04-18T08:55:59.471Z"
+    },
+    {
+      "sessionId": "95952da6-1e19-4cb7-b216-a37930a7f22c",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "你重新清理一下，有很多完全一样的任务，因为之前的flomo冲突，并且删除我打勾的任务，包括源文件继续...",
+      "createdAt": "2026-04-18T08:40:06.066Z",
+      "updatedAt": "2026-04-18T08:40:06.066Z"
+    },
+    {
+      "sessionId": "a89b16b5-4f80-47f6-8ed6-95324b8393ab",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "halo",
+      "createdAt": "2026-04-18T08:37:29.215Z",
+      "updatedAt": "2026-04-18T08:37:29.215Z"
+    },
+    {
+      "sessionId": "c14f02eb-900b-4a3f-9330-a0c24007c1a8",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "根据知识大师工作流整理我的文件，现在很乱，命名也不规范，然后最后统计最近一个月的任务给我，形成日报给...",
+      "createdAt": "2026-04-18T08:00:19.354Z",
+      "updatedAt": "2026-04-18T08:00:19.354Z"
+    },
+    {
+      "sessionId": "b5331f15-34ea-4d28-9816-121f9241c357",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "为什么我的flomo bride隔两天就要叫我重新配置token，然后又全部下载一遍，很多重复内容",
+      "createdAt": "2026-04-17T13:43:36.310Z",
+      "updatedAt": "2026-04-17T13:43:36.310Z"
+    },
+    {
+      "sessionId": "656d1c91-51d3-4c81-8e45-be70a8135d20",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "你根据世界上顶级的那种知识大师，帮我进行一个整理。\n\n我想了解他们是如何进行管理的：\n1. 知识文件...",
+      "createdAt": "2026-04-14T21:10:35.735Z",
+      "updatedAt": "2026-04-14T21:10:35.735Z"
+    },
+    {
+      "sessionId": "acd946aa-2870-4cd6-a98f-e4a2820aaeb6",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "找到我这里面关于护肤的一个文件。里面有很多 Boots 的商品，请帮我找到最近正在打折的商品，并进行...",
+      "createdAt": "2026-04-14T19:45:13.349Z",
+      "updatedAt": "2026-04-14T19:45:13.349Z"
+    },
+    {
+      "sessionId": "f183ffa1-bb3a-4942-b180-f8de56692581",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "然后，请你从一个专业 report 撰写人的角度去审视我的报告，找出其中不合理、值得修改的地方并全部...",
+      "createdAt": "2026-04-12T14:46:49.730Z",
+      "updatedAt": "2026-04-12T14:46:49.730Z"
+    },
+    {
+      "sessionId": "ac7fdb36-a0d0-4fb1-8c3f-607525bd03f6",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "我现在的文件夹有点乱，请帮我处理一下：\n\n1. 归档：把该归档的文件全部归档。\n2. 统合：将相关的...",
+      "createdAt": "2026-04-12T10:48:11.929Z",
+      "updatedAt": "2026-04-12T10:48:11.929Z"
+    },
+    {
+      "sessionId": "1ab1a91e-ef5f-44c0-bf72-aa7b40607bd7",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "/skill 有那些",
+      "createdAt": "2026-04-11T13:16:38.246Z",
+      "updatedAt": "2026-04-11T13:16:38.246Z"
+    },
+    {
+      "sessionId": "b730636c-888c-4603-bb2d-41de92135a7a",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "给我去github上面下载华夏老祖宗，女娲，张雪峰skill",
+      "createdAt": "2026-04-11T13:13:50.711Z",
+      "updatedAt": "2026-04-11T13:13:50.711Z"
+    },
+    {
+      "sessionId": "41675808-ef06-47f3-b496-500452d8cafb",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\iCloudDrive\\.obsidian\\IRP Management",
+      "title": "halo",
+      "createdAt": "2026-04-10T13:40:16.736Z",
+      "updatedAt": "2026-04-10T13:40:16.736Z"
+    }
+  ],
+  "lastUsedModels": {
+    "gemini-cli": "gemini-3.1-pro-preview"
+  },
+  "lastUsedModes": {
+    "gemini-cli": "yolo"
+  },
+  "enableFloatingChat": false,
+  "floatingButtonImage": "",
+  "floatingWindowSize": {
+    "width": 400,
+    "height": 500
+  },
+  "floatingWindowPosition": null,
+  "floatingButtonPosition": null
+}

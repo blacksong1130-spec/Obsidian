@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sessionId": "a89b16b5-4f80-47f6-8ed6-95324b8393ab",
+  "agentId": "gemini-cli",
+  "messages": [
+    {
+      "id": "0af58616-901d-4276-9469-0b2fbeb89e03",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "halo"
+        }
+      ],
+      "timestamp": "2026-04-18T08:37:24.279Z"
+    },
+    {
+      "id": "7e3865c9-e9f2-4db6-bca2-efcc2de9d007",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "Hello! How can I help you today?"
+        }
+      ],
+      "timestamp": "2026-04-18T08:37:29.144Z"
+    }
+  ],
+  "savedAt": "2026-04-18T08:37:29.225Z"
+}

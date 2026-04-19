@@ -1,0 +1,30 @@
+{
+  "showTitle": true,
+  "maxLevel": "6",
+  "displayHeader": true,
+  "displayFooter": true,
+  "headerTemplate": "<div style=\"width: 100%; font-size: 9px; text-align: right; border-bottom: 1px solid #ccc; padding-bottom: 3px;\">\n    <span class=\"title\"></span>\n</div>",
+  "footerTemplate": "<div style=\"width: 100%; font-size: 10px; text-align: center; font-family: 'Times New Roman', serif;\">\n    Page <span class=\"pageNumber\"></span> of <span class=\"totalPages\"></span>\n</div>",
+  "printBackground": false,
+  "generateTaggedPDF": false,
+  "displayMetadata": false,
+  "debug": false,
+  "isTimestamp": false,
+  "enabledCss": true,
+  "concurrency": "5",
+  "prevConfig": {
+    "pageSize": "A4",
+    "marginType": "3",
+    "showTitle": false,
+    "open": true,
+    "scale": 100,
+    "landscape": false,
+    "marginTop": "25",
+    "marginBottom": "25",
+    "marginLeft": "25",
+    "marginRight": "25",
+    "displayHeader": true,
+    "displayFooter": true,
+    "cssSnippet": "0"
+  }
+}

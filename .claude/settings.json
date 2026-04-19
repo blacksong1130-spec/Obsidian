@@ -1,0 +1,46 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(D:\\\\iCloudDrive\\\\.obsidian\\\\IRP Management\\\\.claude\\\\commands\\\\clean-workspace.md)",
+      "Write(D:\\\\iCloudDrive\\\\.obsidian\\\\IRP Management\\\\.claude\\\\settings.json)",
+      "Edit(D:\\\\iCloudDrive\\\\.obsidian\\\\IRP Management\\\\.claude\\\\settings.json)",
+      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\settings.json)",
+      "Bash(cp /c/Users/shywl/.claude/plugins/marketplaces/karpathy-skills/skills/karpathy-guidelines/SKILL.md /c/Users/shywl/.claude/skills/karpathy-guidelines.md && echo \"Skill copied successfully\")",
+      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\CLAUDE.md)",
+      "Bash(grep \"\\\\.md$\")",
+      "Bash(ls -lt \"D:\\\\Obsidian\\\\IRP Management/\"*.md)",
+      "Bash(claude plugin:*)",
+      "Bash(ls /c/Users/shywl/.claude/plugins/marketplaces/claude-plugins-official/plugins/scholar*/)",
+      "Read(//c/Users/shywl/.agents/skills//**)",
+      "Bash(for skill in find-skills huashu-nuwa munger-perspective naval-perspective zhangxuefeng-perspective; do\n  echo \"=== $skill ===\"\n  head -20 /c/Users/shywl/.agents/skills/$skill/SKILL.md 2>/dev/null || cat /c/Users/shywl/.agents/skills/$skill/*.md 2>/dev/null | head -20\n  echo \"\"\ndone)",
+      "Edit(C:\\\\Users\\\\shywl\\\\.claude\\\\settings.json)"
+    ],
+    "defaultMode": "bypassPermissions"
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cmd=$(cat | jq -r '.tool_input.command // \"\"'); if echo \"$cmd\" | grep -qiE '(del |rm |erase |remove-item).*MVP'; then printf '{\"continue\":false,\"stopReason\":\"! MVP（置顶）.md is protected and cannot be deleted via command line\"}'; fi",
+            "timeout": 3
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "input=$(cat); msg=$(echo \"$input\" | jq -r '.message // \"\"'); if echo \"$msg\" | grep -qE 'MVP|提炼|帮我读这篇|文章.*转化|→MVP|->MVP'; then jq -cn '{\"hookSpecificOutput\":{\"hookEventName\":\"UserPromptSubmit\",\"additionalContext\":\"[STANDING ORDER ACTIVE] Article-to-MVP mode activated. Structure your ENTIRE response using exactly these 4 sections (as defined in ! MVP（置顶）.md at vault root): 1.核心观点(≤3句,去掉所有修辞后最硬的洞见) 2.MVP方案(伦敦在地化,必须满足四标准:⏱1-2周内可启动/💷低成本或零成本/🧪有明确成功或失败判据/🔗与IRP或伦敦资源有交叉点) 3.今天的第一步(今天下班前能完成的1件具体行动,不是计划) 4.复利评估(这个MVP跑通后会打开哪些更大的门)\"}}'; fi",
+            "timeout": 5,
+            "statusMessage": "检测触发词…"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "token": "",
+  "targetDir": "flomo",
+  "downloadAttachments": true,
+  "syncInterval": 0,
+  "debugMode": false,
+  "cursor": {
+    "latest_updated_at": 0,
+    "latest_slug": ""
+  }
+}

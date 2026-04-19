@@ -1,0 +1,39 @@
+name: RCA Mail → Gmail Forwarder
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # 每15分钟执行一次
+  workflow_dispatch:           # 支持手动触发测试
+
+jobs:
+  forward-mail:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install msal requests
+
+      - name: Run mail forwarder
+        id: forwarder
+        env:
+          CLIENT_ID:          ${{ secrets.RCA_CLIENT_ID }}
+          TENANT_ID:          ${{ secrets.RCA_TENANT_ID }}
+          CLIENT_SECRET:      ${{ secrets.RCA_CLIENT_SECRET }}
+          MSAL_TOKEN_CACHE:   ${{ secrets.MSAL_TOKEN_CACHE }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python Claudian/rca_mail_forward.py
+
+      # Token cache 自动更新（保持 refresh token 有效）
+      - name: Update token cache if refreshed
+        if: steps.forwarder.outputs.new_token_cache != ''
+        uses: gliech/create-github-secret-action@v1
+        with:
+          name: MSAL_TOKEN_CACHE
+          value: ${{ steps.forwarder.outputs.new_token_cache }}
+          token: ${{ secrets.PAT_UPDATE_SECRETS }}

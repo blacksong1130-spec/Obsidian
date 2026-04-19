@@ -1,0 +1,486 @@
+{
+  "PERSISTENCE": true,
+  "FILTER_SEARCH": "",
+  "FILTER_TAG": "",
+  "FILTER_GROUP": "",
+  "FILTER_DELAY": "",
+  "LANGUAGE": "zh-cn",
+  "LANGUAGE_INITIALIZED": true,
+  "MIGRATION_VERSION": "0.4.3",
+  "DEBUG": true,
+  "CENTER": false,
+  "ITEM_STYLE": "alwaysExpand",
+  "GROUP_STYLE": "a",
+  "TAG_STYLE": "b",
+  "DELAY": true,
+  "FADE_OUT_DISABLED_PLUGINS": true,
+  "COMMAND_ITEM": true,
+  "COMMAND_GROUP": true,
+  "STARTUP_CHECK_UPDATES": true,
+  "REPO_MAP": {
+    "advanced-canvas": "Developer-Mike/obsidian-advanced-canvas"
+  },
+  "BPM_INSTALLED": [],
+  "HIDE_BPM_TAG": false,
+  "EXPORT_DIR": "",
+  "GITHUB_TOKEN": "",
+  "SELF_CHECK_IGNORED": false,
+  "GROUPS": [],
+  "TAGS": [
+    {
+      "id": "bpm-install",
+      "name": "bpm install",
+      "color": "#409EFF"
+    },
+    {
+      "id": "bpm-ignore",
+      "name": "BPM 忽略",
+      "color": "#6c757d"
+    }
+  ],
+  "DELAYS": [
+    {
+      "id": "default",
+      "name": "默认延迟",
+      "time": 10
+    }
+  ],
+  "Plugins": [
+    {
+      "id": "better-plugins-manager",
+      "name": "Better Plugins Manager",
+      "desc": "Plugin Manager: Simplify, Enhance, Personalize | 插件管理器：简化操作、增强功能、个性化设置",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "advanced-canvas",
+      "name": "Advanced Canvas",
+      "desc": "Supercharge your canvas experience! Create presentations, flowcharts and more!",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "agent-client",
+      "name": "Agent Client",
+      "desc": "Chat with AI agents via the Agent Client Protocol directly from your vault.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "auto-card-link",
+      "name": "Auto Card Link",
+      "desc": "Automatically fetches metadata from a url and makes it as a card-styled link",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "claudian",
+      "name": "Claudian",
+      "desc": "Embeds Claude Code as an AI collaborator in your vault. Your vault becomes Claude's working directory, giving it full agentic capabilities: file read/write, search, bash commands, and multi-step workflows.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "commentator",
+      "name": "Commentator",
+      "desc": "Suggest edits, add comments, and annotate your notes using CriticMarkup syntax.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "dataview",
+      "name": "Dataview",
+      "desc": "Complex data views for the data-obsessed.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "drawio-obsidian",
+      "name": "Diagrams",
+      "desc": "Draw.io diagrams for Obsidian. This plugin introduces diagrams that can be included within notes or as stand-alone files. Diagrams are created as SVG files (although .drawio extensions are also supported).",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "easy-typing-obsidian",
+      "name": "Easy Typing",
+      "desc": "This plugin aims to enhance and optimize the editing experience in Obsidian",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "flomo-bridge",
+      "name": "Flomo Bridge",
+      "desc": "将 flomo 笔记桥接到 Obsidian vault",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "i18n",
+      "name": "I18N",
+      "desc": "专为Obsidian打造的插件国际化工具，助力用户轻松跨越语言障碍，实现插件界面的无缝汉化。",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "maps",
+      "name": "Maps",
+      "desc": "Adds a map layout to bases so you can display notes as an interactive map view.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "mermaid-tools",
+      "name": "Mermaid Tools",
+      "desc": "Improved Mermaid.js experience for Obsidian: visual toolbar with common elements & more",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-auto-link-title",
+      "name": "Auto Link Title",
+      "desc": "This plugin automatically fetches the titles of links from the web",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-chartsview-plugin",
+      "name": "Charts View",
+      "desc": "Data visualization solution in Obsidian based on Ant Design Charts.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-excalidraw-plugin",
+      "name": "Excalidraw",
+      "desc": "Sketch Your Mind. An Obsidian plugin to edit and view Excalidraw drawings. Enter the world of 4D Visual PKM.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-git",
+      "name": "Git",
+      "desc": "Integrate Git version control with automatic backup and other advanced features.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-hover-editor",
+      "name": "Hover Editor",
+      "desc": "Transform the Page Preview hover popover into a floating tab",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-linter",
+      "name": "Linter",
+      "desc": "Formats and styles your notes. It can be used to format YAML tags, aliases, arrays, and metadata; footnotes; headings; spacing; math blocks; regular markdown contents like list, italics, and bold styles; and more with the use of custom rule options as well.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-outliner",
+      "name": "Outliner",
+      "desc": "Work with your lists like in Workflowy or RoamResearch.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian42-brat",
+      "name": "BRAT",
+      "desc": "Easily install a beta version of a plugin for testing.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian42-text-transporter",
+      "name": "Text Transporter",
+      "desc": "Advanced text tools for working with text in your vault",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "rss-dashboard",
+      "name": "RSS Dashboard",
+      "desc": "A dashboard for organizing and consuming RSS feeds, YouTube channels, and podcasts with smart tagging, media playback, and seamless content flow.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "terminal",
+      "name": "Terminal",
+      "desc": "Integrate consoles, shells, and terminals.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "smart-composer",
+      "name": "Smart Composer",
+      "desc": "AI chat with note context, smart writing assistance, and one-click edits for your vault.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "yolo",
+      "name": "YOLO",
+      "desc": "Agent-native AI assistant — chat, write, search, orchestrate, all in one.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "better-export-pdf",
+      "name": "Better Export PDF",
+      "desc": "Export your notes to PDF, support export preview, add bookmarks outline and header/footer.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    }
+  ],
+  "HIDES": [],
+  "RIBBON_SETTINGS": [
+    {
+      "id": "smart-composer:Open smart composer",
+      "name": "smart-composer:Open smart composer",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "switcher:打开快速切换",
+      "name": "打开快速切换",
+      "icon": "lucide-file-search",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "graph:查看关系图谱",
+      "name": "查看关系图谱",
+      "icon": "lucide-git-fork",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "canvas:新建白板",
+      "name": "新建白板",
+      "icon": "lucide-layout-dashboard",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "daily-notes:打开/创建今天的日记",
+      "name": "打开/创建今天的日记",
+      "icon": "lucide-calendar",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "templates:插入模板",
+      "name": "插入模板",
+      "icon": "lucide-files",
+      "visible": true,
+      "order": 5
+    },
+    {
+      "id": "command-palette:打开命令面板",
+      "name": "打开命令面板",
+      "icon": "lucide-terminal",
+      "visible": true,
+      "order": 6
+    },
+    {
+      "id": "bases:新建数据库",
+      "name": "新建数据库",
+      "icon": "lucide-layout-list",
+      "visible": true,
+      "order": 7
+    },
+    {
+      "id": "random-note:开始漫游笔记",
+      "name": "开始漫游笔记",
+      "icon": "dice",
+      "visible": true,
+      "order": 8
+    },
+    {
+      "id": "zk-prefixer:创建时间戳笔记",
+      "name": "创建时间戳笔记",
+      "icon": "sheets-in-box",
+      "visible": true,
+      "order": 9
+    },
+    {
+      "id": "markdown-importer:打开 Markdown 格式转换器",
+      "name": "打开 Markdown 格式转换器",
+      "icon": "lucide-binary",
+      "visible": true,
+      "order": 10
+    },
+    {
+      "id": "audio-recorder:开始/结束录音",
+      "name": "开始/结束录音",
+      "icon": "lucide-mic",
+      "visible": true,
+      "order": 11
+    },
+    {
+      "id": "better-plugins-manager:插件管理器",
+      "name": "better-plugins-manager:插件管理器",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 12
+    },
+    {
+      "id": "agent-client:Open agent client",
+      "name": "Open agent client",
+      "icon": "bot-message-square",
+      "visible": true,
+      "order": 13
+    },
+    {
+      "id": "i18n:common.i18n",
+      "name": "common.i18n",
+      "icon": "i18n_translate",
+      "visible": true,
+      "order": 14
+    },
+    {
+      "id": "obsidian42-brat:BRAT",
+      "name": "obsidian42-brat:BRAT",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 15
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:New drawing",
+      "name": "obsidian-excalidraw-plugin:New drawing",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 16
+    },
+    {
+      "id": "obsidian-git:Open Git source control",
+      "name": "obsidian-git:Open Git source control",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 17
+    },
+    {
+      "id": "mermaid-tools:Open Mermaid Toolbar",
+      "name": "mermaid-tools:Open Mermaid Toolbar",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 18
+    },
+    {
+      "id": "rss-dashboard:RSS dashboard",
+      "name": "rss-dashboard:RSS dashboard",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 19
+    },
+    {
+      "id": "terminal:Open terminal",
+      "name": "terminal:Open terminal",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 20
+    },
+    {
+      "id": "obsidian42-text-transporter:Text Transporter",
+      "name": "obsidian42-text-transporter:Text Transporter",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 21
+    },
+    {
+      "id": "claudian:Open Claudian",
+      "name": "Open Claudian",
+      "icon": "bot",
+      "visible": true,
+      "order": 22
+    }
+  ],
+  "AUTO_TAKEOVER": true,
+  "USE_NATIVE_RIBBON_CONFIG": true
+}
