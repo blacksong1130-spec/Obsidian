@@ -264,6 +264,16 @@
       "enabled": true,
       "delay": "",
       "note": ""
+    },
+    {
+      "id": "xiaohongshu-importer",
+      "name": "Xiaohongshu Importer",
+      "desc": "Import Xiaohongshu (小红书) notes with media and categorization.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
     }
   ],
   "HIDES": [],
@@ -421,6 +431,13 @@
       "icon": "help-circle",
       "visible": true,
       "order": 21
+    },
+    {
+      "id": "xiaohongshu-importer:Import Xiaohongshu note",
+      "name": "xiaohongshu-importer:Import Xiaohongshu note",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 22
     }
   ],
   "AUTO_TAKEOVER": true,
