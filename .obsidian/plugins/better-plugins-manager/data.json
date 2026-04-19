@@ -381,29 +381,29 @@
       "order": 15
     },
     {
-      "id": "claudian:Open Claudian",
-      "name": "claudian:Open Claudian",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 16
-    },
-    {
       "id": "obsidian42-brat:BRAT",
       "name": "obsidian42-brat:BRAT",
       "icon": "help-circle",
       "visible": true,
-      "order": 17
+      "order": 16
     },
     {
       "id": "obsidian-gantt-calendar:甘特日历",
       "name": "obsidian-gantt-calendar:甘特日历",
       "icon": "help-circle",
       "visible": true,
-      "order": 18
+      "order": 17
     },
     {
       "id": "templater-obsidian:Templater",
       "name": "templater-obsidian:Templater",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 18
+    },
+    {
+      "id": "claudian:Open Claudian",
+      "name": "claudian:Open Claudian",
       "icon": "help-circle",
       "visible": true,
       "order": 19

@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "340737b6-e4fd-4926-98d9-c7a01c222764",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "为什么我的 iCloud 里面找不到我的 Obsidian 呢？\n\n就是在手机端上找不到，它说我的 ...",
+      "createdAt": "2026-04-19T01:40:03.745Z",
+      "updatedAt": "2026-04-19T01:40:03.745Z"
+    },
+    {
       "sessionId": "1e2d8c40-af99-4f57-9ddc-744f5915bd3b",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\IRP Management",
