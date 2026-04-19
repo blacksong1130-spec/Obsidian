@@ -419,22 +419,22 @@
       "order": 19
     },
     {
-      "id": "claudian:Open Claudian",
-      "name": "claudian:Open Claudian",
+      "id": "obsidian-excalidraw-plugin:New drawing",
+      "name": "obsidian-excalidraw-plugin:New drawing",
       "icon": "help-circle",
       "visible": true,
       "order": 20
     },
     {
-      "id": "obsidian-excalidraw-plugin:New drawing",
-      "name": "obsidian-excalidraw-plugin:New drawing",
+      "id": "i18n:common.i18n",
+      "name": "i18n:common.i18n",
       "icon": "help-circle",
       "visible": true,
       "order": 21
     },
     {
-      "id": "i18n:common.i18n",
-      "name": "i18n:common.i18n",
+      "id": "claudian:Open Claudian",
+      "name": "claudian:Open Claudian",
       "icon": "help-circle",
       "visible": true,
       "order": 22
