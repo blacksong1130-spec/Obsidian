@@ -279,165 +279,81 @@
   "HIDES": [],
   "RIBBON_SETTINGS": [
     {
-      "id": "local-backup:Run local backup",
-      "name": "local-backup:Run local backup",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 0
-    },
-    {
       "id": "switcher:打开快速切换",
       "name": "打开快速切换",
       "icon": "lucide-file-search",
       "visible": true,
-      "order": 1
+      "order": 0
     },
     {
       "id": "graph:查看关系图谱",
       "name": "查看关系图谱",
       "icon": "lucide-git-fork",
       "visible": true,
-      "order": 2
+      "order": 1
     },
     {
       "id": "canvas:新建白板",
       "name": "新建白板",
       "icon": "lucide-layout-dashboard",
       "visible": true,
-      "order": 3
+      "order": 2
     },
     {
       "id": "daily-notes:打开/创建今天的日记",
       "name": "打开/创建今天的日记",
       "icon": "lucide-calendar",
       "visible": true,
-      "order": 4
+      "order": 3
     },
     {
       "id": "templates:插入模板",
       "name": "插入模板",
       "icon": "lucide-files",
       "visible": true,
-      "order": 5
+      "order": 4
     },
     {
       "id": "command-palette:打开命令面板",
       "name": "打开命令面板",
       "icon": "lucide-terminal",
       "visible": true,
-      "order": 6
+      "order": 5
     },
     {
       "id": "bases:新建数据库",
       "name": "新建数据库",
       "icon": "lucide-layout-list",
       "visible": true,
-      "order": 7
+      "order": 6
     },
     {
       "id": "random-note:开始漫游笔记",
       "name": "开始漫游笔记",
       "icon": "dice",
       "visible": true,
-      "order": 8
+      "order": 7
     },
     {
       "id": "zk-prefixer:创建时间戳笔记",
       "name": "创建时间戳笔记",
       "icon": "sheets-in-box",
       "visible": true,
-      "order": 9
+      "order": 8
     },
     {
       "id": "markdown-importer:打开 Markdown 格式转换器",
       "name": "打开 Markdown 格式转换器",
       "icon": "lucide-binary",
       "visible": true,
-      "order": 10
+      "order": 9
     },
     {
       "id": "audio-recorder:开始/结束录音",
       "name": "开始/结束录音",
       "icon": "lucide-mic",
       "visible": true,
-      "order": 11
-    },
-    {
-      "id": "better-plugins-manager:插件管理器",
-      "name": "better-plugins-manager:插件管理器",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 12
-    },
-    {
-      "id": "agent-client:Open agent client",
-      "name": "agent-client:Open agent client",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 13
-    },
-    {
-      "id": "mermaid-tools:Open Mermaid Toolbar",
-      "name": "mermaid-tools:Open Mermaid Toolbar",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 14
-    },
-    {
-      "id": "obsidian-git:Open Git source control",
-      "name": "obsidian-git:Open Git source control",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 15
-    },
-    {
-      "id": "obsidian42-brat:BRAT",
-      "name": "obsidian42-brat:BRAT",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 16
-    },
-    {
-      "id": "obsidian-gantt-calendar:甘特日历",
-      "name": "obsidian-gantt-calendar:甘特日历",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 17
-    },
-    {
-      "id": "templater-obsidian:Templater",
-      "name": "templater-obsidian:Templater",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 18
-    },
-    {
-      "id": "claudian:Open Claudian",
-      "name": "claudian:Open Claudian",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 19
-    },
-    {
-      "id": "obsidian-excalidraw-plugin:New drawing",
-      "name": "obsidian-excalidraw-plugin:New drawing",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 20
-    },
-    {
-      "id": "i18n:common.i18n",
-      "name": "i18n:common.i18n",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 21
-    },
-    {
-      "id": "xiaohongshu-importer:Import Xiaohongshu note",
-      "name": "xiaohongshu-importer:Import Xiaohongshu note",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 22
+      "order": 10
     }
   ],
   "AUTO_TAKEOVER": true,
