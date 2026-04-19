@@ -56,6 +56,22 @@
   },
   "savedSessions": [
     {
+      "sessionId": "6c4cd594-f1c4-4ec2-a181-cf7adf0eca54",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "帮我处理一下",
+      "createdAt": "2026-04-19T22:08:40.502Z",
+      "updatedAt": "2026-04-19T22:08:40.502Z"
+    },
+    {
+      "sessionId": "641abef4-1a78-45a8-b2eb-1d73cddd3f5b",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "",
+      "createdAt": "2026-04-19T21:56:48.125Z",
+      "updatedAt": "2026-04-19T21:56:48.125Z"
+    },
+    {
       "sessionId": "d43a15dc-816e-43cc-860f-fe13c06045a9",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\IRP Management",

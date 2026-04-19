@@ -32,7 +32,11 @@
     },
     {
       "id": "delayed",
-      "name": "🟡 延迟加载 · 10s"
+      "name": "🟡 轻量延迟 · 10s"
+    },
+    {
+      "id": "heavy",
+      "name": "🔴 重型延迟 · 20s"
     }
   ],
   "TAGS": [
@@ -50,20 +54,25 @@
   "DELAYS": [
     {
       "id": "default",
-      "name": "默认延迟",
+      "name": "轻量延迟 10s",
       "time": 10
+    },
+    {
+      "id": "delayed-20",
+      "name": "重型延迟 20s",
+      "time": 20
     }
   ],
   "Plugins": [
     {
       "id": "better-plugins-manager",
       "name": "Better Plugins Manager",
-      "desc": "插件管理器",
+      "desc": "插件管理器 · 控制所有插件加载",
       "group": "core",
       "tags": [],
       "enabled": true,
       "delay": "",
-      "note": ""
+      "note": "必须第一个加载，控制其余所有插件"
     },
     {
       "id": "claudian",
@@ -73,7 +82,7 @@
       "tags": [],
       "enabled": true,
       "delay": "",
-      "note": ""
+      "note": "核心 AI 工作流，优先加载"
     },
     {
       "id": "agent-client",
@@ -83,57 +92,17 @@
       "tags": [],
       "enabled": true,
       "delay": "",
-      "note": ""
+      "note": "AI 对话界面，配合 Claudian 使用"
     },
     {
-      "id": "flomo-bridge",
-      "name": "Flomo Bridge",
-      "desc": "Flomo → Obsidian 同步",
+      "id": "obsidian-local-rest-api",
+      "name": "Local REST API",
+      "desc": "Claudian 通信桥接层",
       "group": "core",
       "tags": [],
       "enabled": true,
       "delay": "",
-      "note": ""
-    },
-    {
-      "id": "dataview",
-      "name": "Dataview",
-      "desc": "MOC 与模板查询",
-      "group": "core",
-      "tags": [],
-      "enabled": true,
-      "delay": "",
-      "note": ""
-    },
-    {
-      "id": "obsidian-git",
-      "name": "Git",
-      "desc": "版本控制",
-      "group": "core",
-      "tags": [],
-      "enabled": true,
-      "delay": "",
-      "note": ""
-    },
-    {
-      "id": "obsidian-linter",
-      "name": "Linter",
-      "desc": "笔记自动格式化",
-      "group": "core",
-      "tags": [],
-      "enabled": true,
-      "delay": "",
-      "note": ""
-    },
-    {
-      "id": "mermaid-tools",
-      "name": "Mermaid Tools",
-      "desc": "Mermaid 图表工具栏",
-      "group": "core",
-      "tags": [],
-      "enabled": true,
-      "delay": "",
-      "note": ""
+      "note": "Claudian 依赖此插件与 Claude Code CLI 通信，必须核心加载"
     },
     {
       "id": "easy-typing-obsidian",
@@ -143,32 +112,62 @@
       "tags": [],
       "enabled": true,
       "delay": "",
-      "note": ""
+      "note": "影响第一次击键体验，必须立即加载"
     },
     {
-      "id": "better-export-pdf",
-      "name": "Better Export PDF",
-      "desc": "PDF 导出",
+      "id": "dataview",
+      "name": "Dataview",
+      "desc": "MOC 与动态查询",
       "group": "core",
       "tags": [],
       "enabled": true,
       "delay": "",
-      "note": ""
+      "note": "主页 Dashboard 和导航中心依赖此插件渲染"
+    },
+    {
+      "id": "obsidian-git",
+      "name": "Git",
+      "desc": "版本控制",
+      "group": "delayed",
+      "tags": [],
+      "enabled": true,
+      "delay": "default",
+      "note": "10s 后加载，不影响日常使用"
+    },
+    {
+      "id": "obsidian-linter",
+      "name": "Linter",
+      "desc": "笔记自动格式化",
+      "group": "delayed",
+      "tags": [],
+      "enabled": true,
+      "delay": "default",
+      "note": "保存时触发，10s 内不会保存文件"
+    },
+    {
+      "id": "templater-obsidian",
+      "name": "Templater",
+      "desc": "模板引擎",
+      "group": "delayed",
+      "tags": [],
+      "enabled": true,
+      "delay": "default",
+      "note": "10s 后加载，早于日常使用模板的时间"
+    },
+    {
+      "id": "mermaid-tools",
+      "name": "Mermaid Tools",
+      "desc": "Mermaid 图表工具栏",
+      "group": "delayed",
+      "tags": [],
+      "enabled": true,
+      "delay": "default",
+      "note": "绘图工具，10s 后加载无感知"
     },
     {
       "id": "advanced-canvas",
       "name": "Advanced Canvas",
       "desc": "Canvas 增强",
-      "group": "delayed",
-      "tags": [],
-      "enabled": true,
-      "delay": "default",
-      "note": ""
-    },
-    {
-      "id": "obsidian-excalidraw-plugin",
-      "name": "Excalidraw",
-      "desc": "手绘图",
       "group": "delayed",
       "tags": [],
       "enabled": true,
@@ -203,241 +202,216 @@
       "tags": [],
       "enabled": true,
       "delay": "default",
-      "note": ""
+      "note": "汉化插件 UI，非 Obsidian 本体，10s 无感知"
     },
     {
-      "id": "local-backup",
-      "name": "Local Backup",
-      "desc": "Automatically creates a local backup of the vault.",
-      "group": "",
+      "id": "obsidian-excalidraw-plugin",
+      "name": "Excalidraw",
+      "desc": "手绘图",
+      "group": "heavy",
       "tags": [],
       "enabled": true,
-      "delay": "",
-      "note": ""
+      "delay": "delayed-20",
+      "note": "体积最大的插件之一，20s 加载"
     },
     {
       "id": "obsidian-gantt-calendar",
       "name": "Gantt Calendar",
-      "desc": "Gantt-style calendar with day/week/month/year views and a task board that reads Tasks/Dataview items, supports global filters and date filters for quick scheduling.",
-      "group": "",
+      "desc": "可视化任务管理（主任务系统）",
+      "group": "heavy",
       "tags": [],
       "enabled": true,
-      "delay": "",
-      "note": ""
+      "delay": "delayed-20",
+      "note": "日常任务主系统，打开 Obsidian 20s 后可用"
     },
     {
-      "id": "obsidian-local-rest-api",
-      "name": "Local REST API",
-      "desc": "Get, change or otherwise interact with your notes in Obsidian via a REST API.",
-      "group": "",
+      "id": "flomo-bridge",
+      "name": "Flomo Bridge",
+      "desc": "Flomo → Obsidian 同步",
+      "group": "heavy",
       "tags": [],
       "enabled": true,
-      "delay": "",
-      "note": ""
-    },
-    {
-      "id": "obsidian42-brat",
-      "name": "BRAT",
-      "desc": "Easily install a beta version of a plugin for testing.",
-      "group": "",
-      "tags": [],
-      "enabled": true,
-      "delay": "",
-      "note": ""
-    },
-    {
-      "id": "templater-obsidian",
-      "name": "Templater",
-      "desc": "Create and use templates",
-      "group": "",
-      "tags": [],
-      "enabled": true,
-      "delay": "",
-      "note": ""
-    },
-    {
-      "id": "obsidian-douban-plugin",
-      "name": "Douban",
-      "desc": "This is a plugin that can import movies/books/musics/notes/games info data from Douban for Obsidian .",
-      "group": "",
-      "tags": [],
-      "enabled": true,
-      "delay": "",
-      "note": ""
+      "delay": "delayed-20",
+      "note": "同步工具，不需要立即可用"
     },
     {
       "id": "xiaohongshu-importer",
       "name": "Xiaohongshu Importer",
-      "desc": "Import Xiaohongshu (小红书) notes with media and categorization.",
-      "group": "",
+      "desc": "小红书笔记导入",
+      "group": "heavy",
       "tags": [],
       "enabled": true,
-      "delay": "",
-      "note": ""
+      "delay": "delayed-20",
+      "note": "内容导入工具，按需使用"
+    },
+    {
+      "id": "obsidian-douban-plugin",
+      "name": "Douban",
+      "desc": "豆瓣影音数据导入",
+      "group": "heavy",
+      "tags": [],
+      "enabled": true,
+      "delay": "delayed-20",
+      "note": "影音库录入工具，按需使用"
+    },
+    {
+      "id": "better-export-pdf",
+      "name": "Better Export PDF",
+      "desc": "PDF 导出",
+      "group": "heavy",
+      "tags": [],
+      "enabled": true,
+      "delay": "delayed-20",
+      "note": "导出工具，极少在启动后立即使用"
+    },
+    {
+      "id": "obsidian42-brat",
+      "name": "BRAT",
+      "desc": "Beta 插件测试安装",
+      "group": "heavy",
+      "tags": [],
+      "enabled": true,
+      "delay": "delayed-20",
+      "note": "开发工具，20s 后加载"
+    },
+    {
+      "id": "local-backup",
+      "name": "Local Backup",
+      "desc": "本地自动备份",
+      "group": "heavy",
+      "tags": [],
+      "enabled": true,
+      "delay": "delayed-20",
+      "note": "备份工具，20s 后启动不影响使用"
     }
   ],
   "HIDES": [],
   "RIBBON_SETTINGS": [
     {
-      "id": "local-backup:Run local backup",
-      "name": "local-backup:Run local backup",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 0
-    },
-    {
       "id": "switcher:打开快速切换",
       "name": "打开快速切换",
       "icon": "lucide-file-search",
       "visible": true,
-      "order": 1
+      "order": 0
     },
     {
       "id": "graph:查看关系图谱",
       "name": "查看关系图谱",
       "icon": "lucide-git-fork",
       "visible": true,
-      "order": 2
+      "order": 1
     },
     {
       "id": "canvas:新建白板",
       "name": "新建白板",
       "icon": "lucide-layout-dashboard",
       "visible": true,
-      "order": 3
+      "order": 2
     },
     {
       "id": "daily-notes:打开/创建今天的日记",
       "name": "打开/创建今天的日记",
       "icon": "lucide-calendar",
       "visible": true,
-      "order": 4
+      "order": 3
     },
     {
       "id": "templates:插入模板",
       "name": "插入模板",
       "icon": "lucide-files",
       "visible": true,
-      "order": 5
+      "order": 4
     },
     {
       "id": "command-palette:打开命令面板",
       "name": "打开命令面板",
       "icon": "lucide-terminal",
       "visible": true,
-      "order": 6
+      "order": 5
     },
     {
       "id": "bases:新建数据库",
       "name": "新建数据库",
       "icon": "lucide-layout-list",
       "visible": true,
-      "order": 7
+      "order": 6
     },
     {
       "id": "random-note:开始漫游笔记",
       "name": "开始漫游笔记",
       "icon": "dice",
       "visible": true,
-      "order": 8
+      "order": 7
     },
     {
       "id": "zk-prefixer:创建时间戳笔记",
       "name": "创建时间戳笔记",
       "icon": "sheets-in-box",
       "visible": true,
-      "order": 9
+      "order": 8
     },
     {
       "id": "markdown-importer:打开 Markdown 格式转换器",
       "name": "打开 Markdown 格式转换器",
       "icon": "lucide-binary",
       "visible": true,
-      "order": 10
+      "order": 9
     },
     {
       "id": "audio-recorder:开始/结束录音",
       "name": "开始/结束录音",
       "icon": "lucide-mic",
       "visible": true,
-      "order": 11
+      "order": 10
     },
     {
       "id": "better-plugins-manager:插件管理器",
       "name": "better-plugins-manager:插件管理器",
       "icon": "help-circle",
       "visible": true,
-      "order": 12
+      "order": 11
     },
     {
       "id": "agent-client:Open agent client",
       "name": "agent-client:Open agent client",
       "icon": "help-circle",
       "visible": true,
-      "order": 13
-    },
-    {
-      "id": "mermaid-tools:Open Mermaid Toolbar",
-      "name": "mermaid-tools:Open Mermaid Toolbar",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 14
-    },
-    {
-      "id": "obsidian-git:Open Git source control",
-      "name": "obsidian-git:Open Git source control",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 15
-    },
-    {
-      "id": "obsidian42-brat:BRAT",
-      "name": "obsidian42-brat:BRAT",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 16
-    },
-    {
-      "id": "obsidian-gantt-calendar:甘特日历",
-      "name": "obsidian-gantt-calendar:甘特日历",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 17
-    },
-    {
-      "id": "templater-obsidian:Templater",
-      "name": "templater-obsidian:Templater",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 18
-    },
-    {
-      "id": "xiaohongshu-importer:Import Xiaohongshu note",
-      "name": "xiaohongshu-importer:Import Xiaohongshu note",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 19
-    },
-    {
-      "id": "obsidian-excalidraw-plugin:New drawing",
-      "name": "obsidian-excalidraw-plugin:New drawing",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 20
-    },
-    {
-      "id": "i18n:common.i18n",
-      "name": "i18n:common.i18n",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 21
+      "order": 12
     },
     {
       "id": "claudian:Open Claudian",
       "name": "claudian:Open Claudian",
       "icon": "help-circle",
       "visible": true,
-      "order": 22
+      "order": 13
+    },
+    {
+      "id": "i18n:common.i18n",
+      "name": "i18n:common.i18n",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 14
+    },
+    {
+      "id": "mermaid-tools:Open Mermaid Toolbar",
+      "name": "mermaid-tools:Open Mermaid Toolbar",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 15
+    },
+    {
+      "id": "templater-obsidian:Templater",
+      "name": "templater-obsidian:Templater",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 16
+    },
+    {
+      "id": "obsidian-git:Open Git source control",
+      "name": "obsidian-git:Open Git source control",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 17
     }
   ],
   "AUTO_TAKEOVER": true,

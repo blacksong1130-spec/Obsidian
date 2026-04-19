@@ -1,6 +1,7 @@
 {
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "media-gallery"
+    "media-gallery",
+    "clean-sidebar"
   ]
 }

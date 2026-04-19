@@ -2,19 +2,38 @@
   "items": [
     {
       "type": "file",
-      "path": "! MVP（置顶）.md"
+      "path": "!HOME.md",
+      "title": "🏠 Control Tower"
     },
     {
       "type": "file",
-      "path": "80.MOC/Home.md"
+      "path": "!INBOX.md",
+      "title": "📥 收件处理台"
     },
     {
       "type": "file",
-      "path": "00.Inbox/Quick Capture.md"
+      "path": "!MISSION CONTROL.md",
+      "title": "📋 任务指挥台"
     },
     {
       "type": "file",
-      "path": "20.Projects/IRP/IRP Overview.md"
+      "path": "!MEDIA LIBRARY.md",
+      "title": "🎬 影音库"
+    },
+    {
+      "type": "file",
+      "path": "_INDEX/Master Index.md",
+      "title": "📌 Master Index"
+    },
+    {
+      "type": "file",
+      "path": "_INDEX/文件夹地图.md",
+      "title": "🗺️ 文件夹地图"
+    },
+    {
+      "type": "file",
+      "path": "20.Projects/IRP/IRP Overview.md",
+      "title": "🔬 IRP Overview"
     }
   ]
 }

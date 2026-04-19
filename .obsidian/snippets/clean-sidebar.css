@@ -1,0 +1,125 @@
+/* =========================================================
+   clean-sidebar.css
+   Claudian 维护 · 2026-04-19
+   隐藏右侧边栏冗余 Tab 页和左侧 Ribbon 冗余图标
+   ========================================================= */
+
+/* ─── 右侧边栏：隐藏 4 个不常用 Tab ─────────────────────── */
+
+/* 反向链接 */
+.workspace-tab-header[data-type="backlink"] {
+  display: none !important;
+}
+
+/* 出链列表 */
+.workspace-tab-header[data-type="outgoing-link"] {
+  display: none !important;
+}
+
+/* 标签面板 */
+.workspace-tab-header[data-type="tag"] {
+  display: none !important;
+}
+
+/* 属性面板 */
+.workspace-tab-header[data-type="all-properties"] {
+  display: none !important;
+}
+
+/* ─── 左侧 Ribbon：隐藏不常用图标 ───────────────────────── */
+
+/* 关系图谱 */
+.side-dock-ribbon-action[aria-label="查看关系图谱"] {
+  display: none !important;
+}
+
+/* 新建白板 */
+.side-dock-ribbon-action[aria-label="新建白板"] {
+  display: none !important;
+}
+
+/* 插入模板 */
+.side-dock-ribbon-action[aria-label="插入模板"] {
+  display: none !important;
+}
+
+/* 新建数据库 */
+.side-dock-ribbon-action[aria-label="新建数据库"] {
+  display: none !important;
+}
+
+/* 漫游笔记 */
+.side-dock-ribbon-action[aria-label="开始漫游笔记"] {
+  display: none !important;
+}
+
+/* 时间戳笔记 */
+.side-dock-ribbon-action[aria-label="创建时间戳笔记"] {
+  display: none !important;
+}
+
+/* Markdown 导入器 */
+.side-dock-ribbon-action[aria-label="打开 Markdown 格式转换器"] {
+  display: none !important;
+}
+
+/* 录音 */
+.side-dock-ribbon-action[aria-label="开始/结束录音"] {
+  display: none !important;
+}
+
+/* i18n */
+.side-dock-ribbon-action[aria-label="common.i18n"],
+.side-dock-ribbon-action[aria-label="I18N"] {
+  display: none !important;
+}
+
+/* Mermaid Toolbar */
+.side-dock-ribbon-action[aria-label="Open Mermaid Toolbar"] {
+  display: none !important;
+}
+
+/* Git Source Control（侧边栏 Tab 已有）*/
+.side-dock-ribbon-action[aria-label="Open Git source control"] {
+  display: none !important;
+}
+
+/* BRAT */
+.side-dock-ribbon-action[aria-label="BRAT"] {
+  display: none !important;
+}
+
+/* Templater */
+.side-dock-ribbon-action[aria-label="Templater"] {
+  display: none !important;
+}
+
+/* Excalidraw */
+.side-dock-ribbon-action[aria-label="New drawing"],
+.side-dock-ribbon-action[aria-label="Create new drawing"] {
+  display: none !important;
+}
+
+/* 小红书 */
+.side-dock-ribbon-action[aria-label="Import Xiaohongshu note"] {
+  display: none !important;
+}
+
+/* Local Backup */
+.side-dock-ribbon-action[aria-label="Run local backup"] {
+  display: none !important;
+}
+
+/* 快速切换（Ctrl+O 即可）*/
+.side-dock-ribbon-action[aria-label="打开快速切换"] {
+  display: none !important;
+}
+
+/* ─── 保留可见（注释仅作说明，不影响显示）─────────────────
+   ✅ 打开/创建今天的日记
+   ✅ 打开命令面板
+   ✅ 插件管理器
+   ✅ Open agent client
+   ✅ Open Claudian
+   ✅ 甘特日历
+   ─────────────────────────────────────────────────────── */
