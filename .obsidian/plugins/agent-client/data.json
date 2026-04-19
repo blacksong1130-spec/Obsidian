@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "d43a15dc-816e-43cc-860f-fe13c06045a9",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\IRP Management",
+      "title": "C:\\Users\\shywl\\iCloudDrive\\iCloud~md~obsidian\\blac...",
+      "createdAt": "2026-04-19T15:25:41.200Z",
+      "updatedAt": "2026-04-19T15:25:41.200Z"
+    },
+    {
       "sessionId": "2cc3895d-fd09-447b-9121-46edf957215f",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\IRP Management",
