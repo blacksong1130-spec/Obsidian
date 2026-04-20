@@ -412,6 +412,41 @@
       "icon": "help-circle",
       "visible": true,
       "order": 17
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:New drawing",
+      "name": "obsidian-excalidraw-plugin:New drawing",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 18
+    },
+    {
+      "id": "obsidian42-brat:BRAT",
+      "name": "obsidian42-brat:BRAT",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 19
+    },
+    {
+      "id": "local-backup:Run local backup",
+      "name": "local-backup:Run local backup",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 20
+    },
+    {
+      "id": "obsidian-gantt-calendar:甘特日历",
+      "name": "obsidian-gantt-calendar:甘特日历",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 21
+    },
+    {
+      "id": "xiaohongshu-importer:Import Xiaohongshu note",
+      "name": "xiaohongshu-importer:Import Xiaohongshu note",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 22
     }
   ],
   "AUTO_TAKEOVER": true,
