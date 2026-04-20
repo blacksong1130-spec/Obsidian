@@ -26,6 +26,22 @@ updated: 2026-04-19
 
 ---
 
+## 🎯 核心项目进度追踪 (基于 Dataview)
+
+> 这里自动抓取你带有 `progress` 属性的笔记，并渲染为进度条。
+> 在项目文件的 YAML 头部添加如 `progress: 60` 即可在这里显示进度。
+
+```dataview
+TABLE 
+  progress + "%" AS "当前进度",
+  "<progress value='" + progress + "' max='100'></progress>" AS "可视化进度条"
+FROM "20.Projects" OR "10.Areas"
+WHERE progress
+SORT progress desc
+```
+
+---
+
 ## ⏳ 全库待完成任务
 
 ```dataview
