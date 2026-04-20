@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "f013da20-92d1-4f90-bdad-9136306d237d",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "进行自检，开启很快，但是会有段时间死机，鼠标都无法动，我怀疑和插件有关，列出相关插件，并且给我建议开...",
+      "createdAt": "2026-04-20T14:30:34.786Z",
+      "updatedAt": "2026-04-20T14:30:34.786Z"
+    },
+    {
       "sessionId": "6c4cd594-f1c4-4ec2-a181-cf7adf0eca54",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",

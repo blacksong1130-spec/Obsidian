@@ -61,6 +61,21 @@
       "id": "delayed-20",
       "name": "重型延迟 20s",
       "time": 20
+    },
+    {
+      "id": "delayed-30",
+      "name": "延迟 30s",
+      "time": 30
+    },
+    {
+      "id": "delayed-45",
+      "name": "延迟 45s",
+      "time": 45
+    },
+    {
+      "id": "delayed-60",
+      "name": "延迟 60s",
+      "time": 60
     }
   ],
   "Plugins": [
@@ -121,7 +136,7 @@
       "group": "core",
       "tags": [],
       "enabled": true,
-      "delay": "",
+      "delay": "default",
       "note": "主页 Dashboard 和导航中心依赖此插件渲染"
     },
     {
@@ -131,7 +146,7 @@
       "group": "delayed",
       "tags": [],
       "enabled": true,
-      "delay": "default",
+      "delay": "delayed-30",
       "note": "10s 后加载，不影响日常使用"
     },
     {
@@ -141,17 +156,17 @@
       "group": "delayed",
       "tags": [],
       "enabled": true,
-      "delay": "default",
+      "delay": "delayed-20",
       "note": "保存时触发，10s 内不会保存文件"
     },
     {
       "id": "templater-obsidian",
       "name": "Templater",
       "desc": "模板引擎",
-      "group": "delayed",
+      "group": "core",
       "tags": [],
       "enabled": true,
-      "delay": "default",
+      "delay": "",
       "note": "10s 后加载，早于日常使用模板的时间"
     },
     {
@@ -160,7 +175,7 @@
       "desc": "Mermaid 图表工具栏",
       "group": "delayed",
       "tags": [],
-      "enabled": true,
+      "enabled": false,
       "delay": "default",
       "note": "绘图工具，10s 后加载无感知"
     },
@@ -170,7 +185,7 @@
       "desc": "Canvas 增强",
       "group": "delayed",
       "tags": [],
-      "enabled": true,
+      "enabled": false,
       "delay": "default",
       "note": ""
     },
@@ -178,30 +193,30 @@
       "id": "obsidian-hover-editor",
       "name": "Hover Editor",
       "desc": "悬浮编辑器",
-      "group": "delayed",
+      "group": "core",
       "tags": [],
       "enabled": true,
-      "delay": "default",
+      "delay": "",
       "note": ""
     },
     {
       "id": "obsidian-outliner",
       "name": "Outliner",
       "desc": "列表大纲编辑",
-      "group": "delayed",
+      "group": "core",
       "tags": [],
       "enabled": true,
-      "delay": "default",
+      "delay": "",
       "note": ""
     },
     {
       "id": "i18n",
       "name": "I18N",
       "desc": "插件界面汉化",
-      "group": "delayed",
+      "group": "core",
       "tags": [],
       "enabled": true,
-      "delay": "default",
+      "delay": "",
       "note": "汉化插件 UI，非 Obsidian 本体，10s 无感知"
     },
     {
@@ -210,7 +225,7 @@
       "desc": "手绘图",
       "group": "heavy",
       "tags": [],
-      "enabled": true,
+      "enabled": false,
       "delay": "delayed-20",
       "note": "体积最大的插件之一，20s 加载"
     },
@@ -218,10 +233,10 @@
       "id": "obsidian-gantt-calendar",
       "name": "Gantt Calendar",
       "desc": "可视化任务管理（主任务系统）",
-      "group": "heavy",
+      "group": "core",
       "tags": [],
       "enabled": true,
-      "delay": "delayed-20",
+      "delay": "",
       "note": "日常任务主系统，打开 Obsidian 20s 后可用"
     },
     {
@@ -231,7 +246,7 @@
       "group": "heavy",
       "tags": [],
       "enabled": true,
-      "delay": "delayed-20",
+      "delay": "delayed-60",
       "note": "同步工具，不需要立即可用"
     },
     {
@@ -241,7 +256,7 @@
       "group": "heavy",
       "tags": [],
       "enabled": true,
-      "delay": "delayed-20",
+      "delay": "delayed-60",
       "note": "内容导入工具，按需使用"
     },
     {
@@ -251,7 +266,7 @@
       "group": "heavy",
       "tags": [],
       "enabled": true,
-      "delay": "delayed-20",
+      "delay": "delayed-60",
       "note": "影音库录入工具，按需使用"
     },
     {
@@ -260,7 +275,7 @@
       "desc": "PDF 导出",
       "group": "heavy",
       "tags": [],
-      "enabled": true,
+      "enabled": false,
       "delay": "delayed-20",
       "note": "导出工具，极少在启动后立即使用"
     },
@@ -270,7 +285,7 @@
       "desc": "Beta 插件测试安装",
       "group": "heavy",
       "tags": [],
-      "enabled": true,
+      "enabled": false,
       "delay": "delayed-20",
       "note": "开发工具，20s 后加载"
     },
@@ -281,7 +296,7 @@
       "group": "heavy",
       "tags": [],
       "enabled": true,
-      "delay": "delayed-20",
+      "delay": "delayed-45",
       "note": "备份工具，20s 后启动不影响使用"
     }
   ],
@@ -419,34 +434,6 @@
       "icon": "help-circle",
       "visible": true,
       "order": 18
-    },
-    {
-      "id": "obsidian42-brat:BRAT",
-      "name": "obsidian42-brat:BRAT",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 19
-    },
-    {
-      "id": "local-backup:Run local backup",
-      "name": "local-backup:Run local backup",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 20
-    },
-    {
-      "id": "obsidian-gantt-calendar:甘特日历",
-      "name": "obsidian-gantt-calendar:甘特日历",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 21
-    },
-    {
-      "id": "xiaohongshu-importer:Import Xiaohongshu note",
-      "name": "xiaohongshu-importer:Import Xiaohongshu note",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 22
     }
   ],
   "AUTO_TAKEOVER": true,
