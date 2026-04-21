@@ -503,6 +503,102 @@ Risk mitigation measures include: (1) exclusion of participants with a current e
 
 ---
 
+## ==9g. Non-Punitive Feedback Design Specification: The REFLECTIVE Framework==
+
+==*This section directly addresses the most significant intellectual gap in this proposal, identified in the expert assessment (Session F): "Non-punitive feedback" and "reflect, not judge" appear eleven times in this document, yet it has never answered the fundamental design question: **what, exactly, does non-punitive feedback look like at the interface level?** This section translates philosophy into five concrete, evaluable design attributes.*==
+
+==### The Core Problem: Philosophy Without Specification==
+
+==The phrase "reflect, not judge" is a philosophical stance, not a design specification. A UX team at Levels Health or Abbott reading this proposal today could not derive a single concrete interface decision from it. This section changes that. It introduces five discrete, evaluable attributes that together constitute a complete working specification for non-punitive dietary feedback.==
+
+---
+
+==**Attribute 1: Descriptive, Not Evaluative**==
+
+==Non-punitive feedback describes what happened in biological terms, without assigning moral value. Punitive feedback evaluates: it compares the user's behaviour against an idealised target and renders a verdict (score, colour, warning, emoji).==
+
+| ==Interface Element== | ==Punitive Version== | ==Non-Punitive Version== |
+|---|---|---|
+| ==Primary feedback text== | =="You consumed 450 kcal. You are 50% over your daily target."== | =="After this meal, your body registered a moderate energy response for the following 90 minutes."== |
+| ==Visual indicator== | ==Red progress bar at 85% capacity== | ==A soft gradient curve — no threshold, no "danger zone," no colour-coded verdict== |
+| ==Language register== | ==Scored, comparative, target-referenced== | ==Descriptive, sensory, temporally specific== |
+
+==**Design rule**: Remove all comparative benchmarks, scoring systems, colour-coded pass/fail indicators, and "goal vs. actual" displays from primary UI. Primary interface uses only descriptive, relative, time-anchored language.==
+
+---
+
+==**Attribute 2: Relative, Not Absolute**==
+
+==Medicine 2.0's dietary guidance assumes a standardised human body — this is its central structural flaw (Zeevi et al., 2015). Non-punitive, Medicine 3.0-aligned feedback is always relative to *this person's own baseline*, never to a population average or generic dietary guideline.==
+
+| ==Interface Element== | ==Punitive Version== | ==Non-Punitive Version== |
+|---|---|---|
+| ==Contextual framing== | =="This meal contains 65g carbohydrates (exceeds recommended 45g daily allowance)"== | =="For your body, this type of meal tends to produce a sustained energy response — notably different from how you responded to Tuesday's lunch."== |
+| ==Reference point== | ==Population norm / dietary guideline== | ==User's own historical baseline== |
+
+==**Design rule**: All data points are referenced to the user's own history. Population averages and dietary guidelines are not surfaced in the primary interface. All comparison is self-comparative.==
+
+---
+
+==**Attribute 3: Closed-Loop, Not Open-Ended**==
+
+==The dominant dietary app experience creates a permanent state of incompleteness: the food diary is always unfinished, the calorie budget is always partially consumed, the streak is always at risk. This perpetual openness is a structural source of anxiety. Non-punitive feedback has a clear beginning and a clear end — after which the user is free.==
+
+| ==Design Pattern== | ==Punitive Version== | ==Non-Punitive Version== |
+|---|---|---|
+| ==Post-meal state== | ==Persistent "incomplete meal diary" notification until all items logged== | ==A 60-second post-meal reflection moment with a deliberate closure event. No pending state.== |
+| ==Logging expectation== | ==App "expects" logging at every meal; absence is penalised== | ==No expectation of logging; every interaction is user-initiated, not system-demanded== |
+| ==Closing ritual== | ==None — diary stays open until manually marked "done"== | ==Explicit closure event: the loop closes, the meal is released== |
+
+==**Design rule**: Every meal interaction has a deliberate closure event. No persistent "incomplete" states exist. No notifications are triggered by non-engagement.==
+
+---
+
+==**Attribute 4: Sensation-First, Not Data-First**==
+
+==The dominant dietary feedback paradigm privileges abstract numerical representation (calories, macros, glucose curves). This creates what Damasio (2003) calls "affective flattening" — data without feeling. Non-punitive design inverts this hierarchy: embodied sensation or embodied metaphor is the primary interface; numerical data is available only through deliberate user action.==
+
+| ==Interface Layer== | ==Punitive Version== | ==Non-Punitive Version== |
+|---|---|---|
+| ==Default view== | ==Dashboard: calorie count, macro pie chart, glucose trend graph== | ==Qualitative descriptor: "your body is settling" / soft ambient colour / a temperature shift== |
+| ==Data accessibility== | ==Numbers are unavoidable — they constitute the primary interface== | ==Numbers accessible only through deliberate "dig deeper" action== |
+| ==Metaphor register== | ==Mechanical (meter, progress bar, gauge)== | ==Organic (warmth, colour, texture, rhythm)== |
+
+==**Design rule**: Default view contains no raw numbers. Numerical data is available only through deliberate user action. Primary interface uses sensory or descriptive language.==
+
+---
+
+==**Attribute 5: Optional, Not Compulsory**==
+
+==Gamification mechanics (streaks, daily goals, social comparison) are among the most effective tools for driving compulsive engagement — and the most effective tools for destroying the user's autonomy and relationship with food. Non-punitive design is structurally optional: the system functions whether or not the user engages on any given day.==
+
+| ==Design Mechanic== | ==Punitive Version== | ==Non-Punitive Version== |
+|---|---|---|
+| ==Streaks== | =="🔥 7-day streak! Don't break it now!"== | ==No streak mechanics. No engagement counters visible to user.== |
+| ==Social comparison== | =="Your friends logged 3× more than you this week."== | ==No social comparison features in dietary feedback context.== |
+| ==Consequence of non-engagement== | ==Streak breaks; "goals at risk" warnings trigger== | ==No consequence. The system does not notice or penalise absence.== |
+| ==Notifications on non-use== | =="You haven't logged dinner yet."== | ==Zero notifications triggered by non-engagement.== |
+
+==**Design rule**: No streak counters, no engagement metrics, no social comparison. Zero negative consequence — visible or invisible — for non-engagement on any given day.==
+
+---
+
+==### The Non-Punitive Feedback Audit: A Practical Evaluation Tool==
+
+==The five attributes above can be operationalized as a structured audit protocol for evaluating any dietary feedback product — existing or proposed:==
+
+| ==Attribute== | ==Audit Question== | ==Pass Criterion== | ==Fail Indicator== |
+|---|---|---|---|
+| ==1. Descriptive, Not Evaluative== | ==Does the primary interface contain scores, targets, or comparative benchmarks?== | ==No comparative language in default view== | ==Any colour-coded indicator, numerical score, or "goal vs. actual" display== |
+| ==2. Relative, Not Absolute== | ==Are data points referenced to user history or to population norms?== | ==100% user-referenced baseline in primary view== | ==Any reference to RDA, calorie guidelines, or population averages== |
+| ==3. Closed-Loop== | ==Are there persistent "incomplete" states, streaks, or open-ended logging states?== | ==Every interaction has a clear closure event== | ==Any persistent open state or logging "expectation"== |
+| ==4. Sensation-First== | ==Is the default interface dominated by numbers?== | ==No raw numbers visible without deliberate user action== | ==Any number visible on default view== |
+| ==5. Optional== | ==Does non-engagement trigger any notification or negative feedback?== | ==Zero consequence for non-engagement== | ==Any notification, penalty, or streak-break mechanic== |
+
+==This audit tool is a research output of this IRP in its own right. It gives any health-tech design team a structured protocol for evaluating whether their product qualifies as "non-punitive" — and creates the basis for a certification or licensing model analogous to Nielsen Norman Group's UX heuristics. This is the "Design Principles White Paper" identified in Section 12 as a planned commercial output.==
+
+---
+
 ## ==10 Expanded Stakeholder Ecosystem: Power Map==
 
 ==*Responding to tutor feedback: "There is a whole bunch of other stakeholders, not just the users. Who else is involved?" This section transforms the original stakeholder list into a structured power/interest ecosystem.*==
@@ -733,6 +829,112 @@ Wallace, L. et al. (2025) 'Health-Tracking Technologies and Eating Attitudes: A 
 ==| UK ED hospital admissions increase (10yr) | +50% | ONS | 2024 |==
 ==| UK 17–19y ED prevalence (2023) | 12.5% | Priory Group | 2025 |==
 ==| MyFitnessPal ED users: "app contributed to ED" | 73% | Phelan et al. | 2020 |==
+
+---
+
+## ==Appendix B: Speculative Artefact 1 — "The After Glow"==
+
+==*Status: Phase 1 Concept (Low-Fidelity). This is the first in a series of 3–5 speculative artefacts developed as research probes to test non-punitive, post-ingestion dietary feedback formats. Responding to the expert assessment recommendation: "The most important next step: draw the first sketch. Today. Not perfect — rough, contestable, physical."*==
+
+---
+
+==### The Core Proposition==
+
+==Every health app closes its feedback loop *before* eating: it tells you what to eat, or how much. The entire product category is organized around pre-meal intervention. This artefact proposes the opposite question:==
+
+==**What if the feedback loop closed *after* the meal — in your hands, not on your screen?**==
+
+==This is not a product proposition. It is a design probe — a physical object designed to make one specific future imaginable, and to generate research questions that cannot be asked without a concrete referent.==
+
+---
+
+==### The Object==
+
+==**"The After Glow"** is a handcrafted ceramic disc, approximately 8cm in diameter, 1.5cm thick. It sits on the dining table — inert, unlit, cool — until it is needed.==
+
+==After a meal, the user picks it up and holds it for **60 seconds**. During this time:==
+
+==- It connects wirelessly to a wearable biosensor (2035 scenario: a thin adhesive patch on the inner wrist, using near-infrared spectroscopy to measure post-prandial metabolic signal)==
+==- The disc responds with **subtle temperature modulation** (±2°C): warmth indicates stable, settled metabolic processing; gentle coolness indicates active metabolic engagement==
+==- A **soft ambient light** emanates from within: warm golden-amber when metabolism is settling; diffuse soft blue when the body is actively working==
+==- **No screen. No number. No score. No comparison.** No calibration against any standard.==
+
+==The sensation the user receives is: *"this is your body, right now, after this meal."*==
+==Not: *"you did well"* or *"you did badly."*==
+
+==After 60 seconds, the disc returns to its resting state. The interaction is complete. The loop is closed. The user moves on.==
+
+---
+
+==### Design Logic: Why Each Decision Was Made==
+
+| ==Design Decision== | ==What It Refuses== | ==What It Proposes== | ==Principle== |
+|---|---|---|---|
+| ==Physical ceramic object, not app== | ==Screen-mediated attention; notification culture== | ==Touch-initiated ritual; exists in physical space of eating; requires presence, not a device== | ==Embodied cognition; ritual design== |
+| ==Temperature + soft light, not number== | ==The "score reflex" triggered by seeing a figure== | ==Pre-cognitive bodily sensation as primary feedback medium: felt before it is interpreted; bypasses the judgement reflex== | ==Sensation-first; non-evaluative== |
+| ==Post-meal timing (60 seconds after)== | ==Pre-meal logging and calorie budgeting== | ==Closing the phenomenological silence: feedback arrives exactly where the silence lives — after the meal== | ==Loop closure; temporal appropriateness== |
+| ==User picks it up — disc waits== | ==Notifications, reminders, streak pressure== | ==System waits; user initiates; the object never demands attention or engagement== | ==Agency preservation; opt-in design== |
+| ==Warm/cool without universal meaning== | ==Red/green traffic lights (red=bad, green=good)== | ==Descriptive sensation without prescriptive meaning; user builds their own interpretive relationship with the signal over time== | ==Bioindividual relativism; descriptive, not prescriptive== |
+| ==60 seconds, then done== | ==Perpetually open food diary; the "always incomplete" state== | ==Deliberate closure: the meal is finished, reflected upon, and released== | ==Closed-loop design; anxiety prevention== |
+
+---
+
+==### Cultural and Ritual References==
+
+==The After Glow draws on three cultural sources that the IRP has already identified as productive:==
+
+==1. **Japanese *Gochisōsama deshita*** — the phrase spoken at the completion of a meal, expressing gratitude to those who prepared the food and the ingredients themselves. A ritual closing of the meal that Western eating culture largely lacks. The After Glow creates a secular, embodied, technology-mediated equivalent.==
+
+==2. **Ayurvedic post-meal observation** — the traditional practice of observing body warmth, energy quality, and digestion sensation after eating — without comparison to any standard. Zeevi et al. (2015) provides the 21st-century biological validation of this ancient practice: every body is different, so observation must be self-referential.==
+
+==3. **The French post-meal ritual** — French food culture's emphasis on *lingering at the table* (coffee, conversation, sitting) as an integral part of the eating experience. The After Glow creates a designed moment that formalizes this pause as a space for embodied reflection.==
+
+---
+
+==### 2035 Scenario Context==
+
+==In the 2035 speculative scenario:==
+
+==- Near-infrared, non-invasive biosensing has reached consumer patch format (FDA-cleared for wellness use, following the trajectory established by Abbott Lingo OTC clearance in June 2024)==
+==- The anti-diet backlash has produced a market explicitly seeking alternatives to calorie-counting apps — consumers actively want tools that don't make them feel judged==
+==- Post-pandemic "slow living" and "craft object" aesthetics have created commercial appetite for designed objects that support mindful eating rituals, as a counter to screen fatigue==
+
+==This is the market and cultural context in which The After Glow is not a curiosity, but a mainstream consumer object.==
+
+---
+
+==### Research Questions This Artefact Poses==
+
+==These are the questions The After Glow is *designed to ask* — in Phase 0 peer conversations, in crit sessions, and in future participatory design workshops:==
+
+==1. Can embodied sensation replace visual data as the primary medium for dietary feedback — and what does that transition feel like for the user?==
+==2. What is the minimum viable signal that closes a meaningful feedback loop without triggering anxiety or compulsive checking?==
+==3. Does the physical, table-top format create meaningfully different user behaviour compared to a screen-based app?==
+==4. How does *not knowing the number* — but feeling something — change the user's emotional relationship to what they just ate?==
+==5. Where does this concept fail? What does it miss? What can it structurally not do?==
+
+---
+
+==### Evaluation Against §9f Rubric==
+
+| ==Criterion== | ==Assessment== | ==Evidence== |
+|---|---|---|
+| ==Legibility== | ==✅ High== | ==Temperature and ambient light require no specialist knowledge; no label or metric to decode; no learning curve== |
+| ==Friction / Ability== | ==✅ Very Low== | ==Single 60-second interaction; no manual input; no app login; no logging; no screen== |
+| ==Affective Tone== | ==✅ Descriptive== | =="Warmth" is not "good"; "coolness" is not "bad"; meaning is relational and self-built over time; no universal moral valence== |
+| ==Anxiety / Compulsion Risk== | ==✅ Low== | ==No numerical comparison; physical format prevents compulsive checking (cannot "refresh"; requires bodily presence at the table); 60-second limit is structural== |
+| ==Food Freedom== | ==✅ High== | ==Entirely optional ritual; object sits inert until chosen; no notification; no consequence for non-engagement; no logging required== |
+
+---
+
+==### Next Development Steps==
+
+==- **Now (Phase 0)**: Introduce concept verbally in peer conversations — "If this sat on your table after meals, would you use it? What would feel different about eating?" — capture language, resistance, and desire==
+==- **Week 4 (Phase 1)**: Build low-fidelity physical mock-up: cardboard form + small heating pad + programmable LED strip for tactile testing in crit==
+==- **Phase 2 Test**: Compare participant language when responding to this object vs. responding to a MyFitnessPal-style interface mock-up — qualitative difference in affect is primary research finding==
+==- **Phase 3**: Refine into a polished research probe for the participatory critique sessions described in §9d==
+
+---
 
 *End of Enhanced IRP Proposal — Weijie Li · Design Future · Royal College of Art · April 2026*
 *Enhanced Edition prepared with research and commercial analysis: April 20, 2026*
