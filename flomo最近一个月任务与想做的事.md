@@ -1,58 +1,16 @@
-﻿### 2026-03-30_紧急_4247去爱_MjI4ODk0MzYy.md
----
-slug: MjI4ODk0MzYy
-created_at: "2026-03-30 20:06:09"
-updated_at: "2026-03-30 20:10:32"
-tags: ["任务/紧急"]
-source: "ios"
----
-
-#任务/紧急
+﻿#任务/紧急
 
 4.2—4.7去爱丁堡
 
 湖区
 
----
-
-### 2026-03-30_紧急_obclau_MjI4NzYzOTE0.md
----
-slug: MjI4NzYzOTE0
-created_at: "2026-03-30 03:50:06"
-updated_at: "2026-03-30 03:50:07"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 ob+claude code
 
----
-
-### 2026-03-30_紧急_你现在是你不_MjI4NzU5MTAx.md
----
-slug: MjI4NzU5MTAx
-created_at: "2026-03-30 01:34:56"
-updated_at: "2026-03-31 06:40:21"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 你现在是你不会考虑说我每天吃的好不好，而是说就考虑我今天吃其实有没有吃多了，会不会会长胖营养方面的。就不会考虑就比如说不会考虑自己是否就是说缺乏某种维生素什么的。至少。这两三天我有单位。所以说你的目标其实是在维持你的体重，那你就说。但你觉得微信也不能说你现在的饮食会让你觉得难受吗？。反正意思是说现在就是你正常时就我吃饱了就停，然后就吃也不会长胖。那你就会刻意去控制，不是自己吃。吃东西进不健康吗？比如说你在外面吃，比如说我们偶尔会吃火锅什么的，这个你会对吃了以后你会感到愧疚会。那种的OK OK。那你一般自己做吗？。你一般去超市里面买更多的是什么？就是一些新鲜的水果蔬菜什么的，还是说偏零食或水果？。所以其实你对零食是没有的。那我觉得你这个营养方面的你还是刻在。有的。还是会一直自己住，觉得可能碳水吃多了会胖还是会抑制。稍微有一点点肿。谢谢。觉得他真的很好用。
-
----
-
-### 2026-03-30_紧急_好的这是We_MjI4ODc4NjYy.md
----
-slug: MjI4ODc4NjYy
-created_at: "2026-03-30 18:04:47"
-updated_at: "2026-04-01 21:20:53"
-tags: ["任务/紧急"]
-source: "web"
----
 
 #任务/紧急
 
@@ -68,61 +26,17 @@ source: "web"
 
 注意今天（30日）**你已经有10点的keynote了**，现在几点了？要出发了吗！
 
----
-
-### 2026-03-30_紧急_我的快递怎么_MjI4OTA4NjI1.md
----
-slug: MjI4OTA4NjI1
-created_at: "2026-03-30 21:35:34"
-updated_at: "2026-03-31 03:48:06"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 我的快递怎么样了
-
----
-
-### 2026-03-30_紧急_淘宝找人办签_MjI4OTI1MDY0.md
----
-slug: MjI4OTI1MDY0
-created_at: "2026-03-30 23:02:39"
-updated_at: "2026-03-31 04:11:48"
-tags: ["任务/紧急"]
-source: "web"
----
 
 #任务/紧急
 
 淘宝找人办签证什么的or只是slot
 
----
-
-### 2026-03-30_紧急_看看roya_MjI4NzY2MDk5.md
----
-slug: MjI4NzY2MDk5
-created_at: "2026-03-30 05:36:24"
-updated_at: "2026-03-31 04:12:03"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 看看royal albert的票
-
----
-
-### 2026-03-30_紧急_给iq发邮件_MjI4ODU1Nzcx.md
----
-slug: MjI4ODU1Nzcx
-created_at: "2026-03-30 15:44:49"
-updated_at: "2026-03-30 15:45:03"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -132,46 +46,13 @@ source: "ios"
 
 或者去app看一眼
 
----
-
-### 2026-03-31_手语_曾经不想和人_MjI5MDM5ODEy.md
----
-slug: MjI5MDM5ODEy
-created_at: "2026-03-31 15:56:15"
-updated_at: "2026-03-31 15:56:17"
-tags: ["想做的事/手语"]
-source: "ios"
----
-
 #想做的事/手语
 
 曾经不想和人说话，学过一段手语
 
----
-
-### 2026-03-31_紧急_claude_MjI4OTQ4MDc2.md
----
-slug: MjI4OTQ4MDc2
-created_at: "2026-03-31 04:12:11"
-updated_at: "2026-04-01 21:20:44"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 claude会员
-
----
-
-### 2026-03-31_紧急_httpsm_MjI5MTA3MTc1.md
----
-slug: MjI5MTA3MTc1
-created_at: "2026-03-31 22:48:20"
-updated_at: "2026-03-31 22:48:26"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -192,17 +73,6 @@ Claude Code的所有源码因为一个非常低级的问题泄露了，估计全
 1. Buddy，你的AI宠物
 源码里有一个叫BUDDY的功能，可以给你的Claude Code配一个宠物，它有18种物种可以选，有5个属性，甚至还有稀有度，普通60%到传说1%。
 
----
-
-### 2026-03-31_紧急_httpsm_MjI5MTE3ODM4.md
----
-slug: MjI5MTE3ODM4
-created_at: "2026-03-31 23:47:04"
-updated_at: "2026-03-31 23:47:06"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 https://mp.weixin.qq.com/s/9ejYjBP-hmmz6lliDbROjg
@@ -220,17 +90,6 @@ AI时代，就像给你的就是这种24种果酱的状态，你能做的事情�
 第二个，时间约束。就一个下午或者一个晚上。绝对不能是一周，不是一个月，就今天下午，比如到晚饭前必须有一个能跑的东西。
 
 第三个，范围约束。只做一个功能，解决一个问题。
-
----
-
-### 2026-03-31_紧急_sains买_MjI5MTEwNDM5.md
----
-slug: MjI5MTEwNDM5
-created_at: "2026-03-31 23:05:13"
-updated_at: "2026-04-02 04:09:45"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -252,46 +111,13 @@ sains买三文鱼还有滤水器
 
 回信息
 
----
-
-### 2026-03-31_紧急_不着急快递还_MjI4OTQ5MzUx.md
----
-slug: MjI4OTQ5MzUx
-created_at: "2026-03-31 05:21:07"
-updated_at: "2026-04-01 21:20:45"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 不着急快递，还有个耳机盒
 
----
-
-### 2026-03-31_紧急_快递价格有点_MjI5MTAyMjg0.md
----
-slug: MjI5MTAyMjg0
-created_at: "2026-03-31 22:25:17"
-updated_at: "2026-04-01 21:20:41"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 快递价格有点问题
-
----
-
-### 2026-03-31_紧急_扫描做过的那_MjI5MDg3MDMx.md
----
-slug: MjI5MDg3MDMx
-created_at: "2026-03-31 21:01:48"
-updated_at: "2026-03-31 21:02:00"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -299,48 +125,15 @@ source: "ios"
 
 那些事irp的appendix
 
----
-
-### 2026-03-31_紧急_看我的快递_MjI5MDgwNzYy.md
----
-slug: MjI5MDgwNzYy
-created_at: "2026-03-31 20:22:48"
-updated_at: "2026-04-01 21:20:40"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 看我的快递
-
----
-
-### 2026-03-31_紧急_购买brit_MjI4OTQ2NzU5.md
----
-slug: MjI4OTQ2NzU5
-created_at: "2026-03-31 03:10:26"
-updated_at: "2026-04-01 21:20:48"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 购买brita水壶
 
 看看sains有没有
-
----
-
-### 2026-04-01_紧急_吃饭洗澡打印_MjI5MjIwNzA2.md
----
-slug: MjI5MjIwNzA2
-created_at: "2026-04-01 15:35:52"
-updated_at: "2026-04-01 21:20:13"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -354,29 +147,7 @@ source: "ios"
 
 看快递
 
----
-
-### 2026-04-01_紧急_打印明天讲的_MjI5MTM0OTcx.md
----
-slug: MjI5MTM0OTcx
-created_at: "2026-04-01 05:20:40"
-updated_at: "2026-04-01 21:20:16"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急 打印明天讲的内容
-
----
-
-### 2026-04-01_紧急_烤牛排蒸红薯_MjI5MjU5MzMy.md
----
-slug: MjI5MjU5MzMy
-created_at: "2026-04-01 19:48:57"
-updated_at: "2026-04-01 21:20:12"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -388,61 +159,17 @@ source: "ios"
 
 煮生菜
 
----
-
-### 2026-04-01_紧急_看柑橘味的香_MjI5MjgyMDc1.md
----
-slug: MjI5MjgyMDc1
-created_at: "2026-04-01 22:15:33"
-updated_at: "2026-04-01 22:15:34"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 看柑橘味的香气
-
----
-
-### 2026-04-02_紧急_claude_MjI5NDUxNTc5.md
----
-slug: MjI5NDUxNTc5
-created_at: "2026-04-02 19:21:18"
-updated_at: "2026-04-02 19:21:20"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 claude和notion写作库结合
 
----
-
-### 2026-04-02_紧急_一天两练的可_MjI5NDQ4NTMz.md
----
-slug: MjI5NDQ4NTMz
-created_at: "2026-04-02 19:00:51"
-updated_at: "2026-04-02 19:00:52"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 一天两练的可行性
-
----
-
-### 2026-04-02_紧急_严格的训练计_MjI5NDQwODk2.md
----
-slug: MjI5NDQwODk2
-created_at: "2026-04-02 18:07:46"
-updated_at: "2026-04-02 18:07:47"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -450,31 +177,9 @@ source: "ios"
 
 严格的多套歌单
 
----
-
-### 2026-04-02_紧急_买两把锁锁柜_MjI5NDM0NDUw.md
----
-slug: MjI5NDM0NDUw
-created_at: "2026-04-02 17:42:08"
-updated_at: "2026-04-02 17:42:11"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 买两把锁锁柜子
-
----
-
-### 2026-04-02_紧急_买锁纹身贴v_MjI5NDM4Njgw.md
----
-slug: MjI5NDM4Njgw
-created_at: "2026-04-02 17:59:30"
-updated_at: "2026-04-02 17:59:31"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -484,93 +189,27 @@ source: "ios"
 
 valen带回来
 
----
-
-### 2026-04-02_紧急_你的小红书收_MjI5NDE3NjQy.md
----
-slug: MjI5NDE3NjQy
-created_at: "2026-04-02 16:27:24"
-updated_at: "2026-04-02 16:27:26"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 🔧 你的小红书收藏夹在吃灰吗？ 💫 经常刷到好内容，... http://xhslink.com/o/6TLDZguFbd
 
 复制后打开【小红书】查看笔记！
 
----
-
-### 2026-04-02_紧急_健身包_MjI5NDQ0NTAz.md
----
-slug: MjI5NDQ0NTAz
-created_at: "2026-04-02 18:33:11"
-updated_at: "2026-04-02 18:33:12"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 健身包
-
----
-
-### 2026-04-02_紧急_拼卡_MjI5NDQzMzgz.md
----
-slug: MjI5NDQzMzgz
-created_at: "2026-04-02 18:25:35"
-updated_at: "2026-04-02 18:25:36"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 拼卡
 
----
-
-### 2026-04-02_紧急_楼下有黑咖啡_MjI5MzEyMDk0.md
----
-slug: MjI5MzEyMDk0
-created_at: "2026-04-02 02:34:33"
-updated_at: "2026-04-02 02:34:34"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 楼下有黑咖啡
 
----
-
-### 2026-04-02_紧急_重新分配药剂_MjI5NDQzODc2.md
----
-slug: MjI5NDQzODc2
-created_at: "2026-04-02 18:28:48"
-updated_at: "2026-04-02 18:28:49"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 重新分配药剂
-
----
-
-### 2026-04-02_紧急_音乐会捞人健_MjI5NDEwNjEw.md
----
-slug: MjI5NDEwNjEw
-created_at: "2026-04-02 15:46:58"
-updated_at: "2026-04-02 15:47:20"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -588,17 +227,6 @@ irp
 
 和奶奶打电话
 
----
-
-### 2026-04-03_紧急_刮胡刀刮私密_MjI5NjEzNTU3.md
----
-slug: MjI5NjEzNTU3
-created_at: "2026-04-03 15:54:03"
-updated_at: "2026-04-03 15:57:54"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 刮胡刀刮私密
@@ -610,17 +238,6 @@ source: "ios"
 玩claude
 
 irp
-
----
-
-### 2026-04-03_紧急_好给你说清楚_MjI5NjQyMjM4.md
----
-slug: MjI5NjQyMjM4
-created_at: "2026-04-03 19:06:18"
-updated_at: "2026-04-03 19:06:19"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -656,31 +273,9 @@ Ideal Home Show 是什么
 
 这是你目前最低门槛、最直接能做的市场调研。今天买票，明天就去。
 
----
-
-### 2026-04-03_紧急_洗衣机20和_MjI5NDk5Mjc5.md
----
-slug: MjI5NDk5Mjc5
-created_at: "2026-04-03 00:00:16"
-updated_at: "2026-04-03 02:08:03"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 洗衣机20和15
-
----
-
-### 2026-04-03_紧急_现在就能去I_MjI5NjQxOTQx.md
----
-slug: MjI5NjQxOTQx
-created_at: "2026-04-03 19:03:44"
-updated_at: "2026-04-03 19:03:45"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -712,31 +307,9 @@ Ideal Home Show 2026
 
 今天还有票，明天就能去。
 
----
-
-### 2026-04-04_紧急_人间烟火_MjI5Nzk3Mzcx.md
----
-slug: MjI5Nzk3Mzcx
-created_at: "2026-04-04 21:01:58"
-updated_at: "2026-04-04 21:01:59"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 人间烟火
-
----
-
-### 2026-04-04_紧急_健身包腰带弹_MjI5ODA3NTYx.md
----
-slug: MjI5ODA3NTYx
-created_at: "2026-04-04 22:14:03"
-updated_at: "2026-04-05 21:13:18"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -749,17 +322,6 @@ source: "ios"
 练臀脚套
 
 纹身贴
-
----
-
-### 2026-04-04_紧急_冷笑话学英语_MjI5NzAwMDYw.md
----
-slug: MjI5NzAwMDYw
-created_at: "2026-04-04 06:32:54"
-updated_at: "2026-04-04 06:33:05"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -804,78 +366,23 @@ source: "ios"
 
 我根据这个来调整笑话的难度和数量 😄
 
----
-
-### 2026-04-04_紧急_树底下拉拉我_MjI5NzgxODI5.md
----
-slug: MjI5NzgxODI5
-created_at: "2026-04-04 18:56:28"
-updated_at: "2026-04-04 18:56:30"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 树底下拉拉
 
 （我就知道你会找到我的）
 
----
-
-### 2026-04-04_紧急_毫无意义的工_MjI5Njk4ODU2.md
----
-slug: MjI5Njk4ODU2
-created_at: "2026-04-04 06:02:02"
-updated_at: "2026-04-04 06:02:03"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 毫无意义的工作
-
----
-
-### 2026-04-04_紧急_类似于平板a_MjI5Njk4MTc4.md
----
-slug: MjI5Njk4MTc4
-created_at: "2026-04-04 05:37:26"
-updated_at: "2026-04-04 05:37:28"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 类似于平板ai教学画画一样来画画
 
----
-
-### 2026-04-04_紧急_通过英语冷笑_MjI5Njk4MTcw.md
----
-slug: MjI5Njk4MTcw
-created_at: "2026-04-04 05:37:06"
-updated_at: "2026-04-04 05:37:07"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 通过英语冷笑话学习英语
-
----
-
-### 2026-04-05_紧急_吃饭红薯健身_MjI5OTIwMzMy.md
----
-slug: MjI5OTIwMzMy
-created_at: "2026-04-05 18:08:47"
-updated_at: "2026-04-05 19:51:15"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -891,31 +398,9 @@ source: "ios"
 
 回信息
 
----
-
-### 2026-04-05_紧急_周一存钱_MjI5ODUxMDc5.md
----
-slug: MjI5ODUxMDc5
-created_at: "2026-04-05 08:36:14"
-updated_at: "2026-04-05 12:36:17"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 周一存钱
-
----
-
-### 2026-04-05_紧急_咖啡因摄入量_MjI5OTM1NzEy.md
----
-slug: MjI5OTM1NzEy
-created_at: "2026-04-05 20:22:47"
-updated_at: "2026-04-05 20:23:15"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -925,46 +410,13 @@ source: "ios"
 
 3次接满1.5l
 
----
-
-### 2026-04-05_紧急_把我的每日怎_MjI5OTIzODUy.md
----
-slug: MjI5OTIzODUy
-created_at: "2026-04-05 18:40:51"
-updated_at: "2026-04-05 18:41:01"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 把我的每日怎么吃的有个记录表给我整理出来，然后我每天都要进行一个记录和打勾，打印出来
 
----
-
-### 2026-04-05_紧急_搞一个肌肉运_MjI5OTM2NzQw.md
----
-slug: MjI5OTM2NzQw
-created_at: "2026-04-05 20:30:52"
-updated_at: "2026-04-05 20:30:54"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 搞一个肌肉运动解剖图再配上相关动作，以及最终效果
-
----
-
-### 2026-04-05_紧急_明天存钱然后_MjI5OTM0NTky.md
----
-slug: MjI5OTM0NTky
-created_at: "2026-04-05 20:13:54"
-updated_at: "2026-04-05 20:30:27"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -984,61 +436,17 @@ source: "ios"
 
 中午的改为带饭
 
----
-
-### 2026-04-05_紧急_玩手机要么跑_MjI5OTM2OTY4.md
----
-slug: MjI5OTM2OTY4
-created_at: "2026-04-05 20:32:36"
-updated_at: "2026-04-05 20:32:41"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 玩手机要么跑步机要么拉伸（房间）
-
----
-
-### 2026-04-05_紧急_练腹和腰和屁_MjI5OTE2MjI3.md
----
-slug: MjI5OTE2MjI3
-created_at: "2026-04-05 17:35:33"
-updated_at: "2026-04-05 17:35:33"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 练腹和腰和屁股
 
----
-
-### 2026-04-06_紧急_2200必须_MjMwMTI2MTQ1.md
----
-slug: MjMwMTI2MTQ1
-created_at: "2026-04-06 23:51:20"
-updated_at: "2026-04-06 23:51:24"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 22.00必须睡觉
-
----
-
-### 2026-04-06_紧急_hsbc思考_MjMwMDk0MTM5.md
----
-slug: MjMwMDk0MTM5
-created_at: "2026-04-06 20:53:56"
-updated_at: "2026-04-06 20:53:58"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1048,31 +456,9 @@ hsbc
 
 超市（先想好购买的物品，和口袋）
 
----
-
-### 2026-04-06_紧急_买黑咖啡_MjMwMDUzMjc1.md
----
-slug: MjMwMDUzMjc1
-created_at: "2026-04-06 15:57:16"
-updated_at: "2026-04-06 15:57:17"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 买黑咖啡
-
----
-
-### 2026-04-06_紧急_如何剃私处毛_MjI5OTcyOTkw.md
----
-slug: MjI5OTcyOTkw
-created_at: "2026-04-06 00:36:37"
-updated_at: "2026-04-06 00:36:38"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1080,91 +466,25 @@ source: "ios"
 
 回复岛的提问
 
----
-
-### 2026-04-06_紧急_妹妹的面试以_MjMwMDcxODYx.md
----
-slug: MjMwMDcxODYx
-created_at: "2026-04-06 18:10:26"
-updated_at: "2026-04-06 18:10:28"
-tags: ["任务/紧急"]
-source: "web"
----
-
 #任务/紧急
 
 妹妹的面试，以及什么时候要
-
----
-
-### 2026-04-06_紧急_明天存钱_MjI5OTc1NTY0.md
----
-slug: MjI5OTc1NTY0
-created_at: "2026-04-06 01:09:14"
-updated_at: "2026-04-06 01:09:15"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 明天存钱
 
----
-
-### 2026-04-06_紧急_更换滤芯_MjI5OTc2Mjk1.md
----
-slug: MjI5OTc2Mjk1
-created_at: "2026-04-06 01:20:15"
-updated_at: "2026-04-06 01:20:16"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 更换滤芯
-
----
-
-### 2026-04-06_紧急_每日健身_MjI5OTkxMzgy.md
----
-slug: MjI5OTkxMzgy
-created_at: "2026-04-06 07:54:22"
-updated_at: "2026-04-06 07:54:24"
-tags: ["任务/紧急"]
-source: "web"
----
 
 #任务/紧急
 
 每日健身
 
----
-
-### 2026-04-06_紧急_研究clau_MjI5OTc3Njc3.md
----
-slug: MjI5OTc3Njc3
-created_at: "2026-04-06 01:43:06"
-updated_at: "2026-04-06 07:54:18"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 研究claude帮我打印
-
----
-
-### 2026-04-06_紧急_这个时间点前_MjI5OTkxODc2.md
----
-slug: MjI5OTkxODc2
-created_at: "2026-04-06 07:59:32"
-updated_at: "2026-04-06 07:59:39"
-tags: ["任务/紧急","任务/紧急"]
-source: "web"
----
 
 #任务/紧急
 
@@ -1175,17 +495,6 @@ source: "web"
 #任务/紧急
 
 苹果手环or watch
-
----
-
-### 2026-04-07_紧急_ob的ilc_MjMwMjc5NTc1.md
----
-slug: MjMwMjc5NTc1
-created_at: "2026-04-07 20:54:19"
-updated_at: "2026-04-07 20:54:21"
-tags: ["任务/紧急"]
-source: "web"
----
 
 #任务/紧急
 
@@ -1199,33 +508,11 @@ skill-每日日报同步到ob去
 
 ob的可视化插件
 
----
-
-### 2026-04-07_紧急_ob里面有很_MjMwMzA2OTk0.md
----
-slug: MjMwMzA2OTk0
-created_at: "2026-04-07 23:29:09"
-updated_at: "2026-04-07 23:29:11"
-tags: ["任务/紧急"]
-source: "web"
----
-
 #任务/紧急
 
 ob里面有很多很有趣的那种插件，比如说如何学英语啊，还有各种各样的东西。
 
 我觉得都很牛逼，我就可以在上面去实验一下。
-
----
-
-### 2026-04-07_紧急_买一个便宜的_MjMwMTU2OTM0.md
----
-slug: MjMwMTU2OTM0
-created_at: "2026-04-07 08:18:38"
-updated_at: "2026-04-07 08:18:50"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1233,48 +520,15 @@ source: "ios"
 
 主要是测一下心率什么的就行，然后睡眠
 
----
-
-### 2026-04-07_紧急_如何赚外快并_MjMwMTI5OTg4.md
----
-slug: MjMwMTI5OTg4
-created_at: "2026-04-07 00:19:12"
-updated_at: "2026-04-07 00:19:23"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 如何赚外快并且学习
 
 有什么接单网站吗
 
----
-
-### 2026-04-07_紧急_每天工作把c_MjMwMTMxNDQ0.md
----
-slug: MjMwMTMxNDQ0
-created_at: "2026-04-07 00:31:16"
-updated_at: "2026-04-07 00:31:17"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 每天工作把cowork玩到limit
-
----
-
-### 2026-04-07_紧急_食谱碳循环动_MjMwMjQ1Njgw.md
----
-slug: MjMwMjQ1Njgw
-created_at: "2026-04-07 16:59:19"
-updated_at: "2026-04-07 19:09:57"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1292,76 +546,21 @@ irp详细分析
 
 健身
 
----
-
-### 2026-04-08_紧急_excali_MjMwMzIzMzk3.md
----
-slug: MjMwMzIzMzk3
-created_at: "2026-04-08 02:40:09"
-updated_at: "2026-04-08 02:40:10"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 excalidraw
-
----
-
-### 2026-04-08_紧急_我的拍立得_MjMwNDIzNzI0.md
----
-slug: MjMwNDIzNzI0
-created_at: "2026-04-08 16:17:54"
-updated_at: "2026-04-08 16:19:54"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 我的拍立得
 
----
-
-### 2026-04-08_紧急_有个没改的p_MjMwNDU0NDE2.md
----
-slug: MjMwNDU0NDE2
-created_at: "2026-04-08 19:39:39"
-updated_at: "2026-04-11 21:01:50"
-tags: ["任务/紧急"]
-source: "web"
----
-
 #任务/紧急
 
 有个没改的pstc
 
----
-
-### 2026-04-08_紧急_诺兰奥德赛_MjMwMzE2Mzc5.md
----
-slug: MjMwMzE2Mzc5
-created_at: "2026-04-08 00:36:44"
-updated_at: "2026-04-08 00:36:44"
-tags: ["任务/紧急"]
-source: "web"
----
-
 #任务/紧急
 
 诺兰——奥德赛
-
----
-
-### 2026-04-09_紧急_向右R跟开发_MjMwNTAzMjIz.md
----
-slug: MjMwNTAzMjIz
-created_at: "2026-04-09 00:36:35"
-updated_at: "2026-04-11 21:01:49"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1371,61 +570,17 @@ source: "ios"
 
 aihaoji.com
 
----
-
-### 2026-04-10_紧急_中国银行卡冲_MjMwNzU2ODc3.md
----
-slug: MjMwNzU2ODc3
-created_at: "2026-04-10 13:12:57"
-updated_at: "2026-04-11 21:01:46"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 中国银行卡冲销了多少次
 
----
-
-### 2026-04-10_紧急_了解外贸全流_MjMwNjkxMzMx.md
----
-slug: MjMwNjkxMzMx
-created_at: "2026-04-10 02:22:13"
-updated_at: "2026-04-11 21:01:48"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 了解外贸全流程
 
----
-
-### 2026-04-10_紧急_了解外贸全流_MjMwNjkxMzMy.md
----
-slug: MjMwNjkxMzMy
-created_at: "2026-04-10 02:22:13"
-updated_at: "2026-04-11 21:01:49"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 了解外贸全流程
-
----
-
-### 2026-04-10_紧急_他们会查酒店_MjMwNjkyOTQ0.md
----
-slug: MjMwNjkyOTQ0
-created_at: "2026-04-10 03:14:19"
-updated_at: "2026-04-11 21:01:48"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1433,33 +588,11 @@ source: "ios"
 
 我可以买了以后就退了吗
 
----
-
-### 2026-04-10_紧急_南法和南意的_MjMwNzc4NTEw.md
----
-slug: MjMwNzc4NTEw
-created_at: "2026-04-10 15:34:44"
-updated_at: "2026-04-11 21:01:45"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 南法和南意的书和电影
 
 去那边转转
-
----
-
-### 2026-04-10_紧急_哈喽宝们欢迎_MjMwNzk3Mzg4.md
----
-slug: MjMwNzk3Mzg4
-created_at: "2026-04-10 17:23:55"
-updated_at: "2026-04-11 21:01:45"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1473,31 +606,9 @@ https://my.feishu.cn/drive/folder/HBGbfMTUqlkGKldQWRkcJcRjnOh
 
 文件夹内容会不断更新哒！而且全部都是免费的，大家有需要直接戳链接自取就好～有什么想了解的，欢迎随时来找我们聊天、探讨、一起摸索🙌 互动多的宝们可以获得随机掉落的辅导答疑和小礼物哦🎁
 
----
-
-### 2026-04-10_紧急_暂停实验室运_MjMwODA3Nzk4.md
----
-slug: MjMwODA3Nzk4
-created_at: "2026-04-10 18:19:29"
-updated_at: "2026-04-11 21:01:44"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 暂停实验室？运作模式
-
----
-
-### 2026-04-10_紧急_用AI频繁记_MjMwNzAzNjA4.md
----
-slug: MjMwNzAzNjA4
-created_at: "2026-04-10 07:40:50"
-updated_at: "2026-04-10 07:40:51"
-tags: ["任务/紧急","自我提升","个人成长","ai","改变生活方式","AI人工智能","效率","小红书年度诗篇","复盘","小红书科技AMA","AI工具"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1535,17 +646,6 @@ source: "ios"
 
 的时间有限，我可能不会在这儿展开，但是大家有了这些基础以后，就可以有更好的方式去实现自己数字的分身，如果有更多想要了解关于数字分身的话，大家也可以持时关注我，我后面会有时间的时候会分享这一块的内容。最后是一些关于AI记录使用的避坑，首先大家不用太多的去纠结排版逻辑，还有一些错别字什么的，这些AI都会帮你去整理，你完全不用去考虑这些。另外就是不要把AI简单的当成安慰剂，一定要尽可能的在看完以后就形成一些行动指南，或者直接去做起来，我基本上每一个提示词都会非常强化这一步。好了，以上就是我自己如何用AI频繁记录自己的实践，我也会后续跟大家分享更多如何把AI运用到我自己的生活，形成系统的一些方法论，如果有其他你想要看的内容的话，欢迎给我留言。
 
----
-
-### 2026-04-10_紧急_签证汇丰存钱_MjMwNzAzOTA5.md
----
-slug: MjMwNzAzOTA5
-created_at: "2026-04-10 07:43:59"
-updated_at: "2026-04-11 21:01:46"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 签证
@@ -1562,33 +662,11 @@ boots
 
 搞ob
 
----
-
-### 2026-04-10_紧急_记得退票退房_MjMwNzAzNzE2.md
----
-slug: MjMwNzAzNzE2
-created_at: "2026-04-10 07:42:02"
-updated_at: "2026-04-11 21:01:47"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 记得退票，退房，可以退一半吗
 
 保险不退
-
----
-
-### 2026-04-11_紧急_1看展2激活_MjMxMDEzNjAw.md
----
-slug: MjMxMDEzNjAw
-created_at: "2026-04-11 23:29:28"
-updated_at: "2026-04-11 23:29:29"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1598,48 +676,15 @@ source: "ios"
 
 3.买菜
 
----
-
-### 2026-04-11_紧急_怎么把公众号_MjMwOTYyNzUx.md
----
-slug: MjMwOTYyNzUx
-created_at: "2026-04-11 18:18:54"
-updated_at: "2026-04-11 21:01:41"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 怎么把公众号文章发给Ob呢？
-
----
-
-### 2026-04-11_紧急_我突然意识到_MjMwOTUzNjMy.md
----
-slug: MjMwOTUzNjMy
-created_at: "2026-04-11 17:10:51"
-updated_at: "2026-04-11 21:01:43"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 我突然意识到吕冰儿的课题是关于AI选择和我们的直觉选择，但是我觉得其实他在往下面真挖一层，应该是他的建议和我们的内心的声音才是他的课题，这个AI的时代，他能建议变多了
 
 其实理智上就是实际上来讲的话，就是说AI就是跟他人没有什么太大的区别，跟他人的建议他可能比大部分人人的建议更好，因为他有很多的模型什么的，但是他可能也跟很多人建议不太好的原因是因为他的建议可能是有很深很实际的实际案例出发的
-
----
-
-### 2026-04-11_紧急_晚上看打印的_MjMwOTYyNzQ4.md
----
-slug: MjMwOTYyNzQ4
-created_at: "2026-04-11 18:17:30"
-updated_at: "2026-04-11 21:01:42"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1653,31 +698,9 @@ source: "ios"
 
 不允许看小说
 
----
-
-### 2026-04-11_紧急_最重要的任务_MjMwOTY5MjE3.md
----
-slug: MjMwOTY5MjE3
-created_at: "2026-04-11 19:13:09"
-updated_at: "2026-04-11 21:01:40"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 最重要的任务：研究决策，选择，容错率，复利，最优解（保持怀疑），不要过多的选择上，去给妹妹写一封信
-
----
-
-### 2026-04-11_紧急_煮鸡蛋播客h_MjMwOTQ3NTM1.md
----
-slug: MjMwOTQ3NTM1
-created_at: "2026-04-11 16:28:25"
-updated_at: "2026-04-11 21:01:43"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1725,46 +748,13 @@ irp （tutor skill）
 
 睡觉💤
 
----
-
-### 2026-04-11_紧急_相册云盘感想_MjMwOTU5ODk5.md
----
-slug: MjMwOTU5ODk5
-created_at: "2026-04-11 17:56:38"
-updated_at: "2026-04-11 21:01:42"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 相册云盘感想，小说摘录
 
----
-
-### 2026-04-11_紧急_给妹妹写一封_MjMwOTY3ODYz.md
----
-slug: MjMwOTY3ODYz
-created_at: "2026-04-11 19:01:50"
-updated_at: "2026-04-11 21:01:39"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 给妹妹写一封信
-
----
-
-### 2026-04-11_紧急_网上买boo_MjMwODY0NDUy.md
----
-slug: MjMwODY0NDUy
-created_at: "2026-04-11 01:15:54"
-updated_at: "2026-04-11 21:01:44"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1772,46 +762,13 @@ source: "ios"
 
 然后去自提就好
 
----
-
-### 2026-04-11_紧急_长期主义和复_MjMwOTY3MzAz.md
----
-slug: MjMwOTY3MzAz
-created_at: "2026-04-11 18:56:33"
-updated_at: "2026-04-11 21:01:40"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 长期主义和复利主义做选择
 
----
-
-### 2026-04-11_紧急_限制每个任务_MjMwOTY2MzQx.md
----
-slug: MjMwOTY2MzQx
-created_at: "2026-04-11 18:48:23"
-updated_at: "2026-04-11 21:01:41"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 限制每个任务的时间
-
----
-
-### 2026-04-12_紧急_不是给ai路_MjMxMTMyMzYw.md
----
-slug: MjMxMTMyMzYw
-created_at: "2026-04-12 19:03:40"
-updated_at: "2026-04-12 19:03:42"
-tags: ["任务/紧急"]
-source: "web"
----
 
 #任务/紧急
 
@@ -1835,17 +792,6 @@ source: "web"
 
 Workflow的任务，你当然可以把路彻底堵死。但既然你选择了开放式的Agent任务，就千万别再企图把
 
----
-
-### 2026-04-12_紧急_出去旅游住的_MjMxMTMyNDA4.md
----
-slug: MjMxMTMyNDA4
-created_at: "2026-04-12 19:04:01"
-updated_at: "2026-04-12 19:07:45"
-tags: ["任务/紧急"]
-source: "web"
----
-
 #任务/紧急
 
 出去旅游住的话可以考虑airbnb
@@ -1858,61 +804,17 @@ source: "web"
 
 以及意大利那边也是一样的
 
----
-
-### 2026-04-12_紧急_臀推50kg_MjMxMDM1Nzc3.md
----
-slug: MjMxMDM1Nzc3
-created_at: "2026-04-12 04:36:44"
-updated_at: "2026-04-12 04:36:47"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 臀推50kg
-
----
-
-### 2026-04-14_紧急_打印那张像心_MjMxMzg2NDg1.md
----
-slug: MjMxMzg2NDg1
-created_at: "2026-04-14 04:27:06"
-updated_at: "2026-04-14 04:27:07"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 打印那张像心电图一样的那个石榴
 
----
-
-### 2026-04-15_紧急_hsbcgl_MjMxNjg5MTY4.md
----
-slug: MjMxNjg5MTY4
-created_at: "2026-04-15 18:57:13"
-updated_at: "2026-04-15 18:57:13"
-tags: ["任务/紧急"]
-source: "web"
----
-
 #任务/紧急
 
 hsbc glaobal 有个流氓扣费被拒绝，因为我把卡冻住了，怎么解决
-
----
-
-### 2026-04-15_紧急_健身看诺兰新_MjMxNzMyNDMz.md
----
-slug: MjMxNzMyNDMz
-created_at: "2026-04-15 23:29:22"
-updated_at: "2026-04-15 23:29:23"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1920,31 +822,9 @@ source: "ios"
 
 看诺兰新电影
 
----
-
-### 2026-04-15_紧急_微信的龙虾插_MjMxNjc1NTE0.md
----
-slug: MjMxNjc1NTE0
-created_at: "2026-04-15 17:23:51"
-updated_at: "2026-04-15 17:23:58"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 微信的龙虾插件，ob能用吗
-
----
-
-### 2026-04-16_紧急_ob如何连接_MjMxNzUxNjU0.md
----
-slug: MjMxNzUxNjU0
-created_at: "2026-04-16 02:46:08"
-updated_at: "2026-04-16 02:46:16"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -1952,46 +832,13 @@ ob如何连接日历和每日任务
 
 自动化
 
----
-
-### 2026-04-16_紧急_买酱油和黑胡_MjMxOTM3NzQx.md
----
-slug: MjMxOTM3NzQx
-created_at: "2026-04-16 21:13:48"
-updated_at: "2026-04-17 01:26:14"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 买酱油和黑胡椒
 
----
-
-### 2026-04-16_紧急_传内容给一诺_MjMxNzY4NTEx.md
----
-slug: MjMxNzY4NTEx
-created_at: "2026-04-16 08:20:47"
-updated_at: "2026-04-16 08:20:49"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 传内容给一诺
-
----
-
-### 2026-04-16_紧急_哈喽宝们欢迎_MjMxNzk0NjQ3.md
----
-slug: MjMxNzk0NjQ3
-created_at: "2026-04-16 10:47:28"
-updated_at: "2026-04-16 10:47:29"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2005,61 +852,17 @@ https://my.feishu.cn/drive/folder/HBGbfMTUqlkGKldQWRkcJcRjnOh
 
 文件夹内容会不断更新哒！而且全部都是免费的，大家有需要直接戳链接自取就好～有什么想了解的，欢迎随时来找我们聊天、探讨、一起摸索🙌 互动多的宝们可以获得随机掉落的辅导答疑和小礼物哦🎁
 
----
-
-### 2026-04-16_紧急_回去处理gy_MjMxNzQ0MjQx.md
----
-slug: MjMxNzQ0MjQx
-created_at: "2026-04-16 00:43:55"
-updated_at: "2026-04-16 00:43:56"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 回去处理gym的扣费
-
----
-
-### 2026-04-16_紧急_我写第一人称_MjMxNzcwNDQz.md
----
-slug: MjMxNzcwNDQz
-created_at: "2026-04-16 08:32:08"
-updated_at: "2026-04-16 08:32:44"
-tags: ["任务/紧急","想要做的"]
-source: "ios"
----
 
 #任务/紧急 #想要做的
 
 我写第一人称视角在AI帮我撰写第三人称英雄剧本
 
----
-
-### 2026-04-16_紧急_纸笔大疆_MjMxNzUzNjkw.md
----
-slug: MjMxNzUzNjkw
-created_at: "2026-04-16 04:05:56"
-updated_at: "2026-04-16 04:05:57"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 纸笔大疆
-
----
-
-### 2026-04-17_紧急_DPDUKP_MjMxOTQzNTM2.md
----
-slug: MjMxOTQzNTM2
-created_at: "2026-04-17 01:26:19"
-updated_at: "2026-04-17 04:22:41"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2083,46 +886,13 @@ Available options include:
 
 Important: The parcel will be held until 19 April. If no arrangements are made before this date, it may be sent back to the sender.
 
----
-
-### 2026-04-17_紧急_thevgy_MjMyMDY0NDk2.md
----
-slug: MjMyMDY0NDk2
-created_at: "2026-04-17 17:03:15"
-updated_at: "2026-04-17 19:09:45"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 thevgym group 退钱
 
----
-
-### 2026-04-17_紧急_如果gymg_MjMyMTAyMTE3.md
----
-slug: MjMyMTAyMTE3
-created_at: "2026-04-17 23:31:52"
-updated_at: "2026-04-17 23:31:59"
-tags: ["任务/紧急"]
-source: "web"
----
-
 #任务/紧急
 
 如果gymgroup还不还钱，就找银行
-
----
-
-### 2026-04-17_紧急_拿快递2妹妹_MjMxOTQ2MDI1.md
----
-slug: MjMxOTQ2MDI1
-created_at: "2026-04-17 06:01:08"
-updated_at: "2026-04-17 16:35:05"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2133,17 +903,6 @@ source: "ios"
 1.照片
 
 2.作业
-
----
-
-### 2026-04-18_紧急_当然有些人天_MjMyMjMwMTYy.md
----
-slug: MjMyMjMwMTYy
-created_at: "2026-04-18 21:11:56"
-updated_at: "2026-04-18 21:11:58"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2162,17 +921,6 @@ source: "ios"
 **
 
 所以搞清楚自己厌恶什么、真正渴望什么，是一件极其重要的事。只有想透了这个问题，才不会在一条拧巴的路上耗完自己的一生。**
-
----
-
-### 2026-04-18_紧急_我目前还需要_MjMyMjU1NTIy.md
----
-slug: MjMyMjU1NTIy
-created_at: "2026-04-18 23:49:50"
-updated_at: "2026-04-18 23:49:50"
-tags: ["任务/紧急"]
-source: "web"
----
 
 #任务/紧急
 
@@ -2199,17 +947,6 @@ source: "web"
 能不能添加一个计时功能？每次我开始做任务时就启动计时，系统能统计我每天的时间都花在了哪里。这样我才能知道每天完成工作的效率如何，以及每个项目大概需要花费多少时间。
 
 目前大概就是这些内容。
-
----
-
-### 2026-04-18_紧急_设立3个功能_MjMyMTk2ODQ2.md
----
-slug: MjMyMTk2ODQ2
-created_at: "2026-04-18 16:47:58"
-updated_at: "2026-04-18 16:48:02"
-tags: ["任务/紧急"]
-source: "web"
----
 
 #任务/紧急
 
@@ -2240,17 +977,6 @@ source: "web"
 -
 [ ] ob 如何和小红书和抖音打通
 
----
-
-### 2026-04-19_紧急_思考有哪些需_MjMyMjgzOTY3.md
----
-slug: MjMyMjgzOTY3
-created_at: "2026-04-19 08:31:30"
-updated_at: "2026-04-19 08:31:31"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 思考有哪些需求是我能解决的
@@ -2259,46 +985,13 @@ source: "ios"
 
 以及这个需求还有没有别的解决方式
 
----
-
-### 2026-04-19_紧急_手机转号_MjMyMjYxNDEy.md
----
-slug: MjMyMjYxNDEy
-created_at: "2026-04-19 00:38:35"
-updated_at: "2026-04-19 00:38:43"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 手机转号
 
----
-
-### 2026-04-19_紧急_投影仪星空_MjMyMjc0MjIx.md
----
-slug: MjMyMjc0MjIx
-created_at: "2026-04-19 05:45:20"
-updated_at: "2026-04-19 05:45:21"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 投影仪星空
-
----
-
-### 2026-04-19_紧急_是创造价值不_MjMyMjgzODcz.md
----
-slug: MjMyMjgzODcz
-created_at: "2026-04-19 08:30:31"
-updated_at: "2026-04-19 08:30:32"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2316,33 +1009,11 @@ source: "ios"
 
 验证模型的第一性原理是为了系统复制而不是个人苦干
 
----
-
-### 2026-04-19_紧急_看清情绪背后_MjMyNDA0MTcx.md
----
-slug: MjMyNDA0MTcx
-created_at: "2026-04-19 22:36:55"
-updated_at: "2026-04-19 22:36:56"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 看清情绪背后的需要 http://xhslink.com/o/8hMkdI8NSrw
 
 复制后打开【小红书】查看笔记！
-
----
-
-### 2026-04-19_紧急_睡眠时间记录_MjMyMjk5NTAw.md
----
-slug: MjMyMjk5NTAw
-created_at: "2026-04-19 10:35:26"
-updated_at: "2026-04-19 18:49:56"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2358,17 +1029,6 @@ source: "ios"
 
 人祖转
 
----
-
-### 2026-04-19_紧急_试一下小的三_MjMyMjY4OTE0.md
----
-slug: MjMyMjY4OTE0
-created_at: "2026-04-19 02:24:39"
-updated_at: "2026-04-19 02:24:41"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 试一下小的三脚架
@@ -2376,17 +1036,6 @@ source: "ios"
 大的云台
 
 放到最低
-
----
-
-### 2026-04-20_紧急_给花换水登陆_MjMyNTU3NTQz.md
----
-slug: MjMyNTU3NTQz
-created_at: "2026-04-20 19:37:40"
-updated_at: "2026-04-21 21:48:55"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2414,31 +1063,9 @@ irp
 
 明天去机场行程
 
----
-
-### 2026-04-21_紧急_london_MjMyNjEzNTM5.md
----
-slug: MjMyNjEzNTM5
-created_at: "2026-04-21 03:46:18"
-updated_at: "2026-04-21 03:46:19"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 london 当天来回的地方
-
----
-
-### 2026-04-21_紧急_我的文风转化_MjMyNjEzNjA2.md
----
-slug: MjMyNjEzNjA2
-created_at: "2026-04-21 03:48:55"
-updated_at: "2026-04-21 05:26:56"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2456,17 +1083,6 @@ source: "ios"
 
 其实我很讨厌用那种名言名句，或者说那种我不讨厌名言名句，但是我很讨厌那种什么那种专有名词，就是整一堆花里胡哨的，然后就特别文艺范的那种，让别人听不懂的感觉
 
----
-
-### 2026-04-21_紧急_摄影没流量摄_MjMyNjE0NzA5.md
----
-slug: MjMyNjE0NzA5
-created_at: "2026-04-21 04:39:48"
-updated_at: "2026-04-21 04:39:49"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 摄影没流量
@@ -2475,29 +1091,7 @@ source: "ios"
 
 但是抓人一定是文字
 
----
-
-### 2026-04-21_紧急_看沉思录_MjMyNjQyMDM1.md
----
-slug: MjMyNjQyMDM1
-created_at: "2026-04-21 09:31:54"
-updated_at: "2026-04-21 09:31:55"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急 看沉思录
-
----
-
-### 2026-04-21_紧急_计数第多少个_MjMyNjEzMzAy.md
----
-slug: MjMyNjEzMzAy
-created_at: "2026-04-21 03:36:06"
-updated_at: "2026-04-21 03:36:07"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2507,31 +1101,9 @@ source: "ios"
 
 第多少餐干净饮食
 
----
-
-### 2026-04-22_学习法律_我觉得法律很_MjMyODUyMzIy.md
----
-slug: MjMyODUyMzIy
-created_at: "2026-04-22 11:49:46"
-updated_at: "2026-04-22 11:49:47"
-tags: ["想做的事/学习法律"]
-source: "ios"
----
-
 #想做的事/学习法律
 
 我觉得法律很重要，你得知道什么是犯法，什么不是犯法，你才知道你的生意的边界在哪里
-
----
-
-### 2026-04-22_学习编程_小红书上有个_MjMyODQzNzY3.md
----
-slug: MjMyODQzNzY3
-created_at: "2026-04-22 11:02:10"
-updated_at: "2026-04-22 11:02:11"
-tags: ["想做的事/学习编程"]
-source: "ios"
----
 
 #想做的事/学习编程
 
@@ -2541,48 +1113,15 @@ coursera
 
 卖的好像是google的什么编程课？
 
----
-
-### 2026-04-22_紧急_HSBCGl_MjMyODI4OTM3.md
----
-slug: MjMyODI4OTM3
-created_at: "2026-04-22 09:42:08"
-updated_at: "2026-04-22 09:42:15"
-tags: ["任务/紧急"]
-source: "web"
----
-
 #任务/紧急
 
 HSBC Global
 
 汇丰换点欧元？
 
----
-
-### 2026-04-22_紧急_kindle_MjMyNzg3OTY1.md
----
-slug: MjMyNzg3OTY1
-created_at: "2026-04-22 00:10:06"
-updated_at: "2026-04-22 00:10:08"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 kindle 下载
-
----
-
-### 2026-04-22_紧急_利用拓展物看_MjMyNzk5OTcy.md
----
-slug: MjMyNzk5OTcy
-created_at: "2026-04-22 04:05:54"
-updated_at: "2026-04-22 04:05:56"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2590,61 +1129,17 @@ source: "ios"
 
 以及可能带两个转换插头吧
 
----
-
-### 2026-04-22_紧急_厨房毛巾带去_MjMyNzk2MTY3.md
----
-slug: MjMyNzk2MTY3
-created_at: "2026-04-22 01:59:56"
-updated_at: "2026-04-22 01:59:57"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 厨房毛巾带去旅行
-
----
-
-### 2026-04-22_紧急_去hsbc绑_MjMyODAzMTE1.md
----
-slug: MjMyODAzMTE1
-created_at: "2026-04-22 06:11:24"
-updated_at: "2026-04-22 06:11:25"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 去hsbc绑定一下global卡
 
----
-
-### 2026-04-22_紧急_小红书收藏链_MjMyNzk4NTU4.md
----
-slug: MjMyNzk4NTU4
-created_at: "2026-04-22 03:06:05"
-updated_at: "2026-04-22 03:06:06"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 小红书收藏链路没打通
-
----
-
-### 2026-04-22_紧急_带ipad吗_MjMyNzkyNzU1.md
----
-slug: MjMyNzkyNzU1
-created_at: "2026-04-22 01:00:10"
-updated_at: "2026-04-22 01:00:58"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -2652,31 +1147,9 @@ source: "ios"
 
 ipad能不能跑ob的ai
 
----
-
-### 2026-04-22_紧急_带个画画的本_MjMyNzkyMzY1.md
----
-slug: MjMyNzkyMzY1
-created_at: "2026-04-22 00:54:54"
-updated_at: "2026-04-22 00:54:56"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 带个画画的本子
-
----
-
-### 2026-04-22_紧急_明天行程安排_MjMyODM3OTEw.md
----
-slug: MjMyODM3OTEw
-created_at: "2026-04-22 10:30:23"
-updated_at: "2026-04-22 19:20:53"
-tags: ["任务/紧急"]
-source: "web"
----
 
 #任务/紧急
 
@@ -2711,31 +1184,9 @@ source: "web"
 
 到市区随便找个银行ATM取就行了，法国街上BNP Paribas、Société Générale这些大银行ATM都很常见，取50€搞定。
 
----
-
-### 2026-04-23_学习法律_学习法律把诈_MjMyOTkzNjgw.md
----
-slug: MjMyOTkzNjgw
-created_at: "2026-04-23 06:08:31"
-updated_at: "2026-04-23 06:08:33"
-tags: ["想做的事/学习法律"]
-source: "ios"
----
-
 #想做的事/学习法律
 
 学习法律，把诈骗那个人抓出来
-
----
-
-### 2026-04-23_尼斯行程_搜到关键信息_MjMzMTE3OTU3.md
----
-slug: MjMzMTE3OTU3
-created_at: "2026-04-23 16:21:35"
-updated_at: "2026-04-23 16:21:36"
-tags: ["任务/尼斯行程"]
-source: "ios"
----
 
 #任务/尼斯行程
 
@@ -2759,31 +1210,9 @@ source: "ios"
 
 这样完美，不绕路，芒通玩完坐公交回尼斯，25号直接出发。
 
----
-
-### 2026-04-23_紧急_今天看看回去_MjMzMTA0MTM5.md
----
-slug: MjMzMTA0MTM5
-created_at: "2026-04-23 15:12:28"
-updated_at: "2026-04-23 15:12:29"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 今天看看回去的机票
-
----
-
-### 2026-04-23_赶紧跑通ai_城外的人怕错_MjMyOTkyNzcz.md
----
-slug: MjMyOTkyNzcz
-created_at: "2026-04-23 05:39:31"
-updated_at: "2026-04-23 05:39:32"
-tags: ["想做的事/赶紧跑通ai"]
-source: "ios"
----
 
 #想做的事/赶紧跑通ai
 
@@ -2805,17 +1234,6 @@ source: "ios"
 收口只是一次正常的商业呼吸，是三波钱切换后的必然动作。
 
 看懂这个底层逻辑，你才能在下一次涨价到来前，先一步挖好自己的护城河。
-
----
-
-### 2026-04-23_赶紧跑通ai_这篇文章的底_MjMyOTkyODM4.md
----
-slug: MjMyOTkyODM4
-created_at: "2026-04-23 05:41:34"
-updated_at: "2026-04-23 05:41:35"
-tags: ["想做的事/赶紧跑通ai"]
-source: "ios"
----
 
 #想做的事/赶紧跑通ai
 
@@ -2847,91 +1265,25 @@ source: "ios"
 
 想聊聊怎么具体搭这套东西吗？
 
----
-
-### 2026-04-24_goolemap_用Googl_MjMzMzMyMTM1.md
----
-slug: MjMzMzMyMTM1
-created_at: "2026-04-24 17:56:50"
-updated_at: "2026-04-24 20:23:23"
-tags: ["想做的事/goolemap"]
-source: "ios"
----
-
 #想做的事/goolemap
 
 用Googlemap配上我的照片，让它跃然纸上
-
----
-
-### 2026-04-24_用纸币_用纸币cas_MjMzMjg0NDcw.md
----
-slug: MjMzMjg0NDcw
-created_at: "2026-04-24 14:57:44"
-updated_at: "2026-04-24 14:57:47"
-tags: ["想做的事/用纸币"]
-source: "ios"
----
 
 #想做的事/用纸币
 
 用纸币cash
 
----
-
-### 2026-04-24_紧急_打印山鸡和墨_MjMzMjczNDM4.md
----
-slug: MjMzMjczNDM4
-created_at: "2026-04-24 06:08:46"
-updated_at: "2026-04-24 13:41:08"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 打印山鸡和墨鱼照片
-
----
-
-### 2026-04-24_紧急_给徐徐绵绵照_MjMzMzMzOTcw.md
----
-slug: MjMzMzMzOTcw
-created_at: "2026-04-24 20:36:52"
-updated_at: "2026-04-24 20:36:55"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 给徐徐绵绵照片
 
----
-
-### 2026-04-25_ai上色_让AI不改变_MjMzNTA4MTI5.md
----
-slug: MjMzNTA4MTI5
-created_at: "2026-04-25 23:08:15"
-updated_at: "2026-04-25 23:08:17"
-tags: ["想做的事/ai上色"]
-source: "ios"
----
-
 #想做的事/ai上色
 
 让AI不改变我的风格的同时给我上个色
-
----
-
-### 2026-04-25_ob_用好Note_MjMzMzc5MjY3.md
----
-slug: MjMzMzc5MjY3
-created_at: "2026-04-25 05:37:57"
-updated_at: "2026-04-25 05:37:58"
-tags: ["任务/ob"]
-source: "ios"
----
 
 #任务/ob
 
@@ -2941,63 +1293,19 @@ source: "ios"
 
 研究ob和 note 以及！kindle高亮导出
 
----
-
-### 2026-04-25_紧急_思考去意大利_MjMzMzc2MjA0.md
----
-slug: MjMzMzc2MjA0
-created_at: "2026-04-25 03:15:58"
-updated_at: "2026-04-25 03:22:26"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 思考去意大利还是去瑞士🇨🇭🤔
 
 去瑞士那就去米兰然后到瑞士
 
----
-
-### 2026-04-25_紧急_火车站到机场_MjMzNDc0ODQx.md
----
-slug: MjMzNDc0ODQx
-created_at: "2026-04-25 19:19:49"
-updated_at: "2026-04-25 19:19:50"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 火车站到机场最晚班次
 
----
-
-### 2026-04-25_紧急_要不要去戛纳_MjMzMzc2MjA3.md
----
-slug: MjMzMzc2MjA3
-created_at: "2026-04-25 03:22:14"
-updated_at: "2026-04-25 03:22:29"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 要不要去戛纳那边那个什么修道院小岛去看看
-
----
-
-### 2026-04-25_紧急_跨国巴士去米_MjMzMzg0Mzg2.md
----
-slug: MjMzMzg0Mzg2
-created_at: "2026-04-25 07:24:52"
-updated_at: "2026-04-25 18:21:06"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -3021,61 +1329,17 @@ source: "ios"
 
 然后找一天便宜的票回去l
 
----
-
-### 2026-04-25_紧急_随身带转换呜_MjMzMzc1MDEx.md
----
-slug: MjMzMzc1MDEx
-created_at: "2026-04-25 02:42:26"
-updated_at: "2026-04-25 02:42:27"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 随身带转换呜
-
----
-
-### 2026-04-26_三条横的拼一个图_远景近景和人_MjMzNTQ2NjA1.md
----
-slug: MjMzNTQ2NjA1
-created_at: "2026-04-26 08:58:00"
-updated_at: "2026-04-26 08:58:04"
-tags: ["想做的事/三条横的拼一个图"]
-source: "ios"
----
 
 #想做的事/三条横的拼一个图
 
 远景，近景，和人景
 
----
-
-### 2026-04-26_紧急_以后多买ty_MjMzNTMyODk0.md
----
-slug: MjMzNTMyODk0
-created_at: "2026-04-26 05:31:13"
-updated_at: "2026-04-26 05:31:15"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 以后多买typec的线
-
----
-
-### 2026-04-26_紧急_思考两件事情_MjMzNTMzODY5.md
----
-slug: MjMzNTMzODY5
-created_at: "2026-04-26 06:05:06"
-updated_at: "2026-04-26 06:05:08"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -3085,47 +1349,14 @@ source: "ios"
 
 然后他们的差价大概是30英镑，感觉不确定
 
----
-
-### 2026-04-27_ai调色_MjMzODQxNDM4.md
----
-slug: MjMzODQxNDM4
-created_at: "2026-04-27 22:20:29"
-updated_at: "2026-04-27 22:33:12"
-tags: ["想做的事/ai调色"]
-source: "ios"
----
-
 #想做的事/ai调色
 
 **附件:**
 [音频: audio_record_1777299579_EozGsqrb.m4a](flomo/attachments/2026/04/27/audio_record_1777299579_EozGsqrb.m4a)
 
----
-
-### 2026-04-27_伦敦干嘛_去小红书上搜_MjMzODA0NDMz.md
----
-slug: MjMzODA0NDMz
-created_at: "2026-04-27 18:26:13"
-updated_at: "2026-04-27 18:26:15"
-tags: ["想做的事/伦敦干嘛"]
-source: "ios"
----
-
 #想做的事/伦敦干嘛
 
 去小红书上搜索一下去那些没有来伦敦的人，假如他们来了伦敦他们想去干嘛，我就去帮他们实现梦想
-
----
-
-### 2026-04-27_伦敦干嘛_回去学习那个_MjMzODA2Nzc0.md
----
-slug: MjMzODA2Nzc0
-created_at: "2026-04-27 18:42:53"
-updated_at: "2026-04-27 18:43:24"
-tags: ["想做的事/伦敦干嘛"]
-source: "ios"
----
 
 #想做的事/伦敦干嘛
 
@@ -3135,31 +1366,9 @@ source: "ios"
 
 先上官网看有什么课和价格，不要直接买
 
----
-
-### 2026-04-27_钢盔🪖墨鱼_钢盔墨鱼小绳_MjMzODQzODI3.md
----
-slug: MjMzODQzODI3
-created_at: "2026-04-27 22:33:31"
-updated_at: "2026-04-27 22:33:41"
-tags: ["想做的事/钢盔🪖墨鱼"]
-source: "ios"
----
-
 #想做的事/钢盔🪖墨鱼
 
 钢盔墨鱼小绳子跳舞小人
-
----
-
-### 2026-04-28_紧急_把我的罚款都_MjM0MTUwNTYy.md
----
-slug: MjM0MTUwNTYy
-created_at: "2026-04-28 17:12:07"
-updated_at: "2026-04-29 16:21:34"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -3167,31 +1376,9 @@ source: "ios"
 
 都打印出来贴在墙上
 
----
-
-### 2026-04-28_紧急_火车票退款_MjMzOTc4ODQz.md
----
-slug: MjMzOTc4ODQz
-created_at: "2026-04-28 16:57:43"
-updated_at: "2026-04-28 17:10:13"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 火车票退款
-
----
-
-### 2026-04-29_外贸纪录片_09564外_MjM0MTU3MDM0.md
----
-slug: MjM0MTU3MDM0
-created_at: "2026-04-29 16:57:09"
-updated_at: "2026-04-29 16:57:10"
-tags: ["想做的事/外贸纪录片"]
-source: "ios"
----
 
 #想做的事/外贸纪录片
 
@@ -3325,33 +1512,11 @@ RECEIPT
 
 81
 
----
-
-### 2026-04-29_紧急_做一个前女友_MjM0MjE1Njc5.md
----
-slug: MjM0MjE1Njc5
-created_at: "2026-04-29 23:34:49"
-updated_at: "2026-04-29 23:34:58"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 做一个前女友合集
 
 每个人最多三张图
-
----
-
-### 2026-04-29_紧急_每天的伙食碳_MjM0MTUwNjUy.md
----
-slug: MjM0MTUwNjUy
-created_at: "2026-04-29 16:22:01"
-updated_at: "2026-04-29 20:05:04"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -3365,17 +1530,6 @@ source: "ios"
 
 健身房到期时间（app）和退款（邮件）
 
----
-
-### 2026-04-29_紧急_让c老师给我_MjM0MjExNzgx.md
----
-slug: MjM0MjExNzgx
-created_at: "2026-04-29 23:08:07"
-updated_at: "2026-04-29 23:09:59"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急 让c老师给我提问
 
 ob有局限
@@ -3388,31 +1542,9 @@ ob有局限
 
 一个是图库展示
 
----
-
-### 2026-04-29_紧急_调整一下和c_MjM0MjE1NDI5.md
----
-slug: MjM0MjE1NDI5
-created_at: "2026-04-29 23:33:10"
-updated_at: "2026-04-29 23:33:11"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 调整一下和cjz的合照
-
----
-
-### 2026-04-30_紧急_iq的住房是_MjM0MjkwMTUx.md
----
-slug: MjM0MjkwMTUx
-created_at: "2026-04-30 11:44:32"
-updated_at: "2026-04-30 11:47:35"
-tags: ["任务/紧急"]
-source: "web"
----
 
 #任务/紧急
 
@@ -3430,31 +1562,9 @@ iq的住房是到9.5号
 
 然后和深蹲从陆地回国
 
----
-
-### 2026-04-30_紧急_notebo_MjM0MjcwMjc4.md
----
-slug: MjM0MjcwMjc4
-created_at: "2026-04-30 10:02:52"
-updated_at: "2026-04-30 10:02:54"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 notebook和ob c打通
-
----
-
-### 2026-04-30_紧急_九月中旬去北_MjM0Mjg4Nzkw.md
----
-slug: MjM0Mjg4Nzkw
-created_at: "2026-04-30 11:35:40"
-updated_at: "2026-04-30 11:35:51"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -3462,31 +1572,9 @@ source: "ios"
 
 秋天去
 
----
-
-### 2026-04-30_紧急_倒垃圾打印垃_MjM0MjIxOTg1.md
----
-slug: MjM0MjIxOTg1
-created_at: "2026-04-30 00:24:42"
-updated_at: "2026-04-30 09:41:10"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急 倒垃圾
 
 打印垃圾表单
-
----
-
-### 2026-04-30_紧急_去primM_MjM0MjU2ODE1.md
----
-slug: MjM0MjU2ODE1
-created_at: "2026-04-30 09:12:59"
-updated_at: "2026-04-30 09:13:38"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -3499,48 +1587,15 @@ source: "ios"
 **附件:**
 ![1777511614493_kaSoNsLK.jpg](flomo/attachments/2026/04/30/1777511614493_kaSoNsLK.jpg)
 
----
-
-### 2026-04-30_紧急_安德玛紧身衣_MjM0MjIwNzIz.md
----
-slug: MjM0MjIwNzIz
-created_at: "2026-04-30 00:13:09"
-updated_at: "2026-04-30 00:13:11"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 安德玛紧身衣
-
----
-
-### 2026-04-30_紧急_老师根据我的_MjM0MjI3NDkz.md
----
-slug: MjM0MjI3NDkz
-created_at: "2026-04-30 01:21:12"
-updated_at: "2026-04-30 01:21:14"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
 老师根据我的所有的资料进行提问，找到我的北极星
 
 自己上可以使用欧币的，也可以使用它自己的App，然后选中那个欧币的文件夹就行
-
----
-
-### 2026-04-30_紧急_让ai根据这_MjM0MjcwNTU0.md
----
-slug: MjM0MjcwNTU0
-created_at: "2026-04-30 10:04:37"
-updated_at: "2026-04-30 10:04:39"
-tags: ["任务/紧急"]
-source: "ios"
----
 
 #任务/紧急
 
@@ -3636,20 +1691,6 @@ C 说点什么•
 
 53
 
----
-
-### 2026-04-30_紧急_那个健身房的_MjM0MjcxMjUz.md
----
-slug: MjM0MjcxMjUz
-created_at: "2026-04-30 10:08:33"
-updated_at: "2026-04-30 10:08:34"
-tags: ["任务/紧急"]
-source: "ios"
----
-
 #任务/紧急
 
 那个健身房的咖啡因只能早上去健身的时候喝，晚上健身不能喝，晚上喝了睡不着，我操
-
----
-
