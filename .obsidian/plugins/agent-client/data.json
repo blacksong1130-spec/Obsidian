@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "1e4a4275-99f4-4e29-8d9a-d149142176ee",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "你去notebooklm聊天，找一个谭成义健身计划，让他生成一个训练计划给我，最好是有信心图和ppt...",
+      "createdAt": "2026-04-30T16:55:26.308Z",
+      "updatedAt": "2026-04-30T16:55:26.308Z"
+    },
+    {
       "sessionId": "41dc642a-3e8a-4834-a052-955cfbe13dc3",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",
@@ -233,7 +241,7 @@
     }
   ],
   "lastUsedModels": {
-    "gemini-cli": "gemini-3.1-pro-preview"
+    "gemini-cli": "auto-gemini-3"
   },
   "lastUsedModes": {
     "gemini-cli": "yolo"
