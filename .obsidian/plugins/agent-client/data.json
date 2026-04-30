@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "41dc642a-3e8a-4834-a052-955cfbe13dc3",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "你把flomo最近一个月里的#任务 #想做的事 这两个tag里的内容放在一个文档里面",
+      "createdAt": "2026-04-30T12:58:36.039Z",
+      "updatedAt": "2026-04-30T12:58:36.039Z"
+    },
+    {
       "sessionId": "f013da20-92d1-4f90-bdad-9136306d237d",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",
