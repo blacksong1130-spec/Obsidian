@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "b339be80-bca8-4561-9a1a-cea0f003318c",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "你帮我去跟 NotebookLM 进行聊天，主要有以下几点：\n\n1. 我的核心需求是续航和拍照。\n2...",
+      "createdAt": "2026-05-01T09:54:04.287Z",
+      "updatedAt": "2026-05-01T09:54:04.287Z"
+    },
+    {
       "sessionId": "1e4a4275-99f4-4e29-8d9a-d149142176ee",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",
@@ -241,7 +249,7 @@
     }
   ],
   "lastUsedModels": {
-    "gemini-cli": "auto-gemini-3"
+    "gemini-cli": "gemini-3.1-pro-preview"
   },
   "lastUsedModes": {
     "gemini-cli": "yolo"
