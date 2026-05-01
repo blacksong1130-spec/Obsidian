@@ -18,27 +18,27 @@
 
 我来帮你梳理目前的卡点，并提供落地的替代方案和解决路径：
 
-### 🚨 核心卡点突破：Obsidian 里的 Claude 如何接入 NotebookLM？
+### 【已解决】==🚨 核心卡点突破：Obsidian 里的 Claude 如何接入 NotebookLM？==
 
-**残酷的现实是：目前无法直接接入。**
+==**残酷的现实是：目前无法直接接入。**==
 
-NotebookLM 是 Google 推出的一款封闭式独立 Web 应用，它**目前没有任何官方 API**，也不支持外部程序的自动化调用或读取。因此，内置在 Obsidian 的 Claude 无法像调用数据库一样去向 NotebookLM 提问。
+==NotebookLM 是 Google 推出的 一款封闭式独立 Web 应用，它**目前没有任何官方 API**，也不支持外部程序的自动化调用或读取。因此，内置在 Obsidian 的 Claude 无法像调用数据库一样去向 NotebookLM 提问。==
 
-**💡 破局与架构调整方案：**
+==**💡 破局与架构调整方案：**==
 
-既然 NotebookLM 走不通自动化，你需要一个具备“知识库能力”且“提供 API”的替代品作为**清洗库**。
+==既然 NotebookLM 走不通自动化，你需要一个具备“知识库能力”且“提供 API”的替代品作为**清洗库**。==
 
-- **方案 A：使用 Dify 或 FastGPT（强烈推荐）**
+- ==**方案 A：使用 Dify 或 FastGPT（强烈推荐）**==
     
-    你可以将抓取的内容自动存入开源知识库系统（如 Dify 或 FastGPT），它们自带 RAG（检索增强生成）能力，并且提供完善的 API。你在 Obsidian 里的 Claude 可以通过 API 向 Dify 发起提问，Dify 基于你的内容返回答案，Claude 再将结果总结成文档写在 Obsidian 里。
+    ==你可以将抓取的内容自动存入开源知识库系统（如 Dify 或 FastGPT），它们自带 RAG（检索增强生成）能力，并且提供完善的 API。你在 Obsidian 里的 Claude 可以通过 API 向 Dify 发起提问，Dify 基于你的内容返回答案，Claude 再将结果总结成文档写在 Obsidian 里。==
     
-- **方案 B：全量迁移至 Obsidian 本地 RAG**
+- ==**方案 B：全量迁移至 Obsidian 本地 RAG**==
     
-    直接将抓取的内容作为“源文件”存入 Obsidian 的某个隐藏文件夹（比如 Inbox），然后使用 Obsidian 插件（如 **Smart Connections** 或 **AnythingLLM**）。这些插件可以直接索引你的本地笔记，并允许你用 Claude 的模型对其进行对话和提问。
+    ==直接将抓取的内容作为“源文件”存入 Obsidian 的某个隐藏文件夹（比如 Inbox），然后使用 Obsidian 插件（如 **Smart Connections** 或 **AnythingLLM**）。这些插件可以直接索引你的本地笔记，并允许你用 Claude 的模型对其进行对话和提问。==
     
-- **方案 C：使用 Claude 的 Projects 功能**
+- ==**方案 C：使用 Claude 的 Projects 功能**==
     
-    如果你的内容量在几十万字以内，可以直接通过 API 把内容作为 Context（上下文）塞给 Claude，跳过 NotebookLM 这个中间商，让 Claude 自己“清洗自己阅读”。
+    ==如果你的内容量在几十万字以内，可以直接通过 API 把内容作为 Context（上下文）塞给 Claude，跳过 NotebookLM 这个中间商，让 Claude 自己“清洗自己阅读”。==
     
 
 ---
