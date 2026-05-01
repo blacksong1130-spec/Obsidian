@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iPhone 12 升级指南：续航与拍照深度对比</title>
+    <style>
+        :root {
+            --bg-color: #f5f5f7;
+            --text-main: #1d1d1f;
+            --text-secondary: #86868b;
+            --card-bg: #ffffff;
+            --accent-blue: #0066cc;
+            --accent-green: #28cd41;
+            --accent-orange: #ff9f0a;
+            --border-radius: 16px;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 40px 20px;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: var(--text-secondary);
+            margin-bottom: 40px;
+            font-size: 1.1rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border-radius: var(--border-radius);
+            padding: 30px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+        }
+
+        .card-header {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 15px;
+        }
+
+        .card-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin: 0;
+        }
+
+        .badge {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: white;
+        }
+
+        .badge-current { background-color: var(--text-secondary); }
+        .badge-value { background-color: var(--accent-blue); }
+        .badge-pro { background-color: var(--accent-orange); }
+        .badge-battery { background-color: var(--accent-green); }
+
+        .metric {
+            margin-bottom: 15px;
+        }
+
+        .metric-label {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-bottom: 5px;
+            display: block;
+        }
+
+        .metric-value {
+            font-size: 1.1rem;
+            font-weight: 500;
+        }
+
+        .progress-bg {
+            background-color: #eee;
+            height: 8px;
+            border-radius: 4px;
+            margin-top: 8px;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            border-radius: 4px;
+        }
+
+        .price-tag {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-top: 20px;
+            color: var(--text-main);
+        }
+
+        .price-note {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+
+        .action-btn {
+            display: inline-block;
+            width: 100%;
+            padding: 12px 0;
+            margin-top: 20px;
+            background-color: var(--accent-blue);
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: background-color 0.2s ease;
+        }
+
+        .action-btn:hover {
+            background-color: #0055b3;
+        }
+
+        .recommendation {
+            background: linear-gradient(135deg, #e6f0fa 0%, #f4f8fc 100%);
+            border-radius: var(--border-radius);
+            padding: 30px;
+            margin-top: 40px;
+            border: 1px solid #d0e3f5;
+        }
+
+        .recommendation h2 {
+            margin-top: 0;
+            color: var(--accent-blue);
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>iPhone 升级视觉对比报告</h1>
+    <div class="subtitle">针对核心需求：极致续航与优秀拍照（从 iPhone 12 升级）</div>
+
+    <div class="grid">
+        <!-- iPhone 12 (Baseline) -->
+        <div class="card">
+            <span class="badge badge-current">当前设备</span>
+            <div class="card-header">
+                <h2 class="card-title">iPhone 12</h2>
+            </div>
+            
+            <div class="metric">
+                <span class="metric-label">续航 (视频播放)</span>
+                <span class="metric-value">约 17 小时</span>
+                <div class="progress-bg">
+                    <div class="progress-bar" style="width: 60%; background-color: var(--text-secondary);"></div>
+                </div>
+            </div>
+
+            <div class="metric">
+                <span class="metric-label">主摄像素</span>
+                <span class="metric-value">1200 万像素</span>
+            </div>
+
+            <div class="metric">
+                <span class="metric-label">特殊影像能力</span>
+                <span class="metric-value">无微距 / 无长焦</span>
+            </div>
+
+            <div class="price-tag">-</div>
+            <div class="price-note">作为轻薄备用机极佳</div>
+        </div>
+
+        <!-- iPhone 15 Pro Max -->
+        <div class="card">
+            <span class="badge badge-pro">旗舰影像</span>
+            <div class="card-header">
+                <h2 class="card-title">iPhone 15 Pro Max</h2>
+            </div>
+            
+            <div class="metric">
+                <span class="metric-label">续航 (视频播放)</span>
+                <span class="metric-value">约 29 小时</span>
+                <div class="progress-bg">
+                    <div class="progress-bar" style="width: 100%; background-color: var(--accent-orange);"></div>
+                </div>
+            </div>
+
+            <div class="metric">
+                <span class="metric-label">主摄像素</span>
+                <span class="metric-value">4800 万像素 (更大传感器)</span>
+            </div>
+
+            <div class="metric">
+                <span class="metric-label">特殊影像能力</span>
+                <span class="metric-value">5x 潜望长焦 / 微距 / ProRAW</span>
+            </div>
+
+            <div class="price-tag">￥8,199</div>
+            <div class="price-note">淘宝实测 (256G 钛金属原色)</div>
+            
+            <a href="https://item.taobao.com/item.htm?id=1024721852326" target="_blank" class="action-btn">在淘宝查看实测商品</a>
+        </div>
+
+        <!-- iPhone 16 Plus -->
+        <div class="card">
+            <span class="badge badge-battery">续航王者</span>
+            <div class="card-header">
+                <h2 class="card-title">iPhone 16 Plus</h2>
+            </div>
+            
+            <div class="metric">
+                <span class="metric-label">续航 (视频播放)</span>
+                <span class="metric-value">约 27 小时</span>
+                <div class="progress-bg">
+                    <div class="progress-bar" style="width: 95%; background-color: var(--accent-green);"></div>
+                </div>
+            </div>
+
+            <div class="metric">
+                <span class="metric-label">主摄像素</span>
+                <span class="metric-value">4800 万像素 (Fusion相机)</span>
+            </div>
+
+            <div class="metric">
+                <span class="metric-label">特殊影像能力</span>
+                <span class="metric-value">相机控制按键 / 微距支持</span>
+            </div>
+
+            <div class="price-tag">约 ￥6,299</div>
+            <div class="price-note">百亿补贴预估起售价</div>
+            
+            <a href="https://s.taobao.com/search?q=iPhone+16+Plus" target="_blank" class="action-btn" style="background-color: var(--accent-green);">去淘宝搜索最新价格</a>
+        </div>
+    </div>
+
+    <div class="recommendation">
+        <h2>💡 核心决策建议</h2>
+        <p>基于您的核心需求（<strong>续航、拍照、寻找最高性价比</strong>），我们得出以下结论：</p>
+        <ul style="line-height: 1.8;">
+            <li><strong>追求顶级长焦拍照：</strong> 选择 <strong>iPhone 15 Pro Max</strong>。这是目前能买到的最具性价比的“Pro Max”机型。通过我们刚才的实时探测，淘宝上全新 256GB 钛金属原色真实售价在 <strong>8199元</strong> 左右。它具备独有的 5x 长焦镜头，满足极高的摄影需求。</li>
+            <li><strong>追求最强续航与性价比：</strong> 选择 <strong>iPhone 16 Plus</strong>。得益于 A18 芯片的能效，它的实际体验续航甚至不输给 Pro Max，且价格低了近 2000 元。虽然没有 5x 长焦，但新增的“相机控制”实体按键和微距摄影，对日常拍照已经是巨大的飞跃。</li>
+            <li><strong>主力机与备用机分配：</strong> 强烈建议将新买的手机（15PM 或 16Plus）作为<strong>绝对主力机</strong>，承担拍照、视频、游戏等重度任务。您的旧手机 <strong>iPhone 12</strong> 机身极度轻薄（仅162g），非常适合降级为<strong>纯备用机</strong>，保留备用微信或作为外出轻装时的通讯工具。</li>
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>
