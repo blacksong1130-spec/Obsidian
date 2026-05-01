@@ -220,6 +220,17 @@ options:
 
 ==The core argument that personalised, post-meal measurement is vastly superior to generic, population-based pre-logging is firmly grounded in empirical science. The pivotal study by Zeevi et al. (2015) continuously monitored 800 participants across 46,898 meals, demonstrating that identical foods provoke dramatically different postprandial glycaemic responses across individuals based on their unique metabolic and microbiome profiles, meaning pre-set generic data cannot accurately guide individual behaviour. Recent research validates the behavioural efficacy of personalised post-meal data: a 2025 meta-analysis found that continuous glucose monitoring facilitates healthier dietary behaviours through real-time, individualised feedback, leading to a significantly lower proportion of energy intake from carbohydrates without requiring traditional calorie restriction (Zhang et al., 2025). Additionally, pairing CGM data with smartphone integration has been shown to significantly improve glucose variability and drive healthier, sustained eating habits compared to static dietary advice (Zahedani et al., 2023).==
 
+> [!tip]+ ✦ **Round 2 · 2026-05-01** — Cross-Cultural Dimension: What Japan, France and Denmark Tell Us
+> *Developing the cultural case studies mentioned in tutor feedback — these directly challenge the Anglo-American tracking obsession*
+
+==The dominant paradigm of dietary self-tracking is a culturally specific phenomenon — rooted in the Protestant work ethic, Anglo-American anxieties about bodily control, and Silicon Valley's quantification ideology. Three counter-models from outside this paradigm offer critical design inspiration:==
+
+==**Japanese *Itadakimasu* and *Hara Hachi Bu*:** The Japanese practice of *Itadakimasu* ("I humbly receive") frames each meal as a relational act — a ritual acknowledgement of gratitude to the food, the farmer, and the ecosystem. *Hara Hachi Bu* ("eat until 80% full") is an Okinawan cultural norm that operates as a deeply embodied, internal stopping cue — the exact interoceptive literacy that MB-EAT attempts to train clinically. Crucially, these practices achieve what health tracking cannot: they make non-punitive, embodied food awareness a *cultural default*, not a technological imposition (Rozin et al., 1999).==
+
+==**The French *Paradoxe Culinaire*:** Despite consuming high-fat diets, French populations historically show lower rates of heart disease — a puzzle attributed not to nutritional content but to *how* food is consumed: slowly, socially, with sensory attention, and without guilt (Rozin et al., 1999). The French relationship with food is characterised by pleasure, restraint without anxiety, and the sharp cultural stigma attached to eating while distracted. This suggests that the quality of the *eating experience* — not its nutritional content — may be the primary driver of healthy dietary behaviour. A design implication: the target of intervention should be the *experience* of eating, not the food itself.==
+
+==**Karl Krukow × COOP (Denmark):** The Danish retail cooperative COOP partnered with behaviour designer Karl Krukow to redesign their food environment using nudge principles — repositioning salads at eye level, reducing portion sizes of indulgent items, and deploying social proof messaging at point of sale. The result was measurable improvement in population-level food choices without any individual being told what to eat. This models a *meso-scale* intervention: changing the *environment* rather than monitoring the *individual*. It directly challenges this IRP's current focus on personal biofeedback by asking: could redesigning shared food environments achieve more than personalised metabolic tracking?==
+
 ### Reframing through Tutor Feedback (April 8)
 Tutorials introduced three critical frameworks: **Compassion-Based Design**, **Embodiment vs. Empowerment**, and **Cultural Case Studies** (Japanese Itadakimasu, French food rituals, Karl Krukow).
 
@@ -286,6 +297,32 @@ As a design futurist on this project, my role is threefold:
 ![[03 — 2035 Scenario Matrix.png|900]]
 *Figure 5 — 2035 Scenario Matrix: User Agency vs. Technology Type.*
 
+> [!tip]+ ✦ **Round 2 · 2026-05-01** — 2035 Scenarios: Three Vivid Futures
+> *Expanding the scenario matrix with concrete 'day in the life' narratives and failure modes for each future*
+
+### Scenario 1: High-Tech Biometric — "Food as Code"
+
+==**A Day in the Life (2035):** You wake up and your smart mirror has already projected your overnight metabolic recovery score onto the glass. In the kitchen, a 3D food printer — functioning like the *Sushi Singularity* system — has fabricated a breakfast block calibrated to your current cortisol and glucose levels. As you eat, your OCOsense smart glasses use facial optomyography to track your chewing rate, delivering a haptic vibration to your temple if you eat too quickly. You don't notice whether you feel full; you stop eating when your subcutaneous sensor notifies your glasses that your glycaemic curve has reached its optimal peak. **Technology:** True non-invasive CGMs via sweat biosensors or mid-infrared spectroscopy; facial neuromotor interfaces; bio-integrated food printers. **Cultural Norms:** "Food as fuel" has evolved into "food as code." Calorie counting is archaic; citizens casually share metabolic stability scores as social currency; bioindividuality is absolute law. **What Could Go Wrong:** Total *reification of data* (Wallace et al., 2025). People lose the ability to feel hunger or satiety without a device confirming it. Maintaining a "flatline" glucose curve creates a new epidemic of orthorexia and obsessive data-induced anxiety — Medicine 3.0's dark shadow.==
+
+### Scenario 2: Ambient Social — "The Disappearing Interface"
+
+==**A Day in the Life (2035):** You sit down for dinner with three friends. No screens, no patches, no phones. The dining environment itself is the sensor and the interface. As the meal progresses, hidden radar tracks your group's heart rate variability and conversational pacing. The table lighting shifts dynamically. An auditory-gustatory interface (*Sonic Delights* / SONARIOS) plays specific acoustic frequencies that enhance the perceived sweetness of the dessert — the chef reduced the sugar by 40% and no one notices. When group stress rises, the room's temperature drops slightly and the shape-changing tableware adjusts to slow your sipping rate. **Technology:** Shape-changing tableware; spatial biometric sensors; smart environments; acoustophoresis — using sound waves to alter food perception without altering the food. **Cultural Norms:** The French *paradoxe culinaire* and Japanese *Itadakimasu* have been digitised. Society now prioritises communal pleasure and the shared performance of eating over individual optimisation. Eating alone is viewed as a minor tragedy. **What Could Go Wrong:** *Ambient Surveillance Capitalism*. Big Food conglomerates track collective physiological responses to products in restaurants — manipulating ambient conditions to trigger hyper-palatability and overconsumption without diners ever consenting. Neurodivergent eaters feel profoundly alienated by environments that demand perpetual social harmony.==
+
+### Scenario 3: Intuitive Technology — "The Tool That Disappears"
+
+==**A Day in the Life (2035):** Halfway through a meal, your sleeve delivers a gentle thermal pulse. It does not tell you how many carbohydrates you have consumed. It is simply a Just-In-Time (JIT) prompt — asking your System 2 brain to notice what your stretch receptors are already feeling (Schembre et al., 2018). A conversational AI steward — patterned after Woebot's empathy model — asks quietly: *"Are you noticing your fullness right now?"* You pause, realise you are satisfied, and stop eating. Over six months, the sleeve pulses less and less frequently. One morning, the AI informs you that your interoceptive literacy score has stabilised. It suggests you delete the app. **Technology:** Conversational LLM stewards; unobtrusive wearable haptics; algorithms trained on MB-EAT protocols (Kristeller and Wolever, 2011). **Cultural Norms:** *Food Freedom* is the ultimate status symbol. Technology is viewed as a temporary scaffold, not a permanent prosthesis. The highest social currency is not needing a health tracker at all. **What Could Go Wrong:** *The Affirmative Trap*. Venture capitalists refuse to fund "obsolescent" technology. Companies build dark patterns that sabotage the off-boarding process, keeping users permanently dependent under the guise of "mindfulness."==
+
+> [!tip]+ ✦ **Round 2 · 2026-05-01** — Elevating The After Glow to Critical Design
+> *Addressing the 'affirmative design trap': three specific provocative design decisions that make this a Critical Design object, not just a better health product*
+
+==**The After Glow as Critical Design:** According to Dunne and Raby (2013), affirmative design solves problems within the current paradigm, while critical design *questions the paradigm itself*. In its current form, The After Glow risks functioning as a gentler health tracker — still operating within Medicine 3.0's logic of continuous self-monitoring. The following three design provocations are introduced to ensure the object functions as a genuine critical probe:==
+
+==**Provocation 1 — The Surveillance Blackout:** When the user picks up The After Glow for its 60-second post-meal feedback, the object acts as a localised signal blocker. For those 60 seconds, it actively disconnects the user's phone from Wi-Fi and disables nearby smart speakers. *Why it is critical:* It critiques the assumption that metabolic data must constantly flow to corporate servers, by making the price of embodied reflection the explicit severing of the data umbilical cord. It builds on the *Wall* design probe (DIS 2025), actively resisting the "sense-and-extract" paradigm.==
+
+==**Provocation 2 — The Intentional Placebo Error:** One out of every ten times the user holds the disc, it deliberately does nothing — remaining cold and dark. Or, it emits a confusing light pattern that does not match how the user feels. *Why it is critical:* It forces the user to confront their reliance on Folk Theories of Technology (Makhortykh et al., 2022) — the assumption that the machine knows better than the body. By injecting deliberate ambiguity, it aligns with the *Placebo Project's* (Dunne and Raby, 2001) ethos of objects that are productively confusing.==
+
+==**Provocation 3 — Programmed Physical Decay:** Inspired by the DIS 2025 project *LO* (a technology that lives and dies with its user), The After Glow is made of unfired, porous clay. Every time it detects a highly dysregulated, rushed meal, it heats slightly and physically cracks. Over months, the object degrades, stains, and crumbles based on the user's lived reality. *Why it is critical:* Silicon Valley health tech promises frictionless, immortal optimisation via sleek glass screens. A degrading ceramic disc insists that human bodies are messy, entropic, and mortal. It transforms dietary feedback into a *memento mori* — a reminder of bodily finitude — rather than a biohacking optimisation dashboard.==
+
 ---
 
 <div style="page-break-before: always;"></div>
@@ -310,6 +347,18 @@ The methodology operates on two parallel and mutually informing tracks: investig
 > *Responding to: "You could pick one and start to test assumptions. After I interview — you have proved it." — stop theorising, start empirical work*
 
   ==To ground the speculative design in lived experience rather than abstract theory, the empirical research begins with Phase 0 informal peer conversations utilising a strict phenomenological interview approach. This methodology deliberately bypasses moralistic food judgements and conventional weight-loss framing — explicitly avoiding evaluative terms like "good," "bad," or "healthy" — to prevent triggering self-justification, shame, or diet-mentality biases in participants. Instead, the inquiry focuses purely on the embodied, bodily sensations of eating: by asking participants to articulate what eating well physically *feels like* in their bodies, the research bypasses intellectualised nutrition knowledge to directly interrogate the "phenomenological silence" of digestion. This observer-perspective approach is essential for uncovering the genuine affective gaps in current tracking paradigms and generating authentic qualitative data required to inform non-punitive feedback design.==
+
+> [!tip]+ ✦ **Round 2 · 2026-05-01** — Phase 0 Concrete Session Structure (What You Actually Do)
+> *Practical step-by-step guide for conducting Phase 0 sessions*
+
+  ==**Phase 0 Session Protocol (30–45 minutes, 1-on-1):**==
+  ==**Setup:** Find a private, quiet space. Bring a notepad and audio recorder. Open with: *"There are no right answers here, and I'm not interested in whether you eat 'well'. I'm interested in your actual experience."* Never use the words "good", "bad", "diet", or "healthy." Ask verbal consent to record.==
+  ==**Warm-up (5–8 min):** "What did you eat today? When you wake up, do you usually have a sense of how you want to eat? Is there a place where eating feels most comfortable for you?"==
+  ==**Tracking Experience (10–12 min):** "Have you ever used an app or tool to track what you eat? What did the data actually *do* for you? Was there a specific moment where the app made you feel something strongly — pride, shame, relief, frustration?"==
+  ==**The Feedback Gap (10–12 min):** "When you think about 'eating well', what does it feel like *in your body*? Between exercise, sleep, and eating — which gives you the clearest signal that you did something good for yourself?" *Give space for awkward silence here — this is the most important question.*==
+  ==**Environment (8–10 min):** "Describe your typical eating environment. If you could change one thing about your physical environment that would change how you eat, what would it be?"==
+  ==**Speculative Prompt (8–10 min):** "Imagine a tool that tells you nothing *before* the meal. But after the meal, for 60 seconds, it shows you something about how your body responded. Would that feel interesting — or anxiety-provoking? Why?"==
+  ==**Note-taking system:** Use Q = exact quote, T = emerging theme, ! = surprising answer. Within 30 minutes after the session, write a 1-page synthesis: the 3 most surprising things said, the moment of strongest emotional activation, what they struggled to articulate, and exactly 1 direct quote to carry forward.==
 - **Semi-structured interviews (6–8 participants, 45–60 minutes each):** Interviews will explore participants' lived experience of dietary tracking: what prompted them to use it, how it made them feel, what worked and what failed, and how it affected their relationship with food. The semi-structured format allows flexibility while ensuring consistency across participants.
 - **Autoethnographic diary study (4 weeks, self-conducted):** A structured self-observation practice logging eating events, emotional states, design observations (what feedback did I receive, or not receive, from this eating experience?), and sketches of design responses. The diary will incorporate a specific phenomenological practice drawn from mindfulness traditions: when eating, adopting an *observer perspective* — noticing and recording bodily sensations, emotional responses, and social contexts without reactive judgement. Rather than evaluating meals as "good" or "bad", the diary will ask: *what did I notice?* This observer stance is itself a prototype of the kind of embodied, non-punitive feedback this project seeks to design.
 - **App audit and comparative analysis:** A systematic evaluation of 8 dietary feedback tools (MyFitnessPal, Noom, Levels Health, Signos, Nutrisense, FoodVisor, NHS Weight Loss Plan) assessing immediacy of feedback, emotional tenor, legibility for non-specialists, social dimension, and eating disorder risk indicators.
@@ -320,6 +369,30 @@ Interview data will be analysed using _reflexive thematic analysis_ (Braun and C
 ### 5d. Design and Futures Methods
 - **Speculative Prototyping (Dunne and Raby, 2013):** Drawing on critical design methodology, a series of three to five speculative artefacts will be developed that propose radically different dietary feedback mechanisms: for example, an ambient object that changes texture in response to nutritional balance; a social ritual tool that makes eating well a shared, celebratory experience; or a wearable that provides physiological biofeedback from the gut. These are provocations — design fictions that defamiliarise current assumptions and make alternative futures imaginable.
 
+> [!tip]+ ✦ **Round 2 · 2026-05-01** — Speculative Prototyping Workshop: What You Actually Do
+> *Concrete session structure for running a speculative prototyping workshop with participants*
+
+  ==**Speculative Prototyping Workshop Protocol (60 minutes, groups of 2–4):**==
+  ==**Materials needed:** DAS air-dry modelling clay, toothpicks, A0 paper sheets, sticky notes in 3 colours, coloured markers, scissors, and printed 2035 scenario cards (one per scenario).==
+  ==**Icebreaker (15 min):** Briefly introduce speculative design with one example (e.g., Dunne & Raby's Placebo Project). Run a 2-minute "two truths and a lie" warm-up to loosen inhibitions and signal that imagination is valid here.==
+  ==**Scenario Reading (5 min):** Read one of the three 2035 scenarios aloud — the facilitator chooses which scenario based on group composition. Ask participants: "Does any part of this future feel exciting? Disturbing? Familiar?"==
+  ==**Idea Diverge (15 min):** Each person writes on sticky notes: (1) one thing they would want to feel after a meal in this future; (2) one thing they would never want to track; (3) one ritual or object they wish existed. Share and cluster.==
+  ==**Making (20 min):** Groups use clay and paper to build one physical mock-up of a speculative dietary feedback object — not a screen-based app. Instruction: "It should communicate something about your body after eating without using numbers or scores."==
+  ==**Output:** Collect clay/paper prototypes, A0 concept posters, and audio-recorded reflections on how participants imagine using the objects. These feed directly into the researcher's own prototype iteration.==
+
+> [!tip]+ ✦ **Round 2 · 2026-05-01** — Autoethnographic Diary: 4-Week Daily Schedule
+> *What you do each day for 4 weeks — concrete daily task structure*
+
+  ==**Daily Task (immediately after each main meal, 10–15 minutes):** Open `Autoethnographic Diary.md` and answer 5 questions: (1) What did I eat? (2) What was my state — hungry, bored, social, rushed? (3) What did I feel physically and emotionally in the 30 minutes after eating? (4) Did I receive any feedback signals from my body, my environment, or technology? (5) What is a design provocation in response to this moment?==
+
+  ==**Week 1 — Baseline / Finding the Silence:** Eat completely normally. Focus on *locating* the phenomenological silence. Actively compare the feedback richness of a morning run vs. a nutritious lunch. Log what signals the body *does* give vs. what it *doesn't* give. Do not attempt to change behaviour.==
+
+  ==**Week 2 — Friction & Environment:** Shift focus outward. Log the friction points of traditional tracking ("Ability barriers" in Fogg's model). Note what social setting, time pressure, kitchen layout, or social context prompted or disrupted the meal. Photograph 3 different eating environments.==
+
+  ==**Week 3 — Affective Tone / Observer Perspective:** Practice strict mindfulness during meals. Describe bodily sensations and emotional responses *without* reactive judgement. Refuse to label any meal as "good" or "bad." Ask only: "What did I notice?" Try using The After Glow prototype (cardboard version) during this week.==
+
+  ==**Week 4 — Generative 'What-Ifs':** Focus entirely on question 5. Synthesise diary notes into design provocations. Sketch at least one speculative feedback mechanism per day. Ask: "What could this environment or interface reflect, right at this moment, that would feel like curiosity rather than judgement?" Begin producing rough sketches of speculative artefacts.==
+
 > [!tip]+ ✦ **Round 1 · 2026-05-01** — Tutor Response #9: The After Glow — Physical Speculative Prototype
 > *Responding to: "推测性工作完全缺席" / "描述了3-5个artefact但一个草图都没有。在RCA Design Futures项目中，这是重大弱点。" — Expert Assessment*
 
@@ -327,7 +400,36 @@ Interview data will be analysed using _reflexive thematic analysis_ (Braun and C
 - **Scenario Building:** Three scenarios for dietary feedback in 2035 will be developed: (1) the High-Tech Biometric scenario; (2) the Ambient Social scenario; and (3) the Intuitive Technology scenario, in which AI works to amplify internal body attunement rather than replace it. Scenarios will be built using the Intelligence–Perspective–Logic–Foresight framework (Martell, 2026).
 - **Participatory critique:** Speculative artefacts and scenarios will be shared with interview participants for a second round of engagement, following participatory design principles. This closes the loop between investigation and generation, and ensures the speculative work remains grounded in real user experience.
 
-### 5e. Methodological Justification
+> [!tip]+ ✦ **Round 2 · 2026-05-01** — Participatory Critique Session: What You Actually Do
+> *Concrete session structure for closing the loop with original interview participants*
+
+  ==**Participatory Critique Protocol (45 minutes, 1-on-1 or pairs, with original 6–8 interviewees):**==
+  ==**What to bring:** Physical mock-up of The After Glow (cardboard or clay disc with amber LED or small heating pad), printed 2035 scenario cards, and the REFLECTIVE Framework one-pager.==
+  ==**Introduction (5 min):** "I'm going to show you something I made based partly on what you told me. I want to know what you *actually* think — not what you think I want to hear."==
+  ==**Legibility test (10 min):** Place The After Glow on the table without explanation. Ask: "Without me describing it, what do you think this object is trying to communicate to you about your meal?" Record exact language used.==
+  ==**Friction comparison (10 min):** "How would interacting with this physical object on your table feel different from opening MyFitnessPal after eating? Which feels more like reflection? Which feels more like judgement?"==
+  ==**Affective tone (10 min):** "Does this feedback feel like curiosity — or like scoring and shaming? Does it make you want to eat differently, or does it make you anxious?"==
+  ==**Critical probe (10 min):** "This object has no memory. It doesn't remember what you ate yesterday. It never compares today to yesterday. Is that a feature or a fatal flaw? What does it feel like for a device to *forget* you?"==
+  ==**Output:** Audio recording + researcher notes capturing exact quotes on legibility, emotional tone, and the "forgetting" probe. These responses become the primary evidence base for evaluating whether the speculative artefact achieves its intended REFLECTIVE Framework criteria.==
+
+### 5e. Ethical Framework
+
+> [!tip]+ ✦ **Round 2 · 2026-05-01** — Ethics: Five Critical Considerations
+> *Explicit ethical framework — previously absent from the proposal*
+
+==This research operates at the intersection of bodily experience, health data, and vulnerable populations. Five ethical principles govern every phase:==
+
+==**1. Eating Disorder Risk and Participant Safety:** All research phases will implement explicit ED safeguards. Phase 0 and Phase 1 interviews will use the Eating Attitudes Test (EAT-26) as a pre-screening tool — any participant scoring above the clinical threshold will be referred to RCA wellbeing services and excluded from participation, not to exclude vulnerable voices, but to prevent the research process itself from causing harm (Roth et al., 2024). All interview questions are phenomenologically framed to avoid triggering disordered cognition. Participants will be debriefed with a written summary of campus wellbeing resources.==
+
+==**2. Data Privacy and Biometric Sensitivity:** Any metabolic data generated during the autoethnographic diary study (the researcher's own) is entirely self-generated and not shared. If participants choose to use their own CGM data in the participatory critique, this constitutes sensitive health data: it will be anonymised, stored only on encrypted local drives, and destroyed after thematic analysis. No participant biometric data will be uploaded to cloud services.==
+
+==**3. Informed Consent and Withdrawal:** Participation at all phases is voluntary, with the right to withdraw at any point without consequence. Written informed consent forms will be used for all recorded sessions (Phase 0, Phase 1 interviews, participatory critique). Participants will be informed of how their words may be quoted (anonymised) in the final IRP Report.==
+
+==**4. Power Dynamics with Corporate Actors:** This research deliberately excludes funding from or partnership with food industry corporations, health insurance companies, or CGM manufacturers — all of whom have financial interests in the research outcomes. This independence is essential to maintaining the critical design stance. The speculative artefacts produced are explicitly not prototypes for commercialisation.==
+
+==**5. WEIRD Bias Mitigation:** Following Agapie's critique that 61.1% of HCI behaviour change studies focus exclusively on Western contexts, this research will actively recruit beyond the default RCA student demographic. Phase 0 conversations and Phase 1 interviews will seek a minimum of two participants from non-Western cultural backgrounds, and cross-cultural food attitudes (Rozin et al., 1999; Fischler, 1988; Lupton, 1996) will be explicitly integrated into thematic analysis to challenge the Anglo-American framing of "dietary health."==
+
+### 5f. Methodological Justification
 This methodology is appropriate because the problem — the absence of meaningful dietary feedback — is fundamentally an experiential and cultural problem, not merely a technical one. The choice to eat, and the feelings it generates, are shaped by biology, memory, identity, social context, and centuries of cultural meaning. Qualitative and speculative methods are therefore better suited than quantitative approaches to uncovering the phenomenology of eating and to imagining feedback systems that can operate within this complexity. The dual-track structure also manages the ethical risk inherent in this topic: by centering user voices throughout, and by explicitly testing speculative artefacts against real user responses, the methodology builds in a safeguard against designing systems that could harm rather than help.
 
 ---
@@ -463,3 +565,19 @@ Wallace, L. *et al.* (2025) 'Health-Tracking Technologies and Eating Attitudes: 
 
 *End of IRP Proposal — Weijie Li · Design Future · Royal College of Art · April 2026*
 *Last updated: Round 1 revisions, 2026-05-01 — 9 tutor-response insertions added (NotebookLM-assisted, 180 sources)*
+
+> [!tip]+ ✦ **Round 2 · 2026-05-01** — New References Added in Round 2
+
+==Agapie, E. (2024) 'Behavior Change Technologies: A Systematic Review of HCI Research', *ACM CHI Conference Proceedings*. [WEIRD Bias and Social Goals of tracking research].==
+
+==Dunne, A. and Raby, F. (2001) *Placebo Project* [Design installation]. London: Royal College of Art Gallery. [Already listed — referenced additionally for intentional ambiguity design].==
+
+==Emteq Labs (2025) *OCOsense Smart Glasses: Dietary Monitoring via Facial Electromyography*. Available at: https://www.emteqlabs.com (Accessed: 1 May 2026). [Cited in Scenario 1 — High-Tech Biometric].==
+
+==Makhortykh, M. *et al.* (2022) 'Folk Theories of Algorithmic News Curation: How Users Understand Tracking and Why It Matters', *New Media & Society*, 24(7), pp. 1651–1671. [Folk Theories of Technology framework — applied to dietary tracking trust collapse].==
+
+==Near Future Laboratory (2014) *TBD Catalog*. [Already listed in Round 1 — additionally referenced for mundane framing of The After Glow].==
+
+==Schembre, S.M. *et al.* (2018) 'Mobile Ecological Momentary Diet Assessment Methods for Behavioral Research: Systematic Review'. [Already listed — additionally cited for Just-In-Time prompting in Scenario 3].==
+
+*Last updated: Round 2 revisions, 2026-05-01 — Methodology workshops, 2035 scenarios, critical design provocations, cross-cultural section, ethics framework added (NotebookLM-assisted, 180 sources)*
