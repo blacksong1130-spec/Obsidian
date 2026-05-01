@@ -100,6 +100,11 @@ This project investigates the design gap between what we know about dietary beha
 
 A design futures approach is appropriate here because this is not simply a product design problem: it is a question about the kind of relationship we want technology to have with the most intimate act of daily life. Using speculative and critical design tools (Dunne and Raby, 2013), this project can interrogate the assumptions embedded in current health technology and prototype radically different futures for dietary feedback.
 
+> [!tip]+ ✦ **Round 1 · 2026-05-01** — Tutor Response #1: Macro Societal Context
+> *Responding to: "It's almost too focused. Like it's missing the context... the bigger context." — Tutor 3*
+
+==The urgency of redesigning dietary feedback is driven by a systemic market failure and an escalating public health crisis. Despite a $25 billion annual US investment in digital health, the dominant feedback paradigm of manual food logging is demonstrably failing, with health and fitness apps retaining only 3–4% of users by Day 30 (Business of Apps, 2026; Precedence Research, 2025). Furthermore, punitive tracking paradigms actively cause harm: 73% of MyFitnessPal users with an eating disorder report that the app contributed to their condition (Phelan et al., 2020). This is occurring against a backdrop of surging eating disorder rates, which have seen a 15-fold increase among 17–19-year-olds in the UK from 0.8% in 2017 to 12.5% in 2023 (NHS England, 2023; Priory Group, 2025). Simultaneously, the June 2024 FDA over-the-counter (OTC) clearance of the Abbott Lingo continuous glucose monitor marks a critical paradigm shift, transitioning clinical metabolic tracking into the mainstream consumer wellness market and demanding a new, human-centred design language (Abbott Newsroom, 2024).==
+
 ---
 
 <div style="page-break-before: always;"></div>
