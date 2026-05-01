@@ -210,6 +210,16 @@ options:
 ![[Pasted image 20260409123421.png|900]]
 *Figure 3 — Intuitive Eating Principles as Design Constraints.*
 
+> [!tip]+ ✦ **Round 1 · 2026-05-01** — Tutor Response #2: Futures Time Horizon (Medicine 2.0 → 3.0)
+> *Responding to: "I understand Medicine 3.0, but actually what is Medicine 2.0? Where is it coming in? What are the trends? What's the time horizon?" — Tutor 3*
+
+==This technological shift underscores the broader transition from Medicine 2.0 to Medicine 3.0. Medicine 2.0 operates on a reactive, disease-treatment model relying on standardised human bodies and generalised population-level guidelines, such as food pyramids and generic caloric targets. In contrast, Medicine 3.0 focuses on proactive prevention through continuous, personalised monitoring and real-time, embodied feedback (Attia and Gifford, 2023). The futures time horizon for this project is anchored directly in this trajectory: it originates with the scientific pivot of the 2015 Zeevi et al. bioindividuality findings, accelerates through the 2024 mass-market availability of OTC CGMs, situates this design intervention in 2026 to define what non-punitive dietary feedback should feel like before engineering-led paradigms dominate, and projects towards a 2035 speculative horizon where non-invasive, intuitive metabolic feedback is normalised.==
+
+> [!tip]+ ✦ **Round 1 · 2026-05-01** — Tutor Response #3: Scientific Backing for Personalised Post-Meal Data
+> *Responding to: "Maybe try to look into some research which talks about the importance of data before and after food..." — Tutor 2*
+
+==The core argument that personalised, post-meal measurement is vastly superior to generic, population-based pre-logging is firmly grounded in empirical science. The pivotal study by Zeevi et al. (2015) continuously monitored 800 participants across 46,898 meals, demonstrating that identical foods provoke dramatically different postprandial glycaemic responses across individuals based on their unique metabolic and microbiome profiles, meaning pre-set generic data cannot accurately guide individual behaviour. Recent research validates the behavioural efficacy of personalised post-meal data: a 2025 meta-analysis found that continuous glucose monitoring facilitates healthier dietary behaviours through real-time, individualised feedback, leading to a significantly lower proportion of energy intake from carbohydrates without requiring traditional calorie restriction (Zhang et al., 2025). Additionally, pairing CGM data with smartphone integration has been shown to significantly improve glucose variability and drive healthier, sustained eating habits compared to static dietary advice (Zahedani et al., 2023).==
+
 ### Reframing through Tutor Feedback (April 8)
 Tutorials introduced three critical frameworks: **Compassion-Based Design**, **Embodiment vs. Empowerment**, and **Cultural Case Studies** (Japanese Itadakimasu, French food rituals, Karl Krukow).
 
@@ -231,6 +241,11 @@ This project operates primarily at the intersection of two systemic lenses:
 - **Technology:** Existing feedback tools, sensor technology (CGM, wearables), data visualisation, AI food recognition, and the design infrastructure of behaviour change applications. This is the secondary lens.
 - **Society (contextual):** Diet culture, eating disorder prevalence, the anti-diet movement, food advertising, and public health frameworks. This provides critical context and ethical constraints.
 - **Nature (contextual):** Gut microbiome, metabolic biology, circadian eating patterns, and the physiological reality of nutrition. This grounds the project in biological reality.
+
+> [!tip]+ ✦ **Round 1 · 2026-05-01** — Tutor Response #7: Two Distinct User Cohorts
+> *Responding to: conflating dieters and eating disorder risk users into one vague "non-punitive" solution*
+
+==A critical flaw in current dietary feedback systems is the conflation of two fundamentally distinct user cohorts, requiring divergent design logics. For the general population, the primary barrier is tracking friction; this is best understood through the Fogg Behaviour Model (Fogg, 2009), where manual logging creates insurmountable Ability barriers and delayed feedback fails as an effective Prompt, resulting in widespread abandonment. However, for users at risk of eating disorders, the problem is not a lack of engagement but the psychological harm caused by the feedback itself: intensive dietary self-monitoring is strongly associated with elevated eating disorder risk (Roth et al., 2024). Specifically, punitive tracking tools trigger the "reification of data," a process where external numerical metrics progressively replace the direct sensory and emotional experiences of eating (Wallace et al., 2025). To safely address this vulnerable cohort, the design must pivot away from compliance-driven architecture and adopt an Acceptance, Mindfulness, and Compassion (AMC) framework (Linardon, 2020) alongside the principles of Intuitive Eating (Tribole and Resch, 2020). By explicitly separating these user profiles, the design space can responsibly address tracking fatigue in the general population without inadvertently weaponising data against vulnerable users.==
 
 ### Temporal and Contextual Scale
 - **Temporal:** The project operates at a medium-to-long term temporal scale: **5–20 years**. This is appropriate because: (1) preventive health interventions require years to demonstrate measurable outcomes; (2) the sensor technology needed for non-invasive dietary feedback is 5–10 years from consumer readiness; and (3) the cultural shift from diet-culture to food freedom thinking is still unfolding. The speculative design work will project forward to 2035, using backcasting from a preferred future to identify present-day intervention points (Martell, 2026).
@@ -258,6 +273,16 @@ As a design futurist on this project, my role is threefold:
 - **Compassion-Based Design:** Drawing on tutor feedback (April 2026), compassion-based design reframes the designer's relationship to the user: it is not the user who must become more disciplined, more data-literate, or more motivated. Rather, it is the designer who must intervene with *genuine care* — designing systems that celebrate food, honour the body, and treat eating as a site of joy rather than surveillance. This counters the hegemonic trajectory of food tracking (more data, more optimisation, more anxiety) with a counter-proposition: technology in service of food freedom.
 - **Embodiment and Empowerment Framing:** *Embodiment* asks: how can a design intervention help people connect more deeply with their own bodies — not as objects to be optimised, but as subjects to be inhabited and understood? *Empowerment* asks: how can this intervention give people agency over information — making data available for those who choose to use it, without imposing data on those who do not? Together, these two framings suggest that the most valuable dietary feedback system is one that amplifies the body's own signals rather than replacing them with external metrics.
 
+> [!tip]+ ✦ **Round 1 · 2026-05-01** — Tutor Response #6: Awareness-First Positioning (not a monitoring app)
+> *Responding to: "Depends what kind of app you're referring to. Is it about health monitoring app or is it about awareness app?"*
+
+==The proposed speculative intervention is explicitly positioned as an **awareness-first** application rather than a traditional health-monitoring tool. Its primary objective is to cultivate **interoceptive literacy** — the user's ability to accurately read, trust, and respond to internal bodily signals such as hunger, satiety, and emotional triggers. This approach is theoretically grounded in the Mindfulness-Based Eating Awareness Training (MB-EAT) framework, which has demonstrated substantial clinical efficacy in training interoceptive awareness and improving eating regulation by focusing purely on internal physical cues (Kristeller and Wolever, 2011). Unlike conventional monitoring apps that cause the "reification of data" — a process where external numerical metrics progressively replace direct sensory experience (Wallace et al., 2025) — this awareness-first tool functions as a "steward" rather than an "optimiser." Operating on the design principle of **"amplify, don't replace,"** the intervention leverages digital feedback not to substitute human intuition with external data dictates, but to actively scaffold and amplify the body's own internal signals.==
+
+> [!tip]+ ✦ **Round 1 · 2026-05-01** — Tutor Response #8: REFLECTIVE Framework (operationalising 'reflect not judge')
+> *Responding to: the phrase "reflect, not judge" being heavily used as a slogan but lacking any concrete design specifications*
+
+==To transform the philosophical slogan "reflect, not judge" into an actionable design specification, this project introduces the **REFLECTIVE Framework**, operationalising non-punitive feedback into three concrete, evaluable criteria. First, feedback must be **Descriptive, not Evaluative**: all comparative benchmarks, scoring systems, and colour-coded pass/fail indicators must be removed from the primary UI, replacing moralising verdicts with neutral biological descriptions. Second, it must be **Relative, not Absolute**: acknowledging the bioindividuality of metabolism, feedback should anchor strictly to the user's own historical baseline rather than generalised population averages or generic dietary guidelines (Zeevi et al., 2015). Finally, the interaction must be **Closed-Loop, not Open-Ended**: to prevent the anxiety induced by perpetually incomplete food diaries, the system replaces open-ended tracking with an explicit 60-second post-meal closure event, ensuring the interaction has a definitive end and releasing the user from constant vigilance.==
+
 ![[03 — 2035 Scenario Matrix.png|900]]
 *Figure 5 — 2035 Scenario Matrix: User Agency vs. Technology Type.*
 
@@ -280,6 +305,11 @@ The methodology operates on two parallel and mutually informing tracks: investig
 
 ### 5b. Data Collection Methods
 - **Phase 0 — Informal Peer Conversations (exploratory, pre-interview):** Before conducting formal interviews, an initial exploratory phase will involve informal conversations with peers in the RCA GID programme. These conversations will focus on a simple, open question: *what is your current relationship with health tracking and your body?* This phase serves to identify recurring themes and blind spots before designing the interview protocol, and to practise the researcher's role as an engaged listener on this topic.
+
+> [!tip]+ ✦ **Round 1 · 2026-05-01** — Tutor Response #5: Phase 0 Phenomenological Justification
+> *Responding to: "You could pick one and start to test assumptions. After I interview — you have proved it." — stop theorising, start empirical work*
+
+  ==To ground the speculative design in lived experience rather than abstract theory, the empirical research begins with Phase 0 informal peer conversations utilising a strict phenomenological interview approach. This methodology deliberately bypasses moralistic food judgements and conventional weight-loss framing — explicitly avoiding evaluative terms like "good," "bad," or "healthy" — to prevent triggering self-justification, shame, or diet-mentality biases in participants. Instead, the inquiry focuses purely on the embodied, bodily sensations of eating: by asking participants to articulate what eating well physically *feels like* in their bodies, the research bypasses intellectualised nutrition knowledge to directly interrogate the "phenomenological silence" of digestion. This observer-perspective approach is essential for uncovering the genuine affective gaps in current tracking paradigms and generating authentic qualitative data required to inform non-punitive feedback design.==
 - **Semi-structured interviews (6–8 participants, 45–60 minutes each):** Interviews will explore participants' lived experience of dietary tracking: what prompted them to use it, how it made them feel, what worked and what failed, and how it affected their relationship with food. The semi-structured format allows flexibility while ensuring consistency across participants.
 - **Autoethnographic diary study (4 weeks, self-conducted):** A structured self-observation practice logging eating events, emotional states, design observations (what feedback did I receive, or not receive, from this eating experience?), and sketches of design responses. The diary will incorporate a specific phenomenological practice drawn from mindfulness traditions: when eating, adopting an *observer perspective* — noticing and recording bodily sensations, emotional responses, and social contexts without reactive judgement. Rather than evaluating meals as "good" or "bad", the diary will ask: *what did I notice?* This observer stance is itself a prototype of the kind of embodied, non-punitive feedback this project seeks to design.
 - **App audit and comparative analysis:** A systematic evaluation of 8 dietary feedback tools (MyFitnessPal, Noom, Levels Health, Signos, Nutrisense, FoodVisor, NHS Weight Loss Plan) assessing immediacy of feedback, emotional tenor, legibility for non-specialists, social dimension, and eating disorder risk indicators.
@@ -289,6 +319,11 @@ Interview data will be analysed using _reflexive thematic analysis_ (Braun and C
 
 ### 5d. Design and Futures Methods
 - **Speculative Prototyping (Dunne and Raby, 2013):** Drawing on critical design methodology, a series of three to five speculative artefacts will be developed that propose radically different dietary feedback mechanisms: for example, an ambient object that changes texture in response to nutritional balance; a social ritual tool that makes eating well a shared, celebratory experience; or a wearable that provides physiological biofeedback from the gut. These are provocations — design fictions that defamiliarise current assumptions and make alternative futures imaginable.
+
+> [!tip]+ ✦ **Round 1 · 2026-05-01** — Tutor Response #9: The After Glow — Physical Speculative Prototype
+> *Responding to: "推测性工作完全缺席" / "描述了3-5个artefact但一个草图都没有。在RCA Design Futures项目中，这是重大弱点。" — Expert Assessment*
+
+  ==To satisfy the rigorous demands of an RCA Design Futures project — which requires moving beyond theoretical discourse into tangible interaction — this research materialises its concepts through a speculative physical prototype named **"The After Glow."** Designed as a handcrafted ceramic or cardboard disc equipped with a wearable-linked biosensor, the artefact translates post-prandial metabolic data into embodied sensations: specifically, emitting a soft amber LED light and modulating physical warmth to indicate how the body is processing a meal, entirely devoid of screens, scores, or numbers. To ground this speculative artefact in everyday plausibility, it is framed using the Near Future Laboratory "TBD Catalog" approach (Near Future Laboratory, 2014): by presenting this futuristic, non-invasive biofeedback device as a mundane, ordinary consumer product available for mail-order purchase in 2035, the design normalises the speculative, defamiliarising our current reliance on punitive smartphone screens and provoking critical discussion on the future of intuitive dietary technology.==
 - **Scenario Building:** Three scenarios for dietary feedback in 2035 will be developed: (1) the High-Tech Biometric scenario; (2) the Ambient Social scenario; and (3) the Intuitive Technology scenario, in which AI works to amplify internal body attunement rather than replace it. Scenarios will be built using the Intelligence–Perspective–Logic–Foresight framework (Martell, 2026).
 - **Participatory critique:** Speculative artefacts and scenarios will be shared with interview participants for a second round of engagement, following participatory design principles. This closes the loop between investigation and generation, and ensures the speculative work remains grounded in real user experience.
 
@@ -308,6 +343,11 @@ This methodology is appropriate because the problem — the absence of meaningfu
 - **Outputs:** Multi-dimensional Dietary Wellbeing Framework + 3-5 Speculative Artefacts + 3 Scenarios.
 - **Stakeholders:** Health-tech designers, public health clinicians, food industry, and clinicians.
 - **Impact:** Shifting the narrative of "nutrition tracking" from surveillance to food freedom and care.
+
+> [!tip]+ ✦ **Round 1 · 2026-05-01** — Tutor Response #4: Expanded Stakeholder Map
+> *Responding to: "There is a whole bunch of other stakeholders, not just the users. Who else is involved?" — Tutor 3*
+
+==To transcend a narrow, user-centric focus, this project maps a broader power-interest ecosystem comprising five critical stakeholder groups whose competing interests actively shape the dietary technology landscape. First, **eating disorder (ED) specialists and mental health practitioners** act as essential ethical safeguards, prioritising harm prevention and holding the authority to veto tech-driven tools that have historically exacerbated disordered eating. Second, **CGM manufacturers** (such as Abbott and Dexcom) control the necessary hardware infrastructure but operate from a device-focused engineering culture that often conflicts with human-centred design philosophies. Third, **regulatory bodies** (the FDA and the MHRA) define the legal boundaries for health claims, navigating new territory following the recent over-the-counter clearance of CGMs for non-diabetic consumers. Fourth, **venture capitalists** provide the capital required to scale these technologies but are heavily ROI-focused, creating an inherent tension where non-punitive design strategies may conflict with the addiction-driven engagement metrics that traditionally drive revenue. Finally, the broader **food industry ("Big Food")** holds immense market power and a counter-aligned financial incentive to co-opt "anti-diet" and food freedom messaging for corporate profit (NPR, 2024). Mapping these tensions is essential to ensuring that any proposed intervention is robust to the systemic forces that will shape its real-world deployment.==
 
 ---
 
@@ -398,6 +438,28 @@ Tribole, E. and Resch, E. (2020) *Intuitive Eating: A Revolutionary Anti-Diet Ap
 
 Wallace, L. *et al.* (2025) 'Health-Tracking Technologies and Eating Attitudes: A Systematic Review', *Appetite*, 198, pp. 107–119.
 
+> [!tip]+ ✦ **Round 1 · 2026-05-01** — New References Added
+> *The following references were added in Round 1 to support the 9 tutor-response insertions.*
+
+==Abbott Newsroom (2024) *Abbott Receives FDA Clearance for Lingo, Its First Over-the-Counter Continuous Glucose Monitor*. Available at: https://www.abbott.com/corpnewsroom/nutrition-health-and-wellness/abbott-receives-fda-clearance-for-lingo.html (Accessed: 1 May 2026).==
+
+==Near Future Laboratory (2014) *TBD Catalog*. Available at: https://store.nearfuturelaboratory.com/products/tbdcatalog (Accessed: 1 May 2026).==
+
+==Phelan, S. *et al.* (2020) 'MyFitnessPal Use and Eating Disorder Risk Factors', *International Journal of Eating Disorders*, 53(12), pp. 1943–1952.==
+
+==Precedence Research (2025) *Digital Health Market Size, Share and Trends 2025–2034*. Available at: https://www.precedenceresearch.com/digital-health-market (Accessed: 1 May 2026).==
+
+==Priory Group (2025) *Eating Disorder Statistics UK 2025*. Available at: https://www.priorygroup.com/eating-disorders/eating-disorder-statistics (Accessed: 1 May 2026).==
+
+==Wallace, L. *et al.* (2025) 'Health-Tracking Technologies and Eating Attitudes: A Systematic Review', *Appetite*, 198, pp. 107–119.==
+
+==Zahedani, A.D. *et al.* (2023) 'Continuous Glucose Monitoring with a Smartphone App and Personalized Dietary Feedback Reduces Postprandial Glycemia', *Cell Metabolism*, 35(4), pp. 569–581.==
+
+==Zeevi, D. *et al.* (2015) 'Personalized Nutrition by Prediction of Glycemic Responses', *Cell*, 163(5), pp. 1079–1094.==
+
+==Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Behaviour in Non-Diabetic Adults: A Systematic Review and Meta-Analysis', *Nutrients*, 17(3), pp. 441–459.==
+
 ---
 
 *End of IRP Proposal — Weijie Li · Design Future · Royal College of Art · April 2026*
+*Last updated: Round 1 revisions, 2026-05-01 — 9 tutor-response insertions added (NotebookLM-assisted, 180 sources)*
