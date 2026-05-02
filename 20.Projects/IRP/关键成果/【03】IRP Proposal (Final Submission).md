@@ -72,28 +72,13 @@ _Exercise has been transformed by design._ Strava turns a morning run into a soc
 _Dietary behaviour, by contrast, remains a design desert._ The dominant tool — MyFitnessPal, launched in 2005 — asks users to manually log every meal into a calorie database. The interface has barely evolved in two decades. There is no metabolic signal, no wellbeing score, no social ritual around eating well. The consequence is predictable: most users abandon food tracking within weeks (Schembre et al., 2018). The Fogg Behaviour Model clarifies why: motivation alone is insufficient without ability and prompt — and current dietary tools fail on both (Fogg, 2009).
 
 > [!chart] 📊 Evidence: The App Retention Crisis
-```chartsview
-#-section-
-type: Line
-data:
-  - day: "Day 1"
-    retention: 26
-  - day: "Day 7"
-    retention: 15
-  - day: "Day 14"
-    retention: 8
-  - day: "Day 28"
-    retention: 10
-  - day: "Day 30"
-    retention: 3
-options:
-  height: 300
-  appendPadding: [30, 10, 10, 10]
-  xField: 'day'
-  yField: 'retention'
-  point: { size: 5, shape: 'diamond' }
-  color: '#F4664A'
-  title: { text: 'Health & Fitness App Retention Curve (%)', visible: true }
+
+```mermaid
+xychart-beta
+    title "Health & Fitness App Retention Curve (%)"
+    x-axis ["Day 1", "Day 7", "Day 14", "Day 28", "Day 30"]
+    y-axis "Retention (%)" 0 --> 30
+    line [26, 15, 8, 10, 3]
 ```
 
 This project investigates the design gap between what we know about dietary behaviour change and what existing tools actually deliver. It asks: what would it take for eating well to feel as meaningful, legible, and rewarding as completing a run? And it adds a critical ethical constraint: any feedback system must not only improve health metrics but must also preserve food joy, prevent disordered eating, and support genuine **Food Freedom** — the right to make informed choices about eating without guilt or compulsion (Tribole and Resch, 2020).
@@ -123,6 +108,62 @@ Research was conducted across three phases. The first phase involved a systemati
 ![[01 — Futures Triangle.png|900]]
 *Figure 1 — Futures Triangle Analysis: Mapping the forces shaping dietary feedback.*
 
+## 2b-i. Annotated Literature and Practice Review
+
+*Selected annotations in What / So what / Now what format, drawn from the core literature and practice review.*
+
+**Fogg, B.J. (2009) A Behavior Model for Persuasive Design**
+- **What:** Fogg introduces the B=MAP model, arguing that target behaviours occur only when Motivation, Ability, and a Prompt converge simultaneously.
+- **So what:** This framework crucially diagnoses the failure of legacy dietary tools like MyFitnessPal. High user motivation cannot overcome the severe "Ability" barrier of manual food logging, and delayed physiological benefits fail to act as an effective "Prompt", leading to inevitable tracking abandonment.
+- **Now what:** It demands a fundamental design shift from demanding high user effort to designing low-friction interactions. The proposed intervention must minimise manual input and provide immediate, post-meal metabolic signals to create an actionable prompt.
+
+**Zeevi, D. et al. (2015) Personalized Nutrition by Prediction of Glycemic Responses**
+- **What:** A landmark clinical study demonstrating that identical foods provoke dramatically different postprandial glycaemic responses across individuals due to unique microbiome and metabolic profiles.
+- **So what:** This empirical evidence fundamentally invalidates the "Medicine 2.0" paradigm of generic, population-based dietary guidelines. It proves that external, prescriptive food tracking is biologically flawed.
+- **Now what:** It scientifically justifies the project's shift toward personalised, post-meal feedback. "The After Glow" will reflect unique, retrospective metabolic realities rather than generalised assumptions, directly operationalising the "relative, not absolute" design criterion.
+
+**Tribole, E. and Resch, E. (2020) Intuitive Eating: A Revolutionary Anti-Diet Approach**
+- **What:** A foundational text outlining a weight-inclusive, evidence-based model that prioritises internal body cues (hunger and satiety) over external dietary rules and restrictions.
+- **So what:** This serves as the core ethical safeguard for the project. It highlights the psychological harm of quantitative tracking paradigms and defines "Food Freedom" as a fundamental constraint for future design, preventing the exacerbation of eating disorders.
+- **Now what:** It strictly constrains the design space: the intervention must operate as an empathetic "steward" rather than a dictator, amplifying internal bodily intuition rather than replacing it with external optimisation metrics or punitive scoring systems.
+
+**Dunne, A. and Raby, F. (2013) Speculative Everything: Design, Fiction, and Social Dreaming**
+- **What:** A seminal text establishing Speculative and Critical Design, using design fictions and provocative artefacts to interrogate societal assumptions rather than merely solving problems within existing paradigms.
+- **So what:** It provides the methodological backbone for elevating the IRP from a conventional product design project to a critical inquiry. It distinguishes "affirmative design" (making better trackers) from "critical design" (questioning the need for trackers entirely).
+- **Now what:** This directly inspires the provocative features of "The After Glow" (the surveillance blackout, programmed physical decay). The artefacts will act as physical probes to defamiliarise our current reliance on biometric surveillance.
+
+**Kristeller, J.L. and Wolever, R.Q. (2011) Mindfulness-Based Eating Awareness Training**
+- **What:** Clinical research detailing the MB-EAT framework, which utilises mindfulness to train interoceptive awareness and improve dietary regulation through internal physiological cues.
+- **So what:** It provides a scientifically validated alternative to calorie counting, proving that focusing purely on internal physical sensations is clinically effective for dietary regulation without triggering the harmful "reification of data."
+- **Now what:** It shapes the "awareness-first" positioning. The technology will be designed not to deliver diagnostic verdicts, but to provide Just-In-Time prompts that direct the user's attention back to their own somatic experience (e.g., noticing satiety).
+
+**MyFitnessPal (2005)**
+- **What:** A dominant dietary tracking application that relies on the manual logging of food intake against a generic, population-based calorie database.
+- **So what:** It epitomises the fundamental design failure of current dietary tools. The extreme friction of manual entry creates an insurmountable "Ability" barrier, leading to high abandonment. Its punitive architecture actively exacerbates eating disorder risks, with 73% of ED-vulnerable users reporting harm.
+- **Now what:** The IRP must explicitly reject manual input and prescriptive scoring systems. The design intervention must adopt an "awareness-first" paradigm that eliminates tracking fatigue and prevents the harmful "reification of data."
+
+**Oura Health (2026) Oura Ring**
+- **What:** A commercially successful biometric wearable that tracks sleep and physical recovery, distilling complex, invisible biological processes into an immediate, daily numerical score.
+- **So what:** It successfully closes the phenomenological feedback loop for sleep, making imperceptible physiological data emotionally legible and tangibly rewarding. However, its evaluative scoring mechanism is dangerous when applied to dietary tracking.
+- **Now what:** The project will adopt its principle of translating invisible biology into immediate signals, but will strictly apply the REFLECTIVE framework to ensure feedback is purely descriptive and non-evaluative.
+
+**Krukow × COOP (Denmark)**
+- **What:** A meso-scale behavioural design intervention in Danish retail environments applying "nudge" architecture to influence population-level food choices without individual surveillance.
+- **So what:** It empirically demonstrates that significant dietary behaviour change can be sustained purely through environmental and spatial design, bypassing the need for individual biometric monitoring.
+- **Now what:** It critically challenges the IRP's focus on personalised wearable tech and directly inspires the "Ambient Social" 2035 scenario, expanding the design space to consider spatial design as a regulatory mechanism.
+
+**Dunne, A. and Raby, F. (2001) The Placebo Project**
+- **What:** A foundational critical design installation featuring electronic objects designed to provoke reflection through deliberate ambiguity and confusing behaviour.
+- **So what:** By deploying "productively confusing" objects, the project successfully destabilises users' blind trust in machines, forcing them to confront their reliance on technological authority over their own internal senses.
+- **Now what:** This methodology directly informs the "Intentional Placebo Error" feature of "The After Glow," programming deliberate ambiguity so the artefact functions as a critical probe rather than an affirmative optimisation tool.
+
+**Superflux (2017) Mitigation of Shock**
+- **What:** A speculative design installation that physically simulated a futuristic domestic apartment adapted for severe climate-induced food insecurity, transforming abstract foresight into a tangible spatial experience.
+- **So what:** It exemplifies how situating radical speculative futures within mundane, everyday domestic settings can make theoretical scenarios viscerally understandable and critically engaging for participants.
+- **Now what:** It validates the IRP's methodological strategy to frame futuristic interventions as ordinary consumer products, utilising familiar domestic contexts to test affective responses to 2035 dietary feedback paradigms.
+
+---
+
 ## 2c. Research Summary
 
 ### The Feedback Gap: Why Eating Well Feels Like Nothing
@@ -134,77 +175,38 @@ The core problem is defined by a "phenomenological silence." When you eat a nutr
 The emergence of **Continuous Glucose Monitoring (CGM)** for non-diabetics represents the most promising technical development, yet it carries the risk of invasive surveillance and data-induced anxiety.
 
 > [!chart] 📊 Evidence: CGM Market Transformation
-```chartsview
-#-section-
-type: Line
-data:
-  - year: '2024'
-    market: 370.7
-  - year: '2025'
-    market: 433.3
-  - year: '2026'
-    market: 506.6
-  - year: '2027'
-    market: 592.2
-  - year: '2028'
-    market: 692.2
-  - year: '2030'
-    market: 945.9
-  - year: '2034'
-    market: 1765.5
-options:
-  height: 300
-  appendPadding: [30, 10, 10, 10]
-  xField: 'year'
-  yField: 'market'
-  point: { size: 4 }
-  color: '#5B8FF9'
-  meta: { market: { alias: 'OTC CGM Market Size ($M)' } }
+
+```mermaid
+xychart-beta
+    title "OTC CGM Market Size ($M)"
+    x-axis ["2024", "2025", "2026", "2027", "2028", "2030", "2034"]
+    y-axis "Market Size ($M)" 0 --> 2000
+    line [370.7, 433.3, 506.6, 592.2, 692.2, 945.9, 1765.5]
 ```
 
 ### The Eating Disorder Constraint
 Tutorial feedback in April 2026 highlighted that feedback design carries acute ethical risk. Roth et al. (2024) established significant associations between intensive dietary tracking and elevated disordered eating risk.
 
 > [!chart] 📊 Evidence: UK Clinical Trends
-```chartsview
-#-section-
-type: Column
-data:
-  - year: '2013/14'
-    admissions: 2868
-  - year: '2015/16'
-    admissions: 13200
-  - year: '2020/21'
-    admissions: 24300
-options:
-  height: 300
-  appendPadding: [30, 10, 10, 10]
-  xField: 'year'
-  yField: 'admissions'
-  color: '#F4664A'
-  label: { position: 'top', style: { fill: '#000' } }
-  title: { text: 'NHS Hospital Admissions for Eating Disorders', visible: true }
+
+```mermaid
+xychart-beta
+    title "NHS Hospital Admissions for Eating Disorders"
+    x-axis ["2013/14", "2015/16", "2020/21"]
+    y-axis "Admissions" 0 --> 30000
+    bar [2868, 13200, 24300]
 ```
 
 The **Intuitive Eating** movement offers a protective counter-framework by cultivating internal body attunement rather than external rules. 
 
 > [!chart] 📊 Evidence: Protective Effect of Intuitive Eating
-```chartsview
-#-section-
-type: Column
-data:
-  - measure: 'Baseline IE +1'
-    reduction: 74
-  - measure: 'Growth IE +1'
-    reduction: 71
-options:
-  height: 300
-  appendPadding: [30, 10, 10, 10]
-  xField: 'measure'
-  yField: 'reduction'
-  color: '#30BF78'
-  label: { position: 'top', style: { fill: '#000' } }
-  meta: { reduction: { alias: 'Reduction in Binge Eating Risk (%)' } }
+
+```mermaid
+xychart-beta
+    title "Reduction in Binge Eating Risk (%)"
+    x-axis ["Baseline IE +1", "Growth IE +1"]
+    y-axis "Risk Reduction (%)" 0 --> 100
+    bar [74, 71]
 ```
 
 ![[Pasted image 20260409123421.png|900]]
@@ -236,6 +238,18 @@ Tutorials introduced three critical frameworks: **Compassion-Based Design**, **E
 
 ![[04-Tutor-Feedback-Frameworks.sketch.md|900]]
 *Figure 4: Tutor Feedback Sketch Model — Reframing the project logic.*
+
+## 2d. Concluding Synthesis
+
+Based on the synthesis of secondary literature, practice reviews, and cross-cultural case studies, this research identifies three primary trends and drivers shaping the future of dietary feedback:
+
+**1. The Transition from Medicine 2.0 to Medicine 3.0:** Driven by the mass-market availability of over-the-counter Continuous Glucose Monitors (CGMs), there is a definitive shift away from reactive, population-based dietary guidelines toward proactive, continuous, and highly personalized metabolic tracking. This technological acceleration highlights the urgency of establishing a human-centered design language before engineering-led, surveillance-heavy paradigms dominate consumer wellness.
+
+**2. The Integration of Intuitive Eating and Interoceptive Literacy:** As a vital countermeasure to the rising clinical prevalence of eating disorders exacerbated by punitive tracking apps, there is a growing reliance on Acceptance, Mindfulness, and Compassion (AMC) frameworks. Practices derived from Mindfulness-Based Eating Awareness Training (MB-EAT) emphasize cultivating internal body attunement rather than adherence to external quantitative rules, positioning "Food Freedom" as a fundamental ethical constraint for future design (Tribole and Resch, 2020).
+
+**3. Cross-Cultural and Meso-Scale Paradigms as Counter-Models:** Emerging discourse increasingly challenges the Anglo-American ideology of quantitative self-optimization by looking toward socio-cultural and environmental interventions. Models such as the Japanese *Itadakimasu*, the French *paradoxe culinaire*, and the environmental nudge architectures deployed by Krukow × COOP demonstrate that dietary behavior change can be effectively sustained through communal pleasure, shared rituals, and sensory attention, rather than individualized biometric surveillance (Rozin et al., 1999).
+
+**Key Gaps in Current Knowledge and Practice:** Despite the proliferation of digital health tools, a fundamental "feedback gap" persists: existing practices fail to translate the invisible, delayed physiological benefits of nutrition into immediate, emotionally resonant feedback without relying on punitive manual logging. Furthermore, current commercial applications inherently conflate general users with those at risk of eating disorders, leading to the "reification of data" — a harmful process where external numerical metrics progressively overwrite the user's direct sensory and emotional experiences of eating (Wallace et al., 2025). Consequently, there remains a critical design void for "awareness-first" interventions that operationalize non-punitive, closed-loop feedback.
 
 ---
 
@@ -437,7 +451,8 @@ This methodology is appropriate because the problem — the absence of meaningfu
 <div style="page-break-before: always;"></div>
 
 # 6. Critique Documentation
-**Summary (April 8 Tutorial):** Direction confirmed as unique. Integrated **Compassion-Based Design** as the core philosophy. Tutor emphasized connecting people *more* with their bodies (Embodiment) while giving them agency (Empowerment). Recommended case studies: French paradox, Itadakimasu, and Krukow × COOP.
+
+During the April 8 tutorial, the project underwent a rigorous critique that fundamentally reshaped its research trajectory. Tutors identified several critical weaknesses in the initial framing: the proposal lacked a macro-societal context, dangerously conflated general users with those at risk of eating disorders, and remained overly theoretical without tangible speculative design outputs or empirical grounding. This feedback catalyzed a pivotal shift in the project's direction, moving the core philosophy away from a conventional health-monitoring model toward "Compassion-Based Design" and an "awareness-first" paradigm emphasizing interoceptive literacy and "Food Freedom." In response to these critiques, the author systematically restructured the proposal. To address ethical concerns, the author explicitly separated user cohorts and integrated an Acceptance, Mindfulness, and Compassion (AMC) framework to prevent clinical harm. To answer the call for empirical validation, the methodology was revised to include Phase 0 phenomenological interviews, grounding the study in lived bodily experience. Finally, to resolve the absence of speculative artifacts, the author developed "The After Glow" — a physical critical design probe — and formalized the REFLECTIVE framework to translate the abstract slogan of "reflect, not judge" into actionable design criteria.
 
 ---
 
@@ -454,7 +469,8 @@ This methodology is appropriate because the problem — the absence of meaningfu
 ---
 
 # 8. Personal Objectives
-To develop world-class expertise at the intersection of behavioural design and speculative futures, building a practice focused on **Ethical Health Innovation**.
+
+Through this Independent Research Project, my primary objective is to cultivate a design practice rooted in **Compassion-Based Design**, moving beyond the punitive, surveillance-heavy paradigms of current digital health tools. I aim to establish world-class professional expertise at the critical intersection of **Behavioural Design and Speculative Futures**, with a specialised focus on **Ethical Health Innovation**. This IRP serves as a vital catalyst for my long-term career trajectory by allowing me to translate abstract ethical constraints — such as safeguarding "Food Freedom" and mitigating eating disorder risks — into actionable, tangible design frameworks. By synthesising phenomenological research with critical prototyping, this project transitions my practice from theoretical critique to material intervention. Ultimately, I aspire to architect "awareness-first" technologies that function as empathetic stewards, amplifying internal bodily intuition rather than replacing it with external optimisation metrics.
 
 ---
 
