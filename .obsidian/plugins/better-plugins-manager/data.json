@@ -415,15 +415,15 @@
       "order": 15
     },
     {
-      "id": "claudian:Open Claudian",
-      "name": "claudian:Open Claudian",
+      "id": "obsidian-git:Open Git source control",
+      "name": "obsidian-git:Open Git source control",
       "icon": "help-circle",
       "visible": true,
       "order": 16
     },
     {
-      "id": "obsidian-git:Open Git source control",
-      "name": "obsidian-git:Open Git source control",
+      "id": "claudian:Open Claudian",
+      "name": "claudian:Open Claudian",
       "icon": "help-circle",
       "visible": true,
       "order": 17
