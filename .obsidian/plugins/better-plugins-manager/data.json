@@ -298,6 +298,16 @@
       "enabled": true,
       "delay": "delayed-45",
       "note": "备份工具，20s 后启动不影响使用"
+    },
+    {
+      "id": "obsidian-to-notion",
+      "name": "Obsidian shared to Notion",
+      "desc": "This is a  plugin for Obsidian. This plugin share obsidian md  file to notion with notion api",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
     }
   ],
   "HIDES": [],
@@ -415,15 +425,15 @@
       "order": 15
     },
     {
-      "id": "obsidian-git:Open Git source control",
-      "name": "obsidian-git:Open Git source control",
+      "id": "claudian:Open Claudian",
+      "name": "claudian:Open Claudian",
       "icon": "help-circle",
       "visible": true,
       "order": 16
     },
     {
-      "id": "claudian:Open Claudian",
-      "name": "claudian:Open Claudian",
+      "id": "obsidian-git:Open Git source control",
+      "name": "obsidian-git:Open Git source control",
       "icon": "help-circle",
       "visible": true,
       "order": 17
@@ -441,6 +451,13 @@
       "icon": "help-circle",
       "visible": true,
       "order": 19
+    },
+    {
+      "id": "obsidian-to-notion:Share to notion",
+      "name": "obsidian-to-notion:Share to notion",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 20
     }
   ],
   "AUTO_TAKEOVER": true,

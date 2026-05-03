@@ -50,14 +50,19 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "sonnet"
+    "claude": "sonnet",
+    "codex": "gpt-5.4"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "high",
+    "codex": "medium"
   },
-  "savedProviderServiceTier": {},
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
   "savedProviderThinkingBudget": {
-    "claude": "low"
+    "claude": "low",
+    "codex": "low"
   },
   "lastCustomModel": "",
   "maxTabs": 3,
