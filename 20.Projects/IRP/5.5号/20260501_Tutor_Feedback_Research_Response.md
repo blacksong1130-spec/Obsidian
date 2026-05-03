@@ -153,4 +153,4 @@ source: NotebookLM (180 sources, including 69 web sources 2024-2026)
 - 已完成：老师批评文档定位 + 9条批评研究回应生成
 - 来源：NotebookLM（180个来源，含69个2024-2026年网络资料）
 - 下一步：按行动清单逐条修改 IRP Proposal 正文
-- 续接指令：读取本文件，从"综合行动清单"开始，逐条写入 [[20.Projects/IRP/关键成果/【03】IRP Proposal (Final Submission).md]]
+- 续接指令：读取本文件，从"综合行动清单"开始，逐条写入 [[【03】IRP Proposal (Final Submission)]]

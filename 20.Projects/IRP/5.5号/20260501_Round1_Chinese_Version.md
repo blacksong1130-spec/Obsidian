@@ -7,7 +7,7 @@ version: Round 1 中文版
 # IRP Round 1 添加内容 — 中文对照版
 ## All 9 Tutor-Response Insertions in Chinese
 
-> 本文件是 [[20.Projects/IRP/关键成果/【03】IRP Proposal (Final Submission).md]] 中 Round 1 所有高亮插入段落的中文版，供审阅使用。
+> 本文件是 [[【03】IRP Proposal (Final Submission)]] 中 Round 1 所有高亮插入段落的中文版，供审阅使用。
 
 ---
 
@@ -102,7 +102,7 @@ version: Round 1 中文版
 ---
 
 ## 📋 审阅清单
-> 请对照 [[20.Projects/IRP/关键成果/【03】IRP Proposal (Final Submission).md]] 逐条检查
+> 请对照 [[【03】IRP Proposal (Final Submission)]] 逐条检查
 
 - [ ] 第1条 — 宏观背景数据是否准确？
 - [ ] 第2条 — 时间线表格是否需要调整？
