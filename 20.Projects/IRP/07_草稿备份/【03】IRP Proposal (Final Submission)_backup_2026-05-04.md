@@ -245,29 +245,18 @@ The methodology operates on two parallel, mutually informing tracks: **investiga
 
 **WEIRD Bias Mitigation:** Agapie's (2024) meta-analysis of behaviour change technology studies found that 61.1% focus exclusively on Western, Educated, Industrialised, Rich, and Democratic (WEIRD) populations, and 78.3% rely on binary gender classification — rendering most HCI dietary research structurally unrepresentative. This project responds with an active recruitment protocol: a minimum of two participants will be sourced from non-Western cultural backgrounds, and recruitment will extend beyond the RCA student community to personal networks with diverse cultural relationships with food. Cross-cultural food attitudes (Rozin et al., 1999; Fischler, 1988; Lupton, 1996) will be treated as primary analytical lenses, not supplementary context. This is not diversity tokenism — it is a methodological requirement given that the project's core counter-models (Hara Hachi Bu, the French paradoxe culinaire) are non-Western. A homogeneous WEIRD sample would undermine the project's own theoretical architecture.
 
-**Data types:** Primary qualitative (semi-structured interviews, commensal contextual inquiry, Ecological Momentary Assessment prompts, sensitizing probe responses, autoethnographic diary); secondary qualitative (literature review, app audit); secondary quantitative (published studies on app retention, ED prevalence, behaviour change outcomes).
+**Data types:** Primary qualitative (semi-structured interviews, autoethnographic diary); secondary qualitative (literature review, app audit); secondary quantitative (published studies on app retention, ED prevalence, behaviour change outcomes).
 
 ## 5b. Research Phases
 
 | Phase | Method | Timing | Output |
 |-------|--------|--------|--------|
 | **0** | Informal phenomenological peer conversations (exploratory) | May–June 2026 | Recurring themes; interview protocol refinement |
-| **1a** | Semi-structured interviews (45–60 min, 6–8 participants) | June 2026 | Lived experience of dietary tracking; emotional relationship with food data |
-| **1b** | Commensal contextual inquiry (30-min in-situ observation per participant, natural dining context) | June 2026 | First-hand observational data on phenomenological silence in situ; environmental friction points for workshop stimuli |
-| **2a** | Autoethnographic diary study (4 weeks, self-conducted) | June–July 2026 | Observer-perspective log of eating events, environmental contexts, design provocations |
-| **2b** | Ecological Momentary Assessment — EMA (3-day mobile prompts, 10 min post-meal, 5–8 peers) | July 2026 | Real-time post-meal phenomenology before memory bias; validates universality of the feedback gap |
-| **3a** | Sensitizing Probe Kit dispatch (Placebo Patch + Sensory Scanning Cards, sent 1–2 weeks before workshop) | July 2026 | Folk theories about biometric data anxiety; embodied sensation mapping; workshop priming |
-| **3b** | App audit & comparative analysis (8 tools) | July 2026 | Evaluation against: feedback immediacy, emotional tenor, legibility, ED risk indicators |
+| **1** | Semi-structured interviews (45–60 min, 6–8 participants) | June 2026 | Lived experience of dietary tracking; emotional relationship with food data |
+| **2** | Autoethnographic diary study (4 weeks, self-conducted) | June–July 2026 | Observer-perspective log of eating events, environmental contexts, design provocations |
+| **3** | App audit & comparative analysis (8 tools) | July 2026 | Evaluation against: feedback immediacy, emotional tenor, legibility, ED risk indicators |
 | **4** | Speculative prototyping workshop (groups of 2–4, 60 min) | July 2026 | Physical mock-ups of post-meal feedback objects; scenario response data |
 | **5** | Participatory critique (45 min, original interviewees) | July–Aug 2026 | Legibility, emotional tone, and "forgetting" probe responses for The After Glow |
-
-**Primary research enrichment:** Three methods bridge the gap between individual phenomenological exploration (Phases 0–2) and the collective design evaluation (Phases 4–5), ensuring the methodology is connected rather than episodic:
-
-**(i) Commensal contextual inquiry (Phase 1b).** Following each interview, a 30-minute in-situ observation session is conducted in the participant's natural dining environment (home kitchen, work canteen, or café). Drawing on Service Design Tools' contextual inquiry framework and Hakio and Mattelmäki's (2019) awareness-based co-creation approach, this phase witnesses the phenomenological silence as it occurs — observing eating pace, screen displacement, and the moment a meal ends without any physiological acknowledgement. Environmental friction points identified here are fed directly into the Phase 4 workshop as scenario stimuli, grounding the speculative critique in observed reality.
-
-**(ii) Ecological Momentary Assessment — EMA (Phase 2b).** Parallel to the autoethnographic diary, a 3-day EMA study is deployed to 5–8 peers via mobile: a single-question prompt delivered exactly 10 minutes post-meal — *"What feedback is your body giving you right now?"* — captures raw, immediate post-meal phenomenology before memory bias alters the record. This method generates the empirical baseline that validates the feedback gap as a universal experience (not a researcher idiosyncrasy), providing the evidential justification for why workshop participants need The After Glow in the first place.
-
-**(iii) Sensitizing Probe Kit (Phase 3a).** Adapting Sanders and Stappers' (2014) "probes, toolkits and prototypes" paradigm for co-design, a Sensitizing Probe Kit is dispatched to all workshop participants 1–2 weeks in advance. The kit contains: (a) a *Placebo Patch* — an inert, skin-safe adhesive resembling an OTC CGM, worn for 48 hours with the prompt *"Whenever you eat, touch the patch: What do you wish it was telling you? What are you afraid it is extracting?"* — generating qualitative folk theories about biometric surveillance and bodily data anxiety; and (b) *Sensory Scanning Cards* — visual issue cards for mapping internal bodily sensations metaphorically (e.g., drawing where hunger or fullness lives in the body). Participants arrive at the Phase 4 workshop already attuned to the embodied problem, making The After Glow's haptic feedback legible rather than abstract and producing substantially richer design critique.
 
 **Data collection protocol:** Phase 0 and Phase 1 interviews will be conducted in private spaces at RCA or locations chosen by participants. All recorded sessions require written consent; field notes will use the Q/T/! coding system (Quote / Theme / Surprise). The Phase 4 workshop will take place in an RCA studio with participants bringing no prior brief, using only clay, paper, and printed scenario cards — ensuring the data reflects spontaneous design intuition rather than coached responses. Thematic saturation (Braun and Clarke, 2006) determines when sufficient interview data has been collected: typically when three consecutive interviews yield no new themes. Documentation across all phases includes: audio recordings (transcribed verbatim), physical artefacts (photographed), and A0 poster outputs (scanned).
 
@@ -801,13 +790,19 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 ## Appendix G — Data Visualisations
 
-*The following charts present key supporting data referenced in Section 2 and Section 3.*
+*The following tables present key supporting data. Charts exported from Datawrapper/Flourish can replace these tables before final PDF submission.*
 
 ---
 
 ### G1 — Health App Retention Curve
 
-![[G1_App_Retention_Curve.svg|820]]
+| Day Since Install | Retention Rate (%) |
+| ----------------- | ------------------ |
+| Day 1             | 26%                |
+| Day 7             | 15%                |
+| Day 14            | 8%                 |
+| Day 28            | ~4%                |
+| Day 30            | 3%                 |
 
 *Figure G1 — Health & Fitness App Retention Curve. Source: Business of Apps (2024). The precipitous drop from 26% (Day 1) to 3% (Day 30) quantifies the systematic failure of manual logging paradigms. Day 30 retention of 3–4% represents the industry average across health and fitness app categories and has not meaningfully improved despite US$25 billion annual investment in digital health (Precedence Research, 2025).*
 
@@ -815,7 +810,15 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 ### G2 — OTC CGM Market Growth (2024–2034)
 
-![[G2_CGM_Market_Growth.svg|820]]
+| Year | Market Size (US$M) | Key Event |
+|------|-------------------|-----------|
+| 2024 | $370.7M | FDA OTC clearance of Abbott Lingo ← **inflection point** |
+| 2025 | $433.3M | Non-diabetic users = 41.46% of total market |
+| 2026 | $506.6M | — |
+| 2027 | $592.2M | — |
+| 2028 | $692.2M | — |
+| 2030 | $945.9M | — |
+| 2034 | $1,765.5M | 16.9% CAGR sustained |
 
 *Figure G2 — OTC CGM Market Size (2024–2034). Source: Precedence Research (2025). The 2024 FDA clearance of Abbott Lingo as an over-the-counter device marks the definitive inflection point from clinical to consumer market — creating the market context this project's design intervention must respond to before engineering-led UX paradigms dominate.*
 
@@ -823,7 +826,11 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 ### G3 — NHS Hospital Admissions for Eating Disorders
 
-![[G3_NHS_Hospital_Admissions.svg|820]]
+| Year    | Hospital Admissions | Year-on-Year Change                    |
+| ------- | ------------------- | -------------------------------------- |
+| 2013/14 | 2,868               | Baseline                               |
+| 2015/16 | 13,200              | +360% vs. baseline                     |
+| 2020/21 | 24,300              | **+747% vs. baseline (8.5× increase)** |
 
 *Figure G3 — NHS Hospital Admissions for Eating Disorders (2013–2021). Source: NHS England (2023). The 8.5× increase over seven years — coinciding with the proliferation of calorie-tracking apps and social media diet culture — contextualises the urgency of harm-prevention design constraints. This data does not establish causation, but it confirms the scale of a public health crisis that dietary feedback design cannot ignore.*
 
@@ -831,7 +838,10 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 ### G4 — Protective Effect of Intuitive Eating
 
-![[G4_Intuitive_Eating_Protective_Effect.svg|820]]
+| Measure | Risk Reduction |
+|---------|---------------|
+| Baseline Intuitive Eating score +1 point | **74% reduction** in binge eating risk |
+| Growth in Intuitive Eating score +1 point (over time) | **71% reduction** in binge eating risk |
 
 *Figure G4 — Protective Effect of Intuitive Eating on Binge Eating Risk. Source: Linardon (2020), meta-analysis across 8-year longitudinal studies. A one-point increase in Intuitive Eating score is associated with a 71–74% reduction in binge eating risk — providing the empirical foundation for the "awareness-first" design direction. This finding justifies the REFLECTIVE Framework's emphasis on cultivating internal attunement over external data compliance.*
 

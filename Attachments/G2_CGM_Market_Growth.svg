@@ -1,0 +1,70 @@
+<svg viewBox="0 0 860 420" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="860" height="420" fill="#FAFAFA" rx="4"/>
+  <!-- Title -->
+  <text x="430" y="30" text-anchor="middle" font-size="15" font-weight="bold" fill="#2C3E50">G2 — OTC Continuous Glucose Monitor Market Growth (2024–2034)</text>
+  <!-- Y-axis gridlines (max 1800, step 300 → 280px/6 = ~46.7px per step) -->
+  <!-- y = 330 - (value/1800)*280 -->
+  <!-- 300: y=330-46.7=283, 600: y=330-93.3=237, 900: y=330-140=190, 1200: y=330-186.7=143, 1500: y=330-233.3=97, 1800: y=330-280=50 -->
+  <line x1="80" y1="283" x2="820" y2="283" stroke="#E5E5E5" stroke-dasharray="5,4"/>
+  <line x1="80" y1="237" x2="820" y2="237" stroke="#E5E5E5" stroke-dasharray="5,4"/>
+  <line x1="80" y1="190" x2="820" y2="190" stroke="#E5E5E5" stroke-dasharray="5,4"/>
+  <line x1="80" y1="143" x2="820" y2="143" stroke="#E5E5E5" stroke-dasharray="5,4"/>
+  <line x1="80" y1="97" x2="820" y2="97" stroke="#E5E5E5" stroke-dasharray="5,4"/>
+  <line x1="80" y1="50" x2="820" y2="50" stroke="#E5E5E5" stroke-dasharray="5,4"/>
+  <!-- Y-axis labels -->
+  <text x="72" y="287" text-anchor="end" font-size="10" fill="#666">$300M</text>
+  <text x="72" y="241" text-anchor="end" font-size="10" fill="#666">$600M</text>
+  <text x="72" y="194" text-anchor="end" font-size="10" fill="#666">$900M</text>
+  <text x="72" y="147" text-anchor="end" font-size="10" fill="#666">$1,200M</text>
+  <text x="72" y="101" text-anchor="end" font-size="10" fill="#666">$1,500M</text>
+  <text x="72" y="54" text-anchor="end" font-size="10" fill="#666">$1,800M</text>
+  <!-- Y-axis rotated label -->
+  <text transform="rotate(-90)" x="-190" y="22" text-anchor="middle" font-size="12" fill="#444">Market Size (US$ Million)</text>
+  <!-- 7 bars, slot width = 740/7 = 105.7, bar width = 68 -->
+  <!-- Slots start at x=80, centers at 80+53=133, 80+159=239, 80+265=345, 80+371=451, 80+477=557, 80+583=663, 80+689=769 -->
+  <!-- y = 330 - (value/1800)*280 -->
+  <!-- 2024: 370.7 → h=57.7, y_top=272.3 -->
+  <rect x="99" y="272" width="68" height="58" fill="#2471A3" rx="2"/>
+  <!-- 2025: 433.3 → h=67.4, y_top=262.6 -->
+  <rect x="205" y="263" width="68" height="67" fill="#2471A3" rx="2"/>
+  <!-- 2026: 506.6 → h=78.8, y_top=251.2 -->
+  <rect x="311" y="251" width="68" height="79" fill="#2471A3" rx="2"/>
+  <!-- 2027: 592.2 → h=92.1, y_top=237.9 -->
+  <rect x="417" y="238" width="68" height="92" fill="#2471A3" rx="2"/>
+  <!-- 2028: 692.2 → h=107.7, y_top=222.3 -->
+  <rect x="523" y="222" width="68" height="108" fill="#2471A3" rx="2"/>
+  <!-- 2030: 945.9 → h=147.1, y_top=182.9 -->
+  <rect x="629" y="183" width="68" height="147" fill="#1A5276" rx="2"/>
+  <!-- 2034: 1765.5 → h=274.6, y_top=55.4 -->
+  <rect x="735" y="55" width="68" height="275" fill="#1A5276" rx="2"/>
+  <!-- Bar value labels -->
+  <text x="133" y="268" text-anchor="middle" font-size="10" fill="#1A5276">$371M</text>
+  <text x="239" y="259" text-anchor="middle" font-size="10" fill="#1A5276">$433M</text>
+  <text x="345" y="247" text-anchor="middle" font-size="10" fill="#1A5276">$507M</text>
+  <text x="451" y="234" text-anchor="middle" font-size="10" fill="#1A5276">$592M</text>
+  <text x="557" y="218" text-anchor="middle" font-size="10" fill="#1A5276">$692M</text>
+  <text x="663" y="179" text-anchor="middle" font-size="10" fill="#1A5276">$946M</text>
+  <text x="769" y="51" text-anchor="middle" font-size="10" font-weight="bold" fill="#1A5276">$1,766M</text>
+  <!-- X-axis labels -->
+  <text x="133" y="348" text-anchor="middle" font-size="11" fill="#555">2024</text>
+  <text x="239" y="348" text-anchor="middle" font-size="11" fill="#555">2025</text>
+  <text x="345" y="348" text-anchor="middle" font-size="11" fill="#555">2026</text>
+  <text x="451" y="348" text-anchor="middle" font-size="11" fill="#555">2027</text>
+  <text x="557" y="348" text-anchor="middle" font-size="11" fill="#555">2028</text>
+  <text x="663" y="348" text-anchor="middle" font-size="11" fill="#555">2030</text>
+  <text x="769" y="348" text-anchor="middle" font-size="11" fill="#555">2034</text>
+  <!-- X-axis label -->
+  <text x="450" y="373" text-anchor="middle" font-size="12" fill="#444">Year</text>
+  <!-- Annotation: FDA clearance inflection at 2024 -->
+  <line x1="133" y1="272" x2="133" y2="200" stroke="#E74C3C" stroke-dasharray="3,3" stroke-width="1.5"/>
+  <rect x="80" y="160" width="215" height="36" fill="white" stroke="#E74C3C" stroke-width="1" rx="3" opacity="0.95"/>
+  <text x="187" y="178" text-anchor="middle" font-size="10" font-weight="bold" fill="#E74C3C">FDA OTC clearance (Abbott Lingo)</text>
+  <text x="187" y="191" text-anchor="middle" font-size="10" fill="#555">Inflection point — clinical to consumer</text>
+  <!-- CAGR label -->
+  <text x="769" y="40" text-anchor="middle" font-size="10" font-weight="bold" fill="#E74C3C">16.9% CAGR</text>
+  <!-- Axes -->
+  <line x1="80" y1="50" x2="80" y2="330" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="80" y1="330" x2="820" y2="330" stroke="#AAAAAA" stroke-width="1"/>
+  <!-- Source -->
+  <text x="430" y="405" text-anchor="middle" font-size="10" fill="#999">Source: Precedence Research (2025)</text>
+</svg>

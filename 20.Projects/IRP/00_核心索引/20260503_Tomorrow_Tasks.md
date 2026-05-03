@@ -21,7 +21,7 @@ deadline: 2026-05-05 09:00
 ## 🟡 强烈建议（有时间就做）
 
 - [ ] **After Glow 草图** → 随便画一张纸上草图，拍照，放入 `02_视觉资产/报告图表/`，在 Appendix F 占位符处引用
-- [ ] **Appendix B 补注释** → 目前只有7条，模板要求10个文献+10个实践项目。找3–13条来补（用 What/So What/Now What 格式，每条约100词）
+- [x] **Appendix B 补注释** → ✅ 已由 AI 补足：10个文献注释 + 10个实践项目注释（v14）
 - [ ] **研究板截图** → Figma/Miro/Obsidian Canvas 截图一张，插入 Section 2b 的研究过程段落后面
 - [ ] **G5 图片检查** → 确认 `Pasted image 20260409123421.png` 在 Appendix G5 里清晰可读
 
