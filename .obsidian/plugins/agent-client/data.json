@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "8be17588-9def-4286-b22a-b766f9525d9a",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "Section 5b 正文（简明版）：\n\n相位表新增 Phase 1c（Photo Elicitat...",
+      "createdAt": "2026-05-04T00:21:46.625Z",
+      "updatedAt": "2026-05-04T00:21:46.625Z"
+    },
+    {
       "sessionId": "b339be80-bca8-4561-9a1a-cea0f003318c",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",

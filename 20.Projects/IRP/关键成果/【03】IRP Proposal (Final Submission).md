@@ -249,25 +249,36 @@ The methodology operates on two parallel, mutually informing tracks: **investiga
 
 ## 5b. Research Phases
 
+Seven primary research methods are deployed across five phases (detailed protocols in **Appendix D**):
+
 | Phase | Method | Timing | Output |
 |-------|--------|--------|--------|
 | **0** | Informal phenomenological peer conversations (exploratory) | May–June 2026 | Recurring themes; interview protocol refinement |
-| **1a** | Semi-structured interviews (45–60 min, 6–8 participants) | June 2026 | Lived experience of dietary tracking; emotional relationship with food data |
-| **1b** | Commensal contextual inquiry (30-min in-situ observation per participant, natural dining context) | June 2026 | First-hand observational data on phenomenological silence in situ; environmental friction points for workshop stimuli |
-| **2a** | Autoethnographic diary study (4 weeks, self-conducted) | June–July 2026 | Observer-perspective log of eating events, environmental contexts, design provocations |
-| **2b** | Ecological Momentary Assessment — EMA (3-day mobile prompts, 10 min post-meal, 5–8 peers) | July 2026 | Real-time post-meal phenomenology before memory bias; validates universality of the feedback gap |
-| **3a** | Sensitizing Probe Kit dispatch (Placebo Patch + Sensory Scanning Cards, sent 1–2 weeks before workshop) | July 2026 | Folk theories about biometric data anxiety; embodied sensation mapping; workshop priming |
-| **3b** | App audit & comparative analysis (8 tools) | July 2026 | Evaluation against: feedback immediacy, emotional tenor, legibility, ED risk indicators |
-| **4** | Speculative prototyping workshop (groups of 2–4, 60 min) | July 2026 | Physical mock-ups of post-meal feedback objects; scenario response data |
-| **5** | Participatory critique (45 min, original interviewees) | July–Aug 2026 | Legibility, emotional tone, and "forgetting" probe responses for The After Glow |
+| **1a** | Semi-structured interviews (45–60 min, 6–8 participants); Photo Elicitation task assigned at close | June 2026 | Lived experience of dietary tracking; Photo Elicitation task initiated |
+| **1b** | **[M3] Commensal Contextual Inquiry** — 30-min in-situ observation per participant in natural dining context | June 2026 | First-hand observational data on phenomenological silence in situ; environmental friction points |
+| **1c** | **[M2] Participant-Driven Photo Elicitation** — 1 photo/day for 4 weeks (eating aftermath, not food); used as stimulus in Phase 5 | June–July 2026 | Visual anchors for post-meal silence; non-verbal phenomenology externalised into discussable images |
+| **2a** | **[M5] Mindful Construal Diary** — 4 weeks, design-prompt format (no numbers, no good/bad labels; 3 somatic prompts per meal) | June–July 2026 | Non-judgmental log of somatic states, emotional temperature, and design provocations |
+| **2b** | **[M4] Ecological Momentary Assessment — EMA** — 3-day mobile prompts, 10 min post-meal, 5–8 peers | July 2026 | Real-time post-meal phenomenology before memory bias; validates universality of feedback gap |
+| **3a** | **[M1] Sensitizing Probe Kit** — Placebo Patch + Sensory Scanning Cards dispatched 1–2 weeks before workshop | July 2026 | Folk theories about biometric data anxiety; embodied sensation mapping; workshop priming |
+| **3b** | App audit & comparative analysis (8 tools, REFLECTIVE Framework criteria) | July 2026 | Systematic failure-mode map; design gaps The After Glow must address |
+| **4** | **[M6] Body Mapping warm-up** (15 min) → The After Glow demo + clay prototyping (25 min) → **[M7] Anti-Heroes Ethical Role-Play** (20 min) | July 2026 | Shared somatic vocabulary; comparative design mock-ups; deep ethical critique |
+| **5** | Participatory critique using Photo Elicitation images as stimulus (45 min, original interviewees) | July–Aug 2026 | Legibility, emotional tone, and "forgetting" probe responses; photo-grounded reflection |
 
-**Primary research enrichment:** Three methods bridge the gap between individual phenomenological exploration (Phases 0–2) and the collective design evaluation (Phases 4–5), ensuring the methodology is connected rather than episodic:
+**Seven-method primary research design.** The seven primary research methods form a deliberate arc — *Prime → Observe → Capture → Reflect → Attune → Build → Critique* — ensuring that by Phase 4, participants arrive at the workshop with embodied understanding rather than abstract opinions. Methods are described briefly below; full protocols and timing are in **Appendix D5**.
 
-**(i) Commensal contextual inquiry (Phase 1b).** Following each interview, a 30-minute in-situ observation session is conducted in the participant's natural dining environment (home kitchen, work canteen, or café). Drawing on Service Design Tools' contextual inquiry framework and Hakio and Mattelmäki's (2019) awareness-based co-creation approach, this phase witnesses the phenomenological silence as it occurs — observing eating pace, screen displacement, and the moment a meal ends without any physiological acknowledgement. Environmental friction points identified here are fed directly into the Phase 4 workshop as scenario stimuli, grounding the speculative critique in observed reality.
+**[M1] Sensitizing Probe Kit (Phase 3a).** Adapting Sanders and Stappers' (2014) "probes, toolkits and prototypes" paradigm, a Placebo Patch (inert CGM-like adhesive, 48 hours) and Sensory Scanning Cards are dispatched 1–2 weeks before the workshop. This generates folk theories about biometric data anxiety and arrives participants fully attuned to the embodied problem.
 
-**(ii) Ecological Momentary Assessment — EMA (Phase 2b).** Parallel to the autoethnographic diary, a 3-day EMA study is deployed to 5–8 peers via mobile: a single-question prompt delivered exactly 10 minutes post-meal — *"What feedback is your body giving you right now?"* — captures raw, immediate post-meal phenomenology before memory bias alters the record. This method generates the empirical baseline that validates the feedback gap as a universal experience (not a researcher idiosyncrasy), providing the evidential justification for why workshop participants need The After Glow in the first place.
+**[M2] Participant-Driven Photo Elicitation (Phase 1c→5).** Assigned during Phase 1 interviews, participants photograph their eating *aftermath* (empty plate, table, hands) at 60 seconds post-meal daily for four weeks — never the food itself. These images serve as concrete non-verbal anchors in the Phase 5 critique, externalising the phenomenological silence into discussable artefacts.
 
-**(iii) Sensitizing Probe Kit (Phase 3a).** Adapting Sanders and Stappers' (2014) "probes, toolkits and prototypes" paradigm for co-design, a Sensitizing Probe Kit is dispatched to all workshop participants 1–2 weeks in advance. The kit contains: (a) a *Placebo Patch* — an inert, skin-safe adhesive resembling an OTC CGM, worn for 48 hours with the prompt *"Whenever you eat, touch the patch: What do you wish it was telling you? What are you afraid it is extracting?"* — generating qualitative folk theories about biometric surveillance and bodily data anxiety; and (b) *Sensory Scanning Cards* — visual issue cards for mapping internal bodily sensations metaphorically (e.g., drawing where hunger or fullness lives in the body). Participants arrive at the Phase 4 workshop already attuned to the embodied problem, making The After Glow's haptic feedback legible rather than abstract and producing substantially richer design critique.
+**[M3] Commensal Contextual Inquiry (Phase 1b).** A 30-minute in-situ observation follows each interview in the participant's natural dining environment. Drawing on Service Design Tools' contextual inquiry framework and Hakio and Mattelmäki's (2019) awareness-based co-creation approach, this phase witnesses the silence as it occurs, generating environmental friction points that feed directly into Phase 4 scenario stimuli.
+
+**[M4] Ecological Momentary Assessment (Phase 2b).** A single mobile prompt at exactly 10 minutes post-meal, deployed to 5–8 peers over 3 days, captures raw post-meal phenomenology before memory bias alters it. This provides the cross-participant empirical baseline that validates the feedback gap as universal rather than idiosyncratic.
+
+**[M5] Mindful Construal Diary (Phase 2a).** The autoethnographic diary has been restructured into design-prompt format: numbers, calories, and evaluative labels ("good/bad") are banned. Three prompts anchor each post-meal entry: somatic scan, emotional temperature, and a speculative "what-if" transformation of the eating environment. This converts the diary from a tracking tool into a generative design probe.
+
+**[M6] Body Mapping warm-up (Phase 4, first 15 minutes).** Before introducing The After Glow, participants use A3 body outlines, coloured markers, and clay to map their current bodily sensations non-verbally — only shapes, colours, textures. A 2-minute guided somatic attention exercise precedes the mapping. This establishes shared embodied vocabulary so that the haptic artefact is immediately legible rather than abstract.
+
+**[M7] "Anti-Heroes" Ethical Role-Play (Phase 4, final 20 minutes).** Participants each draw a Role Card — *The Big Food Data Broker*, *The Punitive Diet Coach*, *The Intuitive Eating Advocate*, *The Anxious Biohacker* — and critique The After Glow from that persona's perspective. This structured adversarial method (adapted from DIS 2025 "Anti-Heroes" research) surfaces exactly the ethical failure modes — surveillance creep, data reification, compassion-washing — that the REFLECTIVE Framework is designed to prevent.
 
 **Data collection protocol:** Phase 0 and Phase 1 interviews will be conducted in private spaces at RCA or locations chosen by participants. All recorded sessions require written consent; field notes will use the Q/T/! coding system (Quote / Theme / Surprise). The Phase 4 workshop will take place in an RCA studio with participants bringing no prior brief, using only clay, paper, and printed scenario cards — ensuring the data reflects spontaneous design intuition rather than coached responses. Thematic saturation (Braun and Clarke, 2006) determines when sufficient interview data has been collected: typically when three consecutive interviews yield no new themes. Documentation across all phases includes: audio recordings (transcribed verbatim), physical artefacts (photographed), and A0 poster outputs (scanned).
 
@@ -713,33 +724,68 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 ---
 
-### D2 — Phase 4: Speculative Prototyping Workshop (60 min, groups of 2–4)
+### D2 — Phase 4: Speculative Prototyping Workshop (60 min, groups of 2–4) — Updated Structure
 
-**Materials needed:** DAS air-dry modelling clay, toothpicks, A0 paper sheets, sticky notes in 3 colours, coloured markers, scissors, printed 2035 scenario cards.
-
-**Icebreaker (15 min):** Briefly introduce speculative design with one example (e.g., Dunne & Raby's Placebo Project). Run a 2-minute "two truths and a lie" warm-up to signal that imagination is valid here.
-
-**Scenario Reading (5 min):** Read one 2035 scenario aloud. Ask: "Does any part of this future feel exciting? Disturbing? Familiar?"
-
-**Idea Diverge (15 min):** Each person writes on sticky notes: (1) one thing they would want to *feel* after a meal in this future; (2) one thing they would never want to track; (3) one ritual or object they wish existed.
-
-**Making (20 min):** Groups build one physical mock-up of a speculative dietary feedback object using clay and paper — not a screen-based app. Instruction: "It should communicate something about your body after eating without using numbers or scores."
-
-**Output:** Collect clay/paper prototypes, A0 concept posters, and audio-recorded reflections.
+**Materials needed:** DAS air-dry modelling clay, toothpicks, A0 paper sheets, sticky notes in 3 colours, coloured markers, scissors, printed 2035 scenario cards, A3 body outline sheets (pre-printed), Role Cards × 4 sets (see D5 for card text), The After Glow low-fidelity prototype (ceramic disc + amber LED or small heating pad).
 
 ---
 
-### D3 — Phase 2: Autoethnographic Diary — 4-Week Daily Schedule
+**BLOCK 1 — Body Mapping Warm-up [M6] (15 min)**
 
-**Daily task (immediately after each main meal, 10–15 min):** Answer 5 questions: (1) What did I eat? (2) What was my state — hungry, bored, social, rushed? (3) What did I feel physically and emotionally in the 30 minutes after eating? (4) Did I receive any feedback signals from my body, environment, or technology? (5) What is a design provocation in response to this moment?
+*Purpose: Establish shared somatic vocabulary before introducing The After Glow.*
 
-**Week 1 — Baseline / Finding the Silence:** Eat normally. Focus on *locating* the phenomenological silence. Actively compare the feedback richness of a morning run vs. a nutritious lunch. Log what signals the body *does* give vs. what it *doesn't* give. Do not attempt to change behaviour.
+- Distribute A3 body outline sheets, clay, and coloured markers. Ask participants to sit quietly for 2 minutes: *"Place your hand on your stomach. Notice what you can feel there right now — not what you think you should feel, just what is actually present."*
+- Task (10 min): *"Using only shapes, colours, and textures — no words, no numbers — map your current bodily sensations onto this outline. Where does your energy live? Where do you feel heaviness or lightness? Where is there silence?"*
+- No verbal explanation of results at this stage — keep the experience non-verbal and subjective.
+- Facilitator takes photos of all body maps. These become comparative data for whether the workshop changed participants' somatic self-awareness.
 
-**Week 2 — Friction & Environment:** Shift focus outward. Log the friction points of traditional tracking ("Ability barriers" in Fogg's model). Note what social setting, time pressure, or kitchen layout prompted or disrupted the meal. Photograph 3 different eating environments.
+---
 
-**Week 3 — Affective Tone / Observer Perspective:** Practice strict mindfulness during meals. Describe bodily sensations and emotional responses *without* reactive judgement. Refuse to label any meal as "good" or "bad." Ask only: "What did I notice?" Try using The After Glow prototype (cardboard version) during this week.
+**BLOCK 2 — Scenario + The After Glow Demo + Clay Prototyping (25 min)**
 
-**Week 4 — Generative "What-Ifs":** Focus entirely on question 5. Synthesise diary notes into design provocations. Sketch at least one speculative feedback mechanism per day.
+*Purpose: Introduce the speculative context, present the artefact, and generate counter-proposals.*
+
+- **Scenario reading (5 min):** Read one 2035 scenario aloud (Scenario 3 — Intuitive Technology recommended). Ask: *"Does any part of this future feel exciting? Disturbing? Familiar?"*
+- **The After Glow demo (5 min):** Place the prototype on the table. Invite participants to hold it, feel its warmth, observe the amber light. Do not explain its mechanism — ask: *"Without me describing it, what do you think this object is communicating about your body after eating?"*
+- **Clay prototyping (15 min):** Each group builds one alternative speculative dietary feedback object — not screen-based, not numbers-based. Instruction: *"It should communicate something about your body after eating in this 2035 world. What does it look like, feel like, sound like?"* Place completed mock-ups on A0 paper and draw the context of use around them.
+
+---
+
+**BLOCK 3 — Anti-Heroes Ethical Role-Play [M7] (20 min)**
+
+*Purpose: Generate rigorous ethical critique of The After Glow through structured adversarial personas.*
+
+- Place The After Glow prototype back at the centre of the table.
+- Each participant draws one Role Card (see D5 for full card text):
+  - **The Big Food Data Broker:** Wants more extractable metrics; frustrated by the device's data blackout; plans to reverse-engineer the signal.
+  - **The Punitive Diet Coach:** Wants the disc to vibrate sharply when the user eats "unhealthily"; sees the warm glow as rewarding bad behaviour.
+  - **The Intuitive Eating Advocate:** Celebrates the absence of numbers; questions whether any technology should mediate the body-food relationship at all.
+  - **The Anxious Biohacker:** Needs real-time glycaemic data; finds the 60-second closure inadequate; wants continuous monitoring layered on top.
+- Task (12 min): Each person critiques The After Glow strictly from their persona's perspective. Facilitator notes: where do the personas agree? Where do they reveal genuine design risks?
+- Debrief (8 min): Come out of role. Ask: *"Which persona's concern surprised you most? Which of these failure modes do you think is most likely in the real world?"*
+
+**Output:** Body maps (photographed), clay prototypes (photographed), audio-recorded Anti-Heroes critique session, facilitator notes on points of agreement/disagreement across personas.
+
+---
+
+### D3 — Phase 2a: Mindful Construal Diary [M5] — 4-Week Protocol
+
+*Upgraded from standard autoethnographic diary to design-prompt format. All numeric logging, calorie counting, and good/bad food labels are banned. Purpose: convert a tracking tool into a generative somatic probe.*
+
+**Three core prompts (answered immediately after each main meal, 10–12 min):**
+1. **Somatic scan:** *"What physical sensations are present in my stomach, chest, and jaw right now? (shapes, textures, temperatures — no numbers)"*
+2. **Emotional temperature:** *"What is my emotional temperature — not mood, but the physical warmth or coldness of what I'm feeling? Where does it live in my body?"*
+3. **Speculative transformation:** *"If my kitchen table could physically change right now to reflect my metabolic state, what would it do? Describe one object that appears, changes, or disappears."*
+
+**Week 1 — Locating the Silence:** Eat completely normally. Focus entirely on *where* the feedback gap is. After each meal, sit for 60 seconds with no phone, no screen. Then answer the 3 prompts. Note: what signals does the body give vs. what is absent?
+
+**Week 2 — Environment as Feedback:** Shift focus outward. Observe what your physical environment does (or fails to do) after eating — does the table clear itself? Does anyone speak? Does anything change? Log environmental friction and silence alongside somatic prompts. Photograph 3 different eating environments; note how the physical space shaped the post-meal moment.
+
+**Week 3 — Observer Perspective + Prototype Test:** Practise strict non-judgement. Replace the word "bad" with "different" and "good" with "noticeable" in all entries. Introduce the cardboard After Glow prototype during this week — hold it for 60 seconds after each meal and log: what does the act of holding something change about the post-meal moment?
+
+**Week 4 — Design Provocations:** Answer only the speculative transformation prompt (prompt 3). Synthesise earlier diary entries into one design provocation per day. Sketch at least one speculative feedback mechanism responding to a real moment from weeks 1–3.
+
+**Format rule:** Entries should be written longhand (not typed) immediately post-meal. Maximum 200 words per entry. No editing — the unpolished first impression is the data.
 
 ---
 
@@ -756,6 +802,190 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 **Affective tone (10 min):** "Does this feedback feel like curiosity — or like scoring and shaming? Does it make you want to eat differently, or does it make you anxious?"
 
 **Critical probe (10 min):** "This object has no memory. It doesn't remember what you ate yesterday. It never compares today to yesterday. Is that a feature or a fatal flaw? What does it feel like for a device to *forget* you?"
+
+---
+
+### D5 — Integrated 7-Method Research Design
+
+*How the seven primary research methods connect, inform each other, and collectively address the research question.*
+
+---
+
+#### The Research Arc: Prime → Observe → Capture → Reflect → Attune → Build → Critique
+
+The seven methods are not parallel tracks — each method produces data that *feeds forward* into the next. The arc is designed so that by Phase 4, every participant has already experienced the problem in their own body and can critique the design artefact from a position of lived authority rather than abstract speculation.
+
+```
+[M1] Probe Kit ─────────────────────────────► Participants arrive primed and attuned
+[M3] Contextual Inquiry ─────────────────► Real friction points feed Phase 4 scenarios
+[M2] Photo Elicitation ─────────────────────────────────────────► Phase 5 stimulus
+[M5] Mindful Diary ─────────────────────────────────────► Design provocations
+[M4] EMA (peers) ──────────────────────────────► Validates gap as universal
+                                    [M6] Body Map → [demo] → [M7] Anti-Heroes
+                                         Phase 4 Workshop (60 min)
+```
+
+---
+
+#### Method-by-Method Scheme
+
+---
+
+**[M1] Sensitizing Probe Kit — Phase 3a**
+*Timing: Dispatched 2 weeks before Phase 4 workshop*
+
+| Item | Task | Duration | Data generated |
+|------|------|----------|----------------|
+| Placebo Patch | Wear for 48 hours; after each meal touch it and write: "What do you wish this was telling you? What are you afraid it is extracting?" | 48h wear | Folk theories about biometric data anxiety; what users want vs. fear from body monitoring |
+| Sensory Scanning Cards (3 cards) | Card A: draw where hunger lives in your body. Card B: draw where fullness lives. Card C: draw what "nothing" feels like after a meal. | ~10 min per card | Non-verbal body sensation maps; pre-workshop baseline for comparison with Body Mapping (M6) |
+
+*What feeds forward:* Folk theory data shapes the Anti-Heroes Role Cards (M7). Sensation maps establish a pre-workshop body awareness baseline to compare against M6 post-workshop maps.
+
+---
+
+**[M2] Participant-Driven Photo Elicitation — Phase 1c → Phase 5**
+*Timing: Assigned at end of Phase 1 interview; collected over 4 weeks; used in Phase 5*
+
+**Assignment brief (given verbally + printed card):**
+> "Once a day, for the next four weeks, take one photograph exactly 60 seconds after you finish eating a meal. Do not photograph the food. Photograph the aftermath: your empty plate, your hands, the table, the room. No staging. No filters."
+
+**Phase 5 use:**
+- Print 5–7 of each participant's photos (selected by researcher for variety of setting).
+- Lay them on the table at the start of the Phase 5 critique.
+- Opening prompt: *"Looking at these moments — not what you ate, but what happened after — what was your body telling you? Where was your attention?"*
+- Secondary prompt: *"In which of these photos does The After Glow fit naturally? In which does it feel wrong?"*
+
+*What feeds forward:* Photo-grounded critique in Phase 5 is richer and more specific than abstract recall. Participants critique The After Glow against documented real moments rather than hypothetical ones.
+
+---
+
+**[M3] Commensal Contextual Inquiry — Phase 1b**
+*Timing: Immediately following Phase 1a interview (same day)*
+
+**Setup:** Walk with the participant to a location where they eat regularly (their kitchen, their usual lunch spot, their work canteen). Observe one meal or meal-preparation act. Do not intervene. Take fieldnotes only — no audio recording during observation.
+
+**Observation protocol (30 min):**
+- T+0: Participant begins eating. Note: pace, posture, screen use, social context.
+- T+mid: Note: any pauses, distraction events, plate-checking, hunger/fullness signals expressed (verbal or physical).
+- T+end: Note: the precise moment the meal "ends" — what marks it? A notification? Standing up? The act of clearing plates? Or — nothing at all?
+- T+5 post-meal: Brief verbal debrief. Ask: *"You just finished eating. What, if anything, just changed in your body?"*
+
+**Key question for fieldnotes:** When and how does the phenomenological silence become visible as a behavioural pattern?
+
+*What feeds forward:* The 2–3 most striking environmental friction points from all 6–8 observations become the Scenario Stimuli printed on cards for Phase 4, Block 2.
+
+---
+
+**[M4] Ecological Momentary Assessment — Phase 2b**
+*Timing: 3 consecutive days, concurrent with or following Phase 2a diary*
+*Target: 5–8 peers (separate from Phase 1 interview participants)*
+
+**Recruitment:** Separate from core interview participants — peers recruited via personal network who have not seen the project framing. This preserves naivety of response.
+
+**Deployment:**
+- Day 0 (setup): Send participants a WhatsApp or SMS explaining the task. Confirm their main meal times.
+- Days 1–3: Send one message at the pre-agreed time + 10 min:
+  > *"Quick check-in: what feedback is your body giving you right now (right after eating)? Answer in 1–3 words or a short phrase. Honest is better than articulate."*
+- Day 3 evening: Optional 5-minute voice note prompt: *"In the past 3 days, was there a moment when you finished eating and felt something clear from your body? Or a moment when there was nothing at all?"*
+
+**Analysis:** Code responses by: (a) sensory type (thermal, gravitational, taste-residue, emotional); (b) valence (positive / neutral / absent / distressing); (c) whether the respondent reported a signal or an absence. The "absence" category is the primary data point.
+
+*What feeds forward:* The percentage of "absence" responses provides the empirical quantification that opens the Phase 4 workshop (e.g., "7 out of 8 people reported no bodily signal after their meal on at least one day").
+
+---
+
+**[M5] Mindful Construal Diary — Phase 2a**
+*See full protocol in D3 above.*
+
+*What feeds forward:* Week 4 design provocations ("what-if" transformations of the eating environment) are printed as additional scenario stimuli for Phase 4, Block 2, supplementing the researcher-authored 2035 scenarios.
+
+---
+
+**[M6] Body Mapping Warm-up — Phase 4, Block 1**
+*See full protocol in D2, Block 1 above.*
+
+**Comparison data:** After the Phase 4 workshop ends, ask participants to create a second body map ("How does your body feel now, at the end of this session?"). Compare before/after maps. Did engagement with The After Glow change how participants relate to their own somatic experience?
+
+*What feeds forward:* Pre/post body maps are included in the Phase 5 critique session ("Did interacting with this object change anything about how you pay attention to your body?").
+
+---
+
+**[M7] Anti-Heroes Ethical Role-Play — Phase 4, Block 3**
+*See full protocol in D2, Block 3 above.*
+
+**Role Card texts (print at A6 size, one per card):**
+
+> **THE BIG FOOD DATA BROKER**
+> You represent a company that monetises health data. The After Glow is frustrating — it generates warmth and light but stores *nothing*. No glucose curves. No behavioural patterns to sell. No longitudinal compliance data. You need to convince the room that its data blackout is a product flaw, not a feature.
+
+> **THE PUNITIVE DIET COACH**
+> You believe that behaviour change requires accountability. The After Glow's warm glow is dangerous — it *rewards* eating without judgement. What if someone eats three portions? What if they skip vegetables entirely? The disc should vibrate sharply when a bad choice is detected. Gentle warmth is soft, weak design.
+
+> **THE INTUITIVE EATING ADVOCATE**
+> You are suspicious of any technology that mediates the body-food relationship — even a gentle, non-numeric one. People already have a perfectly functioning digestive system. Does The After Glow *help* people trust their body, or does it just replace one form of external mediation with a softer one? Is it *still* surveillance dressed in ceramic?
+
+> **THE ANXIOUS BIOHACKER**
+> You wear an Oura Ring, a CGM, and a heart rate monitor. The After Glow is too vague — 60 seconds of warmth tells you nothing. What was your glucose response? What was your HRV impact? You need data, not poetry. Ambiguity is not a feature; it is a design failure for anyone serious about optimisation.
+
+*What feeds forward:* The Intuitive Eating Advocate's challenge (is this still surveillance in disguise?) becomes a critical design constraint that refines The After Glow's specifications in Appendix F. The Data Broker's failure mode shapes the Surveillance Blackout provocation.
+
+---
+
+#### Timeline: June–August 2026
+
+| Week | Activity | Methods active |
+|------|----------|----------------|
+| Week 1 (June) | Recruit participants; conduct Phase 0 conversations | — |
+| Week 2–3 (June) | Phase 1 interviews + contextual inquiry; assign Photo Elicitation task | M3, M2 assigned |
+| Week 4–5 (June–July) | Phase 2a diary + Phase 2b EMA (peers) | M5, M4 |
+| Week 6 (July) | App audit (Phase 3b); Probe Kit dispatch (Phase 3a) | M1 |
+| Week 7 (July) | Phase 4 Workshop: Body Mapping → Demo → Anti-Heroes | M6, M7 |
+| Week 8–10 (July–Aug) | Phase 5 Participatory Critique (using photos as stimulus) | M2 used |
+| Week 10+ (Aug) | Synthesis and design iteration | — |
+
+---
+
+#### Why These 7 (and Not Others)
+
+| Criterion | Rationale |
+|-----------|-----------|
+| **Feasibility** | All 7 require only materials available at RCA (clay, A3 paper, A6 cards, a mobile phone) — no specialist equipment, no clinical setting |
+| **Ethical safety** | All 7 are observational or generative — none involve biometric extraction or clinical risk for ED-screened participants |
+| **Methodological triangulation** | Individual (M5 diary, M2 photos) + interpersonal (M4 EMA peers) + collective (M6, M7 workshop) + in-situ (M3 contextual inquiry) + pre-attunement (M1 probes) |
+| **Feed-forward architecture** | Each method produces artefacts (maps, photos, folk-theory data) that serve as stimuli for the next method — the chain builds rather than repeats |
+| **Coherence with RCA ethics** | Consent is granular (separate for each phase), participation is voluntary at each stage, no deception is required (even M1 is transparent about its speculative nature) |
+
+---
+
+### D6 — Photo Elicitation Assignment Card
+
+*Print at A5. Give to each participant at the end of their Phase 1 interview.*
+
+---
+
+**YOUR TASK — EATING AFTERMATH PHOTOS**
+
+Over the next **4 weeks**, take **one photo per day**, exactly **60 seconds after you finish eating a meal**.
+
+**Photograph the aftermath. Not the food.**
+— Your empty or nearly-empty plate
+— The table surface
+— Your hands after eating
+— The room or space you were in
+
+**Rules:**
+- No staging. No filters. No captions.
+- Take it in the 60 seconds immediately after eating — not later.
+- Any device is fine (phone camera is perfect).
+
+**Send to:** [researcher WhatsApp/email — fill in before printing]
+**By:** [date — fill in before printing]
+
+*You don't need to explain the photos. Just take them.*
+
+---
+
+These photos will be brought to your final session with me. We will look at them together, and you will tell me what they show about what happens after eating — not to you consciously, but *in the space around you*. There are no wrong photos.
 
 ---
 
