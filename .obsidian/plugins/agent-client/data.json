@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "24d228c6-204b-4cf8-9e7f-ece1e2c67afa",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "20.Projects/IRP/IRP_Figures_Final_Package我不管你用什么方法...",
+      "createdAt": "2026-05-04T17:10:40.823Z",
+      "updatedAt": "2026-05-04T17:10:40.823Z"
+    },
+    {
       "sessionId": "8be17588-9def-4286-b22a-b766f9525d9a",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",
