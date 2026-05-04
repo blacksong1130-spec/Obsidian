@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" font-family="Georgia, 'Times New Roman', serif">
+
+  <!-- Background -->
+  <rect width="900" height="600" fill="#fafafa" rx="4"/>
+
+  <!-- Title -->
+  <text x="450" y="44" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a">Oura Ring (2024) vs. The After Glow (2035)</text>
+  <text x="450" y="66" text-anchor="middle" font-size="13" fill="#555" font-style="italic">Paradigm comparison: evaluative surveillance vs. non-punitive embodied feedback</text>
+
+  <!-- Divider line under title -->
+  <line x1="60" y1="80" x2="840" y2="80" stroke="#ccc" stroke-width="1"/>
+
+  <!-- Column headers -->
+  <!-- Oura side -->
+  <rect x="60" y="92" width="360" height="40" fill="#e8edf5" rx="4"/>
+  <text x="240" y="118" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c4a7c">Oura Ring</text>
+
+  <!-- After Glow side -->
+  <rect x="480" y="92" width="360" height="40" fill="#f0f8f0" rx="4"/>
+  <text x="660" y="118" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a6040">The After Glow</text>
+
+  <!-- VS badge -->
+  <circle cx="450" cy="112" r="22" fill="#fff" stroke="#999" stroke-width="1.5"/>
+  <text x="450" y="118" text-anchor="middle" font-size="13" font-weight="bold" fill="#777">vs</text>
+
+  <!-- Row data: label | oura | after glow -->
+  <!-- Row backgrounds alternate -->
+  <rect x="60" y="144" width="780" height="36" fill="#f5f7fa" rx="2"/>
+  <rect x="60" y="180" width="780" height="36" fill="#fff" rx="2"/>
+  <rect x="60" y="216" width="780" height="36" fill="#f5f7fa" rx="2"/>
+  <rect x="60" y="252" width="780" height="36" fill="#fff" rx="2"/>
+  <rect x="60" y="288" width="780" height="36" fill="#f5f7fa" rx="2"/>
+  <rect x="60" y="324" width="780" height="36" fill="#fff" rx="2"/>
+  <rect x="60" y="360" width="780" height="36" fill="#f5f7fa" rx="2"/>
+  <rect x="60" y="396" width="780" height="36" fill="#fff" rx="2"/>
+
+  <!-- Row labels (left anchor) -->
+  <text x="75" y="167" font-size="12" font-weight="bold" fill="#444">Feedback mode</text>
+  <text x="75" y="203" font-size="12" font-weight="bold" fill="#444">Monitoring duration</text>
+  <text x="75" y="239" font-size="12" font-weight="bold" fill="#444">Output type</text>
+  <text x="75" y="275" font-size="12" font-weight="bold" fill="#444">Interface</text>
+  <text x="75" y="311" font-size="12" font-weight="bold" fill="#444">Data extraction</text>
+  <text x="75" y="347" font-size="12" font-weight="bold" fill="#444">Goal</text>
+  <text x="75" y="383" font-size="12" font-weight="bold" fill="#444">Material</text>
+  <text x="75" y="419" font-size="12" font-weight="bold" fill="#444">Primary risk</text>
+
+  <!-- Oura values -->
+  <text x="300" y="167" text-anchor="middle" font-size="12" fill="#2c4a7c">Evaluative (daily readiness score)</text>
+  <text x="300" y="203" text-anchor="middle" font-size="12" fill="#2c4a7c">Continuous / 24-hour persistent</text>
+  <text x="300" y="239" text-anchor="middle" font-size="12" fill="#2c4a7c">Numerical score + dashboard</text>
+  <text x="300" y="275" text-anchor="middle" font-size="12" fill="#2c4a7c">Screen-based notification</text>
+  <text x="300" y="311" text-anchor="middle" font-size="12" fill="#2c4a7c">Cloud-stored, longitudinal tracking</text>
+  <text x="300" y="347" text-anchor="middle" font-size="12" fill="#2c4a7c">Optimisation — achieve higher scores</text>
+  <text x="300" y="383" text-anchor="middle" font-size="12" fill="#2c4a7c">Titanium / polished glass</text>
+  <text x="300" y="419" text-anchor="middle" font-size="12" fill="#c0392b">Reification of data (Wallace et al., 2025)</text>
+
+  <!-- After Glow values -->
+  <text x="660" y="167" text-anchor="middle" font-size="12" fill="#2a6040">Descriptive — no judgement, no score</text>
+  <text x="660" y="203" text-anchor="middle" font-size="12" fill="#2a6040">60-second post-meal closure only</text>
+  <text x="660" y="239" text-anchor="middle" font-size="12" fill="#2a6040">Amber light + modulated warmth</text>
+  <text x="660" y="275" text-anchor="middle" font-size="12" fill="#2a6040">Screen-free ceramic disc</text>
+  <text x="660" y="311" text-anchor="middle" font-size="12" fill="#2a6040">No data stored or extracted</text>
+  <text x="660" y="347" text-anchor="middle" font-size="12" fill="#2a6040">Interoceptive literacy — trust the body</text>
+  <text x="660" y="383" text-anchor="middle" font-size="12" fill="#2a6040">Unfired porous clay (degrades)</text>
+  <text x="660" y="419" text-anchor="middle" font-size="12" fill="#27ae60">Insufficient data for biohackers</text>
+
+  <!-- Divider line between columns -->
+  <line x1="420" y1="144" x2="420" y2="432" stroke="#ddd" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- REFLECTIVE Framework badge -->
+  <rect x="480" y="444" width="360" height="56" fill="#f0f8f0" rx="6" stroke="#2a6040" stroke-width="1.2"/>
+  <text x="660" y="464" text-anchor="middle" font-size="11" font-weight="bold" fill="#2a6040">REFLECTIVE Framework (After Glow)</text>
+  <text x="660" y="481" text-anchor="middle" font-size="11" fill="#2a6040">Descriptive, not Evaluative  ·  Relative, not Absolute</text>
+  <text x="660" y="496" text-anchor="middle" font-size="11" fill="#2a6040">Closed-Loop, not Open-Ended</text>
+
+  <!-- Food Freedom note -->
+  <rect x="60" y="444" width="345" height="56" fill="#fff9f0" rx="6" stroke="#c87941" stroke-width="1.2"/>
+  <text x="232" y="464" text-anchor="middle" font-size="11" font-weight="bold" fill="#c87941">Design Principle (After Glow)</text>
+  <text x="232" y="481" text-anchor="middle" font-size="11" fill="#c87941">Technology should amplify internal bodily</text>
+  <text x="232" y="496" text-anchor="middle" font-size="11" fill="#c87941">authority — not replace it with data.</text>
+
+  <!-- Source note -->
+  <text x="450" y="570" text-anchor="middle" font-size="10" fill="#999" font-style="italic">Sources: Oura Health (2026); Wallace et al. (2025); Tribole and Resch (2020); Project design rationale.</text>
+
+</svg>

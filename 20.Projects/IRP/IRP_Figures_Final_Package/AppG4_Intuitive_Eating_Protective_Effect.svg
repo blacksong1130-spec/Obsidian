@@ -1,0 +1,51 @@
+<svg viewBox="0 0 860 340" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="860" height="340" fill="#FAFAFA" rx="4"/>
+  <!-- Title -->
+  <text x="430" y="30" text-anchor="middle" font-size="15" font-weight="bold" fill="#2C3E50">G4 — Protective Effect of Intuitive Eating on Binge Eating Risk</text>
+  <text x="430" y="48" text-anchor="middle" font-size="11" fill="#666">Meta-analysis across 8-year longitudinal data (Linardon, 2020)</text>
+  <!-- Background scale bar for reference (0–100%) -->
+  <!-- Scale: 0% at x=300, 100% at x=790 (490px wide) -->
+  <!-- Vertical scale lines at 0, 25, 50, 75, 100% -->
+  <line x1="300" y1="75" x2="300" y2="255" stroke="#CCCCCC" stroke-width="1"/>
+  <line x1="422" y1="75" x2="422" y2="255" stroke="#E5E5E5" stroke-dasharray="4,3"/>
+  <line x1="545" y1="75" x2="545" y2="255" stroke="#E5E5E5" stroke-dasharray="4,3"/>
+  <line x1="668" y1="75" x2="668" y2="255" stroke="#E5E5E5" stroke-dasharray="4,3"/>
+  <line x1="790" y1="75" x2="790" y2="255" stroke="#E5E5E5" stroke-dasharray="4,3"/>
+  <!-- Scale labels -->
+  <text x="300" y="270" text-anchor="middle" font-size="10" fill="#888">0%</text>
+  <text x="422" y="270" text-anchor="middle" font-size="10" fill="#888">25%</text>
+  <text x="545" y="270" text-anchor="middle" font-size="10" fill="#888">50%</text>
+  <text x="668" y="270" text-anchor="middle" font-size="10" fill="#888">75%</text>
+  <text x="790" y="270" text-anchor="middle" font-size="10" fill="#888">100%</text>
+  <text x="545" y="290" text-anchor="middle" font-size="11" fill="#666">Reduction in Binge Eating Risk</text>
+  <!-- Bar 1: Baseline IE +1 point → 74% reduction -->
+  <!-- x = 300 + (0.74)*490 = 300 + 362.6 = 662.6 -->
+  <rect x="300" y="95" width="363" height="60" fill="#27AE60" rx="4"/>
+  <!-- Label inside bar -->
+  <text x="481" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="white">74%</text>
+  <!-- Measure description -->
+  <text x="290" y="107" text-anchor="end" font-size="11" fill="#2C3E50" font-weight="bold">Baseline IE score</text>
+  <text x="290" y="122" text-anchor="end" font-size="11" fill="#555">+1 point increase</text>
+  <text x="290" y="137" text-anchor="end" font-size="10" fill="#888">(cross-sectional)</text>
+  <!-- Endpoint annotation -->
+  <text x="668" y="140" text-anchor="middle" font-size="11" font-weight="bold" fill="#27AE60">↑ 74% risk reduction</text>
+  <!-- Bar 2: Growth in IE +1 point → 71% reduction -->
+  <!-- x = 300 + (0.71)*490 = 300 + 347.9 = 647.9 -->
+  <rect x="300" y="185" width="348" height="60" fill="#2E86C1" rx="4"/>
+  <!-- Label inside bar -->
+  <text x="474" y="221" text-anchor="middle" font-size="18" font-weight="bold" fill="white">71%</text>
+  <!-- Measure description -->
+  <text x="290" y="197" text-anchor="end" font-size="11" fill="#2C3E50" font-weight="bold">Growth in IE score</text>
+  <text x="290" y="212" text-anchor="end" font-size="11" fill="#555">+1 point over time</text>
+  <text x="290" y="227" text-anchor="end" font-size="10" fill="#888">(longitudinal)</text>
+  <!-- Endpoint annotation -->
+  <text x="653" y="230" text-anchor="middle" font-size="11" font-weight="bold" fill="#2E86C1">↑ 71% risk reduction</text>
+  <!-- Design implication note -->
+  <rect x="80" y="130" width="196" height="56" fill="white" stroke="#27AE60" stroke-width="1" rx="3"/>
+  <text x="178" y="149" text-anchor="middle" font-size="10" font-weight="bold" fill="#27AE60">Design implication</text>
+  <text x="178" y="163" text-anchor="middle" font-size="10" fill="#555">Cultivating internal attunement</text>
+  <text x="178" y="177" text-anchor="middle" font-size="10" fill="#555">is clinically measurable and</text>
+  <text x="178" y="191" text-anchor="middle" font-size="10" fill="#555">empirically superior to tracking.</text>
+  <!-- Source -->
+  <text x="430" y="315" text-anchor="middle" font-size="10" fill="#999">Source: Linardon, J. (2020). European Eating Disorders Review, 28(6), pp. 749–762.</text>
+</svg>

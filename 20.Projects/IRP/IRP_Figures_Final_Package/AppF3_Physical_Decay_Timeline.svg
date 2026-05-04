@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" font-family="Georgia, 'Times New Roman', serif">
+
+  <!-- Background -->
+  <rect width="960" height="520" fill="#fafaf8" rx="4"/>
+
+  <!-- Title -->
+  <text x="480" y="42" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a">Programmed Physical Decay — The After Glow</text>
+  <text x="480" y="63" text-anchor="middle" font-size="13" fill="#666" font-style="italic">How the ceramic disc changes over time as a function of meal regularity and attentiveness</text>
+  <line x1="60" y1="76" x2="900" y2="76" stroke="#ccc" stroke-width="1"/>
+
+  <!-- Timeline spine -->
+  <line x1="120" y1="230" x2="840" y2="230" stroke="#aaa" stroke-width="2"/>
+  <!-- Arrow at end -->
+  <polygon points="840,226 856,230 840,234" fill="#aaa"/>
+  <text x="870" y="234" font-size="12" fill="#888" font-style="italic">time</text>
+
+  <!-- === Stage 0 === -->
+  <circle cx="160" cy="230" r="10" fill="#e8d9c4" stroke="#7a5c3a" stroke-width="2"/>
+  <!-- Disc shape: smooth -->
+  <ellipse cx="160" cy="155" rx="46" ry="14" fill="#c8b49a" stroke="#7a5c3a" stroke-width="1.5"/>
+  <ellipse cx="160" cy="142" rx="46" ry="14" fill="#dfd0b8" stroke="#7a5c3a" stroke-width="1.5"/>
+  <ellipse cx="160" cy="142" rx="30" ry="9" fill="#faebd0" stroke="#c89a60" stroke-width="1" opacity="0.7"/>
+  <!-- glow -->
+  <circle cx="160" cy="130" r="22" fill="#ffa500" opacity="0.08"/>
+  <text x="160" y="96" text-anchor="middle" font-size="11" fill="#c87000" font-style="italic">soft amber glow</text>
+  <!-- Label -->
+  <text x="160" y="258" text-anchor="middle" font-size="13" font-weight="bold" fill="#7a5c3a">Stage 0</text>
+  <text x="160" y="273" text-anchor="middle" font-size="11" fill="#888">Day 1</text>
+  <text x="160" y="292" text-anchor="middle" font-size="11" fill="#555">Smooth surface</text>
+  <text x="160" y="307" text-anchor="middle" font-size="11" fill="#555">Full glow output</text>
+  <text x="160" y="322" text-anchor="middle" font-size="11" fill="#555">No memory</text>
+
+  <!-- === Stage 1 === -->
+  <circle cx="360" cy="230" r="10" fill="#d4b896" stroke="#7a5c3a" stroke-width="2"/>
+  <!-- Disc: hairline cracks -->
+  <ellipse cx="360" cy="155" rx="46" ry="14" fill="#b89e7a" stroke="#7a5c3a" stroke-width="1.5"/>
+  <ellipse cx="360" cy="142" rx="46" ry="14" fill="#cfc0a0" stroke="#7a5c3a" stroke-width="1.5"/>
+  <!-- crack lines -->
+  <line x1="338" y1="136" x2="352" y2="148" stroke="#5a4020" stroke-width="1" opacity="0.5"/>
+  <line x1="370" y1="133" x2="380" y2="145" stroke="#5a4020" stroke-width="1" opacity="0.5"/>
+  <ellipse cx="360" cy="142" rx="30" ry="9" fill="#f0dfc0" stroke="#c89a60" stroke-width="1" opacity="0.6"/>
+  <!-- glow dimmer -->
+  <circle cx="360" cy="128" r="18" fill="#ffa500" opacity="0.05"/>
+  <!-- Label -->
+  <text x="360" y="258" text-anchor="middle" font-size="13" font-weight="bold" fill="#7a5c3a">Stage 1</text>
+  <text x="360" y="273" text-anchor="middle" font-size="11" fill="#888">~3 months</text>
+  <text x="360" y="292" text-anchor="middle" font-size="11" fill="#555">Hairline cracks appear</text>
+  <text x="360" y="307" text-anchor="middle" font-size="11" fill="#555">after rushed meals</text>
+  <text x="360" y="322" text-anchor="middle" font-size="11" fill="#555">Glow slightly muted</text>
+
+  <!-- === Stage 2 === -->
+  <circle cx="560" cy="230" r="10" fill="#b8946a" stroke="#7a5c3a" stroke-width="2"/>
+  <!-- Disc: visible cracks + staining -->
+  <ellipse cx="560" cy="155" rx="46" ry="14" fill="#9a7c56" stroke="#5a4020" stroke-width="1.5"/>
+  <ellipse cx="560" cy="142" rx="46" ry="14" fill="#b89870" stroke="#5a4020" stroke-width="1.5"/>
+  <!-- deeper cracks -->
+  <line x1="534" y1="133" x2="548" y2="152" stroke="#3a2010" stroke-width="1.5" opacity="0.7"/>
+  <line x1="568" y1="131" x2="582" y2="147" stroke="#3a2010" stroke-width="1.5" opacity="0.7"/>
+  <line x1="548" y1="145" x2="560" y2="135" stroke="#3a2010" stroke-width="1" opacity="0.5"/>
+  <!-- dark staining patches -->
+  <ellipse cx="542" cy="139" rx="7" ry="5" fill="#5a3a20" opacity="0.3"/>
+  <ellipse cx="574" cy="144" rx="5" ry="4" fill="#5a3a20" opacity="0.25"/>
+  <ellipse cx="560" cy="142" rx="28" ry="8" fill="#e0c8a0" stroke="#c89a60" stroke-width="1" opacity="0.5"/>
+  <text x="560" y="96" text-anchor="middle" font-size="11" fill="#886000" font-style="italic">glow uneven</text>
+  <!-- Label -->
+  <text x="560" y="258" text-anchor="middle" font-size="13" font-weight="bold" fill="#7a5c3a">Stage 2</text>
+  <text x="560" y="273" text-anchor="middle" font-size="11" fill="#888">~6 months</text>
+  <text x="560" y="292" text-anchor="middle" font-size="11" fill="#555">Visible fractures</text>
+  <text x="560" y="307" text-anchor="middle" font-size="11" fill="#555">Dark staining from heat</text>
+  <text x="560" y="322" text-anchor="middle" font-size="11" fill="#555">Irregular light output</text>
+
+  <!-- === Stage 3 === -->
+  <circle cx="760" cy="230" r="10" fill="#8c6844" stroke="#5a4020" stroke-width="2"/>
+  <!-- Disc: crumbling / partial -->
+  <ellipse cx="760" cy="155" rx="38" ry="12" fill="#7a5c3a" stroke="#3a2010" stroke-width="1.5"/>
+  <ellipse cx="760" cy="144" rx="38" ry="12" fill="#9a7040" stroke="#3a2010" stroke-width="1.5"/>
+  <!-- missing chunks (cutout effect) -->
+  <polygon points="793,137 800,148 795,152 785,143" fill="#fafaf8"/>
+  <polygon points="728,138 734,150 726,152 720,144" fill="#fafaf8"/>
+  <!-- deep cracks -->
+  <line x1="744" y1="134" x2="754" y2="156" stroke="#1a1008" stroke-width="2" opacity="0.8"/>
+  <line x1="766" y1="132" x2="776" y2="153" stroke="#1a1008" stroke-width="1.5" opacity="0.7"/>
+  <!-- heavy staining -->
+  <ellipse cx="748" cy="140" rx="10" ry="7" fill="#2a1a08" opacity="0.4"/>
+  <ellipse cx="772" cy="147" rx="8" ry="6" fill="#2a1a08" opacity="0.35"/>
+  <ellipse cx="760" cy="144" rx="22" ry="7" fill="#c8a860" opacity="0.35"/>
+  <!-- no glow shown -->
+  <text x="760" y="96" text-anchor="middle" font-size="11" fill="#c00000" font-style="italic">glow absent</text>
+  <!-- Label -->
+  <text x="760" y="258" text-anchor="middle" font-size="13" font-weight="bold" fill="#7a5c3a">Stage 3</text>
+  <text x="760" y="273" text-anchor="middle" font-size="11" fill="#888">1+ year</text>
+  <text x="760" y="292" text-anchor="middle" font-size="11" fill="#555">Significant degradation</text>
+  <text x="760" y="307" text-anchor="middle" font-size="11" fill="#555">Deep staining + partial loss</text>
+  <text x="760" y="322" text-anchor="middle" font-size="11" fill="#c00000">Device ceases to function</text>
+
+  <!-- Trigger labels on timeline -->
+  <text x="260" y="222" text-anchor="middle" font-size="10" fill="#b07040" font-style="italic">rushed meals</text>
+  <line x1="260" y1="224" x2="260" y2="230" stroke="#b07040" stroke-width="1" stroke-dasharray="2,2"/>
+  <text x="460" y="222" text-anchor="middle" font-size="10" fill="#b07040" font-style="italic">chronic inattention</text>
+  <line x1="460" y1="224" x2="460" y2="230" stroke="#b07040" stroke-width="1" stroke-dasharray="2,2"/>
+  <text x="660" y="222" text-anchor="middle" font-size="10" fill="#b07040" font-style="italic">persistent avoidance</text>
+  <line x1="660" y1="224" x2="660" y2="230" stroke="#b07040" stroke-width="1" stroke-dasharray="2,2"/>
+
+  <!-- Design intent box -->
+  <rect x="120" y="360" width="720" height="70" fill="#fff9f0" rx="6" stroke="#c87941" stroke-width="1.2"/>
+  <text x="480" y="382" text-anchor="middle" font-size="12" font-weight="bold" fill="#c87941">Design Intent: Programmed Physical Decay</text>
+  <text x="480" y="400" text-anchor="middle" font-size="11" fill="#7a4a20">"Silicon Valley health tech promises frictionless, immortal optimisation via sleek glass screens.</text>
+  <text x="480" y="416" text-anchor="middle" font-size="11" fill="#7a4a20">A degrading ceramic disc insists that human bodies are messy, entropic, and mortal."</text>
+
+  <!-- Source note -->
+  <text x="480" y="500" text-anchor="middle" font-size="10" fill="#999" font-style="italic">Conceptual design specification. After Glow prototype: unfired porous clay, Ø80mm × 12mm. See Appendix F.</text>
+
+</svg>
