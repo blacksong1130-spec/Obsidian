@@ -126,9 +126,6 @@ This project operates at the intersection of four system-level perspectives, vis
 
 A critical design insight emerging from this systems view is the conflation of two distinct user cohorts in current tools. For the **general population**, the primary failure is tracking friction — manual logging destroys Ability in Fogg's B=MAP model (2009). For **users at eating disorder risk**, the failure is not low engagement but active harm: intensive self-monitoring is strongly correlated with elevated ED symptoms (Roth et al., 2024). Effective design must simultaneously address tracking fatigue for general users and eliminate harm pathways for vulnerable users — a requirement that rules out any punitive metric.
 
-![[Fig06_Two_User_Cohorts.svg|820]]
-*Figure — Two User Cohorts: why a single punitive design cannot serve both groups, and why the REFLECTIVE Framework is required to address both simultaneously.*
-
 In terms of **temporal scale**, this project projects to a medium-to-long horizon of 10–15 years, working toward a 2035 speculative future. This timeframe is appropriate because non-invasive metabolic sensing is currently approaching consumer readiness, the cultural shift from diet-culture to Food Freedom is actively unfolding, and backcasting from 2035 identifies the precise design principles that must be established now before paradigm lock-in occurs (Martell, 2026). The **contextual scale** is resolutely **micro**: the individual's daily experience of eating, at the level of a single meal and its immediate aftermath. This micro-focus is the site where the phenomenological silence is most acutely felt and where design intervention can have the most direct effect on interoceptive literacy.
 
 ---
@@ -139,15 +136,12 @@ In terms of **temporal scale**, this project projects to a medium-to-long horizo
 
 This project is situated at the intersection of *Behavioural Design* and *Speculative / Critical Design*, drawing on Futures Studies for temporal orientation and on Food Studies and Health Psychology for empirical grounding. The Disciplinary Map below illustrates this positioning.
 
-![[Fig02_Disciplinary_Map_v2.svg|820]]
+![[Disciplinary_Map.svg|694]]
 *Figure 2 — Disciplinary Map: positioning the project across behaviour design, speculative design, and futures studies.*
 
 As a design futurist on this project, my role is threefold: (1) **Cartographer of the Present** — mapping why the current dietary feedback landscape looks as it does, what assumptions it encodes, and whose interests it serves; (2) **Critical Provocateur** — designing speculative artefacts that expose the contradictions and absences of current food technology; (3) **Preferential Futurist** — using backcasting methodology to identify near-term design principles from a preferred 2035 future (Martell, 2026). The primary benefit of deploying design here is its capacity to translate abstract philosophical goals — such as *Food Freedom* — into tangible, evaluable interface constraints. A significant limitation is that speculative artefacts risk remaining intellectual exercises unless grounded in commercially and culturally plausible near-futures; this project deliberately anchors its speculations in demonstrated market trends and clinical evidence.
 
 Four design approaches structure the work. **Behavioural Architecture** (Fogg, 2009; Thaler and Sunstein, 2008) shapes feedback environments that lower the friction of post-meal reflection without coercion. **Compassion-Based Design** reframes the designer's orientation: it is not the user who must become more disciplined, but the design that must intervene with care — treating eating as a site of joy rather than surveillance. **Embodiment and Empowerment** requires that technology amplify internal bodily authority rather than overriding it with external optimisation directives. The **REFLECTIVE Framework** operationalises these principles into three evaluable design criteria: feedback must be *Descriptive, not Evaluative* (no scoring, no colour-coded pass/fail); *Relative, not Absolute* (anchored to the individual's own metabolic baseline — justified by Zeevi et al., 2015); and *Closed-Loop, not Open-Ended* (a defined 60-second post-meal closure event, not perpetual open monitoring).
-
-![[Fig05_REFLECTIVE_Framework.svg|820]]
-*Figure — The REFLECTIVE Framework: three evaluable design criteria with contrasting examples and evidence grounding.*
 
 The futures approach is primarily **Speculative and Critical Design** (Dunne and Raby, 2013), chosen because this space requires paradigm interrogation — not incremental usability improvement — to fundamentally reframe the relationship between technology and eating. This is combined with the **Intelligence–Perspective–Logic–Foresight (IPLF) backcasting framework** (Martell, 2026): from a preferred 2035 future in which technology amplifies natural satiety signals before rendering itself obsolete, the project identifies the non-punitive design rules that must be established today. Three 2035 scenarios — (1) *Food as Code* (high-tech biometric, probable but undesirable); (2) *The Disappearing Interface* (ambient social, desirable but contextually limited); (3) *The Tool That Disappears* (intuitive technology, preferred) — provide the research stimuli for participant critique in Phases 4 and 5. Full day-in-the-life narratives and failure modes for each scenario are in **Appendix E**.
 
@@ -497,8 +491,7 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 ---
 
-![[AppA_Literature_Logic_Chain_v2.svg|1000]]
-*Figure A — Literature Reasoning Chain: from phenomenon (phenomenological silence) through behavioural theory and clinical risk evidence to ethical framework and design output.*
+*→ 【你需要做】在此处插入文献推演链图（截图自 `03_研究素材/IRP 文献推演链 - 知识溯源图.md` 或 Canvas 文件）。*
 
 ---
 
@@ -925,14 +918,7 @@ These photos will be brought to your final session with me. We will look at them
 
 **Provocation 3 — Programmed Physical Decay:** Made from unfired, porous clay, the disc heats slightly and physically cracks when it detects a highly dysregulated, rushed meal. Over months, the object degrades, stains, and crumbles based on lived reality. *Why critical:* Silicon Valley health tech promises frictionless, immortal optimisation via sleek glass screens. A degrading ceramic disc insists that human bodies are messy, entropic, and mortal — transforming dietary feedback into a *memento mori* rather than a biohacking dashboard.
 
-![[AppF1_AfterGlow_Design_Sketch.svg|900]]
-*Figure F1 — The After Glow: multi-view design specification. Plan view (top), cross-section A–A (centre), hands-on 60-second activation scene (lower left), three critical design provocations (right).*
-
-![[AppF2_Oura_vs_AfterGlow_Comparison.svg|820]]
-*Figure F2 — Paradigm comparison: Oura Ring (evaluative, continuous, numerical) vs. The After Glow (descriptive, 60-second closure, sensation-only).*
-
-![[AppF3_Physical_Decay_Timeline.svg|860]]
-*Figure F3 — Programmed Physical Decay: Stage 0 through Stage 3, showing how the ceramic disc changes as a function of meal attentiveness over 12+ months.*
+*→ 【你需要做】在此插入：(a) After Glow 手绘草图照片；(b) Oura Ring vs. After Glow 对比图；(c) 物理衰变时间线草图。*
 
 ---
 

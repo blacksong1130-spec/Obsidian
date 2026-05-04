@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="620" viewBox="0 0 860 620" font-family="Georgia, 'Times New Roman', serif">
+
+  <!-- Background -->
+  <rect width="860" height="620" fill="#fafaf8"/>
+
+  <!-- Title -->
+  <text x="430" y="36" text-anchor="middle" font-size="18" font-weight="bold" fill="#1a1a1a">Disciplinary Map</text>
+  <text x="430" y="56" text-anchor="middle" font-size="12" fill="#666" font-style="italic">Project positioning across design practice, futures studies, and health psychology</text>
+  <line x1="60" y1="68" x2="800" y2="68" stroke="#ddd" stroke-width="1"/>
+
+  <!-- ============ AXES ============ -->
+  <!-- Horizontal axis -->
+  <line x1="90" y1="340" x2="770" y2="340" stroke="#bbb" stroke-width="1.2"/>
+  <!-- Horizontal arrows -->
+  <polygon points="770,336 782,340 770,344" fill="#bbb"/>
+  <polygon points="90,336 78,340 90,344" fill="#bbb"/>
+  <!-- Horizontal labels -->
+  <text x="68" y="344" text-anchor="end" font-size="11" fill="#888" font-style="italic">Affirmative</text>
+  <text x="792" y="344" font-size="11" fill="#888" font-style="italic">Critical</text>
+
+  <!-- Vertical axis -->
+  <line x1="430" y1="90" x2="430" y2="560" stroke="#bbb" stroke-width="1.2"/>
+  <!-- Vertical arrows -->
+  <polygon points="426,90 430,78 434,90" fill="#bbb"/>
+  <polygon points="426,560 430,572 434,560" fill="#bbb"/>
+  <!-- Vertical labels -->
+  <text x="430" y="76" text-anchor="middle" font-size="11" fill="#888" font-style="italic">Future-oriented</text>
+  <text x="430" y="588" text-anchor="middle" font-size="11" fill="#888" font-style="italic">Present-grounded</text>
+
+  <!-- Axis centre label -->
+  <text x="435" y="335" font-size="10" fill="#ccc">+</text>
+
+  <!-- ============ DISCIPLINE ZONES (overlapping ellipses) ============ -->
+
+  <!-- Zone 1: Behavioural Design — bottom-left (Affirmative + Present) -->
+  <ellipse cx="250" cy="440" rx="145" ry="95" fill="#3498db" opacity="0.10"/>
+  <ellipse cx="250" cy="440" rx="145" ry="95" fill="none" stroke="#3498db" stroke-width="1.5" stroke-dasharray="6,3" opacity="0.6"/>
+  <text x="145" y="430" font-size="13" font-weight="bold" fill="#2471a3">Behavioural</text>
+  <text x="145" y="447" font-size="13" font-weight="bold" fill="#2471a3">Design</text>
+  <text x="145" y="466" font-size="10" fill="#2471a3">Fogg B=MAP · Nudge</text>
+  <text x="145" y="480" font-size="10" fill="#2471a3">Thaler &amp; Sunstein</text>
+
+  <!-- Zone 2: Speculative/Critical Design — upper-right (Critical + Future) -->
+  <ellipse cx="600" cy="230" rx="160" ry="100" fill="#8e44ad" opacity="0.10"/>
+  <ellipse cx="600" cy="230" rx="160" ry="100" fill="none" stroke="#8e44ad" stroke-width="1.5" stroke-dasharray="6,3" opacity="0.6"/>
+  <text x="620" y="195" font-size="13" font-weight="bold" fill="#6c3483">Speculative &amp;</text>
+  <text x="620" y="212" font-size="13" font-weight="bold" fill="#6c3483">Critical Design</text>
+  <text x="620" y="231" font-size="10" fill="#6c3483">Dunne &amp; Raby (2013)</text>
+  <text x="620" y="245" font-size="10" fill="#6c3483">Near Future Laboratory</text>
+  <text x="620" y="259" font-size="10" fill="#6c3483">Superflux</text>
+
+  <!-- Zone 3: Futures Studies — upper-left (Affirmative-Critical boundary, Future) -->
+  <ellipse cx="280" cy="200" rx="150" ry="90" fill="#27ae60" opacity="0.10"/>
+  <ellipse cx="280" cy="200" rx="150" ry="90" fill="none" stroke="#27ae60" stroke-width="1.5" stroke-dasharray="6,3" opacity="0.6"/>
+  <text x="140" y="188" font-size="13" font-weight="bold" fill="#1e8449">Futures</text>
+  <text x="140" y="205" font-size="13" font-weight="bold" fill="#1e8449">Studies</text>
+  <text x="140" y="224" font-size="10" fill="#1e8449">IPLF Backcasting</text>
+  <text x="140" y="238" font-size="10" fill="#1e8449">Inayatullah · Dator</text>
+  <text x="140" y="252" font-size="10" fill="#1e8449">Futures Triangle</text>
+
+  <!-- Zone 4: Food Studies / Health Psychology — bottom-right (Critical + Present) -->
+  <ellipse cx="610" cy="450" rx="148" ry="90" fill="#e67e22" opacity="0.10"/>
+  <ellipse cx="610" cy="450" rx="148" ry="90" fill="none" stroke="#e67e22" stroke-width="1.5" stroke-dasharray="6,3" opacity="0.6"/>
+  <text x="620" y="428" font-size="13" font-weight="bold" fill="#d35400">Food Studies &amp;</text>
+  <text x="620" y="445" font-size="13" font-weight="bold" fill="#d35400">Health Psychology</text>
+  <text x="620" y="464" font-size="10" fill="#d35400">Intuitive Eating</text>
+  <text x="620" y="478" font-size="10" fill="#d35400">Tribole &amp; Resch (2020)</text>
+  <text x="620" y="492" font-size="10" fill="#d35400">Linardon · Wallace</text>
+
+  <!-- ============ PROJECT POSITION ============ -->
+  <!-- Intersection glow -->
+  <circle cx="430" cy="330" r="52" fill="#1a1a1a" opacity="0.05"/>
+  <circle cx="430" cy="330" r="36" fill="#1a1a1a" opacity="0.07"/>
+  <!-- Project dot -->
+  <circle cx="430" cy="330" r="18" fill="#1a1a1a"/>
+  <circle cx="430" cy="330" r="12" fill="#fff"/>
+  <circle cx="430" cy="330" r="6" fill="#1a1a1a"/>
+
+  <!-- Project label box -->
+  <rect x="310" y="280" width="240" height="36" rx="4" fill="#1a1a1a"/>
+  <text x="430" y="295" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">THIS PROJECT</text>
+  <text x="430" y="310" text-anchor="middle" font-size="10" fill="#ccc">Redesigning Dietary Feedback</text>
+  <!-- Arrow from label to dot -->
+  <line x1="430" y1="316" x2="430" y2="312" stroke="#1a1a1a" stroke-width="1.5"/>
+
+  <!-- Connector lines from project to each zone (subtle) -->
+  <line x1="415" y1="318" x2="330" y2="265" stroke="#27ae60" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.5"/>
+  <line x1="445" y1="318" x2="540" y2="270" stroke="#8e44ad" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.5"/>
+  <line x1="415" y1="343" x2="320" y2="400" stroke="#3498db" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.5"/>
+  <line x1="445" y1="343" x2="540" y2="400" stroke="#e67e22" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.5"/>
+
+  <!-- ============ ROLE ANNOTATIONS ============ -->
+  <!-- Three-role callout below project -->
+  <rect x="310" y="370" width="240" height="70" rx="4" fill="#fff" stroke="#ddd" stroke-width="1"/>
+  <text x="430" y="387" text-anchor="middle" font-size="10" font-weight="bold" fill="#444">Designer-Futurist Role on This Project</text>
+  <text x="323" y="404" font-size="9.5" fill="#555">① Cartographer of the Present</text>
+  <text x="323" y="419" font-size="9.5" fill="#555">② Critical Provocateur</text>
+  <text x="323" y="434" font-size="9.5" fill="#555">③ Preferential Futurist (IPLF)</text>
+
+  <!-- Source note -->
+  <text x="430" y="606" text-anchor="middle" font-size="10" fill="#aaa" font-style="italic">Disciplinary positioning adapted from Dunne &amp; Raby (2013), Inayatullah (2008), and Martell (2026).</text>
+
+</svg>

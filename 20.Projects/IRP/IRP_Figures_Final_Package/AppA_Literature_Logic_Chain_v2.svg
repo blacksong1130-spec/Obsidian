@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="700" viewBox="0 0 1080 700" font-family="Georgia, 'Times New Roman', serif">
+
+  <!-- Background -->
+  <rect width="1080" height="700" fill="#f9f8f6"/>
+
+  <!-- Title -->
+  <text x="540" y="34" text-anchor="middle" font-size="17" font-weight="bold" fill="#1a1a1a">Literature Reasoning Chain</text>
+  <text x="540" y="54" text-anchor="middle" font-size="12" fill="#777" font-style="italic">From phenomenon to theoretical grounding to ethical constraint to design output</text>
+  <line x1="40" y1="66" x2="1040" y2="66" stroke="#ddd" stroke-width="1"/>
+
+  <!-- ====================================================================
+       MAIN CHAIN (5 nodes, horizontal)
+  ==================================================================== -->
+
+  <!-- Node positions: cx = 100, 280, 460, 640, 820 / cy = 340 -->
+
+  <!-- Connecting arrows between main nodes -->
+  <defs>
+    <marker id="arrowBlack" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#555"/>
+    </marker>
+  </defs>
+  <line x1="163" y1="340" x2="220" y2="340" stroke="#555" stroke-width="1.8" marker-end="url(#arrowBlack)"/>
+  <line x1="343" y1="340" x2="400" y2="340" stroke="#555" stroke-width="1.8" marker-end="url(#arrowBlack)"/>
+  <line x1="523" y1="340" x2="580" y2="340" stroke="#555" stroke-width="1.8" marker-end="url(#arrowBlack)"/>
+  <line x1="703" y1="340" x2="760" y2="340" stroke="#555" stroke-width="1.8" marker-end="url(#arrowBlack)"/>
+
+  <!-- ── NODE 1: PHENOMENON ── -->
+  <rect x="40" y="295" width="123" height="90" rx="6" fill="#edf2f7" stroke="#4a6fa5" stroke-width="2"/>
+  <text x="102" y="318" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#2c4a7c" letter-spacing="0.5">PHENOMENON</text>
+  <line x1="55" y1="324" x2="148" y2="324" stroke="#4a6fa5" stroke-width="0.5"/>
+  <text x="102" y="340" text-anchor="middle" font-size="10" fill="#333">Phenomenological</text>
+  <text x="102" y="354" text-anchor="middle" font-size="10" fill="#333">Silence of Eating</text>
+  <text x="102" y="371" text-anchor="middle" font-size="9" fill="#666" font-style="italic">Intention–Action Gap</text>
+
+  <!-- ── NODE 2: BEHAVIOURAL THEORY ── -->
+  <rect x="222" y="295" width="123" height="90" rx="6" fill="#e8f4ea" stroke="#27ae60" stroke-width="2"/>
+  <text x="284" y="318" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#1e6e3e" letter-spacing="0.5">BEHAVIOURAL</text>
+  <text x="284" y="330" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#1e6e3e" letter-spacing="0.5">THEORY</text>
+  <line x1="237" y1="336" x2="330" y2="336" stroke="#27ae60" stroke-width="0.5"/>
+  <text x="284" y="350" text-anchor="middle" font-size="10" fill="#333">Fogg B=MAP</text>
+  <text x="284" y="364" text-anchor="middle" font-size="10" fill="#333">Present Bias</text>
+  <text x="284" y="378" text-anchor="middle" font-size="9" fill="#666" font-style="italic">Gulf of Evaluation</text>
+
+  <!-- ── NODE 3: RISK EVIDENCE ── -->
+  <rect x="402" y="295" width="123" height="90" rx="6" fill="#fdf2f2" stroke="#c0392b" stroke-width="2"/>
+  <text x="464" y="318" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#8b0000" letter-spacing="0.5">RISK</text>
+  <text x="464" y="330" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#8b0000" letter-spacing="0.5">EVIDENCE</text>
+  <line x1="417" y1="336" x2="510" y2="336" stroke="#c0392b" stroke-width="0.5"/>
+  <text x="464" y="350" text-anchor="middle" font-size="10" fill="#333">Data Reification</text>
+  <text x="464" y="364" text-anchor="middle" font-size="10" fill="#333">ED risk (clinical)</text>
+  <text x="464" y="378" text-anchor="middle" font-size="9" fill="#666" font-style="italic">3% app retention</text>
+
+  <!-- ── NODE 4: ETHICAL FRAMEWORK ── -->
+  <rect x="582" y="295" width="123" height="90" rx="6" fill="#fdf6e8" stroke="#e67e22" stroke-width="2"/>
+  <text x="644" y="318" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#a04000" letter-spacing="0.5">ETHICAL</text>
+  <text x="644" y="330" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#a04000" letter-spacing="0.5">FRAMEWORK</text>
+  <line x1="597" y1="336" x2="690" y2="336" stroke="#e67e22" stroke-width="0.5"/>
+  <text x="644" y="350" text-anchor="middle" font-size="10" fill="#333">Intuitive Eating</text>
+  <text x="644" y="364" text-anchor="middle" font-size="10" fill="#333">Food Freedom</text>
+  <text x="644" y="378" text-anchor="middle" font-size="9" fill="#666" font-style="italic">REFLECTIVE Framework</text>
+
+  <!-- ── NODE 5: DESIGN OUTPUT ── -->
+  <rect x="762" y="280" width="138" height="120" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="831" y="310" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#fff" letter-spacing="0.5">DESIGN OUTPUT</text>
+  <line x1="777" y1="316" x2="885" y2="316" stroke="#888" stroke-width="0.5"/>
+  <text x="831" y="335" text-anchor="middle" font-size="11" fill="#fff" font-weight="bold">REFLECTIVE</text>
+  <text x="831" y="351" text-anchor="middle" font-size="10" fill="#ccc">Framework (heuristic)</text>
+  <text x="831" y="368" text-anchor="middle" font-size="10" fill="#aaa">+</text>
+  <text x="831" y="384" text-anchor="middle" font-size="11" fill="#ffd280" font-weight="bold">The After Glow</text>
+  <text x="831" y="398" text-anchor="middle" font-size="10" fill="#888" font-style="italic">critical artefact</text>
+
+  <!-- ====================================================================
+       EVIDENCE NODES — hanging below / above main chain
+  ==================================================================== -->
+
+  <!-- Evidence from Node 1 (Phenomenon) — below -->
+  <line x1="102" y1="385" x2="102" y2="418" stroke="#4a6fa5" stroke-width="1" stroke-dasharray="3,2"/>
+  <rect x="36" y="420" width="132" height="56" rx="4" fill="#fff" stroke="#4a6fa5" stroke-width="1"/>
+  <text x="102" y="438" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#2c4a7c">KEY EVIDENCE</text>
+  <text x="102" y="453" text-anchor="middle" font-size="9" fill="#444">Norman (2013): gulf of</text>
+  <text x="102" y="466" text-anchor="middle" font-size="9" fill="#444">evaluation in digestion</text>
+
+  <!-- Evidence from Node 2 (Behavioural) — above -->
+  <line x1="284" y1="295" x2="284" y2="258" stroke="#27ae60" stroke-width="1" stroke-dasharray="3,2"/>
+  <rect x="204" y="196" width="160" height="60" rx="4" fill="#fff" stroke="#27ae60" stroke-width="1"/>
+  <text x="284" y="214" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#1e6e3e">KEY EVIDENCE</text>
+  <text x="284" y="229" text-anchor="middle" font-size="9" fill="#444">Kahneman (2011): System 1</text>
+  <text x="284" y="243" text-anchor="middle" font-size="9" fill="#444">hyperbolic discounting</text>
+
+  <!-- Evidence from Node 3 (Risk) — below -->
+  <line x1="464" y1="385" x2="464" y2="418" stroke="#c0392b" stroke-width="1" stroke-dasharray="3,2"/>
+  <rect x="365" y="420" width="200" height="80" rx="4" fill="#fff" stroke="#c0392b" stroke-width="1"/>
+  <text x="465" y="438" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#8b0000">KEY EVIDENCE</text>
+  <text x="465" y="453" text-anchor="middle" font-size="9" fill="#444">Roth et al. (2024): self-monitoring</text>
+  <text x="465" y="467" text-anchor="middle" font-size="9" fill="#444">↑ ED symptoms (meta-analysis)</text>
+  <text x="465" y="481" text-anchor="middle" font-size="9" fill="#444">Phelan et al. (2020): 73% MFP harm</text>
+  <text x="465" y="495" text-anchor="middle" font-size="9" fill="#444">NHS (2023): 8.5× admissions</text>
+
+  <!-- Evidence from Node 4 (Ethical) — above -->
+  <line x1="644" y1="295" x2="644" y2="258" stroke="#e67e22" stroke-width="1" stroke-dasharray="3,2"/>
+  <rect x="548" y="196" width="192" height="60" rx="4" fill="#fff" stroke="#e67e22" stroke-width="1"/>
+  <text x="644" y="214" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#a04000">KEY EVIDENCE</text>
+  <text x="644" y="229" text-anchor="middle" font-size="9" fill="#444">Linardon (2020): 74% reduction</text>
+  <text x="644" y="243" text-anchor="middle" font-size="9" fill="#444">in binge risk via Intuitive Eating</text>
+
+  <!-- Additional evidence branch from Node 1 — above (Zeevi) -->
+  <line x1="102" y1="295" x2="102" y2="196" stroke="#4a6fa5" stroke-width="1" stroke-dasharray="3,2"/>
+  <rect x="30" y="136" width="145" height="58" rx="4" fill="#fff" stroke="#4a6fa5" stroke-width="1"/>
+  <text x="102" y="154" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#2c4a7c">KEY EVIDENCE</text>
+  <text x="102" y="169" text-anchor="middle" font-size="9" fill="#444">Zeevi et al. (2015): identical</text>
+  <text x="102" y="183" text-anchor="middle" font-size="9" fill="#444">foods → different responses</text>
+
+  <!-- DESIGN PRINCIPLES callout from Node 5 -->
+  <line x1="900" y1="340" x2="950" y2="340" stroke="#888" stroke-width="1" stroke-dasharray="3,2"/>
+  <rect x="952" y="296" width="90" height="96" rx="4" fill="#fff" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="997" y="314" text-anchor="middle" font-size="9" font-weight="bold" fill="#1a1a1a">OUTPUT</text>
+  <text x="997" y="314" text-anchor="middle" font-size="9" font-weight="bold" fill="#1a1a1a"> </text>
+  <text x="997" y="328" text-anchor="middle" font-size="9" fill="#555">Descriptive</text>
+  <text x="997" y="341" text-anchor="middle" font-size="9" fill="#555">not Evaluative</text>
+  <text x="997" y="355" text-anchor="middle" font-size="9" fill="#555">Relative</text>
+  <text x="997" y="368" text-anchor="middle" font-size="9" fill="#555">not Absolute</text>
+  <text x="997" y="382" text-anchor="middle" font-size="9" fill="#555">Closed-Loop</text>
+
+  <!-- ====================================================================
+       BOTTOM: Logic statement
+  ==================================================================== -->
+  <rect x="40" y="572" width="1000" height="60" rx="6" fill="#fff" stroke="#ddd" stroke-width="1"/>
+  <text x="540" y="594" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#1a1a1a">The Argument in One Line</text>
+  <text x="540" y="614" text-anchor="middle" font-size="11" fill="#444">Eating well generates no feedback [1] → cognitive systems fail without feedback [2] → current tools cause harm [3]</text>
+  <text x="540" y="629" text-anchor="middle" font-size="11" fill="#444">→ ethical alternative exists [4] → therefore: design the missing feedback layer with awareness, not surveillance [5]</text>
+
+  <!-- Source note -->
+  <text x="540" y="658" text-anchor="middle" font-size="9.5" fill="#aaa" font-style="italic">Weijie Li · IRP Proposal · Design Futures, RCA · May 2026 · AppA — Literature Reasoning Chain</text>
+
+</svg>

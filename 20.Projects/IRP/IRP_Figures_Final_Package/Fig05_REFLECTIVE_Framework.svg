@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" font-family="Georgia, 'Times New Roman', serif">
+
+  <!-- Background -->
+  <rect width="900" height="560" fill="#fafaf8"/>
+
+  <!-- Title -->
+  <text x="450" y="36" text-anchor="middle" font-size="19" font-weight="bold" fill="#1a1a1a">The REFLECTIVE Framework</text>
+  <text x="450" y="57" text-anchor="middle" font-size="12" fill="#777" font-style="italic">Three evaluable design criteria for non-punitive dietary feedback systems</text>
+  <line x1="60" y1="70" x2="840" y2="70" stroke="#ddd" stroke-width="1"/>
+
+  <!-- ============================================================
+       THREE MAIN CRITERIA — side by side
+  ============================================================ -->
+
+  <!-- CRITERION 1: Descriptive, not Evaluative -->
+  <rect x="60" y="100" width="240" height="300" rx="8" fill="#fff" stroke="#c0392b" stroke-width="2"/>
+  <!-- Red top band -->
+  <rect x="60" y="100" width="240" height="52" rx="8" fill="#c0392b"/>
+  <rect x="60" y="130" width="240" height="22" fill="#c0392b"/>
+  <text x="180" y="132" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">CRITERION 1</text>
+  <text x="180" y="148" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">Descriptive</text>
+  <!-- NOT badge -->
+  <rect x="162" y="156" width="36" height="18" rx="9" fill="#fff"/>
+  <text x="180" y="169" text-anchor="middle" font-size="9" font-weight="bold" fill="#c0392b">NOT</text>
+  <text x="180" y="189" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">Evaluative</text>
+
+  <text x="180" y="218" text-anchor="middle" font-size="11" fill="#555">Feedback must describe what</text>
+  <text x="180" y="233" text-anchor="middle" font-size="11" fill="#555">happened in the body — not</text>
+  <text x="180" y="248" text-anchor="middle" font-size="11" fill="#555">judge whether it was good or bad.</text>
+
+  <!-- Contrast pair -->
+  <rect x="76" y="268" width="208" height="24" rx="4" fill="#fdf2f2"/>
+  <text x="82" y="284" font-size="10" fill="#c0392b">✗ "You scored 3/10 today"</text>
+  <rect x="76" y="298" width="208" height="24" rx="4" fill="#f0fff0"/>
+  <text x="82" y="314" font-size="10" fill="#2a6040">✓ "Warmth: sustained 4 min"</text>
+
+  <!-- Evidence -->
+  <line x1="76" y1="340" x2="284" y2="340" stroke="#eee" stroke-width="1"/>
+  <text x="180" y="357" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">Wallace et al. (2025): reification</text>
+  <text x="180" y="371" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">of data as primary harm mechanism</text>
+  <text x="180" y="389" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">Tribole &amp; Resch (2020): principles</text>
+  <text x="180" y="403" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">1, 4, 7 (no judgement, no scoring)</text>
+
+  <!-- CRITERION 2: Relative, not Absolute -->
+  <rect x="330" y="100" width="240" height="300" rx="8" fill="#fff" stroke="#2471a3" stroke-width="2"/>
+  <rect x="330" y="100" width="240" height="52" rx="8" fill="#2471a3"/>
+  <rect x="330" y="130" width="240" height="22" fill="#2471a3"/>
+  <text x="450" y="132" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">CRITERION 2</text>
+  <text x="450" y="148" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">Relative</text>
+  <rect x="432" y="156" width="36" height="18" rx="9" fill="#fff"/>
+  <text x="450" y="169" text-anchor="middle" font-size="9" font-weight="bold" fill="#2471a3">NOT</text>
+  <text x="450" y="189" text-anchor="middle" font-size="13" font-weight="bold" fill="#2471a3">Absolute</text>
+
+  <text x="450" y="218" text-anchor="middle" font-size="11" fill="#555">Feedback must be anchored to</text>
+  <text x="450" y="233" text-anchor="middle" font-size="11" fill="#555">the individual's own metabolic</text>
+  <text x="450" y="248" text-anchor="middle" font-size="11" fill="#555">baseline — not population averages.</text>
+
+  <rect x="346" y="268" width="208" height="24" rx="4" fill="#fdf2f2"/>
+  <text x="352" y="284" font-size="10" fill="#c0392b">✗ "2000 kcal daily target"</text>
+  <rect x="346" y="298" width="208" height="24" rx="4" fill="#f0fff0"/>
+  <text x="352" y="314" font-size="10" fill="#2a6040">✓ "Lower than your average"</text>
+
+  <line x1="346" y1="340" x2="554" y2="340" stroke="#eee" stroke-width="1"/>
+  <text x="450" y="357" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">Zeevi et al. (2015): identical foods</text>
+  <text x="450" y="371" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">→ dramatically different glycaemic</text>
+  <text x="450" y="385" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">responses across individuals</text>
+  <text x="450" y="403" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">Justifies personalised baseline</text>
+
+  <!-- CRITERION 3: Closed-Loop, not Open-Ended -->
+  <rect x="600" y="100" width="240" height="300" rx="8" fill="#fff" stroke="#27ae60" stroke-width="2"/>
+  <rect x="600" y="100" width="240" height="52" rx="8" fill="#27ae60"/>
+  <rect x="600" y="130" width="240" height="22" fill="#27ae60"/>
+  <text x="720" y="132" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">CRITERION 3</text>
+  <text x="720" y="148" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">Closed-Loop</text>
+  <rect x="702" y="156" width="36" height="18" rx="9" fill="#fff"/>
+  <text x="720" y="169" text-anchor="middle" font-size="9" font-weight="bold" fill="#27ae60">NOT</text>
+  <text x="720" y="189" text-anchor="middle" font-size="13" font-weight="bold" fill="#27ae60">Open-Ended</text>
+
+  <text x="720" y="218" text-anchor="middle" font-size="11" fill="#555">A defined 60-second post-meal</text>
+  <text x="720" y="233" text-anchor="middle" font-size="11" fill="#555">closure event — not perpetual</text>
+  <text x="720" y="248" text-anchor="middle" font-size="11" fill="#555">open monitoring of the body.</text>
+
+  <rect x="616" y="268" width="208" height="24" rx="4" fill="#fdf2f2"/>
+  <text x="622" y="284" font-size="10" fill="#c0392b">✗ 24/7 CGM dashboard open</text>
+  <rect x="616" y="298" width="208" height="24" rx="4" fill="#f0fff0"/>
+  <text x="622" y="314" font-size="10" fill="#2a6040">✓ 60s glow, then it is done</text>
+
+  <line x1="616" y1="340" x2="824" y2="340" stroke="#eee" stroke-width="1"/>
+  <text x="720" y="357" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">Fogg (2009): Prompt must be</text>
+  <text x="720" y="371" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">immediate to function — not delayed</text>
+  <text x="720" y="389" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">Kristeller &amp; Wolever (2011):</text>
+  <text x="720" y="403" text-anchor="middle" font-size="9.5" fill="#888" font-style="italic">MB-EAT time-bounded reflection</text>
+
+  <!-- ============================================================
+       BOTTOM UNIFYING BAR
+  ============================================================ -->
+  <rect x="60" y="424" width="780" height="80" rx="6" fill="#1a1a1a"/>
+  <text x="450" y="450" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">Applying to The After Glow</text>
+  <text x="450" y="470" text-anchor="middle" font-size="11" fill="#ccc">Amber light + warmth (not a score)  ·  Modulated by personal baseline (not population average)  ·  60-second ritual (not perpetual monitoring)</text>
+  <text x="450" y="490" text-anchor="middle" font-size="11" fill="#888">No screen.  No number.  No comparison to yesterday.  The device forgets you when the glow fades.</text>
+
+  <!-- Source note -->
+  <text x="450" y="534" text-anchor="middle" font-size="10" fill="#aaa" font-style="italic">Framework developed in this project. Grounded in: Tribole &amp; Resch (2020); Zeevi et al. (2015); Fogg (2009); Wallace et al. (2025).</text>
+
+</svg>
