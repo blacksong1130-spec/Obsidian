@@ -495,6 +495,62 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 ---
 
+## Appendix B — Signals
+
+*Three signal cards contributed to the RCA Trend Wall during the February–March 2026 workshops, all under the macro-trend cluster: **Technology-Mediated Preventive Health**.*
+
+---
+
+### Signal Card 1 — The OTC CGM Inflection Point
+**Trend cluster:** Technology / Preventive Health
+**Signal:** The June 2024 FDA OTC clearance of Abbott Lingo — the first continuous glucose monitor approved for non-diabetic consumer use — marks a paradigm shift. Previously confined to clinical settings, real-time metabolic tracking is now entering the mass consumer wellness market.
+**Data:** Global OTC CGM market reached US$370.7M in 2024; non-diabetic users represent 41.46% of all CGM users; market projected to reach US$1.77B by 2034 (Precedence Research, 2025). The Zeevi et al. (2015) bioindividuality study (800 participants, 46,898 meals) provides the scientific justification: identical foods produce dramatically different glycaemic responses across individuals, invalidating generic dietary guidelines.
+**Design implication:** The hardware for personalised post-meal feedback now exists. The urgent gap is the *human-centred design language* to prevent this technology from generating new forms of data anxiety and orthorexia before engineering-led paradigms dominate.
+**Source:** Abbott Newsroom (2024); Precedence Research (2025); Zeevi et al. (2015).
+
+---
+
+### Signal Card 2 — Intuitive Eating and the Anti-Diet Movement
+**Trend cluster:** Society / Health / Culture
+**Signal:** Intuitive Eating — a clinical and cultural framework for restoring internal body attunement — is transitioning from specialist eating disorder treatment into mainstream wellness discourse. Its core principle (trust internal hunger/fullness signals over external dietary rules) directly challenges the dominant paradigm of calorie-counting and macro-tracking apps.
+**Data:** High baseline Intuitive Eating scores correlate with a 74% reduction in binge eating risk over 8 years (Linardon, 2020). NHS eating disorder hospital admissions increased 8.5× from 2013/14 to 2020/21 (NHS England, 2023). 73% of MyFitnessPal users with eating disorders report the app contributed to their condition (Phelan et al., 2020).
+**Design implication:** A culturally significant counter-movement exists and is growing. Dietary feedback design must not merely add Intuitive Eating as a feature — it must be structurally built on its principles. The REFLECTIVE Framework in this project operationalises this.
+**Source:** Linardon (2020); Tribole and Resch (2020); NHS England (2023); Phelan et al. (2020).
+
+---
+
+### Signal Card 3 — Social Rituals as Non-Technological Feedback
+**Trend cluster:** Human / Culture / Behaviour
+**Signal:** Cross-cultural evidence demonstrates that effective dietary feedback already operates through social, ritual, and environmental channels — without technology. These counter-models challenge the assumption that closing the dietary feedback loop requires individual biometric monitoring.
+**Examples:**
+- *Japanese Hara Hachi Bu and Itadakimasu*: Pre-meal gratitude ritual creates an embodied transition of attention; cultural norm of eating to 80% fullness achieves non-punitive body attunement without technology (Rozin et al., 1999).
+- *French paradoxe culinaire*: Pleasure-oriented, socially embedded, slow eating sustains dietary behaviour through experiential quality rather than nutritional surveillance (Fischler, 1988).
+- *Krukow × COOP Denmark*: Meso-scale behavioural design in retail environments achieves measurable dietary behaviour change through environmental nudge architecture alone, bypassing individual biometric monitoring.
+**Design implication:** The preferred future (Scenario 3) is culturally credible precisely because non-technological analogues already demonstrate its core mechanism. Design can learn from, not replace, these rituals.
+**Source:** Rozin et al. (1999); Fischler (1988); Lupton (1996); Krukow (no date).
+
+---
+
+## Appendix C — Ethics Checklist
+
+*→ 【你需要做】在此处粘贴 Ethics Checklist 表单的实际答案（Google Form 提交后会发到你邮箱，复制内容粘贴即可）。*
+
+**Ethics Checklist Status:** Submitted to supervising tutor. Risk classification: **Low risk.** No primary research involving human participants has commenced prior to submission of this proposal; all data collection will begin in Term 3 following ethics approval confirmation.
+
+**Five governing ethical principles:**
+
+**1. ED Risk and Participant Safety:** All phases will implement explicit ED safeguards. Phase 0 and Phase 1 interviews will use the Eating Attitudes Test (EAT-26) as a pre-screening tool. Any participant scoring above the clinical threshold will be referred to RCA wellbeing services and excluded from participation. All interview questions are phenomenologically framed to avoid triggering disordered cognition. Participants will receive written debriefing with RCA wellbeing resource details.
+
+**2. Biometric Data Privacy:** Any metabolic data generated during the autoethnographic diary study (researcher's own) is entirely self-generated and not shared. If participants choose to reference their own CGM data, this constitutes sensitive health data: it will be anonymised, stored only on encrypted local drives, and destroyed after thematic analysis. No participant biometric data will be uploaded to cloud services.
+
+**3. Informed Consent and Withdrawal:** Participation at all phases is voluntary, with the right to withdraw at any point without consequence. Written informed consent forms will be used for all recorded sessions. Participants will be informed of how their words may be quoted (anonymised) in the final IRP Report.
+
+**4. Independence from Commercial Interests:** This research deliberately excludes funding from or partnership with food industry corporations, health insurance companies, or CGM manufacturers. This independence is essential to maintaining the critical design stance.
+
+**5. WEIRD Bias Mitigation:** Following Agapie's (2024) critique that 61.1% of HCI behaviour change studies focus exclusively on Western contexts, this research will actively recruit beyond the default RCA student demographic. Phase 0 and Phase 1 interviews will seek a minimum of two participants from non-Western cultural backgrounds, and cross-cultural food attitudes (Rozin et al., 1999; Fischler, 1988; Lupton, 1996) will be explicitly integrated into thematic analysis.
+
+---
+
 ## Appendix E — 2035 Scenario Narratives: Day in the Life *(Supplementary)*
 
 *Full narrative expansions of the three scenarios summarised in Section 4, including failure modes.*
@@ -846,26 +902,6 @@ These photos will be brought to your final session with me. We will look at them
 
 ---
 
-## Appendix C — Ethics Checklist
-
-*→ 【你需要做】在此处粘贴 Ethics Checklist 表单的实际答案（Google Form 提交后会发到你邮箱，复制内容粘贴即可）。*
-
-**Ethics Checklist Status:** Submitted to supervising tutor. Risk classification: **Low risk.** No primary research involving human participants has commenced prior to submission of this proposal; all data collection will begin in Term 3 following ethics approval confirmation.
-
-**Five governing ethical principles:**
-
-**1. ED Risk and Participant Safety:** All phases will implement explicit ED safeguards. Phase 0 and Phase 1 interviews will use the Eating Attitudes Test (EAT-26) as a pre-screening tool. Any participant scoring above the clinical threshold will be referred to RCA wellbeing services and excluded from participation. All interview questions are phenomenologically framed to avoid triggering disordered cognition. Participants will receive written debriefing with RCA wellbeing resource details.
-
-**2. Biometric Data Privacy:** Any metabolic data generated during the autoethnographic diary study (researcher's own) is entirely self-generated and not shared. If participants choose to reference their own CGM data, this constitutes sensitive health data: it will be anonymised, stored only on encrypted local drives, and destroyed after thematic analysis. No participant biometric data will be uploaded to cloud services.
-
-**3. Informed Consent and Withdrawal:** Participation at all phases is voluntary, with the right to withdraw at any point without consequence. Written informed consent forms will be used for all recorded sessions. Participants will be informed of how their words may be quoted (anonymised) in the final IRP Report.
-
-**4. Independence from Commercial Interests:** This research deliberately excludes funding from or partnership with food industry corporations, health insurance companies, or CGM manufacturers. This independence is essential to maintaining the critical design stance.
-
-**5. WEIRD Bias Mitigation:** Following Agapie's (2024) critique that 61.1% of HCI behaviour change studies focus exclusively on Western contexts, this research will actively recruit beyond the default RCA student demographic. Phase 0 and Phase 1 interviews will seek a minimum of two participants from non-Western cultural backgrounds, and cross-cultural food attitudes (Rozin et al., 1999; Fischler, 1988; Lupton, 1996) will be explicitly integrated into thematic analysis.
-
----
-
 ## Appendix F — The After Glow: Critical Design Specifications *(Supplementary)*
 
 **Object description:** A handcrafted disc (approx. 80mm diameter, 12mm depth) made from unfired, porous clay. It contains a wearable-linked biosensor and an amber LED element with a small thermal actuator. There is no screen, no score, no number. It is activated by holding in both hands for 60 seconds after a meal.
@@ -931,44 +967,6 @@ These photos will be brought to your final session with me. We will look at them
 *Figure G5 — The ten Intuitive Eating principles (Tribole and Resch, 2020) mapped as design constraints. Each principle identifies a corresponding design implication for the REFLECTIVE Framework.*
 
 *→ 【你需要做】确认此图片清晰可读。如为手写草图，建议重绘为两列表格（Principle | Design Implication）。*
-
----
-
----
-
-## Appendix B — Signals
-
-*Three signal cards contributed to the RCA Trend Wall during the February–March 2026 workshops, all under the macro-trend cluster: **Technology-Mediated Preventive Health**.*
-
----
-
-### Signal Card 1 — The OTC CGM Inflection Point
-**Trend cluster:** Technology / Preventive Health
-**Signal:** The June 2024 FDA OTC clearance of Abbott Lingo — the first continuous glucose monitor approved for non-diabetic consumer use — marks a paradigm shift. Previously confined to clinical settings, real-time metabolic tracking is now entering the mass consumer wellness market.
-**Data:** Global OTC CGM market reached US$370.7M in 2024; non-diabetic users represent 41.46% of all CGM users; market projected to reach US$1.77B by 2034 (Precedence Research, 2025). The Zeevi et al. (2015) bioindividuality study (800 participants, 46,898 meals) provides the scientific justification: identical foods produce dramatically different glycaemic responses across individuals, invalidating generic dietary guidelines.
-**Design implication:** The hardware for personalised post-meal feedback now exists. The urgent gap is the *human-centred design language* to prevent this technology from generating new forms of data anxiety and orthorexia before engineering-led paradigms dominate.
-**Source:** Abbott Newsroom (2024); Precedence Research (2025); Zeevi et al. (2015).
-
----
-
-### Signal Card 2 — Intuitive Eating and the Anti-Diet Movement
-**Trend cluster:** Society / Health / Culture
-**Signal:** Intuitive Eating — a clinical and cultural framework for restoring internal body attunement — is transitioning from specialist eating disorder treatment into mainstream wellness discourse. Its core principle (trust internal hunger/fullness signals over external dietary rules) directly challenges the dominant paradigm of calorie-counting and macro-tracking apps.
-**Data:** High baseline Intuitive Eating scores correlate with a 74% reduction in binge eating risk over 8 years (Linardon, 2020). NHS eating disorder hospital admissions increased 8.5× from 2013/14 to 2020/21 (NHS England, 2023). 73% of MyFitnessPal users with eating disorders report the app contributed to their condition (Phelan et al., 2020).
-**Design implication:** A culturally significant counter-movement exists and is growing. Dietary feedback design must not merely add Intuitive Eating as a feature — it must be structurally built on its principles. The REFLECTIVE Framework in this project operationalises this.
-**Source:** Linardon (2020); Tribole and Resch (2020); NHS England (2023); Phelan et al. (2020).
-
----
-
-### Signal Card 3 — Social Rituals as Non-Technological Feedback
-**Trend cluster:** Human / Culture / Behaviour
-**Signal:** Cross-cultural evidence demonstrates that effective dietary feedback already operates through social, ritual, and environmental channels — without technology. These counter-models challenge the assumption that closing the dietary feedback loop requires individual biometric monitoring.
-**Examples:**
-- *Japanese Hara Hachi Bu and Itadakimasu*: Pre-meal gratitude ritual creates an embodied transition of attention; cultural norm of eating to 80% fullness achieves non-punitive body attunement without technology (Rozin et al., 1999).
-- *French paradoxe culinaire*: Pleasure-oriented, socially embedded, slow eating sustains dietary behaviour through experiential quality rather than nutritional surveillance (Fischler, 1988).
-- *Krukow × COOP Denmark*: Meso-scale behavioural design in retail environments achieves measurable dietary behaviour change through environmental nudge architecture alone, bypassing individual biometric monitoring.
-**Design implication:** The preferred future (Scenario 3) is culturally credible precisely because non-technological analogues already demonstrate its core mechanism. Design can learn from, not replace, these rituals.
-**Source:** Rozin et al. (1999); Fischler (1988); Lupton (1996); Krukow (no date).
 
 ---
 
