@@ -338,13 +338,13 @@ This research has been designed to comply with RCA ethics requirements. An ethic
 
 Five stakeholder groups actively shape this landscape, each with competing interests:
 
-| Stakeholder | Role | Tension |
-|-------------|------|---------|
-| **ED specialists / mental health practitioners** | Ethical safeguards; harm-prevention authority | May veto tools that lack clinical evidence |
-| **CGM manufacturers (Abbott, Dexcom)** | Hardware infrastructure | Engineering culture vs. human-centred design |
-| **Regulatory bodies (FDA, MHRA)** | Define legal health claims | Navigating OTC CGM precedent; emerging territory |
-| **Venture capitalists** | Scaling capital | ROI focus conflicts with non-addictive design |
-| **Big Food / food industry** | Market power | Financial incentive to co-opt "anti-diet" messaging for profit |
+| Stakeholder                                      | Role                                          | Tension                                                        |
+| ------------------------------------------------ | --------------------------------------------- | -------------------------------------------------------------- |
+| **ED specialists / mental health practitioners** | Ethical safeguards; harm-prevention authority | May veto tools that lack clinical evidence                     |
+| **CGM manufacturers (Abbott, Dexcom)**           | Hardware infrastructure                       | Engineering culture vs. human-centred design                   |
+| **Regulatory bodies (FDA, MHRA)**                | Define legal health claims                    | Navigating OTC CGM precedent; emerging territory               |
+| **Venture capitalists**                          | Scaling capital                               | ROI focus conflicts with non-addictive design                  |
+| **Big Food / food industry**                     | Market power                                  | Financial incentive to co-opt "anti-diet" messaging for profit |
 
 ## Pathways to Impact
 
@@ -823,15 +823,15 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 The following infographics provide a visual summary of each primary method's process flow, generated from the project's source materials. Full protocols are in the sections below.
 
-| Method | Visual Guide |
-|--------|-------------|
-| **[M1] Sensitizing Probe Kit** | ![[Workshop_M1_Probe_Kit.png\|380]] |
-| **[M2] Photo Elicitation** | ![[Workshop_M2_Photo_Elicitation.png\|380]] |
-| **[M3] Contextual Inquiry** | ![[Workshop_M3_Contextual_Inquiry.png\|380]] |
-| **[M4] Ecological Momentary Assessment** | ![[Workshop_M4_EMA.png\|380]] |
-| **[M5] Mindful Construal Diary** | ![[Workshop_M5_Mindful_Diary.png\|380]] |
-| **[M6] Body Mapping Warm-up** | ![[Workshop_M6_Body_Mapping.png\|380]] |
-| **[M7] Anti-Heroes Ethical Role-Play** | ![[Workshop_M7_Anti_Heroes.png\|380]] |
+| Method                                   | Visual Guide                                 |
+| ---------------------------------------- | -------------------------------------------- |
+| **[M1] Sensitizing Probe Kit**           | ![[Workshop_M1_Probe_Kit.png\|380]]          |
+| **[M2] Photo Elicitation**               | ![[Workshop_M2_Photo_Elicitation.png\|380]]  |
+| **[M3] Contextual Inquiry**              | ![[Workshop_M3_Contextual_Inquiry.png\|380]] |
+| **[M4] Ecological Momentary Assessment** | ![[Workshop_M4_EMA.png\|380]]                |
+| **[M5] Mindful Construal Diary**         | ![[Workshop_M5_Mindful_Diary.png\|380]]      |
+| **[M6] Body Mapping Warm-up**            | ![[Workshop_M6_Body_Mapping.png\|380]]       |
+| **[M7] Anti-Heroes Ethical Role-Play**   | ![[Workshop_M7_Anti_Heroes.png\|380]]        |
 
 ---
 
