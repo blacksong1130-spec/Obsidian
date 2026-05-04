@@ -15,14 +15,14 @@ source: NotebookLM (180 sources, including 69 web sources 2024-2026)
 
 ## 🔴 批评原文 / Original Tutor Quotes
 
-| 老师 | 原话 |
-|------|------|
-| Tutor 3 | *"It's almost too focused. Like it's missing the context... the bigger context."* |
+| 老师      | 原话                                                                                                                                     |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Tutor 3 | *"It's almost too focused. Like it's missing the context... the bigger context."*                                                      |
 | Tutor 3 | *"I understand Medicine 3.0, but actually what is Medicine 2.0? Where is it coming in? What are the trends? What's the time horizon?"* |
-| Tutor 2 | *"Maybe try to look into some research which talks about the importance of data before and after food..."* |
-| Tutor 3 | *"There is a whole bunch of other stakeholders, not just the users. Who else is involved?"* |
-| Tutor 2 | *"You could pick one and start to test assumptions. After I interview — you have proved it."* |
-| Tutor | *"Depends what kind of app you're referring to. Is it about health monitoring app or is it about awareness app?"* |
+| Tutor 2 | *"Maybe try to look into some research which talks about the importance of data before and after food..."*                             |
+| Tutor 3 | *"There is a whole bunch of other stakeholders, not just the users. Who else is involved?"*                                            |
+| Tutor 2 | *"You could pick one and start to test assumptions. After I interview — you have proved it."*                                          |
+| Tutor   | *"Depends what kind of app you're referring to. Is it about health monitoring app or is it about awareness app?"*                      |
 
 **专家评估（Expert Assessment）直接批评：**
 - *"推测性工作完全缺席"*（Speculative work is completely absent）
