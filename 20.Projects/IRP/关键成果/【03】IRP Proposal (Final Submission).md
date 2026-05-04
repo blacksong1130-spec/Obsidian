@@ -84,6 +84,14 @@ This project investigates the design gap between what we know about dietary beha
 
 A design futures approach is appropriate here because this is not simply a product design problem. It is a question about the kind of relationship we want technology to have with the most intimate act of daily life. Using speculative and critical design tools (Dunne and Raby, 2013), this project interrogates the assumptions embedded in current health technology and prototypes radically different futures for dietary feedback.
 
+## The Design Window: Why the Pain Point Is Real and Why This Is a Futures Project
+
+Two challenges are worth addressing directly.
+
+**Is the phenomenological silence genuinely a design problem?** While metabolic silence after eating is biologically normal, it constitutes a catastrophic design failure in the context of behaviour change. Norman's (2013) *gulf of evaluation* — the cognitive gap created when users cannot perceive whether their actions are producing any effect — explains precisely why 97% of users abandon dietary tracking by Day 30. Without an immediate, emotionally resonant signal reinforcing the choice to eat well, Kahneman's (2011) fast-thinking 'System 1' brain defaults to instant gratification and motivation collapses. The body's silence is not itself the problem; the absence of any designed bridge across that silence is. Worse, the market's current attempt to bridge the gap — calorie dashboards, quantified scores, punitive red-green interfaces — actively compounds the harm. Wallace et al. (2025) term this the *reification of data*: the process by which numerical tracking supplants direct sensory experience, producing obsessive monitoring and clinical eating disorder risk. The phenomenological silence is a genuine, empirically documented pain point. The existing solutions are making it worse at scale.
+
+**Why is this a futures project rather than a present-design problem?** The hardware required for truly frictionless, non-invasive metabolic feedback remains three to seven years away from consumer scale (Precedence Research, 2025). The June 2024 FDA over-the-counter clearance of the Abbott Lingo represents not an arrival but an inflection point: the paradigm is actively shifting from clinical to consumer, while the interaction vocabulary of that new category is still unwritten. This creates a precisely bounded design window. If non-punitive design principles are not established before engineering-led companies scale their dashboard paradigms into a projected $31.38 billion market, the punitive surveillance-based model will undergo what design historians term *paradigm lock-in* — the phenomenon by which the early interaction model of a nascent technology, once commercially scaled, becomes an irreversible standard. Early domestic computers inherited the efficiency paradigm of the office (Gaver, 2002); early smart-home devices permanently locked in the 'sense-and-extract' surveillance model (Pierce, DIS 2025). This project uses 2035 backcasting to define the REFLECTIVE Framework — Descriptive, Relative, Closed-Loop, Sensation-First, Optional — before that window closes.
+
 ---
 
 <div style="page-break-before: always;"></div>
@@ -808,6 +816,22 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 ### D5 — Integrated 7-Method Research Design
 
 *How the seven primary research methods connect, inform each other, and collectively address the research question.*
+
+---
+
+#### Visual Overview — Method Process Maps
+
+The following infographics provide a visual summary of each primary method's process flow, generated from the project's source materials. Full protocols are in the sections below.
+
+| Method | Visual Guide |
+|--------|-------------|
+| **[M1] Sensitizing Probe Kit** | ![[Workshop_M1_Probe_Kit.png\|380]] |
+| **[M2] Photo Elicitation** | ![[Workshop_M2_Photo_Elicitation.png\|380]] |
+| **[M3] Contextual Inquiry** | ![[Workshop_M3_Contextual_Inquiry.png\|380]] |
+| **[M4] Ecological Momentary Assessment** | ![[Workshop_M4_EMA.png\|380]] |
+| **[M5] Mindful Construal Diary** | ![[Workshop_M5_Mindful_Diary.png\|380]] |
+| **[M6] Body Mapping Warm-up** | ![[Workshop_M6_Body_Mapping.png\|380]] |
+| **[M7] Anti-Heroes Ethical Role-Play** | ![[Workshop_M7_Anti_Heroes.png\|380]] |
 
 ---
 
