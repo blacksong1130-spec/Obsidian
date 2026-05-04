@@ -5,9 +5,9 @@ tags:
   - behavioural-design
   - food-futures
   - RCA-GID
-date: 2026-05-03
-version: v14-AppendixB-Complete
-word_count_mainbody: "~3600 words (Sections 1–9, excl. references)"
+date: 2026-05-04
+version: v15-Polished-BriefAligned
+word_count_mainbody: "~3000 words (Sections 1–9, excl. references)"
 ---
 
 # Why Eating Well Feels Like Nothing:
@@ -24,7 +24,6 @@ Design Futures | Royal College of Art
 | # | Section |
 |---|---------|
 | — | Statement of Authorship & AI Disclosure |
-| — | Executive Summary |
 | **1** | Introduction and Justification of the Topic |
 | **2** | Background: Literature, Practice, Signals and Trends |
 | **3** | Problem Framing |
@@ -35,14 +34,13 @@ Design Futures | Royal College of Art
 | **8** | Personal Objectives |
 | **9** | Project Plan |
 | — | Reference List |
-| **App. A** | Futures Context: Futures Triangle & Futures Wheel |
-| **App. B** | Annotated Literature and Practice Review (Full) |
-| **App. C** | 2035 Scenario Narratives: Day in the Life |
-| **App. D** | Research Protocols (Phase 0–5) |
-| **App. E** | Ethical Framework & RCA Ethics Checklist |
-| **App. F** | The After Glow — Critical Design Specifications |
-| **App. G** | Data Visualisations |
-| **App. H** | Trend Wall Signals (required Appendix B per IRP template) |
+| **App. A** | Annotated Literature and Practice Review *(required)* |
+| **App. B** | Signals / Trend Wall *(required)* |
+| **App. C** | Ethics Checklist *(required)* |
+| **App. D** | Research Protocols — Phases 0–5 *(supplementary)* |
+| **App. E** | 2035 Scenario Narratives *(supplementary)* |
+| **App. F** | The After Glow — Critical Design Specifications *(supplementary)* |
+| **App. G** | Data Visualisations *(supplementary)* |
 
 ---
 
@@ -68,29 +66,13 @@ This submission was produced by me in my own words and using my own imagery, exc
 
 # 1. Introduction and Justification of the Topic
 
-![[Strategic_Logic_Chain.svg|610]]
+I am interested in the future of preventive health behaviour — specifically, the future of **dietary feedback design** for individuals striving to improve their nutrition. This is an urgent societal challenge because, unlike physical exercise or sleep, the benefits of good nutrition are almost entirely invisible on a human timescale. A week of rigorous dietary adherence generates no immediate physiological signal, no intuitive score, and no perceivable sense of progress. This phenomenon is not fundamentally a motivational deficit; rather, it represents a profound structural feedback problem. I term this the *phenomenological silence* of eating well.
 
-*Figure 0 — Strategic Logic Chain: the deductive narrative path from feedback gap to speculative intervention.*
+This silence creates a critical intention-action gap. Human decision-making is heavily influenced by present bias (Kahneman, 2011), meaning individuals inevitably struggle to sustain behaviours that lack immediate, tangible rewards. The dominant digital interventions — MyFitnessPal, Noom, and analogous manual-logging tools — demand significant cognitive effort while delivering only delayed, emotionally detached numerical summaries. The consequence is catastrophic: health and fitness apps retain only 3–4% of users by Day 30 (Business of Apps, 2024). This failure is not merely inconvenient; it is causing demonstrable clinical harm. Punitive tracking paradigms have been shown to exacerbate eating disorder risk: 73% of MyFitnessPal users with an eating disorder report that the app contributed to their condition (Phelan et al., 2020), and NHS hospital admissions for eating disorders rose 8.5-fold between 2013/14 and 2020/21 (NHS England, 2023). Wallace et al. (2025) identify the mechanism as the *reification of data* — the progressive replacement of direct bodily experience with quantified metrics — a phenomenon that current tool design systematically reproduces.
 
-I am interested in the future of preventive health behaviour — and specifically, the future of **dietary feedback design** in the context of people who want to eat better but cannot feel whether they are doing so. Unlike exercise or sleep, the benefits of good nutrition are almost entirely invisible on a human timescale: a week of eating well generates no signal, no score, no perceivable progress. This is not a motivation problem — it is a **feedback problem**.
+A design futures approach is essential here, and the timing is critical. The June 2024 FDA over-the-counter clearance of the Abbott Lingo continuous glucose monitor represents not an arrival but an inflection point: real-time metabolic tracking is crossing from clinical tool to consumer product, while the human-centred design language to accompany it does not yet exist. If non-punitive interaction principles are not established in this window, engineering-led paradigms will calcify into the permanent vocabulary of the field — a phenomenon design historians term *paradigm lock-in* (Gaver, 2002). There is a three-to-five-year opportunity to define these principles before they become irreversible.
 
-*Exercise has been transformed by design.* Strava turns a morning run into a social performance: segments, kudos, leaderboards, personal records. Oura Ring makes sleep legible: a nightly score distils hours of invisible biology into a single, recoverable number. These tools work because they close the feedback loop — they translate invisible physiological processes into immediate, emotionally resonant signals (Norman, 2013).
-
-*Dietary behaviour, by contrast, remains a design desert.* The dominant tool — MyFitnessPal, launched in 2005 — asks users to manually log every meal into a calorie database. Its interface has barely evolved in two decades. There is no metabolic signal, no wellbeing score, no social ritual around eating well. The consequence is predictable: most users abandon food tracking within weeks (Schembre et al., 2018). The Fogg Behaviour Model clarifies why: motivation alone is insufficient without ability and prompt — and current dietary tools fail on both (Fogg, 2009). Health and fitness apps retain only 3–4% of users by Day 30 (Business of Apps, 2024), a figure that has not meaningfully improved despite a US$25 billion annual investment in digital health (Precedence Research, 2025).
-
-This failure is not merely inconvenient — it is causing clinical harm. Punitive tracking paradigms are actively exacerbating eating disorders: 73% of MyFitnessPal users with an eating disorder report that the app contributed to their condition (Phelan et al., 2020). NHS hospital admissions for eating disorders have risen from 2,868 in 2013/14 to 24,300 in 2020/21 (NHS England, 2023). Simultaneously, the June 2024 FDA over-the-counter clearance of the Abbott Lingo continuous glucose monitor marks a critical paradigm shift — transitioning clinical metabolic tracking into the mainstream consumer wellness market and demanding a new, human-centred design language before engineering-led paradigms dominate (Abbott Newsroom, 2024).
-
-This project investigates the design gap between what we know about dietary behaviour change and what existing tools actually deliver. It asks: what would it take for eating well to feel as meaningful, legible, and rewarding as completing a run? And it adds a critical ethical constraint: any feedback system must not only improve health metrics but must also preserve food joy, prevent disordered eating, and support **Food Freedom** — the right to make informed choices about eating without guilt or compulsion (Tribole and Resch, 2020).
-
-A design futures approach is appropriate here because this is not simply a product design problem. It is a question about the kind of relationship we want technology to have with the most intimate act of daily life. Using speculative and critical design tools (Dunne and Raby, 2013), this project interrogates the assumptions embedded in current health technology and prototypes radically different futures for dietary feedback.
-
-## The Design Window: Why the Pain Point Is Real and Why This Is a Futures Project
-
-Two challenges are worth addressing directly.
-
-**Is the phenomenological silence genuinely a design problem?** While metabolic silence after eating is biologically normal, it constitutes a catastrophic design failure in the context of behaviour change. Norman's (2013) *gulf of evaluation* — the cognitive gap created when users cannot perceive whether their actions are producing any effect — explains precisely why 97% of users abandon dietary tracking by Day 30. Without an immediate, emotionally resonant signal reinforcing the choice to eat well, Kahneman's (2011) fast-thinking 'System 1' brain defaults to instant gratification and motivation collapses. The body's silence is not itself the problem; the absence of any designed bridge across that silence is. Worse, the market's current attempt to bridge the gap — calorie dashboards, quantified scores, punitive red-green interfaces — actively compounds the harm. Wallace et al. (2025) term this the *reification of data*: the process by which numerical tracking supplants direct sensory experience, producing obsessive monitoring and clinical eating disorder risk. The phenomenological silence is a genuine, empirically documented pain point. The existing solutions are making it worse at scale.
-
-**Why is this a futures project rather than a present-design problem?** The hardware required for truly frictionless, non-invasive metabolic feedback remains three to seven years away from consumer scale (Precedence Research, 2025). The June 2024 FDA over-the-counter clearance of the Abbott Lingo represents not an arrival but an inflection point: the paradigm is actively shifting from clinical to consumer, while the interaction vocabulary of that new category is still unwritten. This creates a precisely bounded design window. If non-punitive design principles are not established before engineering-led companies scale their dashboard paradigms into a projected $31.38 billion market, the punitive surveillance-based model will undergo what design historians term *paradigm lock-in* — the phenomenon by which the early interaction model of a nascent technology, once commercially scaled, becomes an irreversible standard. Early domestic computers inherited the efficiency paradigm of the office (Gaver, 2002); early smart-home devices permanently locked in the 'sense-and-extract' surveillance model (Pierce, DIS 2025). This project uses 2035 backcasting to define the REFLECTIVE Framework — Descriptive, Relative, Closed-Loop, Sensation-First, Optional — before that window closes.
+This project investigates that design gap. It asks how eating well might be made as legible and emotionally resonant as completing a run — and adds a critical ethical constraint: any feedback system must preserve food joy, prevent disordered eating, and actively support *Food Freedom*, the right to make informed choices about eating without guilt or compulsion (Tribole and Resch, 2020). By combining speculative and critical design tools (Dunne and Raby, 2013) with empirical primary research, this project prototypes radically different futures for dietary feedback and argues that the time to define them is now.
 
 ---
 
@@ -102,59 +84,32 @@ Two challenges are worth addressing directly.
 
 1. Why does dietary behaviour produce so little immediate, legible feedback compared to exercise and sleep, and what are the design, behavioural, and physiological reasons for this gap?
 2. What existing tools and approaches have attempted to address dietary feedback, and why do they fail to achieve sustained engagement?
-3. What is the relationship between dietary feedback design and the risk of disordered eating, and how can feedback systems be designed to support food freedom?
-4. What signals and speculative possibilities exist for alternative dietary feedback paradigms that are immediate, holistic, and emotionally resonant without being punitive?
+3. What is the relationship between dietary feedback design and the risk of disordered eating, and how can feedback systems be designed to support Food Freedom?
+4. What signals and speculative possibilities exist for alternative dietary feedback paradigms that are immediate, embodied, and emotionally resonant without being punitive?
 
 ## 2b. Research Process
 
-Research was conducted across three phases: (1) a systematic literature review drawing on Google Scholar, PubMed, and design databases; (2) a practice review covering existing apps, wearables, and critical design projects; (3) a signals-and-trends mapping exercise using the four-lens framework (Human / Society / Technology / Nature) and Futures Triangle methodology. See **Appendix A** for the Futures Triangle and Futures Wheel analyses, and **Appendix B** for full annotated literature and practice entries.
+Research was conducted across three phases: (1) a systematic literature review drawing on Google Scholar, PubMed, and design databases, producing a minimum of 20 literature sources and 20 practice projects; (2) a critical practice review auditing existing apps, wearables, and speculative design installations; and (3) signals-and-trends mapping using the four-lens framework (Human / Society / Technology / Nature) and the Futures Triangle methodology. The resulting annotated review is in **Appendix A**; signals contributed to the RCA trend wall are in **Appendix B**.
 
-The literature and practice review was organised visually as a knowledge chain, tracing deductive paths from research questions through theory, empirical evidence, and design precedent. This visual structure — reproduced in the citation genealogy diagram in Appendix B — traces the intellectual lineage from Schembre (2018) → Fogg (2009) → Kahneman (2011) → Norman (2013) → Roth (2024) → Tribole and Resch (2020) → Dunne and Raby (2013), showing how each source generates the next research question. The review drew on a minimum of 20 literature sources and 20 practice-based projects across academic papers, trend reports, design installations, and commercial products.
+## 2c. Research Summary
 
-![[01 — Futures Triangle.png|900]]
-*Figure 1 — Futures Triangle: mapping the push of trends, pull of the preferred future, and weight of current paradigms in dietary feedback design.*
+The current systemic failure of dietary tracking tools must be understood at the intersection of behavioural science and human-computer interaction. Fogg's (2009) Behaviour Model establishes that target behaviours occur only when Motivation, Ability, and Prompt converge simultaneously. Applied to dietary apps, the model reveals a structural collapse: manual food logging imposes prohibitive cognitive friction (low Ability), while delayed numerical totals function as exceptionally weak Prompts. Motivation consequently degrades. This is further illuminated by Norman's (2013) concept of the *gulf of evaluation*: because the metabolic benefits of nutrition manifest at a cellular timescale over weeks, users cannot perceive the effects of eating well. The phenomenological silence of digestion traps users in hyperbolic discounting (Kahneman, 2011), where fast-thinking System 1 inevitably prioritises immediate sensory reward over invisible long-term health.
 
-## 2b(i). Trend Wall Signals
+Critically, the market's attempt to bridge this gulf has caused demonstrable clinical harm. Wallace et al. (2025) identify *reification of data* — the progressive displacement of direct bodily experience by quantified metrics — as the primary mechanism by which tracking apps induce obsessive monitoring and eating disorder risk. This is evidenced by platforms such as Noom and consumer-facing Continuous Glucose Monitors (CGMs) like Levels Health, which deploy evaluative dashboards that judge rather than reflect, actively exacerbating orthorexic tendencies. Roth et al. (2024) confirm the association through meta-analysis: intensive dietary self-monitoring is significantly correlated with elevated eating disorder symptoms across non-clinical populations.
 
-Three signals were contributed to the RCA trend wall during the February–March 2026 workshops, all belonging to the macro-trend of **Technology-Mediated Preventive Health**:
+Conversely, Tribole and Resch's (2020) framework of Intuitive Eating provides both an ethical constraint and a design counter-model: it cultivates interoceptive attunement through ten clinically validated principles, rejecting external dietary rules in favour of internal hunger and satiety cues. Linardon's (2020) meta-analysis quantifies its protective effect — a one-point increase in Intuitive Eating score correlates with a 74% reduction in binge-eating risk over eight years — establishing awareness-first design as empirically superior to metric-based tracking for high-risk users.
 
-**Signal 1 — OTC CGM Market Expansion.** The June 2024 FDA clearance of Abbott Lingo as the first over-the-counter CGM marks the moment when continuous metabolic tracking crossed from clinical device to consumer wellness product. The global OTC CGM market reached US$370.7M in 2024, with non-diabetic users representing 41.46% of uptake (Precedence Research, 2025). This signal indicates that the infrastructure for real-time biological dietary feedback now exists — but the ethical design framework to prevent harm does not yet accompany it.
+The assumption that standardised nutritional rules are broadly effective has been dismantled by Zeevi et al. (2015), whose landmark study of 800 participants across 46,898 meals demonstrated that identical foods provoke dramatically different postprandial glycaemic responses across individuals. This physiological reality of bioindividuality invalidates population-average dietary guidance and establishes the scientific necessity for personalised, post-meal, sensation-first feedback. Contextualised against the success of Strava — which amplifies pre-existing somatic signals (exhaustion, endorphins) into socially resonant data — the dietary tracking space appears structurally underdeveloped: it lacks the bodily signal layer that exercise design can simply amplify. The design challenge is therefore not to make a better calorie counter but to construct the missing feedback layer using sensation, not surveillance.
 
-**Signal 2 — Intuitive Eating and the Anti-Diet Movement.** High baseline Intuitive Eating scores correlate with a 74% reduction in binge eating risk over eight years (Linardon, 2020). This signal — emerging from clinical eating disorder research into mainstream wellness discourse — indicates a growing cultural rejection of external dietary metrics in favour of internal body attunement. Design must respond to this shift by fostering embodiment rather than imposing surveillance.
+Cross-cultural counter-models further validate this direction. The Japanese practice of *Hara Hachi Bu* and *Itadakimasu* achieves embodied non-punitive food awareness through social ritual without any technology (Rozin et al., 1999). The French *paradoxe culinaire* demonstrates that a pleasure-oriented, slow, communal eating culture sustains healthier dietary behaviour without individual biometric monitoring (Fischler, 1988). Dunne and Raby's (2001) *Placebo Project* — a foundational speculative design installation — confirms that deliberately ambiguous, physical provocations successfully challenge blind technological authority. These precedents establish that the preferred future for dietary feedback is culturally credible, not utopian.
 
-**Signal 3 — Social Rituals as Counter-Models.** Cross-cultural research (Rozin et al., 1999; Fischler, 1988) demonstrates that effective dietary feedback already operates through social and cultural channels: the Japanese *Itadakimasu* ritual creates a designed pre-meal transition of attention; the French *paradoxe culinaire* sustains dietary behaviour through pleasure-oriented shared experience rather than individual biometric tracking. These signals challenge the assumption that effective dietary feedback must be technological.
+## 2d. Conclusion
 
-*See Appendix H for full signal card format.*
+Three critical insights emerge. First, the dietary feedback gap is an architectural design failure — not a user motivation deficit — arising from the phenomenological silence of digestion. Second, existing punitive tracking paradigms cause measurable psychological harm by reifying data and overriding internal bodily cues. Third, cross-cultural and clinical evidence demonstrates that awareness-first, embodied feedback can sustain dietary behaviour change more safely and effectively than metric-based surveillance.
 
-## 2c. Key Research Findings
+Three primary trends are shaping the next decade: (1) the Medicine 2.0 → 3.0 transition is accelerating consumer adoption of non-invasive metabolic sensors, creating an urgent design window; (2) the Intuitive Eating movement is mainstreaming interoceptive literacy as a protective framework against diet culture; (3) ambient socio-cultural technologies — shape-changing tableware, environmental nudge architectures, auditory-gustatory interfaces — demonstrate that dietary monitoring does not require individual digital screens.
 
-### The Feedback Gap
-
-The core problem is defined by a "phenomenological silence." When you eat a nutritious meal, you feel full, but the metabolic benefits — reduced inflammation, improved insulin sensitivity — play out over weeks at a cellular level imperceptible to the user. This gap triggers **hyperbolic discounting** (Kahneman, 2011), where fast-thinking System 1 prioritises immediate sensory reward over abstract long-term health.
-
-The emergence of Continuous Glucose Monitoring (CGM) for non-diabetics represents the most significant technical development. The OTC CGM market is projected to grow from US$370.7M in 2024 to US$1.77B in 2034 (Precedence Research, 2025). Critically, Zeevi et al. (2015) demonstrated that identical foods provoke dramatically different postprandial glycaemic responses across individuals — invalidating generic, population-based dietary guidelines and scientifically justifying the shift toward personalised, post-meal feedback.
-
-### The Ethical Constraint
-
-Feedback design carries acute risk. Roth et al. (2024) established significant associations between intensive dietary tracking and elevated disordered eating risk. Punitive tracking tools trigger what Wallace et al. (2025) call the "reification of data" — a process where external numerical metrics progressively overwrite the user's direct sensory and emotional experience of eating. The Intuitive Eating framework (Tribole and Resch, 2020) offers a protective counter-model by cultivating internal body attunement rather than external rule-following. See **Appendix G** for supporting data visualisations.
-
-### Cross-Cultural Counter-Models
-
-The dominant paradigm of dietary self-tracking is culturally specific — rooted in Anglo-American anxieties about bodily control and Silicon Valley's quantification ideology. Three counter-models challenge this: the Japanese practice of *Hara Hachi Bu* and *Itadakimasu* achieves embodied, non-punitive food awareness as a cultural default without technological imposition (Rozin et al., 1999); the French *paradoxe culinaire* suggests that the quality of the eating *experience* — consumed slowly, socially, with sensory attention — may be the primary driver of healthy dietary behaviour; the Krukow × COOP Denmark intervention demonstrates that measurable behaviour change can be achieved through environmental and spatial design at the meso-scale, bypassing the need for individual biometric monitoring.
-
-## 2d. Concluding Synthesis
-
-*Three most important insights from literature and practice review:*
-1. **The feedback gap is a design failure, not a motivational one.** The absence of immediate, perceivable post-meal signals — documented across behavioural science (Fogg, 2009; Kahneman, 2011) and physiological research (Zeevi et al., 2015) — means current dietary tools fail before the user even engages with them.
-2. **Punitive tracking causes measurable harm.** The pathway from manual logging → data reification → disordered eating is now empirically established (Roth et al., 2024; Wallace et al., 2025; Phelan et al., 2020), creating a design ethics imperative alongside the usability problem.
-3. **Non-technological counter-models demonstrate that effective feedback is possible.** Cross-cultural evidence (Rozin et al., 1999; Lupton, 1996; Kristeller and Wolever, 2011) proves that awareness-first, embodied, or communal approaches can sustain dietary behaviour change — validating an alternative design direction.
-
-*Three most important trends / drivers / emerging futures:*
-1. **Medicine 2.0 → Medicine 3.0 transition** (2015–2035): From population-average guidance to real-time, personalised, preventive metabolic feedback — anchored by the 2024 OTC CGM clearance.
-2. **Intuitive Eating and interoceptive literacy** as a clinically validated, harm-protective counter-framework to surveillance-based diet culture.
-3. **Emerging ambient and socio-cultural feedback paradigms**: Shape-changing tableware, auditory-gustatory interfaces, and environmental nudge architectures (Krukow × COOP; CHI 2025 research) demonstrate that dietary feedback does not require individual biometric tracking.
-
-*Key gap:* Despite the proliferation of digital health tools, a fundamental design void persists for "awareness-first" interventions that translate invisible nutritional benefits into immediate, emotionally resonant feedback without relying on punitive manual logging or causing the reification of data. Crucially, this gap is compounded by the absence of a shared design language for non-invasive metabolic feedback tools entering the consumer market — a void that will be filled by engineering-led paradigms if design futurists do not intervene now.
+The critical gap: despite rapid sensor miniaturisation and OTC CGM market growth, no established human-centred design vocabulary exists for non-punitive, embodied metabolic feedback. This void will be filled by engineering-led paradigms unless design futurists intervene now.
 
 ---
 
@@ -162,29 +117,16 @@ The dominant paradigm of dietary self-tracking is culturally specific — rooted
 
 # 3. Problem Framing
 
-## The Challenge: The Intention-Action Gap
+The central social challenge this project addresses is the persistent *Intention-Action Gap* in dietary behaviour: the documented failure to translate genuine intentions to eat better into sustained change. This gap exists not because individuals lack information or motivation, but because eating well generates no immediate, perceivable reinforcement. Without feedback, behaviour cannot be validated, iterated, or sustained. Current digital tools not only fail to bridge this gap — they actively compound it through punitive tracking paradigms that trigger the reification of data (Wallace et al., 2025) and demonstrable eating disorder risk (Roth et al., 2024). This is not a niche usability problem: it is a public health issue affecting populations worldwide.
 
-The central challenge this project engages is the *Intention-Action Gap* in dietary behaviour: the persistent, well-documented failure of people to translate genuine intentions to eat better into sustained dietary behaviour change. This gap exists not because people lack information or motivation, but because eating well produces no immediate, perceivable signal of success. Without feedback, behaviour cannot be reinforced, iterated, or emotionally validated. Design has not solved this problem: the dominant approach of calorie-counting apps has been in steady retention decline for over a decade.
+![[01 — Futures Triangle.png|820]]
+*Figure 1 — Futures Triangle: mapping the pull of Food Freedom futures, the push of OTC CGM market expansion, and the historical weight of diet-culture paradigms.*
 
-## System-Level Perspectives
+This project operates at the intersection of four system-level perspectives, visualised in the Futures Triangle above. At the **Human** level, it addresses cognitive biases (hyperbolic discounting, present bias), interoception, and the emotional lived experience of eating. At the **Technology** level, it critically examines biometric sensing infrastructure, health-tracking architectures, and CGM interaction paradigms. The **Societal** context encompasses diet culture, eating disorder prevalence, and the anti-diet movement. The **Nature** system grounds the project in the biological reality of gut microbiome, circadian metabolism, and the physiology of satiety.
 
-This project operates at the intersection of two systemic lenses:
+A critical design insight emerging from this systems view is the conflation of two distinct user cohorts in current tools. For the **general population**, the primary failure is tracking friction — manual logging destroys Ability in Fogg's B=MAP model (2009). For **users at eating disorder risk**, the failure is not low engagement but active harm: intensive self-monitoring is strongly correlated with elevated ED symptoms (Roth et al., 2024). Effective design must simultaneously address tracking fatigue for general users and eliminate harm pathways for vulnerable users — a requirement that rules out any punitive metric.
 
-- **Human (primary):** Individual dietary behaviour, cognitive biases (hyperbolic discounting, present bias), emotional relationships with food, body image, and lived eating experience.
-- **Technology (secondary):** Feedback tools, sensor technology (CGM, wearables), data visualisation, AI food recognition, and the design infrastructure of behaviour change applications.
-- **Society (contextual):** Diet culture, eating disorder prevalence, the anti-diet movement, food advertising, and public health frameworks — providing critical ethical constraints.
-- **Nature (contextual):** Gut microbiome, metabolic biology, circadian eating patterns, and the physiological reality of nutrition — grounding the project in biological reality.
-
-## Two Distinct User Cohorts
-
-A critical flaw in current dietary feedback systems is the conflation of two fundamentally distinct user groups requiring divergent design logics. For the **general population**, the primary barrier is tracking friction: Fogg's B=MAP model shows that manual logging creates insurmountable Ability barriers and delayed benefits fail as effective Prompts, resulting in widespread abandonment (Fogg, 2009). For **users at risk of eating disorders**, the problem is not lack of engagement but the psychological harm caused by the feedback itself: intensive dietary self-monitoring is strongly associated with elevated eating disorder risk (Roth et al., 2024), and punitive tools trigger the reification of data — where external metrics replace direct sensory experience (Wallace et al., 2025). By explicitly separating these profiles, the design space can address tracking fatigue in the general population without weaponising data against vulnerable users.
-
-A third dimension compounds both cohorts: tracking fatigue is not merely a friction problem but also a trust problem — most users hold fear-based "folk theories" of tracking tools (Makhortykh et al., 2022), actively refusing dietary monitoring as a privacy violation resistant even to financial incentives. Any effective feedback design must address this trust deficit before it can function as a scaffold for interoceptive literacy.
-
-## Temporal and Contextual Scale
-
-- **Temporal:** Medium-to-long term, **5–20 years**, projecting to a 2035 speculative horizon. This is appropriate because preventive health interventions require years to demonstrate measurable outcomes; non-invasive dietary sensing technology is 5–10 years from consumer readiness; and the cultural shift from diet-culture to food freedom thinking is still unfolding. Backcasting from the 2035 preferred future is used to identify present-day intervention points (Martell, 2026).
-- **Contextual:** Primarily **micro** — the individual's daily experience of eating, at the level of a single meal. The project also engages **meso-scale** considerations (how products shape cultural norms around eating) and acknowledges **macro** drivers (public health systems, food industry incentives) as systemic context.
+In terms of **temporal scale**, this project projects to a medium-to-long horizon of 10–15 years, working toward a 2035 speculative future. This timeframe is appropriate because non-invasive metabolic sensing is currently approaching consumer readiness, the cultural shift from diet-culture to Food Freedom is actively unfolding, and backcasting from 2035 identifies the precise design principles that must be established now before paradigm lock-in occurs (Martell, 2026). The **contextual scale** is resolutely **micro**: the individual's daily experience of eating, at the level of a single meal and its immediate aftermath. This micro-focus is the site where the phenomenological silence is most acutely felt and where design intervention can have the most direct effect on interoceptive literacy.
 
 ---
 
@@ -192,49 +134,16 @@ A third dimension compounds both cohorts: tracking fatigue is not merely a frict
 
 # 4. Design Futures Approach
 
-## Disciplinary Positioning
-
-This project is situated at the intersection of *Behaviour Design* (systems that support deliberate human behaviour change) and *Speculative / Critical Design* (design fiction and provocative artefacts that interrogate assumptions about technology and futures). It draws on Futures Studies for temporal orientation and on Food Studies and Health Psychology for empirical grounding.
+This project is situated at the intersection of *Behavioural Design* and *Speculative / Critical Design*, drawing on Futures Studies for temporal orientation and on Food Studies and Health Psychology for empirical grounding. The Disciplinary Map below illustrates this positioning.
 
 ![[Disciplinary_Map.svg|694]]
 *Figure 2 — Disciplinary Map: positioning the project across behaviour design, speculative design, and futures studies.*
 
-## Three Roles of the Design Futurist
+As a design futurist on this project, my role is threefold: (1) **Cartographer of the Present** — mapping why the current dietary feedback landscape looks as it does, what assumptions it encodes, and whose interests it serves; (2) **Critical Provocateur** — designing speculative artefacts that expose the contradictions and absences of current food technology; (3) **Preferential Futurist** — using backcasting methodology to identify near-term design principles from a preferred 2035 future (Martell, 2026). The primary benefit of deploying design here is its capacity to translate abstract philosophical goals — such as *Food Freedom* — into tangible, evaluable interface constraints. A significant limitation is that speculative artefacts risk remaining intellectual exercises unless grounded in commercially and culturally plausible near-futures; this project deliberately anchors its speculations in demonstrated market trends and clinical evidence.
 
-As a design futurist on this project, my role is threefold: (1) **Cartographer of the Present** — mapping why the current dietary feedback landscape looks as it does, what assumptions it encodes, and whose interests it serves; (2) **Critical Provocateur** — designing speculative artefacts that make visible the absences and contradictions in current food technology; (3) **Preferential Futurist** — using backcasting methodology to identify near-term design opportunities from a preferred 2035 future (Martell, 2026).
+Four design approaches structure the work. **Behavioural Architecture** (Fogg, 2009; Thaler and Sunstein, 2008) shapes feedback environments that lower the friction of post-meal reflection without coercion. **Compassion-Based Design** reframes the designer's orientation: it is not the user who must become more disciplined, but the design that must intervene with care — treating eating as a site of joy rather than surveillance. **Embodiment and Empowerment** requires that technology amplify internal bodily authority rather than overriding it with external optimisation directives. The **REFLECTIVE Framework** operationalises these principles into three evaluable design criteria: feedback must be *Descriptive, not Evaluative* (no scoring, no colour-coded pass/fail); *Relative, not Absolute* (anchored to the individual's own metabolic baseline — justified by Zeevi et al., 2015); and *Closed-Loop, not Open-Ended* (a defined 60-second post-meal closure event, not perpetual open monitoring).
 
-## Design Approaches
-
-Four design approaches structure this project:
-
-**Behavioural Architecture** draws on Fogg's B=MAP model (2009) and nudge theory (Thaler and Sunstein, 2008) to design feedback environments that make the healthy choice the easy choice without coercion.
-
-**Compassion-Based Design** reframes the designer's relationship to the user: it is not the user who must become more disciplined or data-literate, but the designer who must intervene with genuine care — designing systems that celebrate food, honour the body, and treat eating as a site of joy rather than surveillance.
-
-**Embodiment and Empowerment** asks two questions: how can design help people connect more deeply with their own bodies, not as objects to be optimised but as subjects to be inhabited? And how can design give people *agency* over information — making data available for those who choose it, without imposing data on those who do not?
-
-**The REFLECTIVE Framework** operationalises "reflect, not judge" into three evaluable design criteria: feedback must be *Descriptive, not Evaluative* (no scoring, no colour-coded pass/fail indicators); *Relative, not Absolute* (anchored to the individual's own baseline, not population averages — justified by Zeevi et al., 2015); and *Closed-Loop, not Open-Ended* (replacing open-ended tracking with a 60-second post-meal closure event).
-
-## The Preferable Future
-
-Of the three scenarios modelled (see below and **Appendix C** for full narratives), **Scenario 3 — Intuitive Technology ("The Tool That Disappears")** constitutes the preferable future toward which this project works. This future is preferable because it positions technology as a *temporary scaffold* rather than a permanent prosthesis — building capacity in the individual, not dependency on the device. It is preferable specifically for adults aged 22–45 who have been harmed by, or are at risk from, punitive tracking paradigms, for whom Food Freedom is a genuine clinical and existential need. It is also the only scenario in which the technology is designed to make itself obsolete, and that obsolescence is the measure of its success.
-
-By contrast, Scenario 1 (*Food as Code*) represents a probable but undesirable future driven by engineering logic that risks a new epidemic of orthorexia; Scenario 2 (*Ambient Social*) represents a desirable but contextually limited future that cannot yet scale beyond the shared restaurant setting. Scenario 3 is the only future in which all three design principles — behavioural, compassionate, and embodied — are simultaneously operative.
-
-*A design futurist's caveat:* an honest futures analysis requires a third axis — **Ecological Vulnerability**. By 2035, climate disruption and food supply instability will be the structural backdrop for any dietary feedback design. Scenario 3 remains preferable precisely because interoceptive literacy is low-infrastructure and culturally transferable, defensible within a 2035 shaped by ecological pressure rather than insulated from it.
-
-## Three 2035 Scenarios
-
-![[03 — 2035 Scenario Matrix.png|900]]
-*Figure 3 — Scenario Matrix: mapping User Agency against Technology Type across three 2035 futures.*
-
-**Scenario 1 — High-Tech Biometric ("Food as Code"):** True non-invasive CGMs and facial neuromotor interfaces have made metabolic data ubiquitous. People stop eating when subcutaneous sensors notify smart glasses that their glycaemic curve has peaked. Food is fuel. The risk: total reification of data — a new orthorexia driven by flatline glucose anxiety (Wallace et al., 2025).
-
-**Scenario 2 — Ambient Social ("The Disappearing Interface"):** The dining environment itself is the sensor and interface. Hidden radar tracks group physiological states; shape-changing tableware and acoustic gastronomy alter the eating experience without individual dashboards. The French *paradoxe culinaire* has been digitised. The risk: ambient surveillance capitalism — Big Food manipulating collective responses to products without consent.
-
-**Scenario 3 — Intuitive Technology ("The Tool That Disappears") [Preferred]:** A wearable delivers a gentle thermal pulse mid-meal — not to report how many carbohydrates have been consumed, but as a just-in-time prompt to notice what the body's stretch receptors are already feeling. A conversational AI steward asks quietly: *"Are you noticing your fullness right now?"* Over six months, the sleeve pulses less frequently. Eventually, the AI recommends the user delete the app. Food Freedom — not needing a health tracker — becomes the ultimate outcome.
-
-Full day-in-the-life narratives and failure modes for all three scenarios are in **Appendix C**.
+The futures approach is primarily **Speculative and Critical Design** (Dunne and Raby, 2013), chosen because this space requires paradigm interrogation — not incremental usability improvement — to fundamentally reframe the relationship between technology and eating. This is combined with the **Intelligence–Perspective–Logic–Foresight (IPLF) backcasting framework** (Martell, 2026): from a preferred 2035 future in which technology amplifies natural satiety signals before rendering itself obsolete, the project identifies the non-punitive design rules that must be established today. Three 2035 scenarios — (1) *Food as Code* (high-tech biometric, probable but undesirable); (2) *The Disappearing Interface* (ambient social, desirable but contextually limited); (3) *The Tool That Disappears* (intuitive technology, preferred) — provide the research stimuli for participant critique in Phases 4 and 5. Full day-in-the-life narratives and failure modes for each scenario are in **Appendix E**.
 
 ---
 
@@ -242,71 +151,33 @@ Full day-in-the-life narratives and failure modes for all three scenarios are in
 
 # 5. Methodology
 
-The methodology operates on two parallel, mutually informing tracks: **investigative research** (understanding the current landscape and its failures) and **generative design research** (developing and testing alternative feedback paradigms). This dual-track structure reflects the nature of the problem: the failure of dietary feedback is simultaneously an empirical, behavioural, and design question.
+The methodology employs a dual-track framework: **investigative research** (empirically understanding the feedback gap and its failures) and **generative design research** (developing and testing alternative feedback paradigms through speculative prototyping). This parallel structure is necessary because the failure of dietary feedback is simultaneously a behavioural, experiential, and design question.
 
 ![[Dual_Track_Methodology.svg|442]]
-*Figure 4 — Dual-Track Methodology: investigative and generative research tracks running in parallel.*
+*Figure 3 — Dual-Track Methodology: investigative and generative tracks running in parallel.*
 
 ## 5a. Participants and Data
 
-**Participants:** 6–8 adults aged 22–45, current or prior users of at least one dietary tracking tool, willing to discuss their emotional relationship with food. Exclusion criterion: current clinical diagnosis of an eating disorder (to prevent research-induced harm). This sample size follows Braun and Clarke (2006) guidance for thematic saturation in homogeneous purposive qualitative samples.
-
-**WEIRD Bias Mitigation:** Agapie's (2024) meta-analysis of behaviour change technology studies found that 61.1% focus exclusively on Western, Educated, Industrialised, Rich, and Democratic (WEIRD) populations, and 78.3% rely on binary gender classification — rendering most HCI dietary research structurally unrepresentative. This project responds with an active recruitment protocol: a minimum of two participants will be sourced from non-Western cultural backgrounds, and recruitment will extend beyond the RCA student community to personal networks with diverse cultural relationships with food. Cross-cultural food attitudes (Rozin et al., 1999; Fischler, 1988; Lupton, 1996) will be treated as primary analytical lenses, not supplementary context. This is not diversity tokenism — it is a methodological requirement given that the project's core counter-models (Hara Hachi Bu, the French paradoxe culinaire) are non-Western. A homogeneous WEIRD sample would undermine the project's own theoretical architecture.
-
-**Data types:** Primary qualitative (semi-structured interviews, commensal contextual inquiry, Ecological Momentary Assessment prompts, sensitizing probe responses, autoethnographic diary); secondary qualitative (literature review, app audit); secondary quantitative (published studies on app retention, ED prevalence, behaviour change outcomes).
+Primary qualitative data will be sourced from **6–8 adults aged 22–45** with prior dietary tracking experience. Current clinical eating disorder diagnosis is an exclusion criterion, to safeguard participant wellbeing. This sample size aligns with Braun and Clarke's (2006) guidance on thematic saturation in purposive qualitative research. A minimum of two participants will be recruited from non-Western cultural backgrounds, addressing Agapie's (2024) finding that 61.1% of HCI behaviour change studies exclusively use WEIRD (Western, Educated, Industrialised, Rich, Democratic) samples — a structural bias that would undermine this project's cross-cultural counter-models. Secondary data encompasses a systematic literature review and heuristic audit of eight dietary tracking applications against REFLECTIVE Framework criteria.
 
 ## 5b. Research Phases
 
-Seven primary research methods are deployed across five phases (detailed protocols in **Appendix D**):
+Seven primary methods are deployed across five phases (full protocols in **Appendix D**):
 
-| Phase | Method | Timing | Output |
-|-------|--------|--------|--------|
-| **0** | Informal phenomenological peer conversations (exploratory) | May–June 2026 | Recurring themes; interview protocol refinement |
-| **1a** | Semi-structured interviews (45–60 min, 6–8 participants); Photo Elicitation task assigned at close | June 2026 | Lived experience of dietary tracking; Photo Elicitation task initiated |
-| **1b** | **[M3] Commensal Contextual Inquiry** — 30-min in-situ observation per participant in natural dining context | June 2026 | First-hand observational data on phenomenological silence in situ; environmental friction points |
-| **1c** | **[M2] Participant-Driven Photo Elicitation** — 1 photo/day for 4 weeks (eating aftermath, not food); used as stimulus in Phase 5 | June–July 2026 | Visual anchors for post-meal silence; non-verbal phenomenology externalised into discussable images |
-| **2a** | **[M5] Mindful Construal Diary** — 4 weeks, design-prompt format (no numbers, no good/bad labels; 3 somatic prompts per meal) | June–July 2026 | Non-judgmental log of somatic states, emotional temperature, and design provocations |
-| **2b** | **[M4] Ecological Momentary Assessment — EMA** — 3-day mobile prompts, 10 min post-meal, 5–8 peers | July 2026 | Real-time post-meal phenomenology before memory bias; validates universality of feedback gap |
-| **3a** | **[M1] Sensitizing Probe Kit** — Placebo Patch + Sensory Scanning Cards dispatched 1–2 weeks before workshop | July 2026 | Folk theories about biometric data anxiety; embodied sensation mapping; workshop priming |
-| **3b** | App audit & comparative analysis (8 tools, REFLECTIVE Framework criteria) | July 2026 | Systematic failure-mode map; design gaps The After Glow must address |
-| **4** | **[M6] Body Mapping warm-up** (15 min) → The After Glow demo + clay prototyping (25 min) → **[M7] Anti-Heroes Ethical Role-Play** (20 min) | July 2026 | Shared somatic vocabulary; comparative design mock-ups; deep ethical critique |
-| **5** | Participatory critique using Photo Elicitation images as stimulus (45 min, original interviewees) | July–Aug 2026 | Legibility, emotional tone, and "forgetting" probe responses; photo-grounded reflection |
+| Phase | Key Method(s) | Timing | Primary Output |
+|-------|--------------|--------|----------------|
+| 0 | Phenomenological peer conversations | May–June 2026 | Interview protocol refinement |
+| 1 | Semi-structured interviews + Commensal Contextual Inquiry; Photo Elicitation task assigned | June 2026 | In-situ observation of feedback gap; photo archive initiated |
+| 2 | Mindful Construal Diary (4 weeks); Ecological Momentary Assessment (3-day peer sample) | June–July 2026 | Somatic design prompts; cross-participant gap validation |
+| 3 | Sensitizing Probe Kit dispatch; app audit | July 2026 | Folk theories of biometric anxiety; REFLECTIVE failure-mode map |
+| 4 | Body Mapping warm-up → After Glow demo → Anti-Heroes Role-Play | July 2026 | Somatic vocabulary; clay prototypes; ethical critique data |
+| 5 | Participatory critique (Photo Elicitation as stimulus) | July–Aug 2026 | Legibility and affect responses; design iteration brief |
 
-**Seven-method primary research design.** The seven primary research methods form a deliberate arc — *Prime → Observe → Capture → Reflect → Attune → Build → Critique* — ensuring that by Phase 4, participants arrive at the workshop with embodied understanding rather than abstract opinions. Methods are described briefly below; full protocols and timing are in **Appendix D5**.
+The seven methods form a deliberate arc — *Prime → Observe → Capture → Reflect → Attune → Build → Critique* — ensuring that by Phase 4, each participant has experienced the feedback gap in their own body and can evaluate the speculative artefact from a position of lived authority. The primary artefact under investigation is **The After Glow** — a handcrafted ceramic disc that translates post-meal metabolic data into soft amber light and modulating warmth for 60 seconds, with no screen, no score, no number. Framed as a mundane 2035 consumer product (Near Future Laboratory, 2014), it functions as a critical probe that tests whether embodied, non-punitive sensation can substitute for digital surveillance. Three provocations ensure it remains a research instrument rather than an affirmative product: a Surveillance Blackout (severs Wi-Fi during the 60-second reflection window), an Intentional Placebo Error (one in ten activations produces a confusing response, probing reliance on the machine over bodily authority), and Programmed Physical Decay (unfired clay that cracks under rushed-meal conditions, rejecting frictionless optimisation). Full specifications are in **Appendix F**.
 
-**[M1] Sensitizing Probe Kit (Phase 3a).** Adapting Sanders and Stappers' (2014) "probes, toolkits and prototypes" paradigm, a Placebo Patch (inert CGM-like adhesive, 48 hours) and Sensory Scanning Cards are dispatched 1–2 weeks before the workshop. This generates folk theories about biometric data anxiety and arrives participants fully attuned to the embodied problem.
+## 5c. Data Analysis and Design Methods
 
-**[M2] Participant-Driven Photo Elicitation (Phase 1c→5).** Assigned during Phase 1 interviews, participants photograph their eating *aftermath* (empty plate, table, hands) at 60 seconds post-meal daily for four weeks — never the food itself. These images serve as concrete non-verbal anchors in the Phase 5 critique, externalising the phenomenological silence into discussable artefacts.
-
-**[M3] Commensal Contextual Inquiry (Phase 1b).** A 30-minute in-situ observation follows each interview in the participant's natural dining environment. Drawing on Service Design Tools' contextual inquiry framework and Hakio and Mattelmäki's (2019) awareness-based co-creation approach, this phase witnesses the silence as it occurs, generating environmental friction points that feed directly into Phase 4 scenario stimuli.
-
-**[M4] Ecological Momentary Assessment (Phase 2b).** A single mobile prompt at exactly 10 minutes post-meal, deployed to 5–8 peers over 3 days, captures raw post-meal phenomenology before memory bias alters it. This provides the cross-participant empirical baseline that validates the feedback gap as universal rather than idiosyncratic.
-
-**[M5] Mindful Construal Diary (Phase 2a).** The autoethnographic diary has been restructured into design-prompt format: numbers, calories, and evaluative labels ("good/bad") are banned. Three prompts anchor each post-meal entry: somatic scan, emotional temperature, and a speculative "what-if" transformation of the eating environment. This converts the diary from a tracking tool into a generative design probe.
-
-**[M6] Body Mapping warm-up (Phase 4, first 15 minutes).** Before introducing The After Glow, participants use A3 body outlines, coloured markers, and clay to map their current bodily sensations non-verbally — only shapes, colours, textures. A 2-minute guided somatic attention exercise precedes the mapping. This establishes shared embodied vocabulary so that the haptic artefact is immediately legible rather than abstract.
-
-**[M7] "Anti-Heroes" Ethical Role-Play (Phase 4, final 20 minutes).** Participants each draw a Role Card — *The Big Food Data Broker*, *The Punitive Diet Coach*, *The Intuitive Eating Advocate*, *The Anxious Biohacker* — and critique The After Glow from that persona's perspective. This structured adversarial method (adapted from DIS 2025 "Anti-Heroes" research) surfaces exactly the ethical failure modes — surveillance creep, data reification, compassion-washing — that the REFLECTIVE Framework is designed to prevent.
-
-**Data collection protocol:** Phase 0 and Phase 1 interviews will be conducted in private spaces at RCA or locations chosen by participants. All recorded sessions require written consent; field notes will use the Q/T/! coding system (Quote / Theme / Surprise). The Phase 4 workshop will take place in an RCA studio with participants bringing no prior brief, using only clay, paper, and printed scenario cards — ensuring the data reflects spontaneous design intuition rather than coached responses. Thematic saturation (Braun and Clarke, 2006) determines when sufficient interview data has been collected: typically when three consecutive interviews yield no new themes. Documentation across all phases includes: audio recordings (transcribed verbatim), physical artefacts (photographed), and A0 poster outputs (scanned).
-
-**Design and futures methods:** Alongside empirical research, this project deploys three futures methods. (1) *Backcasting* from the preferred 2035 future identifies present-day intervention points and shapes the Phase 4 workshop brief (Martell, 2026). (2) *Scenario building* — using the Intelligence–Perspective–Logic–Foresight structure — produces the three 2035 narratives that serve as research stimuli in Phases 4 and 5. (3) *Diegetic prototyping* (Near Future Laboratory, 2014) frames The After Glow as a mundane 2035 consumer object, making the speculative legible to participants without requiring futures literacy. These methods are appropriate because the research question is not empirically solvable in the present — it requires imagining a different relationship between technology and the body before testing whether that imagination resonates with real users.
-
-Full session protocols, question guides, and daily task structures for each phase are in **Appendix D**.
-
-## 5c. Data Analysis
-
-Interview data will be analysed using reflexive thematic analysis (Braun and Clarke, 2006), developing themes inductively, then reviewing against the theoretical framework (Fogg B=MAP, intuitive eating principles) to generate design implications. Diary data will be analysed through design-led synthesis: converting observational notes and sketches directly into design provocations using the 'What if?' question as an analytical tool.
-
-## 5d. Speculative Prototyping: "The After Glow"
-
-The primary speculative artefact is **The After Glow** — a handcrafted ceramic disc linked to a biosensor that translates post-prandial metabolic data into embodied sensations: soft amber LED light and modulating warmth, with no screens, scores, or numbers. Framed using the Near Future Laboratory TBD Catalog approach (Near Future Laboratory, 2014), it is presented as an ordinary consumer product available in 2035 to defamiliarise current reliance on punitive smartphone screens.
-
-Three critical design provocations ensure this artefact functions as a genuine critical probe rather than an affirmative product: (1) a **Surveillance Blackout** — the disc severs the phone's Wi-Fi connection for the 60 seconds of post-meal reflection; (2) an **Intentional Placebo Error** — one in ten activations produces a confusing or null response, forcing the user to confront reliance on the machine over their own body; (3) **Programmed Physical Decay** — made from unfired clay, the disc physically cracks and degrades in response to rushed meals, rejecting Silicon Valley's promise of frictionless immortal optimisation. Full specifications are in **Appendix F**.
-
-## 5e. Ethics Summary
-
-This research has been designed to comply with RCA ethics requirements. An ethics checklist has been completed and submitted to the supervising tutor. The project is classified as **low risk**. Five ethical principles govern all phases: ED risk screening (EAT-26 pre-screening for all participants, referral protocol in place); biometric data privacy (self-generated data only, encrypted local storage, no cloud upload); informed consent and voluntary withdrawal at all phases; independence from food industry and CGM manufacturer funding; and active WEIRD bias mitigation (minimum two participants from non-Western cultural backgrounds). Full ethics framework is in **Appendix E**.
+Interview and diary data will be analysed using **reflexive thematic analysis** (Braun and Clarke, 2006), coding inductively for emotional tenor, user agency, and tracking friction before cross-referencing against the Fogg B=MAP and Intuitive Eating theoretical frameworks. Diary and photo elicitation data will undergo **design-led synthesis** — converting somatic observations directly into speculative design provocations via the 'What if?' question — to drive the generative track. Alongside primary research, **scenario building** (IPLF framework, Martell, 2026) produces the three 2035 stimuli used in Phase 4, while **diegetic prototyping** (Near Future Laboratory, 2014) makes the speculative artefact immediately legible to participants without requiring futures literacy. Ethics compliance — including EAT-26 ED pre-screening, encrypted data storage, and voluntary withdrawal rights — is detailed in **Appendix C**.
 
 ---
 
@@ -314,13 +185,13 @@ This research has been designed to comply with RCA ethics requirements. An ethic
 
 # 6. Critique Documentation
 
-*→ 【你需要做】在此处插入展览照片（`06_展览存档/` 里找）。*
+*→ [Insert exhibition photographs from `06_展览存档/`]*
 
-**Exhibition display (April 14, 2026):** The critique was presented in an exhibition-style format including: a printed A4 draft proposal; a hero image (A3) with the project title; five conversation-prompt postcards covering the core research question, the phenomenological silence concept, the three 2035 scenarios, the REFLECTIVE Framework, and The After Glow provocation; and a physical cardboard mock-up of The After Glow disc prototype. Photographs of the displayed materials and peer feedback forms are held in the project archive (`06_展览存档/`).
+The project was presented at the April 2026 group critique exhibition. Displayed materials included a physical mock-up of The After Glow, five conversation-prompt postcards (covering the phenomenological silence, the three 2035 scenarios, and the REFLECTIVE Framework), and an A4 draft proposal. Peer feedback forms and exhibition photographs are archived in the project records.
 
-**Feedback received:** During the April 8 group tutorial, tutors identified three critical weaknesses in the initial framing: (1) the proposal lacked macro-societal context situating the feedback gap within broader public health and market failures; (2) it conflated general users with those at risk of eating disorders, treating them as a single design target; (3) it remained overly theoretical, without tangible speculative design outputs or empirical grounding. Tutors additionally called for a stronger Compassion-Based Design framing, explicit Embodiment and Empowerment dimensions, and more rigorous engagement with cross-cultural counter-models. The April 14 exhibition critique confirmed the project's revised direction, with peers responding most strongly to the Scenario 3 narrative and the Intentional Placebo Error provocation.
+The April 8 group tutorial identified three critical weaknesses: (1) insufficient macro-societal context situating the feedback gap within public health and market failure; (2) conflation of general users with those at eating disorder risk; (3) absence of tangible speculative outputs grounding the theoretical claims. Tutors called for a stronger Compassion-Based Design framing, explicit Embodiment and Empowerment dimensions, and rigorous cross-cultural engagement.
 
-**How feedback was addressed:** This feedback catalysed a pivotal reorientation. The project's philosophical core shifted from a conventional health-monitoring model toward **Compassion-Based Design** and an **awareness-first** paradigm emphasising interoceptive literacy and Food Freedom. The methodology was expanded to include Phase 0 phenomenological peer conversations. The speculative artefact "The After Glow" was developed and materialised. The REFLECTIVE Framework was formalised to operationalise "reflect, not judge" into three evaluable design criteria. The two-user-cohort distinction was explicitly introduced to address the ethical conflation. An ecological vulnerability caveat was added to the 2035 scenario matrix to prevent the preferred future from being read as a luxury biohacking artefact detached from planetary realities.
+This feedback fundamentally restructured the project. The philosophical core shifted from a conventional health-monitoring model to an **awareness-first** paradigm centred on interoceptive literacy and Food Freedom. The REFLECTIVE Framework was formalised to operationalise "reflect, not judge" into three evaluable design criteria. The two-user-cohort distinction was introduced to address the ethical conflation. The After Glow was materialised from concept to physical prototype. A design futurist's ecological caveat was added to the 2035 scenarios, ensuring the preferred future is not read as a luxury biohacking product detached from planetary realities. The April 14 exhibition confirmed the revised direction, with peers responding most strongly to the Scenario 3 narrative and the Intentional Placebo Error provocation.
 
 ---
 
@@ -328,45 +199,27 @@ This research has been designed to comply with RCA ethics requirements. An ethic
 
 # 7. Project Outputs, Stakeholders and Impacts
 
-## Outputs
+By the end of Term 3, the project will deliver: (1) the **REFLECTIVE Framework** — a licensable, heuristic UX evaluation rubric for auditing dietary feedback tools against non-punitive criteria; (2) **three 2035 speculative scenarios** using the IPLF framework (Martell, 2026) to illustrate diverging trajectories for consumer biometrics; (3) **three to five speculative artefacts**, principally The After Glow prototype, designed to provoke participant critique and test whether embodied, sensation-first feedback can build interoceptive literacy without surveillance.
 
-1. **Multi-dimensional Dietary Wellbeing Framework** — the REFLECTIVE Framework and its three evaluable design criteria, constituting a replicable design guide for non-punitive feedback.
-2. **Three 2035 Speculative Scenarios** — structured using the Intelligence–Perspective–Logic–Foresight model (Martell, 2026), communicating divergent dietary technology futures to stakeholders.
-3. **3–5 Speculative Artefacts** — including The After Glow prototype, designed to provoke critical conversation and test user responses.
+Key stakeholders include health-tech UX designers, preventive health clinicians, eating disorder specialists (as ethical gatekeepers), CGM manufacturers navigating human-centred design, and public health researchers. Each group has competing interests — clinical rigour versus market scale, data transparency versus food freedom — that the REFLECTIVE Framework is designed to navigate explicitly.
 
-## Stakeholder Ecosystem
-
-Five stakeholder groups actively shape this landscape, each with competing interests:
-
-| Stakeholder                                      | Role                                          | Tension                                                        |
-| ------------------------------------------------ | --------------------------------------------- | -------------------------------------------------------------- |
-| **ED specialists / mental health practitioners** | Ethical safeguards; harm-prevention authority | May veto tools that lack clinical evidence                     |
-| **CGM manufacturers (Abbott, Dexcom)**           | Hardware infrastructure                       | Engineering culture vs. human-centred design                   |
-| **Regulatory bodies (FDA, MHRA)**                | Define legal health claims                    | Navigating OTC CGM precedent; emerging territory               |
-| **Venture capitalists**                          | Scaling capital                               | ROI focus conflicts with non-addictive design                  |
-| **Big Food / food industry**                     | Market power                                  | Financial incentive to co-opt "anti-diet" messaging for profit |
-
-## Pathways to Impact
-
-The immediate impact pathway is **narrative shift**: by producing speculative artefacts and scenarios that circulate within health technology design communities, this project challenges the implicit assumption that "more data = better outcomes." The medium-term pathway is **tool provision**: the REFLECTIVE Framework offers practitioners an evaluable set of criteria for auditing existing dietary tools and commissioning new ones. The long-term pathway is **cultural change**: if Scenario 3 is the preferred future, the measure of success is the normalisation of Food Freedom as a design principle in the health technology sector — making it as standard as usability or accessibility.
+The intended impact operates across three timeframes. Immediately: narrative shift within health-tech design communities, challenging the assumption that more data produces better outcomes. Medium-term: the REFLECTIVE Framework as a practical audit tool for practitioners and commissioners of new dietary health products. Long-term: the normalisation of Food Freedom as a design standard in the preventive health sector — as fundamental as usability or accessibility.
 
 ---
 
 # 8. Personal Objectives
 
-Through this Independent Research Project, my primary objective is to cultivate a design practice rooted in Compassion-Based Design, moving beyond the punitive, surveillance-heavy paradigms of current digital health tools. I aim to establish expertise at the intersection of Behavioural Design and Speculative Futures, with a specialised focus on Ethical Health Innovation.
-
-This IRP serves as a catalyst for my long-term career trajectory by enabling me to translate abstract ethical constraints — safeguarding Food Freedom, mitigating eating disorder risks — into actionable design frameworks. By synthesising phenomenological research with critical prototyping, this project transitions my practice from theoretical critique to material intervention. I aspire to design technologies that function as empathetic stewards: amplifying internal bodily intuition rather than replacing it with external optimisation metrics.
+Through this IRP, I aim to develop a rigorous design practice at the intersection of Behavioural Design, Speculative Futures, and Ethical Health Innovation. My primary learning objective is to master translating abstract ethical constraints — safeguarding Food Freedom, mitigating eating disorder risk — into actionable, evaluable design heuristics. I wish to develop expertise in qualitative research methods that centre lived somatic experience, and in speculative prototyping that provokes genuine participant reflection rather than designed-for approval. Long term, I hope this project positions me within the preventive health-tech sector to design technologies that function as empathetic stewards — amplifying internal bodily intelligence rather than replacing it with external optimisation.
 
 ---
 
 # 9. Project Plan
 
+A phased timeline from May 2026 to August 2026 — covering participant recruitment, empirical research phases, speculative prototyping, and IRP Realisation report submission — is detailed in the Project Plan chart below.
+
 ![[Project_Plan.svg|697]]
 
-*Figure 5 — Project Plan: phased timeline from May 2026 to August 2026 (IRP Realisation submission), with key milestones for empirical research, prototype iteration, and final report completion.*
-
-**Key milestones:** Phase 0 peer conversations (May–June); Phase 1 interviews (June); Phase 2 diary study (June–July); Phases 3–5 (July); prototype development (ongoing, June–July); IRP Realisation report submission (August 2026).
+*Figure 4 — Project Plan: phased timeline to IRP Realisation submission (August 2026).*
 
 ---
 
@@ -462,27 +315,7 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 ---
 
-## Appendix A — Futures Context: Futures Triangle and Futures Wheel
-
-*These two visual frameworks were developed during the RCA Trend Wall workshops (February–March 2026) and provide the futures analytical foundation for this project.*
-
-![[01 — Futures Triangle.png|900]]
-
-**Figure A1 — Futures Triangle.** Three forces shape the trajectory of dietary feedback technology:
-- **Pull of the future (preferred):** Food Freedom as cultural norm; interoceptive literacy as default; technology designed to disappear.
-- **Push of the present (trends):** OTC CGM market expansion; eating disorder epidemic; collapse of app retention; Medicine 2.0 → 3.0 transition.
-- **Weight of history (inertia):** Manual calorie counting paradigm (20 years entrenched); diet culture and punitive body metrics; food industry financial incentives; behavioural inertia in health technology design.
-
-![[02 — Futures Wheel.png|900]]
-
-**Figure A2 — Futures Wheel.** Mapping first- and second-order consequences if the current dietary feedback paradigm persists unchanged:
-- **First order:** Continued low app retention; rising eating disorder prevalence; OTC CGM adoption without design language.
-- **Second order:** Normalisation of biometric surveillance for eating; clinical burden on mental health services; market dominated by engineering-led paradigms; cultural drift toward "Food as Code."
-- **Third order:** Loss of interoceptive capacity in the general population; complete medicalisation of the daily act of eating; erosion of food culture and food joy.
-
----
-
-## Appendix B — Annotated Literature and Practice Review (Full)
+## Appendix A — Annotated Literature and Practice Review (Full)
 
 *Selected annotations in What / So What / Now What format. The four entries in the main body (Fogg, Zeevi, Tribole, Dunne & Raby 2013) are not repeated here.*
 
@@ -662,7 +495,7 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 ---
 
-## Appendix C — 2035 Scenario Narratives: Day in the Life
+## Appendix E — 2035 Scenario Narratives: Day in the Life *(Supplementary)*
 
 *Full narrative expansions of the three scenarios summarised in Section 4, including failure modes.*
 
@@ -708,7 +541,7 @@ Zhang, Y. *et al.* (2025) 'Effect of Continuous Glucose Monitoring on Dietary Be
 
 ---
 
-## Appendix D — Research Protocols (Phases 0–5)
+## Appendix D — Research Protocols (Phases 0–5) *(Supplementary)*
 
 *Concrete session guides for all research phases. These are operational documents for use during the IRP Realisation unit (Term 3).*
 
@@ -1013,7 +846,7 @@ These photos will be brought to your final session with me. We will look at them
 
 ---
 
-## Appendix E — Ethical Framework and RCA Ethics Checklist
+## Appendix C — Ethics Checklist
 
 *→ 【你需要做】在此处粘贴 Ethics Checklist 表单的实际答案（Google Form 提交后会发到你邮箱，复制内容粘贴即可）。*
 
@@ -1033,7 +866,7 @@ These photos will be brought to your final session with me. We will look at them
 
 ---
 
-## Appendix F — The After Glow: Critical Design Specifications
+## Appendix F — The After Glow: Critical Design Specifications *(Supplementary)*
 
 **Object description:** A handcrafted disc (approx. 80mm diameter, 12mm depth) made from unfired, porous clay. It contains a wearable-linked biosensor and an amber LED element with a small thermal actuator. There is no screen, no score, no number. It is activated by holding in both hands for 60 seconds after a meal.
 
@@ -1053,7 +886,7 @@ These photos will be brought to your final session with me. We will look at them
 
 ---
 
-## Appendix G — Data Visualisations
+## Appendix G — Data Visualisations *(Supplementary)*
 
 *The following charts present key supporting data referenced in Section 2 and Section 3.*
 
@@ -1103,9 +936,9 @@ These photos will be brought to your final session with me. We will look at them
 
 ---
 
-## Appendix H — Trend Wall Signals
+## Appendix B — Signals
 
-*This appendix corresponds to the required 'Signals' appendix (Appendix B in the IRP Report Template). Three signal cards were contributed to the RCA Trend Wall during the February–March 2026 workshops, all under the macro-trend cluster: **Technology-Mediated Preventive Health**.*
+*Three signal cards contributed to the RCA Trend Wall during the February–March 2026 workshops, all under the macro-trend cluster: **Technology-Mediated Preventive Health**.*
 
 ---
 
@@ -1140,4 +973,4 @@ These photos will be brought to your final session with me. We will look at them
 ---
 
 *End of IRP Proposal — Weijie Li · Design Futures · Royal College of Art · May 2026*
-*Version: v13-Restructured | Main body: ~3,600 words (Sections 1–9) | Appendices: A–H*
+*Version: v15-Polished | Main body: ~3,000 words (Sections 1–9) | Appendices: A (required), B (required), C (required), D–G (supplementary)*
