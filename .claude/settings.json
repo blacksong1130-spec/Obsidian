@@ -16,7 +16,9 @@
       "Edit(C:\\\\Users\\\\shywl\\\\.claude\\\\settings.json)",
       "Edit(C:\\\\Users\\\\shywl\\\\.claude\\\\CLAUDE.md)",
       "Bash(notebooklm ask \"Round 1: My IRP studies the phenomenological silence of eating. What 3 research methods from your sources address studying interoception, hunger-satiety awareness, or somatic body signals? Name each method and explain why it fits.\" --json 2>&1 > C:/Users/shywl/.claude/nlm_r1.json && type C:/Users/shywl/.claude/nlm_r1.json)",
-      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\skills\\\\nuwa.md)"
+      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\skills\\\\nuwa.md)",
+      "Edit(~/.claude/skills/munger-perspective/**)",
+      "Edit(~/.claude/skills/fangyuan-perspective/**)"
     ],
     "defaultMode": "bypassPermissions"
   },
