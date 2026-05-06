@@ -15,7 +15,8 @@
       "Bash(for skill in find-skills huashu-nuwa munger-perspective naval-perspective zhangxuefeng-perspective; do\n  echo \"=== $skill ===\"\n  head -20 /c/Users/shywl/.agents/skills/$skill/SKILL.md 2>/dev/null || cat /c/Users/shywl/.agents/skills/$skill/*.md 2>/dev/null | head -20\n  echo \"\"\ndone)",
       "Edit(C:\\\\Users\\\\shywl\\\\.claude\\\\settings.json)",
       "Edit(C:\\\\Users\\\\shywl\\\\.claude\\\\CLAUDE.md)",
-      "Bash(notebooklm ask \"Round 1: My IRP studies the phenomenological silence of eating. What 3 research methods from your sources address studying interoception, hunger-satiety awareness, or somatic body signals? Name each method and explain why it fits.\" --json 2>&1 > C:/Users/shywl/.claude/nlm_r1.json && type C:/Users/shywl/.claude/nlm_r1.json)"
+      "Bash(notebooklm ask \"Round 1: My IRP studies the phenomenological silence of eating. What 3 research methods from your sources address studying interoception, hunger-satiety awareness, or somatic body signals? Name each method and explain why it fits.\" --json 2>&1 > C:/Users/shywl/.claude/nlm_r1.json && type C:/Users/shywl/.claude/nlm_r1.json)",
+      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\skills\\\\nuwa.md)"
     ],
     "defaultMode": "bypassPermissions"
   },
