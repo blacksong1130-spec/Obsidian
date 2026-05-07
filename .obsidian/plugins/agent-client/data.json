@@ -56,6 +56,22 @@
   },
   "savedSessions": [
     {
+      "sessionId": "0f975922-6c99-4518-9dfd-c8225191af0c",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "去完成里面的内容，去网络搜集资料",
+      "createdAt": "2026-05-07T13:46:58.211Z",
+      "updatedAt": "2026-05-07T13:46:58.211Z"
+    },
+    {
+      "sessionId": "ca053062-18ee-47d1-bbc5-88495cedd153",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "去完成里面的内容，去网络搜集资料",
+      "createdAt": "2026-05-07T13:39:20.703Z",
+      "updatedAt": "2026-05-07T13:39:20.703Z"
+    },
+    {
       "sessionId": "24d228c6-204b-4cf8-9e7f-ece1e2c67afa",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",
@@ -265,7 +281,7 @@
     }
   ],
   "lastUsedModels": {
-    "gemini-cli": "gemini-3.1-pro-preview"
+    "gemini-cli": "auto-gemini-3"
   },
   "lastUsedModes": {
     "gemini-cli": "yolo"
