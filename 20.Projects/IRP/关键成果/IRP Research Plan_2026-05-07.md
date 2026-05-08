@@ -205,11 +205,3 @@ A set of **environment and feedback design principles** for dietary behaviour, a
 - Which environmental changes have low effort but real behavioural effect?
 - What forms of feedback feel supportive rather than judgmental or surveillance-like?
 
----
-
-## 7. Key Questions for Supervisor
-
-1. Is this research scope — A + M from Fogg's model, without addressing Trigger — appropriate for an IRP at this level?
-2. What ethical approval considerations apply to the kitchen walkthrough method?
-3. Participant recruitment: RCA network, or external? Any recommended channels?
-4. Output format: design principles document + concept sketches — does this meet GID IRP expectations?
