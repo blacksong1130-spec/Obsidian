@@ -11,8 +11,12 @@
     "id": "codex-acp",
     "displayName": "Codex",
     "apiKey": "",
-    "command": "codex-acp",
-    "args": [],
+    "command": "codex",
+    "args": [
+      "app-server",
+      "--cd",
+      "D:\\Obsidian\\Black Song"
+    ],
     "env": []
   },
   "gemini": {
@@ -55,6 +59,14 @@
     "fontSize": null
   },
   "savedSessions": [
+    {
+      "sessionId": "05db50bb-cdf1-460c-8e8f-f8117108a2aa",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "codex还是链接失败为什么",
+      "createdAt": "2026-05-14T16:35:36.592Z",
+      "updatedAt": "2026-05-14T16:35:36.592Z"
+    },
     {
       "sessionId": "a91d0296-77fc-4d31-94e3-a1124cb5858f",
       "agentId": "gemini-cli",

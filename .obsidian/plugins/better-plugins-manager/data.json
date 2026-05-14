@@ -318,6 +318,16 @@
       "enabled": true,
       "delay": "",
       "note": ""
+    },
+    {
+      "id": "codex-panel",
+      "name": "Codex Panel",
+      "desc": "Run Codex from a side panel.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
     }
   ],
   "HIDES": [],
@@ -442,32 +452,39 @@
       "order": 16
     },
     {
+      "id": "codex-panel:Open panel",
+      "name": "codex-panel:Open panel",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 17
+    },
+    {
       "id": "claudian:Open Claudian",
       "name": "claudian:Open Claudian",
       "icon": "help-circle",
       "visible": true,
-      "order": 17
+      "order": 18
     },
     {
       "id": "obsidian-git:Open Git source control",
       "name": "obsidian-git:Open Git source control",
       "icon": "help-circle",
       "visible": true,
-      "order": 18
+      "order": 19
     },
     {
       "id": "local-backup:Run local backup",
       "name": "local-backup:Run local backup",
       "icon": "help-circle",
       "visible": true,
-      "order": 19
+      "order": 20
     },
     {
       "id": "xiaohongshu-importer:Import Xiaohongshu note",
       "name": "xiaohongshu-importer:Import Xiaohongshu note",
       "icon": "help-circle",
       "visible": true,
-      "order": 20
+      "order": 21
     }
   ],
   "AUTO_TAKEOVER": true,
