@@ -56,6 +56,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "a91d0296-77fc-4d31-94e3-a1124cb5858f",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "帮我安装codex到obsidian里面，2.用女娲skill蒸馏一个福格的skill出来",
+      "createdAt": "2026-05-14T15:50:39.092Z",
+      "updatedAt": "2026-05-14T15:50:39.092Z"
+    },
+    {
       "sessionId": "0f975922-6c99-4518-9dfd-c8225191af0c",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",
