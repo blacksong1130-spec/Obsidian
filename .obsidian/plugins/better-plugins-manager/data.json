@@ -308,6 +308,16 @@
       "enabled": true,
       "delay": "",
       "note": ""
+    },
+    {
+      "id": "immersive-translate",
+      "name": "Immersive Translate",
+      "desc": "A free-to-use translatation service for foreign language markdown file.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
     }
   ],
   "HIDES": [],
