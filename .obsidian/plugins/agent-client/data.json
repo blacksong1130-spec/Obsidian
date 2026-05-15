@@ -60,6 +60,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "2a94ed46-b909-4eb7-8dd5-5f5efc278da9",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "@ethic 我这里面写了哪些活动",
+      "createdAt": "2026-05-15T08:52:35.050Z",
+      "updatedAt": "2026-05-15T08:52:35.050Z"
+    },
+    {
       "sessionId": "05db50bb-cdf1-460c-8e8f-f8117108a2aa",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",
