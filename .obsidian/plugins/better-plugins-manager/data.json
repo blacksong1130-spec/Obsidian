@@ -18,7 +18,8 @@
   "COMMAND_GROUP": true,
   "STARTUP_CHECK_UPDATES": true,
   "REPO_MAP": {
-    "advanced-canvas": "Developer-Mike/obsidian-advanced-canvas"
+    "advanced-canvas": "Developer-Mike/obsidian-advanced-canvas",
+    "agent-client": "rait-09/obsidian-agent-client"
   },
   "BPM_INSTALLED": [],
   "HIDE_BPM_TAG": false,
