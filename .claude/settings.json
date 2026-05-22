@@ -21,7 +21,8 @@
       "Edit(~/.claude/skills/fangyuan-perspective/**)",
       "Edit(~/.claude/skills/feynman-perspective/**)",
       "Edit(~/.claude/skills/calnewport-perspective/**)",
-      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\skills\\\\README.md)"
+      "Write(C:\\\\Users\\\\shywl\\\\.claude\\\\skills\\\\README.md)",
+      "Bash(mkdir -p /d/Obsidian/'Black Song'/.claude/skills/linye-perspective)"
     ],
     "defaultMode": "bypassPermissions"
   },
