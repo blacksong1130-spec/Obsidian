@@ -60,6 +60,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "506a31bb-dce2-4420-809e-4091d2c0f8be",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "我现在的文件夹很乱，你先用女娲去蒸馏一个世界上管理文件最厉害的专家，然后让他对于我的文件夹进行管理，...",
+      "createdAt": "2026-05-27T11:30:27.117Z",
+      "updatedAt": "2026-05-27T11:30:27.117Z"
+    },
+    {
       "sessionId": "2a94ed46-b909-4eb7-8dd5-5f5efc278da9",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",
