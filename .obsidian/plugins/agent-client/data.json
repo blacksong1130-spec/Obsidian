@@ -60,6 +60,22 @@
   },
   "savedSessions": [
     {
+      "sessionId": "d629afa6-c38d-4300-bf44-af2aa70e9ca8",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "D:\\Obsidian\\Black Song\\10.Projects\\IRP\\【05】2026-05...",
+      "createdAt": "2026-05-27T13:44:12.713Z",
+      "updatedAt": "2026-05-27T13:44:12.714Z"
+    },
+    {
+      "sessionId": "5adc4e84-c768-4d8f-b58d-08642c759aee",
+      "agentId": "gemini-cli",
+      "cwd": "D:\\Obsidian\\Black Song",
+      "title": "我的irp里面最新的完整的report是哪个",
+      "createdAt": "2026-05-27T13:40:29.151Z",
+      "updatedAt": "2026-05-27T13:40:29.151Z"
+    },
+    {
       "sessionId": "506a31bb-dce2-4420-809e-4091d2c0f8be",
       "agentId": "gemini-cli",
       "cwd": "D:\\Obsidian\\Black Song",
@@ -317,7 +333,7 @@
     }
   ],
   "lastUsedModels": {
-    "gemini-cli": "auto-gemini-3"
+    "gemini-cli": "gemini-3.1-pro-preview"
   },
   "lastUsedModes": {
     "gemini-cli": "yolo"
