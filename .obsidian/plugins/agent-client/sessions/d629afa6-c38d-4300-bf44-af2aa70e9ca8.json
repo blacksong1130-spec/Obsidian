@@ -41,7 +41,146 @@
         }
       ],
       "timestamp": "2026-05-27T13:43:36.363Z"
+    },
+    {
+      "id": "3367601b-5502-401f-bf87-8fc93319a9d8",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "给我找到我的一手调研计划中最新最完整的是哪个版本并且给我链接，以及可能有其他文件进行补充的"
+        }
+      ],
+      "timestamp": "2026-05-27T14:06:25.789Z"
+    },
+    {
+      "id": "64996b08-4646-40d5-bd7d-6e9e8d03a4ef",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "glob-1779890793472-4",
+          "title": "'**/*调研*.md'",
+          "status": "completed",
+          "kind": "search",
+          "content": [],
+          "locations": []
+        }
+      ],
+      "timestamp": "2026-05-27T14:06:33.475Z"
+    },
+    {
+      "id": "ef91ce1b-2a07-432f-9873-1572fe92a228",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "glob-1779890793631-5",
+          "title": "'**/*一手*.md'",
+          "status": "completed",
+          "kind": "search",
+          "content": [],
+          "locations": []
+        }
+      ],
+      "timestamp": "2026-05-27T14:06:33.644Z"
+    },
+    {
+      "id": "8ffce8c2-a845-4375-bb30-98c74ebcb72e",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "read_file-1779890844705-6",
+          "title": "10.Projects\\IRP\\...v3_2026-05-20.md",
+          "status": "completed",
+          "kind": "read",
+          "content": [],
+          "locations": [
+            {
+              "path": "D:\\Obsidian\\Black Song\\10.Projects\\IRP\\【03】2026-05-15-Feedback-Iteration\\2026-05-20-【重要】一手调研操作手册_v3_2026-05-20.md"
+            }
+          ]
+        }
+      ],
+      "timestamp": "2026-05-27T14:07:24.709Z"
+    },
+    {
+      "id": "15cece69-2f0a-44e6-97a5-01085863d8dd",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "read_file-1779890844717-7",
+          "title": "2026-05-22-户外调研最终方案_2026-05-22.md",
+          "status": "completed",
+          "kind": "read",
+          "content": [],
+          "locations": [
+            {
+              "path": "D:\\Obsidian\\Black Song\\10.Projects\\IRP\\【04】2026-05-27-Final-Realisation\\2026-05-22-户外调研最终方案_2026-05-22.md"
+            }
+          ]
+        }
+      ],
+      "timestamp": "2026-05-27T14:07:24.734Z"
+    },
+    {
+      "id": "fad56edb-65b2-4c11-bf74-22c7330299cb",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "glob-1779890870008-8",
+          "title": "'**/*一手调研计划*.md'",
+          "status": "completed",
+          "kind": "search",
+          "content": [],
+          "locations": []
+        }
+      ],
+      "timestamp": "2026-05-27T14:07:50.011Z"
+    },
+    {
+      "id": "97bfc3de-6a54-4abb-a677-3e3747d7ee2d",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "glob-1779890870103-9",
+          "title": "'**/*调研计划*.md'",
+          "status": "completed",
+          "kind": "search",
+          "content": [],
+          "locations": []
+        }
+      ],
+      "timestamp": "2026-05-27T14:07:50.114Z"
+    },
+    {
+      "id": "0d54f1ef-b2ee-4f4e-b235-c5a65e7b3a06",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "read_file-1779890938326-10",
+          "title": "2026-05-22-户外田野调研手册_2026-05-22.md",
+          "status": "completed",
+          "kind": "read",
+          "content": [],
+          "locations": [
+            {
+              "path": "D:\\Obsidian\\Black Song\\10.Projects\\IRP\\【04】2026-05-27-Final-Realisation\\2026-05-22-户外田野调研手册_2026-05-22.md"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "在你的 Obsidian 库中，“一手调研计划” 主要以“操作手册”和“方案”的形式命名。根据文件的更新时间和版本标识，最新且最完整的版本分为**综合理论框架**和**具体户外执行方案**两部分。\n\n以下是你最新、最核心的三个调研计划文件（你可以直接在 Obsidian 中点击以下双链或复制文件路径打开）：\n\n### 1. 核心理论与综合操作手册（最完整的全局指南）\n*   **文件链接：** [[2026-05-20-【重要】一手调研操作手册_v3_2026-05-20]]\n*   **文件路径：** `D:\\Obsidian\\Black Song\\10.Projects\\IRP\\【03】2026-05-15-Feedback-Iteration\\2026-05-20-【重要】一手调研操作手册_v3_2026-05-20.md`\n*   **说明：** 这是一个 `v3.0` 版本的重要综合协议，包含了“我想要测试什么？”以及“Fogg行为模型 (B=MAP) 审查”等底层理论支撑，是指导你设计整个一手调研逻辑的根基文件。\n\n### 2. 户外调研的具体执行手册（极其详尽的田野实操指南）\n*   **文件链接：** [[2026-05-22-户外田野调研手册_2026-05-22]]\n*   **文件路径：** `D:\\Obsidian\\Black Song\\10.Projects\\IRP\\【04】2026-05-27-Final-Realisation\\2026-05-22-户外田野调研手册_2026-05-22.md`\n*   **说明：** 这是一个长达 700 多行的重磅实操手册（融合了“林野视角输出”），专门针对你昨天（5月27日）的“徒步野餐”场景设定，强调“身体放松 → 词汇解放 → 感官开放”的田野调查技法，内容极为详实。\n\n### 3. 当天敲定的最终执行方案（核心排期与行动表）\n*   **文件链接：** [[2026-05-22-户外调研最终方案_2026-05-22]]\n*   **文件路径：** `D:\\Obsidian\\Black Song\\10.Projects\\IRP\\【04】2026-05-27-Final-Realisation\\2026-05-22-户外调研最终方案_2026-05-22.md`\n*   **说明：** 这是“今天执行”的终版 Action Plan，对具体的环节安排（如 Workshop）进行了最浓缩的确认，是在现场用来快速对齐进度的方案。\n\n---\n\n### 📚 其他补充与关联文件（建议结合参考）：\n\n**前期参考资料与工具论：**\n*   **调研方法论大纲：** [[IRP调研方法总表_NotebookLM整理_20260504]]\n*   **他山之石参考：** [[2026-05-14-一手调研案例链接库_2026-05-14]] \n*   **具体垂直领域的调研补充：** [[CGM与食物追踪_深度调研_20260522]]\n\n**调研结束后的成果沉淀（你昨天野餐结束后产生的文件）：**\n*   **Flomo 灵感反馈：** [[一手调研反馈-flomo]] \n*   **调研 AI 会议总结：** [[智能纪要：野餐一手调研 2026年5月27日]]\n\n如果你需要进一步汇总或回顾之前调研的细节，建议从 **[[2026-05-22-户外田野调研手册_2026-05-22]]** 这篇内容最丰满的手册切入复盘。"
+        }
+      ],
+      "timestamp": "2026-05-27T14:08:58.329Z"
     }
   ],
-  "savedAt": "2026-05-27T13:44:12.739Z"
+  "savedAt": "2026-05-27T14:09:14.838Z"
 }
