@@ -472,20 +472,6 @@
       "icon": "help-circle",
       "visible": true,
       "order": 19
-    },
-    {
-      "id": "local-backup:Run local backup",
-      "name": "local-backup:Run local backup",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 20
-    },
-    {
-      "id": "xiaohongshu-importer:Import Xiaohongshu note",
-      "name": "xiaohongshu-importer:Import Xiaohongshu note",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 21
     }
   ],
   "AUTO_TAKEOVER": true,
