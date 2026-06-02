@@ -296,7 +296,7 @@
       "desc": "本地自动备份",
       "group": "heavy",
       "tags": [],
-      "enabled": true,
+      "enabled": false,
       "delay": "delayed-45",
       "note": "备份工具，20s 后启动不影响使用"
     },
@@ -472,20 +472,6 @@
       "icon": "help-circle",
       "visible": true,
       "order": 19
-    },
-    {
-      "id": "local-backup:Run local backup",
-      "name": "local-backup:Run local backup",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 20
-    },
-    {
-      "id": "xiaohongshu-importer:Import Xiaohongshu note",
-      "name": "xiaohongshu-importer:Import Xiaohongshu note",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 21
     }
   ],
   "AUTO_TAKEOVER": true,
