@@ -14,4 +14,49 @@
 **F 4** 同意出图——一张**受众地图**:三维度 = 食者类型(享乐/非享乐…)× 年龄段 × 地区(伦敦),在图上**标出目标段 + 排除临床 ED**。放 §13,§11 引用。〔图你来画,我可帮你定维度〕
 
 
+冰山图——我的目的
 
+```mermaid
+graph LR
+
+subgraph L1["第一层：用户的日常表象"]
+    A["吃之前的雷达匹配"]
+    B["吃之后的路径重构"]
+    A --> B
+end
+
+subgraph L2["第二层：系统的生化引擎"]
+    C["控制胰岛素激增"]
+    D["防止脂肪浴缸外溢"]
+    B --> C
+    B --> D
+end
+
+subgraph L3["第三层：终极目的"]
+    E{"切断四大疾病的燃料源"}
+
+    C --> E
+    D --> E
+
+    F["预防心血管疾病"]
+    G["预防癌症"]
+    H["预防神经退化性疾病"]
+    I["预防第二型糖尿病"]
+
+    E --> F
+    E --> G
+    E --> H
+    E --> I
+end
+
+style A fill:#f9f,stroke:#333,stroke-width:2px
+style B fill:#f9f,stroke:#333,stroke-width:2px
+
+style F fill:#bbf,stroke:#333
+style G fill:#bbf,stroke:#333
+style H fill:#bbf,stroke:#333
+style I fill:#bbf,stroke:#333
+```
+
+
+![[Pasted image 20260603231658.png]] ![[Pasted image 20260603232008.png]]
