@@ -470,53 +470,46 @@
       "order": 17
     },
     {
-      "id": "claudian:Open Claudian",
-      "name": "claudian:Open Claudian",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 18
-    },
-    {
-      "id": "obsidian-git:Open Git source control",
-      "name": "obsidian-git:Open Git source control",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 19
-    },
-    {
-      "id": "local-backup:Run local backup",
-      "name": "local-backup:Run local backup",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 20
-    },
-    {
-      "id": "xiaohongshu-importer:Import Xiaohongshu note",
-      "name": "xiaohongshu-importer:Import Xiaohongshu note",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 21
-    },
-    {
       "id": "pdf-plus:PDF++: Toggle auto-copy",
       "name": "pdf-plus:PDF++: Toggle auto-copy",
       "icon": "help-circle",
       "visible": true,
-      "order": 22
+      "order": 18
     },
     {
       "id": "pdf-plus:PDF++: Toggle auto-focus",
       "name": "pdf-plus:PDF++: Toggle auto-focus",
       "icon": "help-circle",
       "visible": true,
-      "order": 23
+      "order": 19
     },
     {
       "id": "pdf-plus:PDF++: Toggle auto-paste",
       "name": "pdf-plus:PDF++: Toggle auto-paste",
       "icon": "help-circle",
       "visible": true,
-      "order": 24
+      "order": 20
+    },
+    {
+      "id": "claudian:Open Claudian",
+      "name": "claudian:Open Claudian",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 21
+    },
+    {
+      "id": "obsidian-git:Open Git source control",
+      "name": "obsidian-git:Open Git source control",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 22
+    },
+    {
+      "id": "xiaohongshu-importer:Import Xiaohongshu note",
+      "name": "xiaohongshu-importer:Import Xiaohongshu note",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 23
     }
   ],
   "AUTO_TAKEOVER": true,
