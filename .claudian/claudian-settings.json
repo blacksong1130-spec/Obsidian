@@ -1,9 +1,9 @@
 {
   "userName": "从心",
   "permissionMode": "yolo",
-  "model": "sonnet",
-  "thinkingBudget": "low",
-  "effortLevel": "high",
+  "model": "opus",
+  "thinkingBudget": "medium",
+  "effortLevel": "max",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -30,7 +30,7 @@
       "enableBangBash": false,
       "enableOpus1M": false,
       "enableSonnet1M": false,
-      "lastModel": "sonnet",
+      "lastModel": "opus",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -50,18 +50,18 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "sonnet",
+    "claude": "opus",
     "codex": "gpt-5.4"
   },
   "savedProviderEffort": {
-    "claude": "high",
+    "claude": "max",
     "codex": "medium"
   },
   "savedProviderServiceTier": {
     "codex": "default"
   },
   "savedProviderThinkingBudget": {
-    "claude": "low",
+    "claude": "medium",
     "codex": "low"
   },
   "lastCustomModel": "",
