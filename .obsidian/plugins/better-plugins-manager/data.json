@@ -503,13 +503,6 @@
       "icon": "help-circle",
       "visible": true,
       "order": 22
-    },
-    {
-      "id": "xiaohongshu-importer:Import Xiaohongshu note",
-      "name": "xiaohongshu-importer:Import Xiaohongshu note",
-      "icon": "help-circle",
-      "visible": true,
-      "order": 23
     }
   ],
   "AUTO_TAKEOVER": true,
