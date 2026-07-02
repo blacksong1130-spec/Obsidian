@@ -1,4 +1,4 @@
-﻿# Gemini Critic Feed
+# Gemini Critic Feed
 
 Gemini 的审稿意见会追加到这里。你可以把这个文件固定在编辑器侧边栏或旁边窗口里，当作“Gemini 面板”。
 
