@@ -1,4 +1,3 @@
-# FoodWitness: The Transparent Supermarket – Project Briefing for Supervisors
 
 ## 1. Project Overview
 
