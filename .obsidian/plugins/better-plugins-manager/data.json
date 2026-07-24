@@ -489,6 +489,20 @@
       "icon": "help-circle",
       "visible": true,
       "order": 20
+    },
+    {
+      "id": "obsidian-git:Open Git source control",
+      "name": "obsidian-git:Open Git source control",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 21
+    },
+    {
+      "id": "claudian:Open Claudian",
+      "name": "claudian:Open Claudian",
+      "icon": "help-circle",
+      "visible": true,
+      "order": 22
     }
   ],
   "AUTO_TAKEOVER": true,
